@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Upcoming workshops: 6 lessons from Squid Game"
+notification: ""
 sections:
   - hero:
       background: /images/PIXEL_Photo-Wall_FA.png
