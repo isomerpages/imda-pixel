@@ -15,19 +15,19 @@ sections:
         - title: Facilities
           description: Innovate in our creative space
           url: https://gmail.com
-        - title: EVENTS
-          description: Upskill with our free workshops
-          url: /privacy/
         - title: COMMUNITY
           description: Join our supportive network
           url: ""
+        - title: EVENTS
+          description: Upskill with our free workshops
+          url: /privacy/
   - infobar:
       title: We catalyse Infocomm and Media start-ups
       description: PIXEL is designed for digital tech, media and content creators to
         ideate, experiment and build customer-centric digital experiences.
   - infopic:
-      title: "Startup Incubator "
-      subtitle: get involved
+      title: "Incubator "
+      subtitle: get started
       description: Gain access to a unique mix of facilities, equipment and connection
         to our network of tech innovators, content creators and creatives
       button: Apply Now
@@ -44,7 +44,7 @@ sections:
       image: /images/green screen.jpg
       alt: Image alt text
   - infopic:
-      title: "Events "
+      title: Community
       subtitle: Get Inspired
       description: Get your hands dirty with our free monthly workshops on Design
         Thinking, Digital Storytelling and UI/UX
@@ -52,4 +52,8 @@ sections:
       url: /events
       image: /images/workshop.jpg
       alt: Image alt text
+  - resources:
+      title: Upcoming Events
+      subtitle: Get upgraded
+      button: view more
 ---
