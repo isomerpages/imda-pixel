@@ -10,20 +10,19 @@ sections:
       title: PIXEL
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Join PIxel
       url: /contact-us/
       key_highlights:
         - title: startup
           description: Incubate with us & our partners
           url: https://google.com
         - title: Facilities
-          description: Innovate in our creative space open to all
+          description: Innovate in our creative space
           url: https://gmail.com
         - title: EVENTS
           description: Upskill with our free workshops
           url: /privacy/
         - title: COMMUNITY
-          description: Network with partners, mentors & alumni
+          description: Join our supportive network
           url: ""
   - infobar:
       title: Infobar title
@@ -32,4 +31,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
