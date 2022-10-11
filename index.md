@@ -26,9 +26,11 @@ sections:
       description: PIXEL is designed for digital tech, media and content creators to
         ideate, experiment and build customer-centric digital experiences.
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: "Incubator "
+      subtitle: Build your company
+      description: Gain access to a unique mix of facilities, equipment and connection
+        to our network of tech innovators, content creators and creatives
+      button: Apply Now
       alt: Image alt text
+      url: /incubator
 ---
