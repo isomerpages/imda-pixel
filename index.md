@@ -52,6 +52,11 @@ sections:
       url: /events
       image: /images/workshop.jpg
       alt: Image alt text
+  - infobar:
+      title: Success Stories
+      description: cannot put picture leh
+      button: Read more
+      url: /success
   - resources:
       title: Upcoming Events
       subtitle: Get upgraded
