@@ -22,9 +22,13 @@ sections:
           description: Join our supportive network
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: We catalyse Infocomm and Media start-ups
+      description: PIXEL is designed for digital tech, media and content creators to
+        ideate, experiment and build customer-centric digital experiences.
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
