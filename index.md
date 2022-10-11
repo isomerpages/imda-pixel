@@ -7,10 +7,7 @@ permalink: /
 notification: "Upcoming workshops: 6 lessons from Squid Game"
 sections:
   - hero:
-      title: PIXEL
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      url: /contact-us/
+      background: /images/PIXEL_Photo-Wall_FA.png
       key_highlights:
         - title: startup
           description: Incubate with us & our partners
