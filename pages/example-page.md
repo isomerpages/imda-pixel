@@ -17,3 +17,4 @@ permalink: /example-page/
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 
+\[Learn more\](http://www.example.com)
