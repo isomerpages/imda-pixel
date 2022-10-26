@@ -21,8 +21,6 @@ sections:
         - title: 45+
           description: ALUMNI
           url: ""
-      title: PIXEL
-      subtitle: If opportunity doesn't knock, build a door. We are that door.
       button: Join us
       url: /test
   - infobar:
