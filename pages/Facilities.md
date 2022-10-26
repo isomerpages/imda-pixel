@@ -5,14 +5,29 @@ description: facilities working space
 ---
 <table>
 	<tr>
-		<th>test</th>
-		<th>test</th>
-		<th>test</th>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1J13ufD7KuQUJRkLizV3ThKxCr03wH4UP"></th>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1NTcdpUQ3wfF37fr7VXyl6S2chAFkAi10"></th>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1xBTO-ZgZT5gvfLVlwslAYqCNuVor6Tiu"></th>
 	</tr>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>
+			<b>Make-up Room</b>
+			<br>81.4 m²
+			<br>8 pax
+			<br>4 changing rooms
+		</td>
+		<td>
+			<b>Make-up Room</b>
+			<br>81.4 m²
+			<br>8 pax
+			<br>4 changing rooms
+		</td>
+		<td>
+			<b>Make-up Room</b>
+			<br>81.4 m²
+			<br>8 pax
+			<br>4 changing rooms
+		</td>
 	</tr>
 </table>
 
