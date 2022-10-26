@@ -40,9 +40,8 @@ Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 # Past Partners
 <table>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1SHyIyiJEooUllbNuWfMD2uc0j5CqTTWM"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1rLmIj2C9LOR_KV9gX0XFFs0m3rQlGMFU"></td>
 	</tr>
 </table>
-		
