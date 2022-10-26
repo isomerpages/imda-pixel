@@ -23,10 +23,11 @@ sections:
           url: ""
       button: Join us
       url: /test
-  - infobar:
-      title: We catalyse Infocomm and Media start-ups
-      description: PIXEL is designed for digital tech, media and content creators to
-        ideate, experiment and build customer-centric digital experiences.
+  - infopic:
+      title: HELLO
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: "Incubator "
       subtitle: get started
