@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Test/pixel main header.png
+      background: /images/Test/pixel main header1.png
       key_highlights:
         - title: "5"
           description: PARTNERS
@@ -21,7 +21,7 @@ sections:
         - title: 45+
           description: ALUMNI
           url: ""
-      button: Join us
+      button: OPEN THE DOOR
       url: /test
       subtitle: If opportunity doesn't knock, build a door. We are that door.
   - infopic:
