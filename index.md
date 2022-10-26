@@ -28,7 +28,7 @@ sections:
       title: HELLO
       description: We catalyse Infocomm startups
       button: Button Text
-      alt: Image alt text
+      alt: Hello
       image: /images/Test/hello.png
   - infopic:
       title: "Incubator "
