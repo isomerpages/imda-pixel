@@ -2,5 +2,5 @@ collections:
   incubator:
     output: true
     order:
-      - PIXELxPartners.md
       - PIXEL.md
+      - PIXELxPartners.md
