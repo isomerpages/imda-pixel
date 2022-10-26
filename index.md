@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PIXEL_Photo-Wall_FA.png
+      background: /images/Test/pixel main header.png
       key_highlights:
         - title: "5"
           description: PARTNERS
@@ -21,6 +21,10 @@ sections:
         - title: 45+
           description: ALUMNI
           url: ""
+      title: PIXEL
+      subtitle: If opportunity doesn't knock, build a door. We are that door.
+      button: Join us
+      url: /test
   - infobar:
       title: We catalyse Infocomm and Media start-ups
       description: PIXEL is designed for digital tech, media and content creators to
