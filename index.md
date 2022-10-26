@@ -59,7 +59,7 @@ sections:
         Thinking, Digital Storytelling and UI/UX
       button: Connect
       url: /events
-      image: /images/Test/incubator1.png
+      image: /images/Test/community.png
       alt: Image alt text
   - infobar:
       title: Success Stories
@@ -73,11 +73,11 @@ sections:
       title: Upcoming Events
       subtitle: Get savvy
       button: view more
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/Test/offerings.png
-      alt: Image alt text
+  - infobar:
+      title: Open Innovation Platform
+      subtitle: GET PROBLEM statements
+      description: Choose a challenge from a problem owner in a sector of interest,
+        prototype, solve it, and win prize monies!
+      button: Learn more
+      url: https://www.openinnovation.sg/imda
 ---
