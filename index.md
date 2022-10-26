@@ -26,7 +26,7 @@ sections:
       subtitle: If opportunity doesn't knock, build a door. We are that door.
       title: PIXEL
   - infopic:
-      title: Innovate with Us
+      title: Start-Up with Us
       description: "We catalyse start-ups related to AI, AR/VR, IoT and robotics. Our
         facilities enable communities to ideate, experiment and build
         customer-centric experiences. "
