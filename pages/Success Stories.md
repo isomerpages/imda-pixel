@@ -7,6 +7,10 @@ description: success stories testimonial
 
 Many startups are happy! Read more about them below:
 
+>We are deeply appreciative for the access to IMDA's innovation facilities and resources
+>- Allen Foo, VooX Singapore
+
+
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=17WwWR7LSKswzA8CZGjbeDh5381QJz7zd"></td>
