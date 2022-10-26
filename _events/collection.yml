@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Community Events.md
       - Workshops & Webinars.md
