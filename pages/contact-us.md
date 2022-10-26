@@ -25,17 +25,28 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6pm
         description: ""
+      - days: Sat - Sun
+        time: Closed
+        description: ""
+      - days: PH
+        time: Closed
+        description: ""
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: IMDA Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: ""
+      - email: pixel@imda.gov.sg
+      - other: ""
+    title: General Enquiries
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: ""
+      - other: Have questions? We have <i>answers</i>
+    title: FAQ
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <i>https://form.gov.sg/#!/5f6327d424978a001130835c</i>
+    title: Join our Mailing List
 ---
