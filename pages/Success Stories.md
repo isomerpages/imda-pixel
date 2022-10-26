@@ -3,7 +3,7 @@ title: Success Stories
 permalink: /successstories/
 description: success stories testimonial
 ---
-# Featured 
+# Featured Stories
 
 <table>
 	<tr>
