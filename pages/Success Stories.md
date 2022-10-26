@@ -3,7 +3,6 @@ title: Success Stories
 permalink: /successstories/
 description: success stories testimonial
 ---
-
 <img src="https://drive.google.com/uc?export=view&amp;id=1j2eZXTvbgSLnOAlbg8Bx8JPeMZ7zSsnz">
 
 Many startups are happy! Read more about them below:
