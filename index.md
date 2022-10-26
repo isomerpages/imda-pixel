@@ -21,9 +21,10 @@ sections:
         - title: 45+
           description: ALUMNI
           url: ""
-      button: OPEN THE DOOR
+      button: Come onboard
       url: /test
       subtitle: If opportunity doesn't knock, build a door. We are that door.
+      title: PIXEL
   - infopic:
       title: HELLO
       description: We catalyse Infocomm startups
