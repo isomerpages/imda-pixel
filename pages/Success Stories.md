@@ -34,6 +34,8 @@ Many startups are happy! Read more about them below:
 	</tr>
 </table>
 
+Read the rest [here](www.google.com). 
+
 ## Testimonials 
 >We are deeply appreciative for the access to IMDA's innovation facilities and resources
 >- Allen Foo, VooX Singapore
