@@ -45,7 +45,8 @@ sections:
       title: Facilities
       subtitle: Get access
       description: Let your creativity flow with our 28,000 sqft of innovation space
-        featuring thematic sets, production studios, discussion spaces and more
+        featuring thematic sets, production studios, discussion spaces and
+        more...
       button: Explore
       url: /facilities
       image: /images/green screen.jpg
@@ -66,6 +67,6 @@ sections:
       url: /success
   - resources:
       title: Upcoming Events
-      subtitle: Get upgraded
+      subtitle: Get savvy
       button: view more
 ---
