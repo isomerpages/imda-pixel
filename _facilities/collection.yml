@@ -2,6 +2,5 @@ collections:
   facilities:
     output: true
     order:
-      - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
