@@ -1,33 +1,33 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
   - title: Incubator
-    url: /permalink
+    url: /incubator
     sublinks:
       - title: PIXEL
-        url: /permalink
-      - title: PIXELxPartner
-        url: /permalink
+        url: /incubator/pixel
+      - title: PIXELxPartners
+        url: /incubator/pixelxpartners
   - title: Facilities
-    url: /permalink
+    url: /facilities
   - title: Events
-    url: /permalink
+    url: /events
     sublinks:
       - title: Workshops & Webinars
-        url: /permalink
+        url: /events/workshopsnwebinars
       - title: Community Events
-        url: /permalink
+        url: /events/communityevents
   - title: Community
-    url: /permalink
+    url: /community
     sublinks:
       - title: Partners
-        url: /permalink
+        url: /community/partners
       - title: Mentors
-        url: /permalink
+        url: /community/mentors
       - title: Current Incubatees
-        url: /permalink
+        url: /community/incubatees
       - title: Alumni
-        url: /permalink
+        url: /community/alumni
   - title: Success Stories
-    url: /permalink
+    url: /successstories
   - title: Contact Us
     url: /contact-us/
