@@ -7,7 +7,27 @@ links:
         url: /permalink
       - title: PIXELxPartner
         url: /permalink
-  - title: Example Folder
-    collection: example-folder
+  - title: Facilities
+    url: /permalink
+  - title: Events
+    url: /permalink
+    sublinks:
+      - title: Workshops & Webinars
+        url: /permalink
+      - title: Community Events
+        url: /permalink
+  - title: Community
+    url: /permalink
+    sublinks:
+      - title: Partners
+        url: /permalink
+      - title: Mentors
+        url: /permalink
+      - title: Current Incubatees
+        url: /permalink
+      - title: Alumni
+        url: /permalink
+  - title: Success Stories
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
