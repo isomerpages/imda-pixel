@@ -31,7 +31,7 @@ sections:
         facilities enable communities to ideate, experiment and build
         customer-centric experiences. "
       alt: Hello
-      image: /images/Test/hello1.png
+      image: /images/Test/focusareas.png
   - infopic:
       title: "Incubator "
       subtitle: get started
