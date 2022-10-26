@@ -34,9 +34,10 @@ sections:
       image: /images/Test/focusareas.png
   - infopic:
       title: "Incubator "
-      subtitle: get started
-      description: Gain access to a unique mix of facilities, equipment and connection
-        to our network of tech innovators, content creators and creatives
+      subtitle: get support
+      description: If you have ideas and want to turn it into a reality, PIXEL is the
+        place for you. Gain access to top-notch facilities and connect
+        with  like-minded people.
       button: Apply Now
       alt: Image alt text
       url: /incubator
