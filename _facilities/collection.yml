@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Facilities/.keep
-      - Facilities/Production Areas.md
+      - Facilities/Production Area.md
