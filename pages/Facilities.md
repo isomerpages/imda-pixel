@@ -3,7 +3,10 @@ title: Facilities
 permalink: /facilities/
 description: facilities working space
 ---
-# Production Areas
+# PIXEL's Innovation Space
+PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. Apply [here](https://go.gov.sg/preqform).
+
+## Production Areas
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></th>
@@ -13,9 +16,10 @@ description: facilities working space
 	<tr>
 		<td>
 			<b>Make-up Room</b>
-			<br>81.4 m²
-			<br>8 pax
-			<br>4 changing rooms
+			<br>
+			<ul>81.4 m²</ul>
+			<ul>8 pax</ul>
+			<ul>4 changing rooms</ul>
 		</td>
 		<td>
 			<b>Kitchen Studio</b>
@@ -77,7 +81,7 @@ description: facilities working space
 	</tr>
 </table>
 
-# Thematic Sets
+## Thematic Sets
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1OF0BzoBP9uPYTF5OUVfR3za6AsRU8PEq"></th>
