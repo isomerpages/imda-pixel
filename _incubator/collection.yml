@@ -1,4 +1,5 @@
 collections:
   incubator:
     output: true
-    order: []
+    order:
+      - PIXEL.md
