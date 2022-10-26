@@ -54,7 +54,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Community
-      subtitle: Get CONNECtions
+      subtitle: Get Network
       description: Get your hands dirty with our free monthly workshops on Design
         Thinking, Digital Storytelling and UI/UX
       button: Connect
