@@ -12,21 +12,33 @@ description: facilities working space
 	<tr>
 		<td>
 			<b>Make-up Room</b>
-			<br>81.4 m²
+			<br><br>81.4 m²
 			<br>8 pax
 			<br>4 changing rooms
 		</td>
 		<td>
-			<b>Make-up Room</b>
-			<br>81.4 m²
-			<br>8 pax
-			<br>4 changing rooms
+			<b>Kitchen Studio</b>
+			<br>71 m²
+			<br>24 pax
+			<br>Themes: Modern, Country, Peranakan
+			<br>- Samsung Digital Inverter Refrigerator
+			<br>- Bosch Compact oven with microwave and steam jet function
+			<br>- Electrolux Induction cooker
+			<br>- Electrolux microwave oven
+			<br>   - 8 x M. Richardson 150W Baby LED Tungsten, 6” Fresnel – Manual Operated
+			<br>- 8 x T.G.L. 100W Light Panel 3200K- Manual Operated
 		</td>
 		<td>
-			<b>Make-up Room</b>
-			<br>81.4 m²
-			<br>8 pax
-			<br>4 changing rooms
+			<b>Video Production Studio</b>
+			<br>69.7 m² and 76.2 m²
+			<br>20 pax
+			<br>- NewTek Tricaster 460
+			<br>- Sony PXW-FS5K
+			<br>- Sony PXW-Z150
+			<br>- Allen and Heath XB 14-2 
+			<br>- 6 x M. Richardson 150W BabyLED Tungsten 6” Fresnel- Manual Operated
+			<br>- 12 x T.G.L. 100W Light Panel 3200K-Manual Operated
+			<br>- 6 x M. Richardson 200W JuniorLED Tungsten 8” Fresnel- Manual Operated
 		</td>
 	</tr>
 </table>
