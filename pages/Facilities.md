@@ -3,6 +3,8 @@ title: Facilities
 permalink: /facilities/
 description: facilities working space
 ---
+# Production Areas
+
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1J13ufD7KuQUJRkLizV3ThKxCr03wH4UP"></th>
@@ -12,7 +14,7 @@ description: facilities working space
 	<tr>
 		<td>
 			<b>Make-up Room</b>
-			<br><br>81.4 m²
+			<br><ul> 81.4 m²</ul>
 			<br>8 pax
 			<br>4 changing rooms
 		</td>
@@ -42,6 +44,8 @@ description: facilities working space
 		</td>
 	</tr>
 </table>
+
+
 
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b">
