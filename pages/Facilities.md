@@ -4,7 +4,6 @@ permalink: /facilities/
 description: facilities working space
 ---
 # Production Areas
-
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1J13ufD7KuQUJRkLizV3ThKxCr03wH4UP"></th>
@@ -14,7 +13,7 @@ description: facilities working space
 	<tr>
 		<td>
 			<b>Make-up Room</b>
-			<br><ul> 81.4 m²</ul>
+			<br><br>81.4 m²
 			<br>8 pax
 			<br>4 changing rooms
 		</td>
@@ -46,6 +45,37 @@ description: facilities working space
 </table>
 
 
+<table>
+	<tr>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1J13ufD7KuQUJRkLizV3ThKxCr03wH4UP"></th>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1VTuJvTbiThS3T07kaeuJWw4R1M1JIhdp"></th>
+		<th><img src="https://drive.google.com/uc?export=view&amp;id=1-N2fpVWU5o16bPO768r5N19t4qi1JGXl"></th>
+	</tr>
+	<tr>
+		<td>
+			<b>Audio Recording Studio</b>
+			<br>20.9 m²
+			<br>5 pax
+			<br>- Neumann U89i condenser mic
+			<br>- Beyer Dynamic TG I53 instrument mic
+			<br>- AKG K271 MKII closed back headphone
+		</td>
+		<td>
+			<b>Audio Editing Suite</b>
+			<br>14.9 m²
+			<br>4 pax
+			<br>- Pro Tools HD
+			<br>- Adobe Creative Cloud
+		</td>
+		<td>
+			<b>Video Editing Suite</b>
+			<br>8.4 m² and 10.7 m²
+			<br>2 and 3 pax
+			<br>- Adobe Creative Cloud
+			<br>- Final Cut Pro
+		</td>
+	</tr>
+</table>
 
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b">
