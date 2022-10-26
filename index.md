@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Test/pixel main header1.png
+      background: /images/Test/pixel main header.png
       key_highlights:
         - title: "5"
           description: PARTNERS
@@ -26,11 +26,12 @@ sections:
       subtitle: If opportunity doesn't knock, build a door. We are that door.
       title: PIXEL
   - infopic:
-      title: HELLO
-      description: We catalyse Infocomm startups
-      button: Button Text
+      title: Incubate & Innovate with Us
+      description: "We catalyse start-ups related to AI, AR/VR, IoT and robotics. Our
+        facilities enable communities to ideate, experiment and build
+        customer-centric experiences. "
       alt: Hello
-      image: /images/Test/hello.png
+      image: /images/Test/hello1.png
   - infopic:
       title: "Incubator "
       subtitle: get started
