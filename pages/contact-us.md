@@ -15,6 +15,9 @@ locations:
       - days: Sat - Sun
         time: Closed
         description: ""
+      - days: PH
+        time: Closed
+        description: ""
     maps_link: ""
     title: PIXEL Office
   - address:
