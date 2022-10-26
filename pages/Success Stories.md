@@ -32,7 +32,7 @@ description: success stories testimonial
 
 Read the rest [here](www.google.com). 
 
-# Reviews 
+# Testimonials 
 >We are deeply appreciative for the access to IMDA's innovation facilities and resources
 >- Allen Foo, VooX Singapore
 
