@@ -1,7 +1,0 @@
-collections:
-  facilities:
-    output: true
-    order:
-      - Facilities/Thematic Sets.md
-      - Facilities/.keep
-      - Facilities/Production Area.md
