@@ -1,0 +1,4 @@
+collections:
+  incubator:
+    output: true
+    order: []
