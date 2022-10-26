@@ -23,6 +23,7 @@ sections:
           url: ""
       button: Join us
       url: /test
+      subtitle: If opportunity doesn't knock, build a door. We are that door.
   - infopic:
       title: HELLO
       description: We catalyse Infocomm startups
