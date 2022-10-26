@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Facilities/.keep
-      - Facilities/subfolder-page.md
+      - Facilities/Production Areas.md
