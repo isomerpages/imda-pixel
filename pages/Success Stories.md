@@ -3,9 +3,7 @@ title: Success Stories
 permalink: /successstories/
 description: success stories testimonial
 ---
-<img src="https://drive.google.com/uc?export=view&amp;id=1j2eZXTvbgSLnOAlbg8Bx8JPeMZ7zSsnz">
-
-## Featured 
+# Featured 
 
 <table>
 	<tr>
@@ -34,7 +32,7 @@ description: success stories testimonial
 
 Read the rest [here](www.google.com). 
 
-## Testimonials 
+# Reviews 
 >We are deeply appreciative for the access to IMDA's innovation facilities and resources
 >- Allen Foo, VooX Singapore
 
