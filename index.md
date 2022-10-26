@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/PIXEL_Photo-Wall_FA.png
       key_highlights:
-        - title: startup
-          description: Incubate with us & our partners
-          url: https://google.com
-        - title: Facilities
-          description: Innovate in our creative space
-          url: https://gmail.com
-        - title: COMMUNITY
-          description: Join our supportive network
+        - title: "5"
+          description: PARTNERS
           url: ""
-        - title: EVENTS
-          description: Upskill with our free workshops
-          url: /privacy/
+        - title: "14"
+          description: MENTORS
+          url: ""
+        - title: 25+
+          description: INCUBATEES
+          url: ""
+        - title: 45+
+          description: ALUMNI
+          url: ""
   - infobar:
       title: We catalyse Infocomm and Media start-ups
       description: PIXEL is designed for digital tech, media and content creators to
