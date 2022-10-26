@@ -1,8 +1,13 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Incubator
+    url: /permalink
+    sublinks:
+      - title: PIXEL
+        url: /permalink
+      - title: PIXELxPartner
+        url: /permalink
   - title: Example Folder
     collection: example-folder
+  - title: Contact Us
+    url: /contact-us/
