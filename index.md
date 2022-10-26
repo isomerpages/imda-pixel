@@ -56,7 +56,7 @@ sections:
       description: Get your hands dirty with our free monthly workshops on Design
         Thinking, Digital Storytelling and UI/UX
       button: Connect
-      url: /events
+      url: /community
       image: /images/Test/community.png
       alt: Image alt text
   - infobar:
@@ -65,7 +65,7 @@ sections:
         meet valuable partners and strengthen our overall solution design.\"  -
         Allen Foo, Voox Singapore"
       button: Read more
-      url: /success
+      url: /successstories
       subtitle: GET INSPIRED
   - resources:
       title: Upcoming Events
