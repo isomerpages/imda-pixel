@@ -2,5 +2,5 @@ collections:
   facilities:
     output: true
     order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Facilities/.keep
+      - Facilities/subfolder-page.md
