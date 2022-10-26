@@ -5,7 +5,7 @@ description: facilities working space
 ---
 # Production Areas
 <table>
-	<tr>
+	<tr style="border: 1px solid black; border-radius: 10px;">
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></th>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1NTcdpUQ3wfF37fr7VXyl6S2chAFkAi10"></th>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1xBTO-ZgZT5gvfLVlwslAYqCNuVor6Tiu"></th>
