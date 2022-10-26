@@ -25,9 +25,10 @@ sections:
       url: /test
   - infopic:
       title: HELLO
-      description: Infopic description
+      description: We catalyse Infocomm startups
       button: Button Text
       alt: Image alt text
+      image: /images/Test/hello.png
   - infopic:
       title: "Incubator "
       subtitle: get started
