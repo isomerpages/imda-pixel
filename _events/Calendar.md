@@ -159,6 +159,6 @@ description: calendar
 <ul><b>[16]</b> Wonderful Wednesdays</ul>
 <b style="color: #20B6AA; "> Workshops & Webinars</b>
 <ul><b>[13] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
-<ul><b>[19] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
-<ul><b>[20] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
-<ul><b>[21] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
+<ul><b>[19] AR VR</b>: Evolution of Digital Wellness With ARVR and 5G</ul>
+<ul><b>[20] Design Thinking</b>: Circular Venture Design</ul>
+<ul><b>[21] UI UX</b>: Framing UX Through a Service Design Lens for Success</ul>
