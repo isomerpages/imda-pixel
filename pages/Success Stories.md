@@ -3,7 +3,7 @@ title: Success Stories
 permalink: /successstories/
 description: success stories testimonial
 ---
-# Featured Stories
+<h1>Featured Stories</h1>
 
 <table>
 	<tr>
@@ -32,9 +32,11 @@ description: success stories testimonial
 
 Read the rest [here](www.google.com). 
 
-# Testimonials 
->We are deeply appreciative for the access to IMDA's innovation facilities and resources
->- Allen Foo, VooX Singapore
+<h1>Testimonials</h1>
+<blockquote>
+We are deeply appreciative for the access to IMDA's innovation facilities and resources
+- Allen Foo, VooX Singapore
+</blockquote>
 
 > The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
 >- Allen Foo, VooX Singapore
