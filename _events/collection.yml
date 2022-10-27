@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Past Recordings/UIUX.md
-      - Past Recordings/.keep
+      - Workshops & Webinars/UIUX.md
+      - Workshops & Webinars/.keep
       - Calendar.md
       - Community Events.md
