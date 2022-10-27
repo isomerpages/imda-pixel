@@ -14,6 +14,7 @@ description: success stories testimonial
 			<br> Voox Singapore
 		</td>
 	</tr>
+	<tr>
 			<td><img src="https://drive.google.com/uc?export=view&amp;id=1MDmyR6LUZud53NZx2xGpc2VAT-zsYovj"></td>
 		<td>AR/VR, Robotics
 			<br><b><a href="https://www.w3schools.com" target="_blank">Revving Up Singapore’s Transportation Sector with Innovation</a></b>
@@ -21,6 +22,7 @@ description: success stories testimonial
 			<br> MediVR
 		</td>
 	</tr>
+	<tr>
 			<td><img src="https://drive.google.com/uc?export=view&amp;id=1bOI9OTMBt7MupKXhZ8Q6NduaQODRTMc1"></td>
 		<td>
 			<br><b><a href="https://www.w3schools.com" target="_blank">Advancing the Green Agenda with IoT</a></b>
