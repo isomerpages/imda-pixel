@@ -5,7 +5,7 @@ description: calendar
 ---
 <h2>November 2022</h2>
 <br>
-  
+
 <table bgcolor="whitesmoke" align="center">
 		<thead>
 				<tr>
@@ -163,4 +163,3 @@ description: calendar
 				</tr>
 		</tbody>
 </table>
-
