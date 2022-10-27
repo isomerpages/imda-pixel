@@ -13,8 +13,6 @@ description: success stories testimonial
 			<br><br>Allen Foo
 			<br> Voox Singapore
 		</td>
-	</tr>
-	<tr>
 			<td><img src="https://drive.google.com/uc?export=view&amp;id=1MDmyR6LUZud53NZx2xGpc2VAT-zsYovj"></td>
 		<td>AR/VR, Robotics
 			<br><b><a href="https://www.w3schools.com" target="_blank">Revving Up Singapore’s Transportation Sector with Innovation</a></b>
@@ -29,6 +27,8 @@ description: success stories testimonial
 			<br><br>Justin Lee
 			<br> Thingyverse <i>(IoT)</i>
 		</td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 
