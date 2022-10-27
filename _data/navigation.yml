@@ -10,7 +10,7 @@ links:
   - title: Facilities
     url: /facilities
   - title: Events
-    url: /events/workshopsnwebinars
+    url: /events/calendar
     sublinks:
       - title: Workshops & Webinars
         url: /events/workshopsnwebinars
