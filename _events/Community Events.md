@@ -6,5 +6,13 @@ description: networking, big events, programmes
 <h1>Fun @ PIXEL</h1>
 
 <h2>Wonderful Wednesdays</h2>
+<img src="https://drive.google.com/uc?export=view&amp;id=1D2a4LKaFZpViZ874RPcmT_rnzuKy_ylZ">
 
-<h2>Wonderful Wednesdays</h2>
+Recurring every 3rd Wednesday of the month,.....
+
+<h2>Festivals</h2>
+<b>Yearly Lohei</b>
+<img src="https://drive.google.com/uc?export=view&amp;id=1Y3oLVc8r6kSizJrkuDoAAKc3LGUaRFLw">
+
+<b>Christmas Celebration</b>
+<img src="https://drive.google.com/uc?export=view&amp;id=1Y3oLVc8r6kSizJrkuDoAAKc3LGUaRFLw">
