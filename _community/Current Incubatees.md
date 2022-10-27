@@ -11,6 +11,8 @@ description: current incubatees startups
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1NnJiH-U8Aomr-lsDR6IdpCundydrI8zJ"></td>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1dz1IbKeNtREejdRJ4gkQDuWe2CUPGOlI"></td>
 	</tr>
+</table>
+<table>
 		<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1hDn7XpW4Vw41c-2kWrWVKcHfxOxfENhd"></td>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1mmU-SSSL0-FN0BF-lQQvAauy8_jBs9Y2"></td>
@@ -18,63 +20,41 @@ description: current incubatees startups
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1SKlJwTuQfb6Soq-nHUcSVJUfTXpLCJgx"></td>
 	</tr>
 </table>
+<table>
+	<tr>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1sVQ-I7isMm6f3NYlsNuBprLisdLd0u3r"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+	</tr>
+</table>
 
 <h3>AR / VR</h3>
 <table>
 	<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1xyieubdgd0ouywXUg93ECBD56Rho4feC"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1tkhBdwwNYYJHMWMhl-JKN6rot_2vfXWE"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1UguKbfRM5iGjUJAgL563hOOQB1cGtcYf"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1SnPgOE_3hVV24VzySJhBKyrvQolf6dW5"></td>
 	</tr>
+</table>
+<table>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-		<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></td>
-	</tr>
-		<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1sVQ-I7isMm6f3NYlsNuBprLisdLd0u3r"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
 	</tr>
 </table>
 
 <h3>IoT</h3>
 <table>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1sVQ-I7isMm6f3NYlsNuBprLisdLd0u3r"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
 	</tr>
 </table>
 
 <h3>Robotics</h3>
-<table>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-	</tr>
-</table>
