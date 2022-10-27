@@ -155,3 +155,10 @@ description: calendar
 		</tbody>
 </table>
 
+<b style="color: #D46055; "> Community Events</b>
+<ul><b>[16]</b> Wonderful Wednesdays</ul>
+<b style="color: #20B6AA; "> Workshops & Webinars</b>
+<ul><b>[13] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
+<ul><b>[19] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
+<ul><b>[20] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
+<ul><b>[21] Digital Storytelling</b>: 6 Lessons From Squid Game & How to Apply Them to Data Projects</ul>
