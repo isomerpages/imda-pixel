@@ -1,5 +1,0 @@
-collections:
-  past-recordings:
-    output: true
-    order:
-      - UI UX.md
