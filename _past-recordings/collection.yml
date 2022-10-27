@@ -1,0 +1,4 @@
+collections:
+  past-recordings:
+    output: true
+    order: []
