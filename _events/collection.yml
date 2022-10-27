@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Past Recordings/.keep
       - Calendar.md
       - Workshops & Webinars.md
       - Community Events.md
