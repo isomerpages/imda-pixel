@@ -25,8 +25,8 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 	</tr>
 </table>
 
-<h2>Specialists</h2>
-We provide experts on the following topics:
+<h1>Specialists</h1>
+We also provide experts on the following topics:
 
 <b>Design Thinking</b>
 <table>
