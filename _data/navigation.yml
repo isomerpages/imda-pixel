@@ -17,7 +17,7 @@ links:
       - title: Community Events
         url: /events/communityevents
   - title: Community
-    url: /community
+    url: /community/main
     sublinks:
       - title: Partners
         url: /community/partners
