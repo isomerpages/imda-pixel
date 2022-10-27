@@ -57,4 +57,12 @@ description: current incubatees startups
 	</tr>
 </table>
 
-<h3>Robotics</h3>
+<h3>Others</h3>
+<table>
+	<tr>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1Q9Fg8v5oIF2mNE9hesWuB7NMjzd_5lEU"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+	</tr>
+</table>
