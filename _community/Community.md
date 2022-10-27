@@ -16,27 +16,26 @@ Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant comm
 			<b>Partners</b>
 			<br>We partner with established tech firms and accelerators to host a range of programmes.
 		</td>
-		<blockquote></blockquote>
 	</tr>
 		<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1Ed8LYmqdB8HfiACMKBt9kENTFUimqd3W"></td>
 		<td>
 			<b>Mentors</b>
-			Jo
+			<br>We facilitate the matching of mentors and mentees to guide startups.
 		</td>
 	</tr>
 		<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1-Ztfsn0qzxTdlIOTXfMMNoLY0_aG0Dlm"></td>
 		<td>
 			<b>Current Incubatees</b>
-			Jo
+			<br>This is potentially you! 
 		</td>
 	</tr>
 		<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1dG3_WVtGSFeVsuE_uCxg7PiLAFW2xD1y"></td>
 		<td>
 			<b>Alumni</b>
-			Jo
+			<br>Our graduates.
 		</td>
 	</tr>
 </table>
