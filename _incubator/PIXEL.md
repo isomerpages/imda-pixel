@@ -3,12 +3,12 @@ title: PIXEL
 permalink: /incubator/pixel/
 description: pixel startup incubator
 ---
-# PIXEL Incubator Program
+<h1>PIXEL Incubator Program</h1>
 <img src="https://drive.google.com/uc?export=view&amp;id=1QzMSI8IblGjMdZWynQUaVzwlrtIkDclG">
 
 PIXEL provides start-ups and corporates with facilities, expertise, and programmes to ideate, experiment, and build customer-centric digital experiences for the future. Look forward to a suite of benefits!
 
-### Facilities
+<h3>Facilities</h3>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
@@ -16,7 +16,7 @@ PIXEL provides start-ups and corporates with facilities, expertise, and programm
 	</tr>
 </table>
 
-### Community
+<h3>Community</h3>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
@@ -24,7 +24,7 @@ PIXEL provides start-ups and corporates with facilities, expertise, and programm
 	</tr>
 </table>
 
-### Expertise
+<h3>Expertise</h3>
 Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking. 
 
 <table>
