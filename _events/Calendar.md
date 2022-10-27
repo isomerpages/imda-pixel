@@ -56,7 +56,7 @@ description: calendar
 				<tr>
 						<td>17</td>
 						<td>18</td>
-						<td>19<br> Wonderful Wed</td>
+					<td>19<p style="font-size:10px; margin-bottom:0">Wonderful Wed</p></td>
 						<td>20</td>
 						<td>21</td>
 						<td>22</td>
@@ -89,19 +89,19 @@ description: calendar
 <table bgcolor="whitesmoke" align="center">
 		<thead>
 				<tr>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Mon</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Tue</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Wed</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Thu</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Fri</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Sat</th>
-						<th style="color: white; background: #0033FF;">
+						<th style="color: white; background: #000000;">
 								Sun</th>
 				</tr>
 		</thead>
@@ -123,16 +123,16 @@ description: calendar
 						<td>10</td>
 						<td>11</td>
 						<td>12</td>
-						<td>13</td>
+						<td style="color: white; background: #20B6AA">13</td>
 				</tr>
 				<tr>
 						<td>14</td>
 						<td>15</td>
-						<td>16</td>
+						<td style="color: white; background: #D46055;">16</td>
 						<td>17</td>
 						<td>18</td>
-						<td>19</td>
-						<td>20</td>
+						<td style="color: white; background: #20B6AA">19</td>
+						<td style="color: white; background: #20B6AA">20</td>
 				</tr>
 				<tr>
 						<td>21</td>
@@ -141,7 +141,7 @@ description: calendar
 						<td>24</td>
 						<td>25</td>
 						<td>26</td>
-						<td>27</td>
+						<td style="color: white; background: #20B6AA">27</td>
 				</tr>
 				<tr>
 						<td>28</td>
