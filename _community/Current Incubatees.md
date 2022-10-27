@@ -3,7 +3,10 @@ title: Current Incubatees
 permalink: /community/incubatees/
 description: current incubatees startups
 ---
-<h3>AI</h3>
+<h2>Featured</h2>
+
+
+<h2>AI</h2>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1PBlBwvN8DNVgywtdP5-ltZrgYS51tzJg"></td>
@@ -29,7 +32,7 @@ description: current incubatees startups
 	</tr>
 </table>
 
-<h3>AR / VR</h3>
+<h2>AR / VR</h2>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1xyieubdgd0ouywXUg93ECBD56Rho4feC"></td>
@@ -47,7 +50,7 @@ description: current incubatees startups
 	</tr>
 </table>
 
-<h3>IoT</h3>
+<h2>IoT</h2>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1sVQ-I7isMm6f3NYlsNuBprLisdLd0u3r"></td>
@@ -57,7 +60,7 @@ description: current incubatees startups
 	</tr>
 </table>
 
-<h3>Others</h3>
+<h2>Others</h2>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1Q9Fg8v5oIF2mNE9hesWuB7NMjzd_5lEU"></td>
