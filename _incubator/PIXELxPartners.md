@@ -3,7 +3,7 @@ title: PIXELxPartners
 permalink: /incubator/pixelxpartners/
 description: pixel and partners startup incubator
 ---
-# PIXEL x Huawei
+<h1>PIXEL x Huawei</h1>
 <img src="https://drive.google.com/uc?export=view&amp;id=1Buqi_xH3lkGUNRnx7eQv11i0J4bhH8A2">
 
 Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage startups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
@@ -37,7 +37,7 @@ Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 
 <h4><a href="https://form.gov.sg/#!/6347a3c39854900012674f4d" target="_blank">Apply by 4 Sep 2022</a></h4>
 
-# Past Partners
+<h1>Past Partners</h1>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1SHyIyiJEooUllbNuWfMD2uc0j5CqTTWM"></td>
