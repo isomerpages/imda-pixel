@@ -1,7 +1,7 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
   - title: Incubator
-    url: /incubator
+    url: /incubator/pixel
     sublinks:
       - title: PIXEL
         url: /incubator/pixel
@@ -10,7 +10,7 @@ links:
   - title: Facilities
     url: /facilities
   - title: Events
-    url: /events
+    url: /events/workshopsnwebinars
     sublinks:
       - title: Workshops & Webinars
         url: /events/workshopsnwebinars
