@@ -16,34 +16,12 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 	<tr>
 		<td>
 			<b>Make-up Room</b>
-			<br>
-			<ul>81.4 m²</ul>
-			<ul>8 pax</ul>
-			<ul>4 changing rooms</ul>
 		</td>
 		<td>
 			<b>Kitchen Studio</b>
-			<br>71 m²
-			<br>24 pax
-			<br>Themes: Modern, Country, Peranakan
-			<br>- Samsung Digital Inverter Refrigerator
-			<br>- Bosch Compact oven with microwave and steam jet function
-			<br>- Electrolux Induction cooker
-			<br>- Electrolux microwave oven
-			<br>   - 8 x M. Richardson 150W Baby LED Tungsten, 6” Fresnel – Manual Operated
-			<br>- 8 x T.G.L. 100W Light Panel 3200K- Manual Operated
 		</td>
 		<td>
 			<b>Video Production Studio</b>
-			<br>69.7 m² and 76.2 m²
-			<br>20 pax
-			<br>- NewTek Tricaster 460
-			<br>- Sony PXW-FS5K
-			<br>- Sony PXW-Z150
-			<br>- Allen and Heath XB 14-2 
-			<br>- 6 x M. Richardson 150W BabyLED Tungsten 6” Fresnel- Manual Operated
-			<br>- 12 x T.G.L. 100W Light Panel 3200K-Manual Operated
-			<br>- 6 x M. Richardson 200W JuniorLED Tungsten 8” Fresnel- Manual Operated
 		</td>
 	</tr>
 </table>
@@ -58,25 +36,12 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 	<tr>
 		<td>
 			<b>Audio Recording Studio</b>
-			<br>20.9 m²
-			<br>5 pax
-			<br>- Neumann U89i condenser mic
-			<br>- Beyer Dynamic TG I53 instrument mic
-			<br>- AKG K271 MKII closed back headphone
 		</td>
 		<td>
 			<b>Audio Editing Suite</b>
-			<br>14.9 m²
-			<br>4 pax
-			<br>- Pro Tools HD
-			<br>- Adobe Creative Cloud
 		</td>
 		<td>
 			<b>Video Editing Suite</b>
-			<br>8.4 m² and 10.7 m²
-			<br>2 and 3 pax
-			<br>- Adobe Creative Cloud
-			<br>- Final Cut Pro
 		</td>
 	</tr>
 </table>
@@ -91,23 +56,12 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 	<tr>
 		<td>
 			<b>The Black Room</b>
-			<br>8.4 m²
-			<br>4 pax
-			<br>LG LCD TV & Remote Control
-Model No. LG55LX540S
 		</td>
 		<td>
 			<b>The 70’s Diner</b>
-			<br>14 m²
-			<br>6 pax
-			<br>LG LCD TV & Remote Control
-Model No. LG55LX540S
 		</td>
 		<td>
 			<b>The Train Carriage</b>
-			<br>8.4 m²
-			<br>4 pax
-			<br>Mobile 55” TV Screen & Writable Blackboard
 		</td>
 	</tr>
 </table>
