@@ -26,7 +26,6 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 	</tr>
 </table>
 
-
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1J13ufD7KuQUJRkLizV3ThKxCr03wH4UP"></th>
