@@ -24,18 +24,24 @@ sections:
       description: "Whether you are a corporate with a problem statement or a startup
         looking to incubate, we've got you covered. "
   - infopic:
-      title: "Incubator "
-      subtitle: get support
-      description: If you have ideas and want to turn it into a reality, PIXEL is the
-        place for you. Gain access to top-notch facilities and connect
-        with  like-minded people.
-      button: Apply
+      title: Open Innovation Platform
+      subtitle: corporates & Startups
+      description: "Choose a challenge from a problem owner in a sector of interest,
+        prototype, solve it, and win prize monies! "
+      button: Discover
       alt: Image alt text
-      url: /incubator
+      url: https://www.openinnovation.sg/imda
       image: /images/Test/incubator1.png
   - infopic:
+      title: Incubator
+      subtitle: startups
+      description: PIXEL is here for you
+      button: apply
+      url: /programs/startups/incubator
+      alt: Image alt text
+  - infopic:
       title: Facilities
-      subtitle: Get access
+      subtitle: public
       description: Let your creativity flow with our 28,000 sqft of innovation space
         featuring thematic sets, production studios, discussion spaces and
         more...
@@ -52,6 +58,10 @@ sections:
       url: /community
       image: /images/Test/community.png
       alt: Image alt text
+  - resources:
+      title: Upcoming Events
+      subtitle: Get savvy
+      button: view more
   - infobar:
       title: Success Stories
       description: "\"PIXEL's innovation capabilities & co-working space led us to
@@ -60,15 +70,4 @@ sections:
       button: Read more
       url: /successstories
       subtitle: GET INSPIRED
-  - resources:
-      title: Upcoming Events
-      subtitle: Get savvy
-      button: view more
-  - infobar:
-      title: Open Innovation Platform
-      subtitle: GET PROBLEM statements
-      description: Choose a challenge from a problem owner in a sector of interest,
-        prototype, solve it, and win prize monies!
-      button: Learn more
-      url: https://www.openinnovation.sg/imda
 ---
