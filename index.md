@@ -9,27 +9,20 @@ sections:
   - hero:
       background: /images/Test/pixel main header.png
       key_highlights:
-        - title: "5"
-          description: PARTNERS
-          url: ""
-        - title: "14"
-          description: MENTORS
-          url: ""
-        - title: 25+
-          description: INCUBATEES
-          url: ""
-        - title: 45+
-          description: ALUMNI
-          url: ""
+        - title: Corporates
+          description: Problem Owners
+          url: /programs/corporates
+        - title: Startups
+          description: Problem Solvers
+          url: /programs/startups
       button: Come onboard
       url: /test
       subtitle: If opportunity doesn't knock, build a door. We are that door.
       title: PIXEL
   - infobar:
-      title: Start-Up with Us
-      description: "We catalyse start-ups related to AI, AR/VR, IoT and robotics. Our
-        facilities enable communities to ideate, experiment and build
-        customer-centric experiences. "
+      title: Innovate with Us
+      description: "Whether you are a corporate with a problem statement or a startup
+        looking to incubate, we've got you covered. "
   - infopic:
       title: "Incubator "
       subtitle: get support
