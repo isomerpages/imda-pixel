@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Calendar.md
-      - Workshops & Webinars/.keep
-      - Workshops & Webinars/UIUX.md
