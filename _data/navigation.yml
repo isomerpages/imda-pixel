@@ -1,24 +1,21 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
   - title: PROGRAMS
-    url: /incubator/pixel
+    url: /programs
     sublinks:
-      - title: Incubator
-        url: /incubator/pixel
-      - title: PIXELxPartners
-        url: /incubator/pixelxpartners
+      - title: Corporates
+        url: /corporates
+      - title: Startups
+        url: /startups
+  - title: WORKSHOPS
+    resource_room: true
   - title: Facilities
     url: /facilities
-  - title: Events
-    url: /events/calendar
-    sublinks:
-      - title: Workshops & Webinars
-        url: /events/workshopsnwebinars
-      - title: Community Events
-        url: /events/communityevents
   - title: Community
     url: /community/main
     sublinks:
+      - title: Networking Events
+        url: /networking
       - title: Partners
         url: /community/partners
       - title: Mentors
@@ -31,5 +28,3 @@ links:
     url: /successstories
   - title: Contact Us
     url: /contact-us/
-  - title: oh wow
-    resource_room: true
