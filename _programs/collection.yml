@@ -1,5 +1,5 @@
 collections:
-  incubator:
+  programs:
     output: true
     order:
       - PIXEL.md
