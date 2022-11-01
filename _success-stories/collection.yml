@@ -1,4 +1,5 @@
 collections:
   success-stories:
     output: true
-    order: []
+    order:
+      - Success Stories.md
