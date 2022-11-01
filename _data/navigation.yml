@@ -30,9 +30,9 @@ links:
       - title: Success Stories
         url: /successstories
       - title: Media Coverage
-        url: /successstories/mediacoverage
+        url: /success-stories/mediacoverage/
       - title: Testimonials
-        url: /successstories/testimonials
+        url: /success-stories/testimonials
   - title: Contact Us
     url: /contactus
     sublinks:
