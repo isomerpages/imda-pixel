@@ -18,7 +18,7 @@ sections:
         - title: FOR ALL
           description: Key Highlight description
           url: ""
-      button: Come onboard
+      button: JOIN OUR MAILING LIST
       url: /test
       subtitle: If opportunity doesn't knock, build a door. We are that door.
       title: PIXEL
