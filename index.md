@@ -25,7 +25,6 @@ sections:
         looking to incubate, we've got you covered. "
   - infopic:
       title: Open Innovation Platform
-      subtitle: corporates & Startups
       description: "Choose a challenge from a problem owner in a sector of interest,
         prototype, solve it, and win prize monies! "
       button: Discover
@@ -34,14 +33,12 @@ sections:
       image: /images/Test/incubator1.png
   - infopic:
       title: Incubator
-      subtitle: startups
       description: PIXEL is here for you
       button: apply
       url: /programs/startups/incubator
       alt: Image alt text
   - infopic:
       title: Facilities
-      subtitle: public
       description: Let your creativity flow with our 28,000 sqft of innovation space
         featuring thematic sets, production studios, discussion spaces and
         more...
@@ -51,7 +48,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Community
-      subtitle: Get Network
       description: Get your hands dirty with our free monthly workshops on Design
         Thinking, Digital Storytelling and UI/UX
       button: Connect
@@ -60,14 +56,12 @@ sections:
       alt: Image alt text
   - resources:
       title: Upcoming Events
-      subtitle: Get savvy
       button: view more
   - infobar:
-      title: Success Stories
+      title: Testimonials
       description: "\"PIXEL's innovation capabilities & co-working space led us to
         meet valuable partners and strengthen our overall solution design.\"  -
         Allen Foo, Voox Singapore"
       button: Read more
       url: /successstories
-      subtitle: GET INSPIRED
 ---
