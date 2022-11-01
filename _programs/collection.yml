@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Startups/.keep
-      - Startups/PIXEL.md
+      - Startups/PIXEL Incubator.md
       - Startups/PIXELxPartners.md
       - Corporates/Open Innovation Program.md
       - Corporates/.keep
