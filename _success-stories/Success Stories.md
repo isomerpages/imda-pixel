@@ -32,4 +32,4 @@ description: success stories testimonial
 	</tr>
 </table>
 
-Read the rest [here](www.google.com). 
+Read the rest [here](www.google.com).
