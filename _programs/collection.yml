@@ -2,8 +2,8 @@ collections:
   programs:
     output: true
     order:
-      - Startups/PIXELxPartners.md
-      - Startups/PIXEL.md
       - Startups/.keep
+      - Startups/PIXEL.md
+      - Startups/PIXELxPartners.md
       - Corporates/Open Innovation Program.md
       - Corporates/.keep
