@@ -4,7 +4,10 @@ permalink: /successstories/
 description: success stories testimonial
 ---
 <h1>Featured Stories</h1>
+<img src="https://drive.google.com/uc?export=view&amp;id=17WwWR7LSKswzA8CZGjbeDh5381QJz7zd">
 
+**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+<h2>More Stories</h2>
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=17WwWR7LSKswzA8CZGjbeDh5381QJz7zd"></td>
