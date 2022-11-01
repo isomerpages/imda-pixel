@@ -2,5 +2,6 @@ collections:
   programs:
     output: true
     order:
+      - Corporates/.keep
       - PIXEL.md
       - PIXELxPartners.md
