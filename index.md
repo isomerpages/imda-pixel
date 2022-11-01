@@ -59,6 +59,7 @@ sections:
   - resources:
       title: Upcoming Events
       button: view more
+      subtitle: ALL
   - infobar:
       title: Testimonials
       description: "\"PIXEL's innovation capabilities & co-working space led us to
