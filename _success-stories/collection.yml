@@ -2,4 +2,5 @@ collections:
   success-stories:
     output: true
     order:
+      - Media Coverage.md
       - Success Stories.md
