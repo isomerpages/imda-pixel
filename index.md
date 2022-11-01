@@ -31,12 +31,14 @@ sections:
       alt: Image alt text
       url: https://www.openinnovation.sg/imda
       image: /images/Test/incubator1.png
+      subtitle: CORPORATES & STARTUPS
   - infopic:
       title: Incubator
       description: PIXEL is here for you
       button: apply
       url: /programs/startups/incubator
       alt: Image alt text
+      subtitle: STARTUPS
   - infopic:
       title: Facilities
       description: Let your creativity flow with our 28,000 sqft of innovation space
