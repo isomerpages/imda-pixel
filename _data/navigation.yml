@@ -4,9 +4,9 @@ links:
     url: /programs
     sublinks:
       - title: Corporates
-        url: /corporates
+        url: /programs/corporates/oip/
       - title: Startups
-        url: /startups
+        url: /programs/startups/pixel/
   - title: WORKSHOPS
     resource_room: true
   - title: Facilities
