@@ -4,5 +4,4 @@ collections:
     order:
       - Startups/.keep
       - Corporates/.keep
-      - PIXEL.md
       - PIXELxPartners.md
