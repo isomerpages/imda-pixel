@@ -34,8 +34,6 @@ links:
       - title: Testimonials
         url: /successstories/testimonials
   - title: Contact Us
-    url: /contactus/
-  - title: Contact Us
     url: /contactus
     sublinks:
       - title: Contact Us
