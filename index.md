@@ -10,7 +10,7 @@ sections:
       background: /images/Test/pixel main header.png
       key_highlights:
         - title: FOR Corporates
-          description: Problem Owners
+          description: Problem Owners Problem OwnersProblem OwnersProblem Owners
           url: /programs/corporates
         - title: FOR Startups
           description: Problem Solvers
