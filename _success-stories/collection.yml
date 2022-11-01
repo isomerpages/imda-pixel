@@ -1,0 +1,4 @@
+collections:
+  success-stories:
+    output: true
+    order: []
