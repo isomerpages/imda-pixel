@@ -9,12 +9,15 @@ sections:
   - hero:
       background: /images/Test/pixel main header.png
       key_highlights:
-        - title: Corporates
+        - title: FOR Corporates
           description: Problem Owners
           url: /programs/corporates
-        - title: Startups
+        - title: FOR Startups
           description: Problem Solvers
           url: /programs/startups
+        - title: FOR ALL
+          description: Key Highlight description
+          url: ""
       button: Come onboard
       url: /test
       subtitle: If opportunity doesn't knock, build a door. We are that door.
@@ -23,15 +26,6 @@ sections:
       title: Innovate with Us
       description: "Whether you are a corporate with a problem statement or a startup
         looking to incubate, we've got you covered. "
-  - infopic:
-      title: Open Innovation Platform
-      description: "Choose a challenge from a problem owner in a sector of interest,
-        prototype, solve it, and win prize monies! "
-      button: Discover
-      alt: Image alt text
-      url: https://www.openinnovation.sg/imda
-      image: /images/Test/incubator1.png
-      subtitle: CORPORATES & STARTUPS
   - infopic:
       title: Incubator
       description: PIXEL is here for you
@@ -60,6 +54,15 @@ sections:
       title: Upcoming Events
       button: view more
       subtitle: ALL
+  - infopic:
+      title: Open Innovation Platform
+      description: "Choose a challenge from a problem owner in a sector of interest,
+        prototype, solve it, and win prize monies! "
+      button: Discover
+      alt: Image alt text
+      url: https://www.openinnovation.sg/imda
+      image: /images/Test/incubator1.png
+      subtitle: CORPORATES & STARTUPS
   - infobar:
       title: Testimonials
       description: "\"PIXEL's innovation capabilities & co-working space led us to
