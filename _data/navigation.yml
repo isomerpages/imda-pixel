@@ -1,12 +1,12 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
-  - title: PROGRAMS
-    url: /startups/pixel/
+  - title: PROGRAMMES
+    url: /programmes
     sublinks:
       - title: Corporates
-        url: /corporates/oip/
+        url: /corporates
       - title: Startups
-        url: /startups/pixel/
+        url: /startups
   - title: WORKSHOPS
     resource_room: true
   - title: Facilities
