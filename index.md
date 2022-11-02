@@ -42,6 +42,7 @@ sections:
       url: /programs/startups/incubator
       alt: Image alt text
       subtitle: STARTUPS
+      image: /images/Test/Incubation.png
   - infopic:
       title: Community
       description: Get your hands dirty with our free monthly workshops on Design
