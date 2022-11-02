@@ -20,10 +20,8 @@ links:
         url: /community/partners
       - title: Mentors
         url: /community/mentors
-      - title: Current Incubatees
+      - title: Incubatees
         url: /community/incubatees
-      - title: Alumni
-        url: /community/alumni
   - title: Success Stories
     url: /successstories
     sublinks:
