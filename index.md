@@ -19,7 +19,7 @@ sections:
           description: Key Highlight description
           url: ""
       button: JOIN OUR MAILING LIST
-      url: /test
+      url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: If opportunity doesn't knock, build a door. We are that door.
       title: PIXEL
   - infobar:
