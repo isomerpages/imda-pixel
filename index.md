@@ -65,7 +65,7 @@ sections:
       button: Discover
       alt: Image alt text
       url: https://www.openinnovation.sg/imda
-      image: /images/Test/incubator1.png
+      image: /images/Test/Incubation.png
       subtitle: CORPORATES & STARTUPS
   - infobar:
       title: Testimonials
