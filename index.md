@@ -57,8 +57,9 @@ sections:
       subtitle: ALL
   - infopic:
       title: Open Innovation Platform
-      description: "Choose a challenge from a problem owner in a sector of interest,
-        prototype, solve it, and win prize monies! "
+      description: "Whether you’re a business looking for innovative solutions for
+        your business pain points or a tech start-up seeking innovation
+        opportunities, we got you! "
       button: Discover
       alt: Image alt text
       url: https://www.openinnovation.sg/imda
