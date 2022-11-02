@@ -37,8 +37,9 @@ sections:
       image: /images/Test/facilities.png
       alt: Image alt text
   - infopic:
-      title: Incubator
-      description: PIXEL is here for you
+      title: "Incubation "
+      description: Be a part of the innovation. Gain access to resources, knowledge
+        and people that can help you solve problems and create opportunities.
       button: apply
       url: /programs/startups/incubator
       alt: Image alt text
