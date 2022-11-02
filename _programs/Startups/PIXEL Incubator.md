@@ -4,9 +4,7 @@ permalink: /startups/pixel/
 description: pixel startup incubator
 third_nav_title: Startups
 ---
-
-
-<h1>PIXEL Incubator Program</h1>
+<h1>PIXEL Incubation Program</h1>
 <img src="https://drive.google.com/uc?export=view&amp;id=1QzMSI8IblGjMdZWynQUaVzwlrtIkDclG">
 
 PIXEL provides start-ups and corporates with facilities, expertise, and programmes to ideate, experiment, and build customer-centric digital experiences for the future. Look forward to a suite of benefits!
