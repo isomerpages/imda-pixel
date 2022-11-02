@@ -24,8 +24,9 @@ sections:
       title: PIXEL
   - infobar:
       title: Innovate with Us
-      description: "Whether you are a corporate with a problem statement or a startup
-        looking to incubate, we've got you covered. "
+      description: "Discover new opportunities - Whether you are a corporate looking
+        to innovate or a startup looking for business opportunities, we've got
+        you covered. "
   - infopic:
       title: Facilities
       description: Let your creativity flow with our 28,000 sqft of innovation space
