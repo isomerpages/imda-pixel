@@ -27,13 +27,6 @@ sections:
       description: "Whether you are a corporate with a problem statement or a startup
         looking to incubate, we've got you covered. "
   - infopic:
-      title: Incubator
-      description: PIXEL is here for you
-      button: apply
-      url: /programs/startups/incubator
-      alt: Image alt text
-      subtitle: STARTUPS
-  - infopic:
       title: Facilities
       description: Let your creativity flow with our 28,000 sqft of innovation space
         featuring thematic sets, production studios, discussion spaces and
@@ -42,6 +35,13 @@ sections:
       url: /facilities
       image: /images/Test/facilities.png
       alt: Image alt text
+  - infopic:
+      title: Incubator
+      description: PIXEL is here for you
+      button: apply
+      url: /programs/startups/incubator
+      alt: Image alt text
+      subtitle: STARTUPS
   - infopic:
       title: Community
       description: Get your hands dirty with our free monthly workshops on Design
