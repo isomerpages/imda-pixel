@@ -12,11 +12,11 @@ sections:
         - title: FOR Corporates
           description: Start your innovation journey
           url: /programs/corporates
-        - title: FOR Startups
-          description: Problem Solvers
+        - title: For Startups
+          description: Connect with the community
           url: /programs/startups
         - title: FOR ALL
-          description: Key Highlight description
+          description: We have something for everyone
           url: ""
       button: JOIN OUR MAILING LIST
       url: https://form.gov.sg/62ac4193b8365500125bd367
