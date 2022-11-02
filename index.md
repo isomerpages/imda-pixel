@@ -35,7 +35,7 @@ sections:
       button: Explore
       url: /facilities
       image: /images/Test/facilities.png
-      alt: Image alt text
+      alt: Facilities image
   - infopic:
       title: "Incubation "
       description: Be a part of the innovation. Gain access to resources, knowledge
