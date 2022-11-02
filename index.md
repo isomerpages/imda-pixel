@@ -41,7 +41,7 @@ sections:
       description: Be a part of the innovation. Gain access to resources, knowledge
         and people that can help you solve problems and create opportunities.
       button: apply
-      url: /programs/startups/incubator
+      url: /startups/pixel/incubation/
       alt: Image alt text
       subtitle: STARTUPS
       image: /images/Test/incubator_set_2.jpg
