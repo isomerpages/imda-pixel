@@ -2,6 +2,7 @@ collections:
   programs:
     output: true
     order:
+      - Corporates/Events.md
       - Corporates/.keep
       - Corporates/Open Innovation Program (Problem Owner).md
       - Startups/.keep
