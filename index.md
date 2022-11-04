@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: FOR Corporates
           description: Start your innovation journey
-          url: /programs/corporates
+          url: /programmes/corporates
         - title: For Startups
           description: Connect with the community
-          url: /programs/startups
+          url: /programmes/startups
         - title: FOR ALL
           description: We have something for everyone
           url: ""
