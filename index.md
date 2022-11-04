@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: IMDA PIXEL Innovation Hub
+description: IMDA’s innovation hub for Corporates and Startups with co-working
+  facilities, programmes and networks
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -75,3 +76,4 @@ sections:
       button: Read more
       url: /successstories
 ---
+
