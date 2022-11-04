@@ -1,5 +1,5 @@
-title: Title
-url: https://www.imda.gov.sg
+title: IMDA PIXEL Innovation Hub
+url: https://pixel.imda.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#084db2"
@@ -15,7 +15,8 @@ colors:
       color: "#000000"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: IMDA’s innovation hub for Corporates and Startups with co-working
+  facilities, programmes and networks
 permalink: none
 baseurl: ""
 exclude:
