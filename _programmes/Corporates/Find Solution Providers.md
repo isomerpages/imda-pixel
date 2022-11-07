@@ -27,6 +27,3 @@ We have captured our know-how within the [Discovery Engine](https://www.openinno
 
 
 > [Find Out More](https://www.openinnovation.sg/find-solution)
-
-
-
