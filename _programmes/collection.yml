@@ -1,5 +1,5 @@
 collections:
-  programs:
+  programmes:
     output: true
     order:
       - Corporates/Events.md
