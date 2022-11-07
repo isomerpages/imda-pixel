@@ -9,11 +9,6 @@ links:
         url: /startups
       - title: Corporates
         url: /programmes/corporates
-  - title: Programmes
-    url: /programmes
-    sublinks:
-      - title: Corporates
-        url: /programmes/corporates
   - title: WORKSHOPS
     resource_room: true
   - title: Facilities
