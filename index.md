@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: FOR Corporates
           description: Start your innovation journey
-          url: /programmes/Corporates/
+          url: /programmes/corporates/
         - title: For Startups
           description: Connect with the community
           url: /programmes/startups
@@ -76,4 +76,3 @@ sections:
       button: Read more
       url: /successstories
 ---
-
