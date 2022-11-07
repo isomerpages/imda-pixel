@@ -1,14 +1,5 @@
 logo: /images/pixel_logo_high_res-whitebackground.png
 links:
-  - title: PROGRAMMES
-    url: /programmes
-    sublinks:
-      - title: Corporates
-        url: /corporates
-      - title: Startups
-        url: /startups
-      - title: Corporates
-        url: /programmes/corporates
   - title: Programmes
     collection: programmes
   - title: WORKSHOPS
