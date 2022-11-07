@@ -3,7 +3,7 @@ links:
   - title: PROGRAMMES
     url: /programmes
     sublinks:
-      - title: Corporates
+      - title: corporates
         url: /corporates
       - title: Startups
         url: /startups
