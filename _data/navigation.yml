@@ -9,6 +9,8 @@ links:
         url: /startups
       - title: Corporates
         url: /programmes/corporates
+  - title: Programmes
+    collection: programmes
   - title: WORKSHOPS
     resource_room: true
   - title: Facilities
@@ -42,5 +44,3 @@ links:
         url: /faq
       - title: eBrochure
         url: /e-brochure
-  - title: Programmes
-    collection: programmes
