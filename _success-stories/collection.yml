@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Success Stories.md
-      - Media Coverage.md
       - Testimonials.md
