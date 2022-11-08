@@ -3,7 +3,6 @@ title: Incubatees
 permalink: /community/incubatees/
 description: current incubatees startups
 ---
-
 <h2>Featured</h2>
 
 
@@ -58,6 +57,16 @@ description: current incubatees startups
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=1a9yromDQK1wycDGBzDtLFsrEJRwFc0nL"></td>
+	</tr>
+</table>
+
+<h2>Gaming</h2>
+<table>
+	<tr>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1-8fNb5DRpfpn2y7IgJdgeMqsGyJUFYJD"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=12W_a2GJx3c_KQmhuyu6PNlUaiyMwa5P2"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=1oK2D-VD7SaK0wudZmbNtBD7YLetW5v07"></td>
+		<td><img src="https://drive.google.com/uc?export=view&amp;id=182eikUpfd1o8RfFs54-3HR_R_2U5kkEA"></td>
 	</tr>
 </table>
 
