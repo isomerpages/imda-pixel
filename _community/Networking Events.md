@@ -3,10 +3,6 @@ title: Networking Events
 permalink: /community/networkingevents/
 description: networking, big events, programmes
 ---
-
-
-<h1>Fun @ PIXEL</h1>
-
 <h2>Wonderful Wednesdays</h2>
 <img src="https://drive.google.com/uc?export=view&amp;id=1D2a4LKaFZpViZ874RPcmT_rnzuKy_ylZ">
 
