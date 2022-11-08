@@ -2,5 +2,4 @@ collections:
   facilities:
     output: true
     order:
-      - Facilities/Overview.md
       - Facilities/.keep
