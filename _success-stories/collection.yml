@@ -2,6 +2,6 @@ collections:
   success-stories:
     output: true
     order:
-      - Press Release.md
       - Success Stories.md
       - Testimonials.md
+      - Press Release.md
