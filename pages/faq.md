@@ -2,11 +2,33 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. How can I use the resources at PIXEL?
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Check out our detailed Facilities Factsheet [here](https://go.gov.sg/pixel-facitility-factsheet) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform).
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+2. Is the space available for rent of lease?
+
+As PIXEL is not a commercial media service provider, our facilities are not for hire. However, PIXEL does support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at pixel@imda.gov.sg with a project proposal to request for usage.
+
+3. How do I become an incubatee in PIXEL?
+
+Singapore-registered start-ups involved in tech or digital media content development may apply for a Project Suite in PIXEL. Applicants will be assessed based on the following:
+
+*   Company background
+*   Business model
+*   Team members
+*   Feasibility of project
+*   Project potential
+*   Potential to contribute to the Tech or Media Community. (e.g. mentorship, proprietary technology)
+
+Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/#!/6347a3c39854900012674f4d)).
+
+4. Does my company have to be registered in Singapore to be eligible for incubation?
+
+Yes, your company needs to be a Singapore-registered business under the Accounting and Corporate Regulatory Authority’s (ACRA) registry.
+
+5. Is Wi-Fi provided in PIXEL?
+
+Yes! PIXEL uses Wireless@SG and users with Wireless@SG account have access to free Wi-Fi services.
