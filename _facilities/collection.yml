@@ -2,6 +2,7 @@ collections:
   facilities:
     output: true
     order:
+      - Testing Labs.md
       - Thematic Sets.md
       - Production Areas.md
       - Facilities.md
