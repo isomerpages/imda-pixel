@@ -4,6 +4,6 @@ collections:
     order:
       - Networking Events.md
       - Community/.keep
-      - Community/Incubatees.md
-      - Community/Mentors.md
       - Community/Partners.md
+      - Community/Mentors.md
+      - Community/Incubatees.md
