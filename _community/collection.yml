@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Community/Incubatees.md
       - Community/Mentors.md
       - Community/Partners.md
       - Community/.keep
