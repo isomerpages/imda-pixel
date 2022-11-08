@@ -11,9 +11,7 @@ We believe that the most successful businesses are built by people who understan
 * Digital Storytelling 
 * UI UX 
 
-<button style="background-color: #0A66C2; border-radius: 100px; color: #ffffff; padding-left: 20px; padding-right: 20px;">Check out the latest schedule here</button>
-
-<a href="https://www.google.com" style="background-color: #0A66C2; border-radius: 100px; color: #ffffff; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Check out the latest schedule here</a>
+<a href="https://staging.d3nusvu8peabav.amplifyapp.com/monthly-workshops/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Check out the latest schedule here</a>
 		
 #### 2. One-to-One complimentary consultation sessions with our Expert Panel Consultants 
 * Get up to 2-days of consutlation session 
