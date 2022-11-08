@@ -35,3 +35,5 @@ links:
         url: /faq
       - title: eBrochure
         url: /e-brochure
+  - title: Facilities
+    collection: facilities
