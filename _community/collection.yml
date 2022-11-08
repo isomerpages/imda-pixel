@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Community/Partners.md
       - Community/.keep
       - Networking Events.md
       - Community.md
