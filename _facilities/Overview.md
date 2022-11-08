@@ -3,16 +3,13 @@ title: Overview
 permalink: /facilities/
 description: facilities working space
 ---
-
-
-
-
-
-
 <h1>PIXEL's Innovation Space</h1>
 PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. Apply [here](https://go.gov.sg/preqform).
 
-<h2>Production Areas</h2>
+<h2>Production Studios</h2>
+Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
+<br><br>
+
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1kqG5yMwFdIOyzmidSQytfnncoGK7Mt5b"></th>
@@ -51,7 +48,10 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 	</tr>
 </table>
 
-<h2>Thematic Sets</h2>
+<h2>Specialised Labs</h2>
+Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
+<br><br>
+
 <table>
 	<tr>
 		<th><img src="https://drive.google.com/uc?export=view&amp;id=1OF0BzoBP9uPYTF5OUVfR3za6AsRU8PEq"></th>
@@ -70,3 +70,10 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 		</td>
 	</tr>
 </table>
+
+<h2>Event Spaces</h2>
+Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
+<br><br>
+<h2>Co-Working Spaces</h2>
+Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
+<br><br>
