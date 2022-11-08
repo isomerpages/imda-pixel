@@ -37,3 +37,5 @@ links:
         url: /e-brochure
   - title: Facilities
     collection: facilities
+  - title: Menu Title
+    collection: community
