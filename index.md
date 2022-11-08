@@ -28,36 +28,8 @@ sections:
       description: "Discover new opportunities - Whether you are a corporate looking
         to innovate or a startup looking for business opportunities, we've got
         you covered. "
-  - infopic:
-      title: Facilities
-      description: Let your creativity flow with our 28,000 sqft of innovation space
-        featuring thematic sets, production studios, discussion spaces and
-        more...
-      button: Explore
-      url: /facilities
-      image: /images/Test/facilities.png
-      alt: Facilities image
-  - infopic:
-      title: "Incubation "
-      description: Be a part of the innovation. Gain access to resources, knowledge
-        and people that can help you solve problems and create opportunities.
-      button: apply
-      url: /startups/pixel/incubation/
-      alt: Image alt text
-      subtitle: STARTUPS
-      image: /images/Test/incubator_set_2.jpg
-  - infopic:
-      title: Community
-      description: Get your hands dirty with our free monthly workshops on Design
-        Thinking, Digital Storytelling and UI/UX
-      button: Connect
-      url: /community
-      image: /images/Test/community.png
-      alt: Image alt text
-  - resources:
-      title: Upcoming Events
-      button: view more
-      subtitle: ALL
+      button: an insider's look
+      url: https://youtu.be/UzjZYTQgm7M
   - infopic:
       title: Open Innovation Platform
       description: "Whether you’re a business looking for innovative solutions for
@@ -68,6 +40,37 @@ sections:
       url: https://www.openinnovation.sg/imda
       image: /images/Test/Incubation.png
       subtitle: CORPORATES & STARTUPS
+  - infopic:
+      title: "Incubation "
+      description: Be a part of the innovation. Gain access to resources, knowledge
+        and people that can help you solve problems and create opportunities.
+      button: apply
+      url: /startups/pixel/incubation/
+      alt: Image alt text
+      subtitle: STARTUPS
+      image: /images/Test/incubator_set_2.jpg
+  - infopic:
+      title: Facilities
+      description: Let your creativity flow with our 28,000 sqft of innovation space
+        featuring thematic sets, production studios, discussion spaces and
+        more...
+      button: Explore
+      url: /facilities
+      image: /images/Test/facilities.png
+      alt: Facilities image
+      subtitle: everyone
+  - infopic:
+      title: Community
+      description: Get your hands dirty with our free monthly workshops on Design
+        Thinking, Digital Storytelling and UI/UX
+      button: Connect
+      url: /community
+      image: /images/Test/community.png
+      alt: Image alt text
+      subtitle: everyone
+  - resources:
+      title: Upcoming Events
+      button: view more
   - infobar:
       title: Testimonials
       description: "\"PIXEL's innovation capabilities & co-working space led us to
