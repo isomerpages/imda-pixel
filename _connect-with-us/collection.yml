@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - faq.md
+      - FAQ.md
