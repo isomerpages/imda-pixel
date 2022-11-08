@@ -44,13 +44,6 @@ Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 	</tr>
 </table>
 
-<h4><a href="https://form.gov.sg/#!/6347a3c39854900012674f4d" target="_blank">Apply</a> by 4 Sep 2022</h4>
+<a href="https://form.gov.sg/#!/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply by 4 Sep 2022</a>
 
-<h1>Past Partners</h1>
-<table>
-	<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1SHyIyiJEooUllbNuWfMD2uc0j5CqTTWM"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN"></td>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1rLmIj2C9LOR_KV9gX0XFFs0m3rQlGMFU"></td>
-	</tr>
-</table>
+<h1>PIXEL x AWS</h1>
