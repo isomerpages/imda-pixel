@@ -30,8 +30,8 @@ links:
     url: /contactus
     sublinks:
       - title: Contact Us
-        url: /contactus
+        url: /connect/contactus/
       - title: FAQ
-        url: /faq
+        url: /connect/faq/
       - title: eBrochure
-        url: /e-brochure
+        url: /connect/ebrochure
