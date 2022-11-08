@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: FOR Corporates
           description: Start your innovation journey
-          url: /programmes/corporates/
+          url: /programmes/corporates/find-solution-providers/
         - title: For Startups
           description: Connect with the community
-          url: /programmes/startups
+          url: /startups/incubation-and-tech-showcase/
         - title: FOR ALL
           description: We have something for everyone
-          url: ""
+          url: /monthly-workshops
       button: JOIN OUR MAILING LIST
       url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: If opportunity doesn't knock, build a door. We are that door.
