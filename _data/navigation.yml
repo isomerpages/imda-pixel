@@ -10,7 +10,7 @@ links:
     url: /community/main
     sublinks:
       - title: Networking Events
-        url: /networking
+        url: /community/networkingevents/
       - title: Partners
         url: /community/partners
       - title: Mentors
@@ -35,7 +35,3 @@ links:
         url: /faq
       - title: eBrochure
         url: /e-brochure
-  - title: Facilities
-    collection: facilities
-  - title: Menu Title
-    collection: community
