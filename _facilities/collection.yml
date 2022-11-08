@@ -2,6 +2,7 @@ collections:
   facilities:
     output: true
     order:
+      - Working & Discussion Spaces.md
       - Testing Labs.md
       - Thematic Sets.md
       - Production Areas.md
