@@ -45,7 +45,7 @@ sections:
       description: Be a part of the innovation. Gain access to resources, knowledge
         and people that can help you solve problems and create opportunities.
       button: apply
-      url: /startups/pixel/incubation/
+      url: /startups/incubation-and-tech-showcase/
       alt: Image alt text
       subtitle: STARTUPS
       image: /images/Test/incubator_set_2.jpg
@@ -64,7 +64,7 @@ sections:
       description: Get your hands dirty with our free monthly workshops on Design
         Thinking, Digital Storytelling and UI/UX
       button: Connect
-      url: /community
+      url: /community/networkingevents/
       image: /images/Test/community.png
       alt: Image alt text
       subtitle: everyone
