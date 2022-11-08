@@ -2,6 +2,7 @@ collections:
   facilities:
     output: true
     order:
+      - Facilities Specs/Working & Discussion Spaces.md
       - Facilities Specs/Testing Labs.md
       - Facilities Specs/Thematic Sets.md
       - Facilities Specs/Production Areas.md
