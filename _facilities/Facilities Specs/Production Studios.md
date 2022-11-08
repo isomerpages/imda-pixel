@@ -4,7 +4,6 @@ permalink: /facilities/Facilities/productionstudios/
 description: ""
 third_nav_title: Facilities Specs
 ---
-Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
 ### 1. Kitchen Studio
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1NTcdpUQ3wfF37fr7VXyl6S2chAFkAi10">
