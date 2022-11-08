@@ -2,9 +2,9 @@ collections:
   facilities:
     output: true
     order:
+      - Overview.md
       - Facilities Specs/.keep
       - Facilities Specs/Production Areas.md
       - Facilities Specs/Thematic Sets.md
       - Facilities Specs/Testing Labs.md
       - Facilities Specs/Working & Discussion Spaces.md
-      - Overview.md
