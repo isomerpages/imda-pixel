@@ -2,5 +2,6 @@ collections:
   facilities:
     output: true
     order:
+      - Production Areas.md
       - Facilities.md
       - Facilities/.keep
