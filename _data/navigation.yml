@@ -18,14 +18,14 @@ links:
       - title: Incubatees
         url: /community/incubatees
   - title: Success Stories
-    url: /successstories
+    url: /success-stories/
     sublinks:
       - title: Success Stories
-        url: /successstories
-      - title: Press Release
-        url: /success-stories/press-release
+        url: /success-stories/
       - title: Testimonials
         url: /success-stories/testimonials
+      - title: Press Release
+        url: /success-stories/press-release
   - title: Connect with us
     url: /contactus
     sublinks:
