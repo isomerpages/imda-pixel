@@ -28,5 +28,3 @@ Enhance your view by swapping out your background using our green room by chroma
 	<br><b>Size</b>: 13.4 m² 
 <br><b>Capacity</b>: Up to 4
 </p>
-
-<embed src="https://drive.google.com/uc?export=view&amp;id=1lrIFSfiwx7nSkCZNEOG7NWqPU_CitJAT">
