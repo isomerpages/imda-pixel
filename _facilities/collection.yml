@@ -2,5 +2,6 @@ collections:
   facilities:
     output: true
     order:
+      - Thematic Sets.md
       - Production Areas.md
       - Facilities.md
