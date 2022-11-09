@@ -7,10 +7,10 @@ links:
   - title: Facilities
     url: /facilities
   - title: Community
-    url: /community/networkingevents/
+    url: /community/networking-events/
     sublinks:
       - title: Networking Events
-        url: /community/networkingevents/
+        url: /community/networking-events/
       - title: Partners
         url: /community/partners
       - title: Mentors
