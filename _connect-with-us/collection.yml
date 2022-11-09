@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - FAQ.md
       - eBrochure.md
+      - FAQ.md
