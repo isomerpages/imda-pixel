@@ -7,7 +7,7 @@ description: ""
 
 <table style="border-style: hidden">
 	<tr>
-		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center;">
+		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center; vertical-align: middle;">
 			<table>
 				<tr>
 					<td style="background: green; width:15%;"></td>
@@ -18,7 +18,7 @@ description: ""
 			<b style="text-align: center">YONG LIN</b>
 			<br>We are deeply appreciative for the access to IMDA's innovation facilities and resources
 		</td>
-		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center;">
+		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center; vertical-align: middle;">
 			<img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN">
 			<br><b style="text-align: center">YONG LIN</b>
 			<br>We are deeply appreciative for the access to IMDA's innovation facilities and resources
@@ -36,7 +36,7 @@ description: ""
 			<b style="text-align: center">YONG LIN</b>
 			<br>We are deeply appreciative for the access to IMDA's innovation facilities and resources
 		</td>
-		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center;">
+		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center; vertical-align: middle;">
 			<img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN">
 			<br><b style="text-align: center">YONG LIN</b>
 			<br>We are deeply appreciative for the access to IMDA's innovation facilities and resources
