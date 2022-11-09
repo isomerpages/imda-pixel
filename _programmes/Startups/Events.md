@@ -4,6 +4,9 @@ permalink: /programmes/Startups/events/
 description: ""
 third_nav_title: Startups
 ---
+link to events page
+
+
 We believe that the most successful businesses are built by people who understand the importance of teamwork and collaboration. That's why we're proud to offer our team of consultants, who are ready to help you reach your goals through these resources: 
 
 #### 1. Workshops: 
