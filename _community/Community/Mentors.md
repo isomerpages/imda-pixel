@@ -11,7 +11,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 
 <table>
 	<tr>
-		<td style="background:black"></td>
+		<td style="background:black; text-align: center; vertical-align: middle; width=33%"></td>
 		<td style="background:yellow"></td>
 		<td style="background:black"></td>
 	</tr>
