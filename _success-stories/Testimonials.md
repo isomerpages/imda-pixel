@@ -26,8 +26,14 @@ description: ""
 	</tr>
 	<tr>
 		<td style="color: black; background: lightblue; border: 5px solid white; width:50%; text-align: center;">
-			<img src="https://drive.google.com/uc?export=view&amp;id=1nKE-YFY-PufTyQlZJ3x0sMxgpMcB5uQS">
-			<br><b style="text-align: center">YONG LIN</b>
+			<table>
+				<tr>
+					<td style="width:15%;"></td>
+					<td><img src="https://drive.google.com/uc?export=view&amp;id=1nKE-YFY-PufTyQlZJ3x0sMxgpMcB5uQS"></td>
+					<td style="width:15%;"></td>
+				</tr>
+			</table>
+			<b style="text-align: center">YONG LIN</b>
 			<br>We are deeply appreciative for the access to IMDA's innovation facilities and resources
 		</td>
 		<td style="color: black; background: lightblue; border: 5px solid white; width:50%; text-align: center;">
