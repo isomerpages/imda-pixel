@@ -7,7 +7,7 @@ links:
   - title: Facilities
     url: /facilities
   - title: Community
-    url: /community/main
+    url: /community/networkingevents/
     sublinks:
       - title: Networking Events
         url: /community/networkingevents/
