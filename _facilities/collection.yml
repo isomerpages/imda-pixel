@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Facilities Specs/Green Room.md
       - Facilities Specs/.keep
       - Facilities Specs/Co working Space.md
       - Facilities Specs/AR VR Lab.md
