@@ -4,7 +4,7 @@ collections:
     order:
       - Overview.md
       - Facilities Specs/.keep
-      - Facilities Specs/Production Studios.md
+      - Facilities Specs/Co working Space.md
       - Facilities Specs/Event Spaces.md
       - Facilities Specs/Specialised Labs.md
       - Facilities Specs/Working Spaces.md
