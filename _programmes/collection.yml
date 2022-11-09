@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Corporates/.keep
-      - Corporates/Events.md
       - Corporates/Find Solution Providers.md
       - Corporates/Innovation Consultancies.md
+      - Corporates/Events.md
       - Startups/.keep
       - Startups/Incubation and Tech Showcase.md
       - Startups/Win Key Reference Customers.md
