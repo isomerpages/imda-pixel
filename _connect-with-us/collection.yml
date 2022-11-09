@@ -2,5 +2,6 @@ collections:
   connect-with-us:
     output: true
     order:
+      - eBrochure.md
       - Contact Us.md
       - FAQ.md
