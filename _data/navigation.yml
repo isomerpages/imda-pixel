@@ -27,11 +27,11 @@ links:
       - title: Press Release
         url: /success-stories/press-release
   - title: Connect with us
-    url: /contactus
+    url: /connect/contact-us/
     sublinks:
       - title: Contact Us
-        url: /connect/contactus/
-      - title: FAQ
-        url: /connect/faq/
+        url: /connect/contact-us/
       - title: eBrochure
         url: /connect/ebrochure
+      - title: FAQ
+        url: /connect/faq/
