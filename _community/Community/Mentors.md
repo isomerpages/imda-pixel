@@ -9,7 +9,13 @@ PIXEL-appointed mentors are trusted and experienced advisors who are willing to 
 
 Mentors and mentees are expected to develop and mutually agree on the scope and objectives of their engagement. It is free.
 
-
+<table>
+	<tr>
+		<td style="background:black"></td>
+		<td style="background:white"></td>
+		<td style="background:black"></td>
+	</tr>
+</table>
 
 <h1>Specialists</h1>
 We also provide experts on the following topics:
