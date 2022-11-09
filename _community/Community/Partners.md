@@ -10,7 +10,7 @@ We partner established tech firms and accelerators to host a range of innovation
 
 <table>
 		<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN"></td>
+		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1bEYynJe9TeeuBWUnKPbtLq0pEjigc5hN"></td>
 		<td>
 			<b>Grab Ventures Ignite</b>
 			<br>We partnered Grab to curate a cross-border immersion pilot programme for Singapore startups to venture into the Vietnam market. The programme provides access to world-class expert workshops, mentorship from senior leaders, and immersion trips to regional Grab markets. PIXEL co-organized the Singapore leg of the programme. 
