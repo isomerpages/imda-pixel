@@ -4,8 +4,6 @@ permalink: /startups/incubation-and-tech-showcase/
 description: Join PIXEL's Incubation Programme and/or Apply For Tech Showcase
 third_nav_title: Startups
 ---
-
-
 <h1>PIXEL Incubation Programme</h1>
 <img src="https://drive.google.com/uc?export=view&amp;id=1QzMSI8IblGjMdZWynQUaVzwlrtIkDclG">
 
@@ -14,7 +12,7 @@ PIXEL provides start-ups and corporates with facilities, expertise, and programm
 <h3>Facilities</h3>
 <table>
 	<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
+		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
 		<td>Facilities and equipment are designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are  available for use.</td>
 	</tr>
 </table>
@@ -22,7 +20,7 @@ PIXEL provides start-ups and corporates with facilities, expertise, and programm
 <h3>Community</h3>
 <table>
 	<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
+		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
 		<td>Gain connections to PIXEL’s network of tech innovators, creative technologist, and digital designers.</td>
 	</tr>
 </table>
@@ -32,7 +30,7 @@ Level up your knowledge with 1-to-1 consultation sessions, project-based coachin
 
 <table>
 	<tr>
-		<td><img src="https://drive.google.com/uc?export=view&amp;id=1moKrFdB1oXCkoUtkpsIFs-VeD39mo4_U"></td>
+		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1moKrFdB1oXCkoUtkpsIFs-VeD39mo4_U"></td>
 		<td><b>Design thinking</b> 
 			<br>Design thinking is a human-centric, iterative approach to problem solving that is increasingly used by organisations to make their digital products and solutions customer-centric. It can help sharpen your brand positioning, pivot into adjacent markets and de-risk innovation by understanding your users and accelerating the development process.</td>
 	</tr>
