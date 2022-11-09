@@ -7,9 +7,9 @@ third_nav_title: Corporates
 We believe that the most successful businesses are built by people who understand the importance of teamwork and collaboration. That's why we're proud to offer our team of consultants, who are ready to help you reach your goals through these resources: 
 
 ~~1. Workshops: 
-* Design Thinking 
+~~* Design Thinking 
 * Digital Storytelling 
-* UI UX 
+* UI UX ~~
 
 Check out the latest schedule [here](staging.d3nusvu8peabav.amplifyapp.com/monthly-workshops/)~~
 
