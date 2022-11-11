@@ -28,7 +28,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<br><span style="font-size:0.9em;">Alpha JWC</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
 		</td>
-				<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; ">
+		<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
 			<table>
 				<tr>
 					<td></td>
@@ -39,9 +39,21 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<b>ANDREW LER</b>
 			<br><span style="font-size:0.9em;">Senior Advisor</span>
 			<br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guiding and advising startups in addressing business challenges and facilitating ideation process</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
 		</td>
-		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andytan.png"></td>
+						<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
+			<table>
+				<tr>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andytan.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>ANDY TAN</b>
+			<br><span style="font-size:0.9em;">Head of Funding</span>
+			<br><span style="font-size:0.9em;">Atome</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader </span>
+		</td>
 	</tr>
 </table>
 
