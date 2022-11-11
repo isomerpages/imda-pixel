@@ -15,7 +15,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 
 <table>
 	<tr>
-		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; ">
+		<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
 			<table>
 				<tr>
 					<td></td>
@@ -44,6 +44,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andytan.png"></td>
 	</tr>
 </table>
+
 
 <h1>Specialists</h1>
 We also provide experts on the following topics:
