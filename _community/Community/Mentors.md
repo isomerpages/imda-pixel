@@ -52,7 +52,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<b>ANDY TAN</b>
 			<br><span style="font-size:0.9em;">Head of Funding</span>
 			<br><span style="font-size:0.9em;">Atome</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader </span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader and experienced finance professional with >10 years experience in global debt markets</span>
 		</td>
 	</tr>
 </table>
