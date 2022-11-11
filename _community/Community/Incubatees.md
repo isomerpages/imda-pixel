@@ -4,7 +4,6 @@ permalink: /community/incubatees/
 description: current incubatees startups
 third_nav_title: Community
 ---
-
 <table>
     <!-- ROW 1 -->
 	<tr>
