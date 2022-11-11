@@ -58,7 +58,12 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 </table>
 
 <table>
-	
+	<tr>
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">hi</td>
+	</tr>
+	<tr>
+		<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white;">hi</td>
+	</tr>
 </table>
 
 <h1>Specialists</h1>
