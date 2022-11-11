@@ -55,7 +55,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td><img src="/images/Community/Incubatees/betterdata.png"></td>
 					<td></td>
                 </tr>
             </table>
@@ -72,7 +72,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td><img src="/images/Community/Incubatees/dconstruct.png"></td>
 					<td></td>
                 </tr>
             </table>
@@ -89,7 +89,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td><img src="/images/Community/Incubatees/medivr.png"></td>
 					<td></td>
                 </tr>
             </table>
