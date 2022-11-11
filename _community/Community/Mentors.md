@@ -18,14 +18,29 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; ">
 			<table>
 				<tr>
-					<td style="background:green; width=10%"></td>
-					<td style="background:yellow; width=80%"></td>
-					<td style="background:green; width=10%"></td>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td></td>
 				</tr>
 			</table>
-			<img src="/images/Community/Mentors/alan-hellawell.png">
+			<b>ALAN HELLAWELL</b>
+			<br><span style="font-size:0.9em;">Venture Partner</span>
+			<br><span style="font-size:0.9em;">Alpha JWC</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
 		</td>
-		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andrewler.png"></td>
+				<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; ">
+			<table>
+				<tr>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andrewler.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>ANDREW LER</b>
+			<br><span style="font-size:0.9em;">Senior Advisor</span>
+			<br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guiding and advising startups in addressing business challenges and facilitating ideation process</span>
+		</td>
 		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andytan.png"></td>
 	</tr>
 </table>
