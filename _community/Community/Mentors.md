@@ -15,11 +15,11 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 
 <table>
 	<tr>
-		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle;">
+		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; ">
 			<img src="/images/Community/Mentors/alan-hellawell.png">
 		</td>
-		<td style="background:yellow; width=33%;"><img src="/images/Community/Mentors/andrewler.png"></td>
-		<td style="background:black; width=33%;"><img src="/images/Community/Mentors/andytan.png"></td>
+		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andrewler.png"></td>
+		<td style="background:lightgrey; width=33%; text-align: center; vertical-align: middle; border: 15px solid white; "><img src="/images/Community/Mentors/andytan.png"></td>
 	</tr>
 </table>
 
