@@ -13,7 +13,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -26,7 +26,7 @@ We have both general mentors and specialised ones in the design thinking, digita
             <br><span style="font-size:0.9em;">Alpha JWC</span>
             <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
 		</td>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -39,7 +39,7 @@ We have both general mentors and specialised ones in the design thinking, digita
             <br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
             <br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
 		</td>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -55,7 +55,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	</tr>
     <!-- ROW 2 -->
     <tr>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -68,7 +68,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">B Capital Group</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe</span>
 		</td>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -81,7 +81,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">NVIDIA</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
 		</td>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -97,7 +97,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	</tr>
     <!-- ROW 3 -->
     <tr>
-		<td style="background:lightgrey; border: 15px solid white; width:33%;">			
+		<td style="background:lightgrey; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
 					<td></td>
