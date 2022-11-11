@@ -64,7 +64,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td><img src="/images/Community/Mentors/alan-hellawell.png"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -73,7 +73,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andrewler.png"></td>
+					<td><img src="/images/Community/Mentors/andrewler.png"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -82,7 +82,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andytan.png"></td>
+					<td><img src="/images/Community/Mentors/andytan.png"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -114,7 +114,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/arijit_sengupta.png"></td>
+					<td><img src="/images/Community/Mentors/arijit_sengupta.png"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -123,7 +123,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/gillwang.png"></td>
+					<td><img src="/images/Community/Mentors/gillwang.png"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -132,7 +132,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<table>
 				<tr>
 					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/raghuganti.png"></td>
+					<td><img src="/images/Community/Mentors/raghuganti.png"></td>
 					<td></td>
 				</tr>
 			</table>
