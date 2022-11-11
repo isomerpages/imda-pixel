@@ -13,7 +13,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Incubatees/medivr.png"></td>
+					<td><img src="/images/Community/Incubatees/alovr.png"></td>
 					<td></td>
          </tr>
       </table>
@@ -26,7 +26,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Incubatees/elitefit.png"></td>
+					<td><img src="/images/Community/Incubatees/augmenteed.png"></td>
 					<td></td>
          </tr>
       </table>
@@ -39,7 +39,7 @@ third_nav_title: Community
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="images/Community/Incubatees/joysteak.png"></td>
+					<td><img src="images/Community/Incubatees/bandwagon.png"></td>
 					<td></td>
                 </tr>
             </table>
