@@ -10,9 +10,9 @@ We partner established tech firms and accelerators to host a range of innovation
 
 <table style="border-top:1px solid lightgrey; border-bottom:1px solid lightgrey;">
     <tr>
-        <td style="width:25%; padding-top: 15px;"><img src="/images/Community/Partners/Huawei.png"></td>
-        <td style="padding-top: 15px;">
-            <b>Huawei</b>
+        <td style="width:25%; padding-top: 15px;"><br><img src="/images/Community/Partners/Huawei.png"></td>
+        <td>
+            <br><b>Huawei</b>
             <br>We partnered Huawei.
             <br><br><a href="https://staging.d3nusvu8peabav.amplifyapp.com/monthly-workshops/" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
