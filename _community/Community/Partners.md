@@ -10,7 +10,23 @@ We partner established tech firms and accelerators to host a range of innovation
 
 <table>
     <tr>
-        <td style="width:25%; padding-top: 15px;"><img src="/images/Community/Partners/Grab.png"></td>
+        <td style="width:25%; padding-top: 15px;"><img src="/images/Community/Partners/Huawei.png"></td>
+        <td>
+            <b>Huawei</b>
+            <br>We partnered Huawei.
+            <br><br><a href="https://staging.d3nusvu8peabav.amplifyapp.com/monthly-workshops/" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+        <tr>
+        <td style="padding-top: 15px;"><img src="/images/Community/Partners/AWS.png"></td>
+        <td>
+            <b>Amazon Web Services</b>
+            <br>We partnered AWS. 
+            <br><br><a href="https://staging.d3nusvu8peabav.amplifyapp.com/monthly-workshops/" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+        <tr>
+        <td style="padding-top: 15px;"><img src="/images/Community/Partners/Grab.png"></td>
         <td>
             <b>Grab Ventures Ignite</b>
             <br>We partnered Grab to curate a cross-border immersion pilot programme for Singapore startups to venture into the Vietnam market. The programme provides access to world-class expert workshops, mentorship from senior leaders, and immersion trips to regional Grab markets. PIXEL co-organized the Singapore leg of the programme. 
