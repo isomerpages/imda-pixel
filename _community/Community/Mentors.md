@@ -95,7 +95,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<b>ARIJIT SENGUPTA</b>
 			<br><span style="font-size:0.9em;">Partner</span>
 			<br><span style="font-size:0.9em;">B Capital Group</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe.</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe</span>
 		</td>
 				<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
 		<b>GILL WANG</b>
@@ -111,6 +111,55 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 		</td>
 	</tr>
     <!-- ROW 3 -->
+    <tr>
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/shashankluthra.png"></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td style="background:white; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td style="background:white; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+			<b>SHASHANK LUTHRA</b>
+			<br><span style="font-size:0.9em;">Managing Director, Services and Software Sales, ASEAN</span>
+			<br><span style="font-size:0.9em;">Cisco</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales</span>
+		</td>
+		<td style="background:white; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+            <b></b>
+			<br><span style="font-size:0.9em;"></span>
+			<br><span style="font-size:0.9em;"></span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+        </td>
+		<td style="background:white; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+            <b></b>
+			<br><span style="font-size:0.9em;"></span>
+			<br><span style="font-size:0.9em;"></span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+        </td>
+	</tr>
 </table>
 
 <h1>Specialists</h1>
