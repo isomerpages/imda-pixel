@@ -10,53 +10,9 @@ PIXEL-appointed mentors are trusted and experienced advisors who are willing to 
 Mentors and mentees are expected to develop and mutually agree on the scope and objectives of their engagement. It is free!
 
 <table>
-	<tr>
-		<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
-			<table>
-				<tr>
-					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>ALAN HELLAWELL</b>
-			<br><span style="font-size:0.9em;">Venture Partner</span>
-			<br><span style="font-size:0.9em;">Alpha JWC</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-		</td>
-		<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
-			<table>
-				<tr>
-					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andrewler.png"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>ANDREW LER</b>
-			<br><span style="font-size:0.9em;">Senior Advisor</span>
-			<br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
-		</td>
-						<td style="background:lightgrey; width=33%; text-align: center; border: 15px solid white; ">
-			<table>
-				<tr>
-					<td></td>
-					<td style="background:lightgrey;"><img src="/images/Community/Mentors/andytan.png"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>ANDY TAN</b>
-			<br><span style="font-size:0.9em;">Head of Funding</span>
-			<br><span style="font-size:0.9em;">Atome</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader and experienced finance professional with >10 years experience in global debt markets</span>
-		</td>
-	</tr>
-</table>
-
-<table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -65,7 +21,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 				</tr>
 			</table>
 		</td>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -74,7 +30,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 				</tr>
 			</table>
 		</td>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -106,7 +62,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 	</tr>
     <!-- ROW 2 -->
     <tr>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -115,7 +71,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 				</tr>
 			</table>
 		</td>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -124,7 +80,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 				</tr>
 			</table>
 		</td>
-		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
