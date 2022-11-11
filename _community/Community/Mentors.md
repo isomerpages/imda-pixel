@@ -58,6 +58,7 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 </table>
 
 <table>
+    <!-- ROW 1 -->
 	<tr>
 		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
 			<table>
@@ -107,6 +108,57 @@ Mentors and mentees are expected to develop and mutually agree on the scope and 
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader and experienced finance professional with >10 years experience in global debt markets</span>
 		</td>
 	</tr>
+    <!-- ROW 2 -->
+    <tr>
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+			<table>
+				<tr>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/arijit_sengupta.png"></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+			<table>
+				<tr>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/gillwang.png"></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+		<td style="background:lightgrey; border-top: 15px solid white; border-bottom: none; border-left: 15px solid white; border-right: 15px solid white;">			
+			<table>
+				<tr>
+					<td></td>
+					<td style="background:lightgrey;"><img src="/images/Community/Mentors/raghuganti.png"></td>
+					<td></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+			<b>ARIJIT SENGUPTA</b>
+			<br><span style="font-size:0.9em;">Partner</span>
+			<br><span style="font-size:0.9em;">B Capital Group</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe.</span>
+		</td>
+				<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+		<b>GILL WANG</b>
+			<br><span style="font-size:0.9em;">Global AR Product Manager</span>
+			<br><span style="font-size:0.9em;">NVIDIA</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
+		</td>
+		<td style="background:lightgrey; border-top:none; border-bottom: 15px solid white; border-left: 15px solid white; border-right: 15px solid white; text-align: center; ">
+			<b>RAGHU GANTI</b>
+			<br><span style="font-size:0.9em;">ProViz & Enterprise Software Sales Leader</span>
+			<br><span style="font-size:0.9em;">NVIDIA</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Helping to synthesize complex business issues into actionable and measurable outcomes using contextual data-based insights</span>
+		</td>
+	</tr>
+    <!-- ROW 3 -->
 </table>
 
 <h1>Specialists</h1>
