@@ -93,12 +93,8 @@ third_nav_title: Community
 					<td></td>
                 </tr>
             </table>
-            <table>
-                <tr>
-                    <td><b>Joysteak Studios</b></td>
-                    <td style="width: 1%;white-space: nowrap;">Alumni</td>
-                </tr>
-            </table>
+            <b>Joysteak Studios</b>
+             <br>Alumni
             <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
 		</td>
 	</tr>
