@@ -11,12 +11,12 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 
 ## Equipment
 
-<h3 style="color: black">AR</h3>
+<h3 style="color: black">AR Headsets</h3>
    
 <table>
 	<tr>
 		<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
-		<td  style="width:70%"><b>AR Headset: Magic Leap 1</b>
+		<td  style="width:70%"><b>Magic Leap 1</b>
 			<br>• Eye tracking 
 			<br>• 1280 x 960 per eye resolution
 			<br>• 50° Diagonal Field of View
@@ -27,7 +27,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 
 <table>
 	<tr>
-		<td  style="width:70%"><b>AR Headset: Magic Leap 2</b>
+		<td  style="width:70%"><b>Magic Leap 2</b>
 			<br>• Eye tracking 
 			<br>• 1440 x 1760 per eye resolution
 			<br>• 70° Diagonal Field of View
@@ -40,7 +40,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 <table>
 	<tr>
 		<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Realware%20HMT-1.png"></td>
-		<td  style="width:70%"><b>AR Headset: Realware HMT-1
+		<td  style="width:70%"><b>Realware HMT-1
 </b>
 			<br>• Hands-free
 			<br>• Languages: English, Mandarin Chinese, Thai etc.
@@ -52,7 +52,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 
 <table>
 	<tr>
-		<td  style="width:70%"><b>AR Headset: Rokid X-Craft
+		<td  style="width:70%"><b>Rokid X-Craft
 </b>
 			<br>• Rugged design: waterproof, dustproof, shockproof 
 			<br>• Modular system for addition of devices/accessories
@@ -63,7 +63,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 </table>
 
-<h3 style="color: black">MR</h3>
+<h3 style="color: black">MR Heasets</h3>
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -156,6 +156,6 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 </table>
 
 
-<h3 style="color: black">VR</h3>
+<h3 style="color: black">VR Headsets</h3>
 
 <h3 style="color: black">Immersive Accessories</h3>
