@@ -5,10 +5,9 @@ description: ""
 third_nav_title: Facilities Specs
 ---
 # AR VR Lab
-Get your hands dirty with a suite of high-end technology equipment like Realwear, Hololens, Oculus, and Tact suit to start the development of immersive experiences.
-
 ![Equipment Wall](/images/Facilities/AR%20VR%20Lab/ARVR.jpg)
 
+Get your hands dirty with a suite of high-end technology equipment like Realwear, Hololens, Oculus, and Tact suit to start the development of immersive experiences.
 ## Equipment
 
 <h3 style="color: black">AR Headsets</h3>
