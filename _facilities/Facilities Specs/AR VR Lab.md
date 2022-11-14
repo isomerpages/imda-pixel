@@ -37,6 +37,32 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 </table>
 
+<table>
+	<tr>
+		<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Realware%20HMT-1.png"></td>
+		<td  style="width:70%"><b>AR Headset: Realware HMT-1
+</b>
+			<br>• Hands-free
+			<br>• Languages: English, Mandarin Chinese, Thai etc.
+			<br>• 854 x 480 screen resolution
+			<br>• Incoporated GPS
+		</td>
+	</tr>
+</table>
+
+<table>
+	<tr>
+		<td  style="width:70%"><b>AR Headset: Rokid X-Craft
+</b>
+			<br>• Rugged design: waterproof, dustproof, shockproof 
+			<br>• Modular system for addition of devices/accessories
+			<br>• 40° Horizontal Field of View
+			<br>• 6 Degrees of Freedom Handheld Controllers
+		</td>
+		<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+	</tr>
+</table>
+
 <h3 style="color: black">MR</h3>
 
 <h3 style="color: black">VR</h3>
