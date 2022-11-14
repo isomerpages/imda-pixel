@@ -4,7 +4,6 @@ permalink: /facilities/Facilities/co-working-space/
 description: ""
 third_nav_title: Facilities Specs
 ---
-
 ### 1. Kitchen Studio
 
 <img src="https://drive.google.com/uc?export=view&amp;id=1NTcdpUQ3wfF37fr7VXyl6S2chAFkAi10">
