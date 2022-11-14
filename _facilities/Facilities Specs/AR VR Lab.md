@@ -198,3 +198,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 </table>
 <h3 style="color: black">Immersive Accessories</h3>
+
+## Room Specs
+* Size: 61.6 m²
+* Capacity: Up to 20
