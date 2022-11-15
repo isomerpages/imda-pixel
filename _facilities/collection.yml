@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Overview.md
-      - Facilities Specs/.keep
-      - Facilities Specs/AR VR Lab.md
-      - Facilities Specs/Usability Testing Lab.md
-      - Facilities Specs/5G Lab.md
-      - Facilities Specs/Green Room.md
-      - Facilities Specs/Co working Space.md
-      - Facilities Specs/Fact Sheet.md
+      - Featured Areas/.keep
+      - Featured Areas/AR VR Lab.md
+      - Featured Areas/Usability Testing Lab.md
+      - Featured Areas/5G Lab.md
+      - Featured Areas/Green Room.md
+      - Featured Areas/Co working Space.md
+      - Featured Areas/Fact Sheet.md
