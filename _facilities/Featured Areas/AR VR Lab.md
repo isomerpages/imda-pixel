@@ -4,7 +4,6 @@ permalink: /facilities/ARVR-lab/
 description: ""
 third_nav_title: Featured Areas
 ---
-
 # AR VR Lab
 ![Equipment Wall](/images/Facilities/AR%20VR%20Lab/ARVR.jpg)
 
@@ -67,7 +66,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 1px solid lightgrey; width:33%; text-align: center;">			
+		<td style="border: 1px solid lightgrey; width:33%">			
 			<table>
 				<tr>
 					<td></td>
@@ -81,7 +80,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 			<br><span style="font-size:0.9em;">• 50° Diagonal Field of View</span>
 			<br><span style="font-size:0.9em;">• 6 Degrees of Freedom Handheld Controllers</span>
 		</td>
-		<td style="border: 1px solid lightgrey; width:33%; text-align: center; ">			
+		<td style="border: 1px solid lightgrey; width:33%;">			
 			<table>
 				<tr>
 					<td></td>
@@ -95,7 +94,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 			<br><span style="font-size:0.9em;">• 50° Diagonal Field of View</span>
 			<br><span style="font-size:0.9em;">• 6 Degrees of Freedom Handheld Controllers</span>
 		</td>
-		<td style="border: 1px solid lightgrey; width:33%; text-align: center; ">			
+		<td style="border: 1px solid lightgrey; width:33%; ">			
 			<table>
 				<tr>
 					<td></td>
@@ -112,7 +111,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
     <!-- ROW 2 -->
     <tr>
-		<td style="border: 1px solid lightgrey; width:33%; text-align: center; ">			
+		<td style="border: 1px solid lightgrey; width:33%; ">			
 			<table>
 				<tr>
 					<td></td>
