@@ -6,6 +6,17 @@ links:
     resource_room: true
   - title: Facilities
     url: /facilities
+    sublinks:
+      - title: Overview
+        url: /facilities
+      - title: Specialised Labs
+        url: /facilities/ARVR-lab/
+      - title: Production Studios
+        url: /facilities/Facilities-Specs/Green-Room/
+      - title: Co-working Spaces
+        url: /facilities/Facilities/co-working-space/
+      - title: and more
+        url: /facilities/Facilities-Specs/fact-sheet/
   - title: Community
     url: /community/networking-events/
     sublinks:
