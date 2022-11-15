@@ -8,7 +8,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 
 ## Meeting Rooms
 
-<b>Thematic</b>
+<h3>Thematic</h3>
 <table>
 	<tr>
 		<td><img src="/images/Facilities/Co%20Working%20Space/black-room.jpg"></td>
