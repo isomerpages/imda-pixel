@@ -10,7 +10,7 @@ third_nav_title: Community
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid lightgrey; width:33%;">		
+		<td style="border: 15px solid lightblue; width:33%;">		
             <span style="color:grey; font-size:0.9em">AR/VR, AI</span>	
 			<table>
 				<tr>
