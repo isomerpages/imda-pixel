@@ -4,7 +4,10 @@ permalink: /facilities/
 description: facilities working space
 ---
 <h1>PIXEL's Innovation Space</h1>
-PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. Apply [here](https://go.gov.sg/preqform).
+PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. 
+
+<a href="https://go.gov.sg/preqform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply</a>
+
 
 <h2>Production Studios</h2>
 Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
