@@ -15,7 +15,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		<td><img src="/images/Facilities/Co%20Working%20Space/train-room.jpg"></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td></ted>
+		<td>Black Room</td>
+		<td>Diner Room</td>
+		<td>Train Room</td>
 	</tr>
 </table>
