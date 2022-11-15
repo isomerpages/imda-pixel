@@ -196,6 +196,16 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 			<br>• 6 Degrees of Freedom Handheld Controllers
 		</td>
 	</tr>
+	  <tr>
+				<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td  style="width:70%"><b>Rokid X-Craft
+</b>
+			<br>• Rugged design: waterproof, dustproof, shockproof 
+			<br>• Modular system for addition of devices/accessories
+			<br>• 40° Horizontal Field of View
+			<br>• 6 Degrees of Freedom Handheld Controllers
+		</td>
+	</tr>
 </table>
 <h3 style="color: black">Immersive Accessories</h3>
 
