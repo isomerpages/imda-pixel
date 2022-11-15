@@ -2,7 +2,6 @@ collections:
   facilities:
     output: true
     order:
-      - Fact Sheet.md
       - Overview.md
       - Featured Areas/.keep
       - Featured Areas/AR VR Lab.md
@@ -10,3 +9,4 @@ collections:
       - Featured Areas/5G Lab.md
       - Featured Areas/Green Room.md
       - Featured Areas/Co working Space.md
+      - Fact Sheet.md
