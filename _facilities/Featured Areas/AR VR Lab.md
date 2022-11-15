@@ -197,8 +197,8 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 	  <tr>
-				<td style="border-bottom:1px solid black; width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
-		<td  style="border-bottom:1px solid black; width:70%"><b>Rokid X-Craft
+				<td style="border-bottom:0.75px solid lightgrey; width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td  style="border-bottom:0.75px solid lightgrey; width:70%"><b>Rokid X-Craft
 </b>
 			<br>• Rugged design: waterproof, dustproof, shockproof 
 			<br>• Modular system for addition of devices/accessories
