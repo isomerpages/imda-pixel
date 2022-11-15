@@ -17,9 +17,9 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 
 <table>
 	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td style="width:33%"><img src="/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png"></td>
+		<td style="width:33%"><img src=""></td>
+		<td style="width:33%"><img src=""></td>
 	</tr>
 </table>
 
