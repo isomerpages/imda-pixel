@@ -43,6 +43,8 @@ links:
   - title: Workshops
     url: /Monthly Workshops
     sublinks:
+      - title: ALL
+        url: /monthly-workshops/
       - title: AR VR
         url: /monthly-workshops/augmented-and-virtual-reality/
       - title: Design Thinking
