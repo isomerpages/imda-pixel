@@ -3,12 +3,8 @@ links:
   - title: Programmes
     collection: programmes
   - title: Workshops
-    resource_room: true
-  - title: Workshops
     url: /Monthly Workshops
     sublinks:
-      - title: All
-        url: /monthly-workshops/
       - title: AR VR
         url: /monthly-workshops/ar-vr/
       - title: Design Thinking
