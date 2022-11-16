@@ -197,3 +197,51 @@ We have both general mentors and specialised ones in the design thinking, digita
 </table>
 
 **Digital Storytelling**
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/abhilashmurthy/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/abhilash-murthy.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>ABHILASH MURTHY</b>
+			<br><span style="font-size:0.9em;">CEO</span>
+			<br><span style="font-size:0.9em;">BotDistrikt</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Coded bots</span>
+			</a>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/diogomartins.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>DIOGO MARTINS</b>
+			<br><span style="font-size:0.9em;">Lead, Content & Community</span>
+			<br><span style="font-size:0.9em;">Mediacorp</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
+			</a>
+		</td>
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b></b>
+			<br><span style="font-size:0.9em;"></span>
+			<br><span style="font-size:0.9em;"></span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
+</table>
