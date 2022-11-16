@@ -40,3 +40,10 @@ links:
         url: /connect/ebrochure
       - title: FAQ
         url: /connect/faq/
+  - title: Workshops
+    url: /Monthly Workshops
+    sublinks:
+      - title: AR VR
+        url: /monthly-workshops/ar-vr/
+      - title: Design Thinking
+        url: /monthly-workshops/design-thinking/
