@@ -80,7 +80,6 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">Global AR Product Manager</span>
 			<br><span style="font-size:0.9em;">NVIDIA</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
-		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
