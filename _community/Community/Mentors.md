@@ -143,7 +143,8 @@ We have both general mentors and specialised ones in the design thinking, digita
 <table>
     <!-- ROW 3 -->
     <tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">			
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
+			<a href="www.google.com" target="_blank" style="text-decoration: none; color:black;">
 			<table>
 				<tr>
 					<td></td>
@@ -166,11 +167,12 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td><img src="/images/Icons/linkedin.png"></td>
 				</tr>
 			</table>
+			</a>
 		</td>
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">			
 			<table>
 				<tr>
-					<td></td>
+					<td>hi</td>
 					<td></td>
 					<td></td>
                 </tr>
