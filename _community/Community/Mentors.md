@@ -138,3 +138,50 @@ We have both general mentors and specialised ones in the design thinking, digita
 		</td>
 	</tr>
 </table>
+
+**Design Thinking**
+<table>
+    <!-- ROW 3 -->
+    <tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">			
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/shashankluthra.png"></td>
+					<td></td>
+                </tr>
+            </table>
+            <b>SHASHANK LUTHRA</b>
+			<br><span style="font-size:0.9em;">Managing Director, Services and Software Sales, ASEAN</span>
+			<br><span style="font-size:0.9em;">Cisco</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales</span>
+			<br><img src="/images/Icons/linkedin.png">
+		</td>
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">			
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+                </tr>
+			</table>
+            <b></b>
+            <br><span style="font-size:0.9em;"></span>
+            <br><span style="font-size:0.9em;"></span>
+            <br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">			
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+                </tr>
+			</table>
+            <b></b>
+            <br><span style="font-size:0.9em;"></span>
+            <br><span style="font-size:0.9em;"></span>
+            <br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
+</table>
