@@ -159,11 +159,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>KEITH OH</b>
+			<b>KEITH OH</b></a>
 			<br><span style="font-size:0.9em;">Head of Product Design</span>
 			<br><span style="font-size:0.9em;">Carousell</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Trained in design, psychology and engineering, he adapts methods and tools from multiple disciplines to create meaningful products, services and experiences</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/thierry-do/?originalSubdomain=sg" target="_blank" style="text-decoration: none; color:black;">	
@@ -174,11 +173,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>THIERRY DO</b>
+			<b>THIERRY DO</b></a>
 			<br><span style="font-size:0.9em;">Co-Founder</span>
 			<br><span style="font-size:0.9em;">FreshlyGround Pte Ltd</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutions</span>
-			</a>
 		</td>
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
 			<table>
@@ -209,11 +207,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>ABHILASH MURTHY</b>
+			<b>ABHILASH MURTHY</b></a>
 			<br><span style="font-size:0.9em;">CEO</span>
 			<br><span style="font-size:0.9em;">BotDistrikt</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Coded bots</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
@@ -224,11 +221,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>DIOGO MARTINS</b>
+			<b>DIOGO MARTINS</b></a>
 			<br><span style="font-size:0.9em;">Lead, Content & Community</span>
 			<br><span style="font-size:0.9em;">Mediacorp</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
-			</a>
 		</td>
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
 			<table>
