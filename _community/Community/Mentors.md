@@ -161,7 +161,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 					<td></td>
 					<td></td>
-					<td><img src="/images/Icons/linkedin.png"></td>
+					<td><img src="/images/Icons/linkedin-small.png"></td>
 				</tr>
 			</table>
 		</td>
