@@ -7,12 +7,12 @@ description: ""
 
 <table style="border-style: hidden">
 	<tr>
-		<td style="color: black; background: lightblue; border: 15px solid white; width:50%; text-align: center; vertical-align: middle;">
+		<td style="color: black; background: #f7f7f7; border: 15px solid white; width:50%; text-align: center; vertical-align: middle;">
 			<table>
 				<tr>
-					<td style="background: green; width:15%;"></td>
-					<td style="background: white;"><img src="https://drive.google.com/uc?export=view&amp;id=1nKE-YFY-PufTyQlZJ3x0sMxgpMcB5uQS"></td>
-					<td style="background: black; width:15%;"></td>
+					<td style="background: #f7f7f7; width:15%;"></td>
+					<td style="background: #f7f7f7;"><img src="https://drive.google.com/uc?export=view&amp;id=1nKE-YFY-PufTyQlZJ3x0sMxgpMcB5uQS"></td>
+					<td style="background: #f7f7f7; width:15%;"></td>
 				</tr>
 			</table>
 			<b style="text-align: center">YONG LIN</b>
