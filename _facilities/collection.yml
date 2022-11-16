@@ -2,7 +2,6 @@ collections:
   facilities:
     output: true
     order:
-      - test.md
       - Overview.md
       - Featured Areas/.keep
       - Featured Areas/AR VR Lab.md
