@@ -2,6 +2,7 @@ collections:
   success-stories:
     output: true
     order:
+      - Press Release/.keep
       - AWS X IMDA MOI.md
       - Success Stories.md
       - Testimonials.md
