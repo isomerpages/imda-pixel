@@ -4,7 +4,6 @@ collections:
     order:
       - Success Stories.md
       - Testimonials.md
-      - Press Release.md
       - Press Release/.keep
       - Press Release/Huawei Spark Incubator Program.md
       - Press Release/AWS X IMDA MOI.md
