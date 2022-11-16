@@ -143,7 +143,7 @@ We have both general mentors and specialised ones in the design thinking, digita
     <!-- ROW 3 -->
     <tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
-			<a href="www.google.com" target="_blank" style="text-decoration: none; color:black;">
+			<a href="www.google.com" target="_blank" style="text-decoration: none; color:black; ">
 			<table>
 				<tr>
 					<td></td>
