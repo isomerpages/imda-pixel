@@ -147,3 +147,53 @@ We have both general mentors and specialised ones in the design thinking, digita
 </table>
 
 **Design Thinking**
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/keithoh/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/keith-oh.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>KEITH OH</b>
+			<br><span style="font-size:0.9em;">Head of Product Design</span>
+			<br><span style="font-size:0.9em;">Carousell</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Trained in design, psychology and engineering, he adapts methods and tools from multiple disciplines to create meaningful products, services and experiences</span>
+			</a>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/thierry-do/?originalSubdomain=sg" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/thierry-do.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>THIERRY DO</b>
+			<br><span style="font-size:0.9em;">Co-Founder</span>
+			<br><span style="font-size:0.9em;">FreshlyGround Pte Ltd</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutions</span>
+			</a>
+		</td>
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b></b>
+			<br><span style="font-size:0.9em;"></span>
+			<br><span style="font-size:0.9em;"></span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
+</table>
+
+**Digital Storytelling**
