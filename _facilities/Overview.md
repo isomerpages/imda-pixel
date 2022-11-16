@@ -9,7 +9,9 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 <a href="https://go.gov.sg/preqform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply</a>&emsp;
 <a href="/facilities/ARVR-lab/"  target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">View Featured Areas</a>&emsp;
 <a href="/facilities/Facilities-Specs/fact-sheet/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">View Full Fact Sheet</a>
+<br></br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Specialised Labs</h2>
 Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
@@ -23,7 +25,7 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 	</tr>
 </table>
 
-<h2>Production Studios</h2>
+<h2>Production Studio - **To remove Makeup room and kitchen studio** </h2> 
 Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
 <br><br>
 
