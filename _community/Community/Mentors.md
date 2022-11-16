@@ -22,11 +22,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>ALAN HELLAWELL</b>
+			<b>ALAN HELLAWELL</b></a>
 			<br><span style="font-size:0.9em;">Venture Partner</span>
 			<br><span style="font-size:0.9em;">Alpha JWC</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/andrew-ler-b042882b/" target="_blank" style="text-decoration: none; color:black;">	
@@ -37,11 +36,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>ANDREW LER</b>
+			<b>ANDREW LER</b></a>
 			<br><span style="font-size:0.9em;">Senior Advisor</span>
 			<br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/andytanyy/" target="_blank" style="text-decoration: none; color:black;">		
@@ -52,11 +50,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>ANDY TAN</b>
+			<b>ANDY TAN</b></a>
 			<br><span style="font-size:0.9em;">Head of Funding</span>
 			<br><span style="font-size:0.9em;">Atome</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">A design thinking leader and experienced finance professional with >10 years experience in global debt markets</span>
-			</a>
 		</td>
 	</tr>
     <!-- ROW 2 -->
@@ -70,11 +67,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>ARIJIT SENGUPTA</b>
+			<b>ARIJIT SENGUPTA</b></a>
 			<br><span style="font-size:0.9em;">Partner</span>
 			<br><span style="font-size:0.9em;">B Capital Group</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/gill-wang-39116a15a/" target="_blank" style="text-decoration: none; color:black;">			
@@ -85,11 +81,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>GILL WANG</b>
+			<b>GILL WANG</b></a>
 			<br><span style="font-size:0.9em;">Global AR Product Manager</span>
 			<br><span style="font-size:0.9em;">NVIDIA</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
-			</a>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/rganti9/" target="_blank" style="text-decoration: none; color:black;">		
@@ -100,11 +95,10 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>RAGHU GANTI</b>
+			<b>RAGHU GANTI</b></a>
 			<br><span style="font-size:0.9em;">ProViz & Enterprise Software Sales Leader</span>
 			<br><span style="font-size:0.9em;">NVIDIA</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Helping to synthesize complex business issues into actionable and measurable outcomes using contextual data-based insights</span>
-			</a>
 		</td>
 	</tr>
     <!-- ROW 3 -->
@@ -118,29 +112,12 @@ We have both general mentors and specialised ones in the design thinking, digita
 					<td></td>
 				</tr>
 			</table>
-			<b>SHASHANK LUTHRA</b>
+			<b>SHASHANK LUTHRA</b></a>
 			<br><span style="font-size:0.9em;">Managing Director, Services and Software Sales, ASEAN</span>
 			<br><span style="font-size:0.9em;">Cisco</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales</span>
-			</a>
-		</td>
-		<td style="background:white; border: 15px solid white; width:33%;">
-			<a href="" target="_blank" style="text-decoration: none; color:black;">			
-			<table>
-				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-			</table>
-			<b></b>
-			<br><span style="font-size:0.9em;"></span>
-			<br><span style="font-size:0.9em;"></span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
-			</a>
 		</td>
 		<td style="background:white; border: 15px solid white; width:33%;">		
-			<a href="" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
 					<td></td>
@@ -152,7 +129,19 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;"></span>
 			<br><span style="font-size:0.9em;"></span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
-			</a>
+		</td>
+		<td style="background:white; border: 15px solid white; width:33%;">		
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b></b>
+			<br><span style="font-size:0.9em;"></span>
+			<br><span style="font-size:0.9em;"></span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
 </table>
