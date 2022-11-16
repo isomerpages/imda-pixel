@@ -4,6 +4,21 @@ links:
     collection: programmes
   - title: Workshops
     resource_room: true
+  - title: Workshops
+    url: /Monthly Workshops
+    sublinks:
+      - title: All
+        url: /monthly-workshops/
+      - title: AR VR
+        url: /monthly-workshops/ar-vr/
+      - title: Design Thinking
+        url: /monthly-workshops/design-thinking/
+      - title: Digital Storytelling
+        url: /monthly-workshops/digital-storytelling/
+      - title: Innovation
+        url: /monthly-workshops/innovation/
+      - title: UI UX
+        url: /monthly-workshops/ui-ux/
   - title: Facilities
     url: /facilities
     sublinks:
@@ -40,18 +55,3 @@ links:
         url: /connect/ebrochure
       - title: FAQ
         url: /connect/faq/
-  - title: Workshops
-    url: /Monthly Workshops
-    sublinks:
-      - title: All
-        url: /monthly-workshops/
-      - title: AR VR
-        url: /monthly-workshops/augmented-and-virtual-reality/
-      - title: Design Thinking
-        url: /monthly-workshops/design-thinking/
-      - title: Digital Storytelling
-        url: /monthly-workshops/digital-storytelling/
-      - title: Innovation
-        url: /monthly-workshops/innovation/
-      - title: UI UX
-        url: /monthly-workshops/ui-ux/
