@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - Corporates/.keep
-      - Corporates/Find Solution Providers.md
-      - Corporates/Innovation Consultancies.md
-      - Corporates/Events.md
+      - For Corporates/.keep
+      - For Corporates/Find Solution Providers.md
+      - For Corporates/Innovation Consultancies.md
+      - For Corporates/Events.md
       - Startups/.keep
       - Startups/Incubation and Tech Showcase.md
       - Startups/Win Key Reference Customers.md
