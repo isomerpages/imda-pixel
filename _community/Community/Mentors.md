@@ -241,3 +241,52 @@ We have both general mentors and specialised ones in the design thinking, digita
 		</td>
 	</tr>
 </table>
+
+**Immersive Experiences**
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/khoo-eng-tat.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>DR. KHOO ENG TAT</b></a>
+			<br><span style="font-size:0.9em;">Area Director (Outreach)</span>
+			<br><span style="font-size:0.9em;">NUS Engineering Design & Innovation Centre</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Startup advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/jeannieleesa/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/dr_jeannie_lee.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>DR. JEANNIE LEE</b></a>
+			<br><span style="font-size:0.9em;">Director of Programmes</span>
+			<br><span style="font-size:0.9em;">SIT</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Research and development in compelling, usable immersive technologies in the XR/VR/AR/MR fields</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
+			<a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/dr_tan_chek_tien.png"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>DR. CHEK TIEN TAN</b></a>
+			<br><span style="font-size:0.9em;">Director</span>
+			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+</table>
