@@ -33,7 +33,7 @@ third_nav_title: Community
 						<td></td>
 					</tr>
 				</table>
-				<span style="text-align: center;"><b>MEDIVR</b></span></a>
+				<span style="text-align: center;"><b>MEDIVR</b></a></span>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%;">
