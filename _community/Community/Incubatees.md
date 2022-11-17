@@ -324,7 +324,8 @@ third_nav_title: Community
 	</tr>
 </table>
 
+### Robotics
 ### IoT
 ### 5G
-### Robotics
+
 ### Others
