@@ -325,6 +325,48 @@ third_nav_title: Community
 </table>
 
 ### Robotics
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.dconstruct.co/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/dconstruct.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>DCONSTRUCT ROBOTICS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.h3dynamics.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/h3dynamics.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>H3 DYNAMICS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://avido-robotics.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/avidorobotics.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>AVIDO ROBOTICS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+</table>
+
 ### IoT
 ### 5G
 
