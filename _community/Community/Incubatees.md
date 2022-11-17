@@ -203,6 +203,43 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+	<!-- ROW 6 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<a href="https://www.canva.com/design/DAEf9jEvemQ/jk85gl21cl_Q1qcDM05ISw/view?website#2:frolic-games" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/frolic.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>FROLIC</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid white; width:33%;">	
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		<td style="border: 15px solid white; width:33%;">
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
 </table>
 
 ### AI
