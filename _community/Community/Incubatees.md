@@ -85,7 +85,46 @@ third_nav_title: Community
 				<b>SERL.IO</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		</tr>
+	</tr>
+	<!-- ROW 3 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<a href="https://www.vostokvr.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/vostok vr.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>VOSTOK VR</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<a href="https://www.eis.sg/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/evolve.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>EVOLVE INNOVATION SOLUTIONS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<a href="https://www.visre.co/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/visre.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>VISRE</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
 </table>
 
 ### AI
