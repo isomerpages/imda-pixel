@@ -9,7 +9,7 @@ PIXEL-appointed mentors are trusted and experienced advisors who are willing to 
 
 We have both general mentors and specialised ones in the design thinking, digital storytelling and immersive experiences fields. Pick your fit, it's free! Mentors and mentees are expected to develop and mutually agree on the scope and objectives of their engagement. 
 
-**General**
+### General
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -146,7 +146,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	</tr>
 </table>
 
-**Design Thinking**
+### Design Thinking
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -194,7 +194,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	</tr>
 </table>
 
-**Digital Storytelling**
+### Digital Storytelling
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -242,7 +242,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	</tr>
 </table>
 
-**Immersive Experiences**
+### Immersive Experiences
 <table>
     <!-- ROW 1 -->
 	<tr>
