@@ -42,7 +42,7 @@ third_nav_title: Community
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/alovr.png"></td>
+						<td><img src="/images/Community/Incubatees/augmenteed.png"></td>
 						<td></td>
 					</tr>
 				</table>
