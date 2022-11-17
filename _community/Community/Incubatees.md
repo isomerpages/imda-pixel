@@ -10,7 +10,7 @@ third_nav_title: Community
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -22,7 +22,7 @@ third_nav_title: Community
 				<b>MEDIVR</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://alo.health/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -34,7 +34,7 @@ third_nav_title: Community
 				<b>ALO VR</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.augmenteed.tech/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -49,7 +49,7 @@ third_nav_title: Community
 	</tr>
 	<!-- ROW 2 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.voox.io/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -61,7 +61,7 @@ third_nav_title: Community
 				<b>VOOX</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://nplasty.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -73,7 +73,7 @@ third_nav_title: Community
 				<b>NPLASTY</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://serl.io/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -88,7 +88,7 @@ third_nav_title: Community
 	</tr>
 	<!-- ROW 3 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.vostokvr.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -100,7 +100,7 @@ third_nav_title: Community
 				<b>VOSTOK VR</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.eis.sg/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -112,7 +112,7 @@ third_nav_title: Community
 				<b>EVOLVE INNOVATION SOLUTIONS</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.visre.co/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -127,7 +127,7 @@ third_nav_title: Community
 	</tr>
 	<!-- ROW 4 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.hiverlab.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -139,7 +139,7 @@ third_nav_title: Community
 				<b>HIVERLAB</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.magicmao.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -151,7 +151,7 @@ third_nav_title: Community
 				<b>MAGICMAO</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://vrcollab.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -166,7 +166,7 @@ third_nav_title: Community
 	</tr>
 	<!-- ROW 5 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://axomem.io/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -178,7 +178,7 @@ third_nav_title: Community
 				<b>AXOMEM</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="http://ignite-vr.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -190,7 +190,7 @@ third_nav_title: Community
 				<b>IGNITE VR</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.meshminds.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -205,7 +205,7 @@ third_nav_title: Community
 	</tr>
 	<!-- ROW 6 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%;">
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.canva.com/design/DAEf9jEvemQ/jk85gl21cl_Q1qcDM05ISw/view?website#2:frolic-games" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -217,7 +217,7 @@ third_nav_title: Community
 				<b>FROLIC</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
-		<td style="border: 15px solid white; width:33%;">	
+		<td style="border: 15px solid white; width:33%; text-align: center;">	
 				<table>
 					<tr>
 						<td></td>
@@ -228,7 +228,7 @@ third_nav_title: Community
 				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
-		<td style="border: 15px solid white; width:33%;">
+		<td style="border: 15px solid white; width:33%; text-align: center;">
 				<table>
 					<tr>
 						<td></td>
