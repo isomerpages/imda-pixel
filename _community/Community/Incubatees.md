@@ -10,94 +10,44 @@ third_nav_title: Community
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">AR/VR, AI</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Incubatees/alovr.png"></td>
-					<td></td>
-         </tr>
-      </table>
-			<b>MediVR</b>
-			<br>2022
-      <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<span style="color:grey; font-size:0.9em">AR/VR</span>	
+			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Mentors/dr_tan_chek_tien.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<span style="text-align: center;"><b>MEDIVR</b></span></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<span style="color:grey; font-size:0.9em">AR/VR</span>	
+			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Mentors/dr_tan_chek_tien.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<span style="text-align: center;"><b>MEDIVR</b></span></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
-        <td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">AI</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Incubatees/augmenteed.png"></td>
-					<td></td>
-         </tr>
-      </table>
-					<b>Elitefit</b>
-           <br>2021
-           <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-		</td>
-        <td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">GAMES</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="images/Community/Incubatees/bandwagon.png"></td>
-					<td></td>
-                </tr>
-            </table>
-            <b>Joysteak Studios</b>
-					<br>Alumni
-            <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-		</td>
-	</tr>
-    <!-- ROW 2 -->
-    <tr>
-		<td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">AR/VR</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Incubatees/betterdata.png"></td>
-					<td></td>
-                </tr>
-            </table>
-            <table>
-                <tr>
-                    <td><b>MediVR</b></td>
-                    <td style="width: 1%;white-space: nowrap;">2022</td>
-                </tr>
-            </table>
-            <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-		</td>
-        <td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">AI</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Incubatees/dconstruct.png"></td>
-					<td></td>
-                </tr>
-            </table>
-            <table>
-                <tr>
-                    <td><b>Elitefit</b></td>
-                    <td style="width: 1%;white-space: nowrap;">2021</td>
-                </tr>
-            </table>
-            <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
-		</td>
-        <td style="border: 15px solid lightgrey; width:33%;">		
-            <span style="color:grey; font-size:0.9em">GAMES</span>	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Incubatees/medivr.png"></td>
-					<td></td>
-                </tr>
-            </table>
-            <b>Joysteak Studios</b>
-             <br>Alumni
-            <br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
+		<td style="border: 15px solid #F7F7F7; width:33%;">
+			<span style="color:grey; font-size:0.9em">AR/VR</span>	
+			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Mentors/dr_tan_chek_tien.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<span style="text-align: center;"><b>MEDIVR</b></span></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
 </table>
