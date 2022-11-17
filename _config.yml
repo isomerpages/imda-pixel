@@ -3,10 +3,10 @@ url: https://pixel.imda.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#702f8a"
-  secondary-color: "#fc9bb3"
+  secondary-color: "#40c1ac"
   media-colors:
     - title: media-color-one
-      color: "#40c1ac"
+      color: "#fc9bb3"
     - title: media-color-two
       color: "#ff8400"
     - title: media-color-three
@@ -14,7 +14,7 @@ colors:
     - title: media-color-four
       color: "#63c8dc"
     - title: media-color-five
-      color: "#00838f"
+      color: "#474fbe"
 description: IMDA’s innovation hub for Corporates and Startups with co-working
   facilities, programmes and networks
 permalink: none
