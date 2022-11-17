@@ -2,7 +2,7 @@ logo: /images/pixel_logo_high_res-whitebackground.png
 links:
   - title: Programmes
     collection: programmes
-  - title: Workshops
+  - title: Events
     url: /monthly-workshops/
     sublinks:
       - title: AR VR
