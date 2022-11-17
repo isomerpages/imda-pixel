@@ -6,7 +6,7 @@ third_nav_title: Community
 ---
 # Startups
 
-## AI
+### AR/VR
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -102,4 +102,8 @@ third_nav_title: Community
 	</tr>
 </table>
 
-## AR/VR
+### AI
+### IoT
+### 5G
+### Robotics
+### Others
