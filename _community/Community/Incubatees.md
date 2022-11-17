@@ -4,7 +4,7 @@ permalink: /community/incubatees/
 description: current incubatees startups
 third_nav_title: Community
 ---
-# Startups
+# Incubatees
 
 ### AR/VR
 <table>
