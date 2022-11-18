@@ -286,7 +286,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<b>DR. CHEK TIEN TAN</b></a>
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
 		</td>
 	</tr>
 </table>
