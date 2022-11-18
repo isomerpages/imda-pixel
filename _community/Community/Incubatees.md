@@ -499,4 +499,46 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+	<!-- ROW 2 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Automation</span>
+			<a href="https://www.dlabs.sg/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/dlabs.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>DLABS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Environmental Tech</span>
+			<a href="https://hydroleap.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/hydroleap.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>HYDROLEAP</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Environmental Tech</span>
+			<a href="https://umitron.com/en/mission.html" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/umitron.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>UMITRON</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
 </table>
