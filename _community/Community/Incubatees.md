@@ -880,7 +880,7 @@ third_nav_title: Community
 	<!-- ROW 10 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
 			<a href="https://www.10days-studio.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -918,5 +918,87 @@ third_nav_title: Community
 				<b>MIGHTY BEAR</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
+	</tr>
+	<!-- ROW 11 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://tribe-world.com/pangaea/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/pangaea.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>PANGAEA INTERACTIVE</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="http://www.ratloop.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/ratloop.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>RATLOOP ASIA</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://thegentlebros.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/gentlebros.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>THE GENTLEBROS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+	<!-- ROW 12 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://www.sidefx.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/sidefx.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>SIDE FX STUDIOS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>	
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>	
 	</tr>
 </table>
