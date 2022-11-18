@@ -27,6 +27,14 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 	</tr>
 </table>
 
+<h2>Co-Working Spaces</h2>
+Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
+<br><br>
+
+<h2>Event Spaces</h2>
+Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
+<br><br>
+
 <h2>Production Studio - **To remove Makeup room and kitchen studio** </h2> 
 Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
 <br><br>
@@ -68,10 +76,3 @@ Get creative in the professional-grade production studio with facilities, featur
 		</td>
 	</tr>
 </table>
-
-<h2>Event Spaces</h2>
-Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
-<br><br>
-<h2>Co-Working Spaces</h2>
-Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
-<br><br>
