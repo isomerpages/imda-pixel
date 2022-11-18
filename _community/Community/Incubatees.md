@@ -156,7 +156,7 @@ third_nav_title: Community
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/vrcollab.png"></td>
+						<td><img src="/images/Community/Incubatees/vrcollab-1.png"></td>
 						<td></td>
 					</tr>
 				</table>
