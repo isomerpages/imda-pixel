@@ -751,4 +751,88 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+	<!-- ROW 7 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
+			<a href="https://www.bandwagon.asia/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/bandwagon.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>BANDWAGON</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
+			<a href="https://www.viddsee.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/viddsee.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>VIDDSEE</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
+			<a href="https://www.vuulr.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/vuulr.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>VUULR</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+	<!-- ROW 8 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
+			<a href="https://www.1playsports.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/1playsports.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>1PLAYSPORTS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Sports</span>
+			<a href="https://www.e3sports.asia/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/e3sports.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>E3 SPORTS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
+			<a href="https://0x2a.science/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/42lab.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>42 LAB</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
 </table>
