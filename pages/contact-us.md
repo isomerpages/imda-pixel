@@ -45,10 +45,10 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: 'Have questions? We have <a href="https://go.gov.sg/preqform"
-          target="_blank" style="background-color: #0A66C2; color: white;
-          text-decoration: none; border-radius: 100px; padding-left: 20px;
-          padding-right: 20px; padding-top:8px; padding-bottom:8px">FAQ</a>'
+      - other: '<br><a href="https://go.gov.sg/preqform" target="_blank"
+          style="background-color: #0A66C2; color: white; text-decoration: none;
+          border-radius: 100px; padding-left: 20px; padding-right: 20px;
+          padding-top:8px; padding-bottom:8px">FAQ</a>'
     title: FAQ
   - content:
       - phone: ""
@@ -56,6 +56,6 @@ contacts:
       - other: '<br><a href="https://go.gov.sg/preqform" target="_blank"
           style="background-color: #0A66C2; color: white; text-decoration: none;
           border-radius: 100px; padding-left: 20px; padding-right: 20px;
-          padding-top:8px; padding-bottom:8px">Apply</a>'
-    title: Join our Mailing List
+          padding-top:8px; padding-bottom:8px">Join</a>'
+    title: Mailing List
 ---
