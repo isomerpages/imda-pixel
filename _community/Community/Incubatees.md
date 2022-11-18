@@ -835,4 +835,88 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+	<!-- ROW 9 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
+			<a href="https://www.prepjr.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/prepventures.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>PREP VENTURES</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://www.meta.us/about-us" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/metaus.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>META US</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://joysteak.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/joysteak.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>JOYSTEAK STUDIOS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+	<!-- ROW 10 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
+			<a href="https://www.10days-studio.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/tendaysstudios.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>TENDAYS STUDIO</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://battleskybrigade.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/battlebrew.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>BATTLEBREW PRODUCTIONS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
+			<a href="https://mightybeargames.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/mightybear.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>MIGHTY BEAR</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
 </table>
