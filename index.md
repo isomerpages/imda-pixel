@@ -28,8 +28,6 @@ sections:
       description: "Discover new opportunities - Whether you are a corporate looking
         to innovate or a startup looking for business opportunities, we've got
         you covered. "
-      button: INSIDER INSIGHTS
-      url: https://youtu.be/UzjZYTQgm7M
   - infopic:
       title: Open Innovation Platform
       description: "Whether you’re a business looking for innovative solutions for
