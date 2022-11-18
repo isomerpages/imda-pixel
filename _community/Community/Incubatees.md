@@ -368,6 +368,90 @@ third_nav_title: Community
 </table>
 
 ### IoT
-### 5G
+
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.ackcio.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/ackio.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>ACKCIO</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://embodiedsensing.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/embodied-sensing.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>EMBODIED SENSING</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
+</table>
+
+
+### Connectivity
+
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://dolby.io/products/real-time-streaming/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/millicast.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>MILLICAST</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="http://xy-connect.com/en/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/xyconnect.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>XYCONNECT</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+	</tr>
+</table>
 
 ### Others
