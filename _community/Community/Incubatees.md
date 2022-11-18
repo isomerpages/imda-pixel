@@ -625,4 +625,46 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+	<!-- ROW 5 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
+			<a href="https://www.trustineo.net/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/trustineo.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>TRUSTINEO</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
+			<a href="https://lendor.sg/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/lendor.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>LENDOR</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
+			<a href="https://www.outsideapp.co/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/outside.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>OUTSIDE</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
 </table>
