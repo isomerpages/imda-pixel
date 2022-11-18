@@ -4,10 +4,15 @@ permalink: /startups/incubation/
 description: Join PIXEL's Incubation Programme and/or Apply For Tech Showcase
 third_nav_title: For Startups
 ---
-
-
 <h1>PIXEL Incubation Programme</h1>
-<img src="https://drive.google.com/uc?export=view&amp;id=1QzMSI8IblGjMdZWynQUaVzwlrtIkDclG">
+
+We recognise that innovation can be challenging. Whether you are an innovator, tech provider or a corporate looking for solutions to your business challenges and/ or partnerships, PIXEL has something for you.
+
+Our aim is to provide a platform where you can showcase your products and services, connect with like-minded people, exchange ideas, find partners and more.
+
+We are looking for innovative technology providers and corporate partners who are passionate about their ideas. If you have something to share with the world and would like to connect with those who can help you take your idea from vision to reality, then PIXEL is the place for you.
+
+<a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for Incubation</a><br><br>
 
 PIXEL provides start-ups and corporates with facilities, expertise, and programmes to ideate, experiment, and build customer-centric digital experiences for the future. Look forward to a suite of benefits!
 
@@ -29,6 +34,7 @@ PIXEL provides start-ups and corporates with facilities, expertise, and programm
 
 <h3>Expertise</h3>
 Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking. 
+<br><br>
 
 <table>
 	<tr>
@@ -48,4 +54,4 @@ Level up your knowledge with 1-to-1 consultation sessions, project-based coachin
 	</tr>
 </table>
 
-<h4><a href="https://form.gov.sg/#!/6347a3c39854900012674f4d" target="_blank">Apply now</a></h4>
+<a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for Incubation</a><br><br>
