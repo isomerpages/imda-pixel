@@ -14,7 +14,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td>
             <br><b>Huawei</b>
             <br>We partnered Huawei.
-            <br><br><a href="" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.theedgesingapore.com/news/special-feature/huawei-cloud-and-imda-partnership-give-local-start-ups-boost-spark-incubator" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
@@ -22,7 +22,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td>
             <br><b>Amazon Web Services</b>
             <br>We partnered AWS. 
-            <br><br><a href="" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.smartcitiesworld.net/news/news/aws-and-imda-launch-joint-innovation-centre-in-singapore-8332" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td>
 		    <br><b>NVIDIA</b> 
             <br>We are in collaboration with Nvidia to bring expert resources on the Omniverse Platform to our start-ups and tech community. Start-ups can gain access to the Omniverse software platform at PIXEL, software trials and tutorials, and speak to Nvidia mentors on ARVR and AI to accelerate their solution development. The community can also look forward to programming and events on the latest technology topics such as ARVR and AI.
-            <br><br><a href="" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.nvidia.com/en-us/" target="_blank" style="background-color: lightgrey; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
