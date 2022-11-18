@@ -43,11 +43,9 @@ links:
       - title: Press Release
         url: /success-stories/press-release/aws/
   - title: Connect with us
-    url: /connect/contact-us/
+    url: /contact-us/
     sublinks:
       - title: Contact Us
         url: /contact-us/
       - title: eBrochure
         url: /connect/ebrochure
-      - title: FAQ
-        url: /connect/faq/
