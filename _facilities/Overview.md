@@ -13,7 +13,7 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 <a href="/facilities/Facilities-Specs/fact-sheet/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">View Full Fact Sheet</a>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Specialised Labs</h2>
 Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
