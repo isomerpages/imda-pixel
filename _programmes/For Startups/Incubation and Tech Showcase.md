@@ -4,7 +4,6 @@ permalink: /startups/incubation-and-tech-showcase/
 description: Join PIXEL's Incubation Programme and/or Apply For Tech Showcase
 third_nav_title: For Startups
 ---
-
 <h1>PIXEL Incubation Programme</h1>
 <img src="https://drive.google.com/uc?export=view&amp;id=1QzMSI8IblGjMdZWynQUaVzwlrtIkDclG">
 
