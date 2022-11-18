@@ -69,29 +69,6 @@ Get creative in the professional-grade production studio with facilities, featur
 	</tr>
 </table>
 
-<h2>Specialised Labs</h2>
-Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
-<br><br>
-
-<table>
-	<tr>
-		<th><img src="https://drive.google.com/uc?export=view&amp;id=1OF0BzoBP9uPYTF5OUVfR3za6AsRU8PEq"></th>
-		<th><img src="https://drive.google.com/uc?export=view&amp;id=1WAPJX8Hnhj-rcGxJCHUDW1-owPo4Kl9U"></th>
-		<th><img src="https://drive.google.com/uc?export=view&amp;id=1RQFvYmTfmC-qO2GeD7w0NiXqCnyufUq6"></th>
-	</tr>
-	<tr>
-		<td>
-			<b>The Black Room</b>
-		</td>
-		<td>
-			<b>The 70’s Diner</b>
-		</td>
-		<td>
-			<b>The Train Carriage</b>
-		</td>
-	</tr>
-</table>
-
 <h2>Event Spaces</h2>
 Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
 <br><br>
