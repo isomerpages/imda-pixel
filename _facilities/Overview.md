@@ -19,13 +19,6 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
 <br><br>
 
-<table>
-	<tr>
-		<td style="width:33%"><img src="/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png"></td>
-		<td style="width:33%"><img src=""></td>
-		<td style="width:33%"><img src=""></td>
-	</tr>
-</table>
 
 <h2>Co-Working Spaces</h2>
 Get new ideas and collaborate by networking with the PIXEL network and mentors at the discussion areas, and use the meeting rooms for extended discussions.
