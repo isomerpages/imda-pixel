@@ -7,9 +7,11 @@ description: success stories testimonial
 
 ![](/images/PIXEL%20x%20EED%20.jpg)
 
-<img src="https://drive.google.com/uc?export=view&amp;id=17WwWR7LSKswzA8CZGjbeDh5381QJz7zd">
+#### 3 innovative Singaporean startups that are transforming the way we live, work, and play
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.
+
+However, the startup life is not easy. Even as companies pursue these innovations, they face numerous hurdles such as raising funds and building credibility. [Read more](https://www.techinasia.com/3-innovative-singaporean-startups-transforming-live-work-play)
 <h2>More Stories</h2>
 <table>
 	<tr>
