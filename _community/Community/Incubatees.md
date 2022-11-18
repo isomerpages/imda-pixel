@@ -455,3 +455,46 @@ third_nav_title: Community
 </table>
 
 ### Others
+
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.9em; text-align: left;">DATA</span>
+			<a href="https://www.orovault.co/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/orovault.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>OROVAULT.CO</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://reach52.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/reach52.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>REACH52</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.adidesigns.asia/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/adidesign.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>ADI DESIGN STUDIO</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+		</td>
+	</tr>
+</table>
