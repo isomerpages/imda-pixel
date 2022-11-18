@@ -460,7 +460,7 @@ third_nav_title: Community
     <!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<span style="color:grey; font-size:0.9em; text-align: left;">DATA</span>
+			<span style="color:grey; font-size:0.8em; text-align: left;">Data</span>
 			<a href="https://www.orovault.co/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -473,6 +473,7 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Data</span>
 			<a href="https://reach52.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -485,6 +486,7 @@ third_nav_title: Community
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Product Design</span>
 			<a href="https://www.adidesigns.asia/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
