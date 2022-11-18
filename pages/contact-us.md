@@ -45,11 +45,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Have questions? We have <i>answers</i>
+      - other: 'Have questions? We have <a href="https://go.gov.sg/preqform"
+          target="_blank" style="background-color: #0A66C2; color: white;
+          text-decoration: none; border-radius: 100px; padding-left: 20px;
+          padding-right: 20px; padding-top:8px; padding-bottom:8px">FAQ</a>'
     title: FAQ
   - content:
       - phone: ""
       - email: ""
-      - other: <i>https://form.gov.sg/#!/5f6327d424978a001130835c</i>
+      - other: '<br><a href="https://go.gov.sg/preqform" target="_blank"
+          style="background-color: #0A66C2; color: white; text-decoration: none;
+          border-radius: 100px; padding-left: 20px; padding-right: 20px;
+          padding-top:8px; padding-bottom:8px">Apply</a>'
     title: Join our Mailing List
 ---
