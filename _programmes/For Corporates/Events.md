@@ -4,4 +4,5 @@ permalink: /monthly-workshops/ar-vr/
 description: ""
 third_nav_title: For Corporates
 ---
-Check out our monthly workshops and events! 
+PIXEL organises monthly events including complimentary workshops - from Design Thinking to UI/UX and Digital Storytelling. 
+
