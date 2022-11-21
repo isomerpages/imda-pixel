@@ -138,7 +138,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
     <tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactosy%20Haptic%20Sleeve%20for%20Feet.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactosy Haptic Sleeve for Feet</b><br>
 			<br>• Water-resistant fabric
 			<br>• 3 Haptics Feedback Points each
