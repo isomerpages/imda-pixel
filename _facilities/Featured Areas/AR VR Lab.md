@@ -149,4 +149,4 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 
 ## Room Specs
 * Size: 61.6 m²
-* Capacity: Up to 20
+* Capacity: Up to 20 pax
