@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Featured Areas
 ---
 # AR VR Lab
-![Equipment Wall](/images/Facilities/AR%20VR%20Lab/ARVR.jpg)
+![AR/VR Wall](/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png)
+
 
 Get your hands dirty with a suite of high-end technology equipment like Realwear, Hololens, Oculus, and Tact suit to start the development of immersive experiences.
 ## Equipment
