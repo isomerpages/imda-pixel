@@ -6,7 +6,7 @@ description: facilities working space
 # PIXEL's Innovation Space
 PIXEL provides start-ups and corporates with 28k square feet of innovation space, with a unique mix of facilities and equipment for technology, media and design. The facilities and equipment are designed to embed customer centricity into your product. 
 
-<a href="https://go.gov.sg/preqform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply</a>
+<a href="https://go.gov.sg/preqform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for facilities</a>
 
 <a href="/facilities/ARVR-lab/"  target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Featured Areas</a>&emsp;
 <a href="/facilities/Facilities-Specs/fact-sheet/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Full Fact Sheet</a>
