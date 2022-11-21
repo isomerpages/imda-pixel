@@ -4,7 +4,6 @@ permalink: /facilities/usability-testing-lab/
 description: ""
 third_nav_title: Featured Areas
 ---
-
 # Usability Testing Lab
 ![](/images/Facilities/Usability%20Testing%20Lab/Room.jpg)
 
@@ -22,4 +21,4 @@ Test out your prototypes with our usability testing lab to help gather quantitat
 
 ## Room Capacity
 * Size: 28 m²
-* Capacity: Up to 6
+* Capacity: Up to 6 pax
