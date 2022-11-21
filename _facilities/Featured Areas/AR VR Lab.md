@@ -13,8 +13,8 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 ### AR Headsets
 <table>
 	<tr>
-		<td style="width:50%; vertical-align:middle; border-top: 0.75px solid lightgrey; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
-		<td style="width:50%; vertical-align:middle; border-top: 0.75px solid lightgrey; border-bottom: 0.75px solid lightgrey"><b>Magic Leap 1</b><br>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Magic Leap 1</b><br>
 			<br>• Eye tracking 
 			<br>• 1280 x 960 per eye resolution
 			<br>• 50° Diagonal Field of View
@@ -40,8 +40,8 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
     <tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Rokid X-Craft</b><br>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td style="width:50%; vertical-align:middle;"><b>Rokid X-Craft</b><br>
 			<br>• Rugged design: waterproof, dustproof, shockproof 
 			<br>• Modular system for addition of devices/accessories
 			<br>• 40° Horizontal Field of View
@@ -49,6 +49,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 </table>
+<br>
 
 ### MR Headsets
 <table>
@@ -61,6 +62,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 </table>
+<br>
 
 ### VR Headsets
 <table>
@@ -100,6 +102,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 </table>
+<br>
 
 ### Immersive Accessories
 <table>
@@ -146,6 +149,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 </table>
+<br>
 
 ## Room Specs
 * Size: 61.6 m²
