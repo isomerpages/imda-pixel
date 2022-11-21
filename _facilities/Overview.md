@@ -58,6 +58,25 @@ Connect with the community at our workshops, meetups and industry mixers. Attend
 	</tr>
 </table>
 
-## Production Studio - **To remove Makeup room and kitchen studio** 
+## Production Studios 
 Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
-<br><br>
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Green%20Room.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Video%20Production%20Studio.jpg" style="border-radius:20px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Green Room</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Video Production Studio</b></td>
+	</tr>
+    <!-- ROW 2 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Audio%20Recording%20Suite.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Editing%20Suite.jpg" style="border-radius:20px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Audio Recording Suite</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Editing Suite</b></td>
+	</tr>
+</table>
