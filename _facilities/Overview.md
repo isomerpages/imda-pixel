@@ -19,13 +19,23 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
 
 <table>
+    <!-- ROW 1 -->
 	<tr>
 		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/ARVR.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Usability%20Testing%20Lab.jpg" style="border-radius:20px;"></td>
 	</tr>
 	<tr>
-		<td style="text-align:center"><b>AR/VR Lab</b></td>
-		<td style="text-align:center"><b>5G Living Lab</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>AR/VR Lab</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Usability Testing Lab</b></td>
+	</tr>
+    <!-- ROW 2 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Prototyping%20Lab.jpg" style="border-radius:20px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>5G Living Lab</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Prototyping Lab</b></td>
 	</tr>
 </table>
 
