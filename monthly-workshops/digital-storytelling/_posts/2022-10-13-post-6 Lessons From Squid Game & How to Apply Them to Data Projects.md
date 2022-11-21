@@ -29,7 +29,7 @@ Analytico Asia is a Singaporean data company that focuses on simplifying data au
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/digital-storytelling/AAbnw.png)
+![Kishan](/images/Digital%20Storytelling/profile.png)
 
 **Kishan S., Managing Director at Analytico Asia**
 
