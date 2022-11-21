@@ -31,7 +31,7 @@ description: ""
 		<td style="vertical-align:middle; border-bottom:none;">
 			<blockquote>
 			We are deeply appreciative for the access to IMDA's innovation facilities and resources.
-			<br><i>- Andrew Ler, Atome<i>
+			<br><i>- Andrew Ler, Atome</i>
 			</blockquote>
 		</td>
 	</tr>
@@ -40,7 +40,7 @@ description: ""
 		<td style="vertical-align:middle;">
 			<blockquote>
 				The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
-			<br><i>- Andrew Ler, Atome<i>
+			<br><i>- Andrew Ler, Atome</i>
 			</blockquote>
 		</td>
 	</tr>
