@@ -8,7 +8,7 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 
 <a href="https://go.gov.sg/preqform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply</a>
 
-<a href="/facilities/ARVR-lab/"  target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">View Featured Areas</a>&emsp;
+<a href="/facilities/ARVR-lab/"  target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Featured Areas</a>&emsp;
 <a href="/facilities/Facilities-Specs/fact-sheet/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Full Fact Sheet</a>
 <br>
 
