@@ -20,7 +20,7 @@ Curious to find out how infographics allows you to condense vast amount of data 
 
 Sign up for the complimentary Digital Storytelling workshop led by Hui Ting Lee - Creative Director of Lime Agency & Just Startup. In this workshop you will get to learn how to use infographics to enhance your storytelling in presentation decks, on your website or in your online communication.
 
-[Registeration has ended](https://imda-pixel.sg/event/354)
+<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner: Lime Agency**
 
