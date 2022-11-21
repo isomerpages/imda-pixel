@@ -3,7 +3,7 @@ links:
   - title: Programmes
     collection: programmes
   - title: Events
-    url: /monthly-workshops/
+    url: /monthly-workshops/ar-vr/
     sublinks:
       - title: AR VR
         url: /monthly-workshops/ar-vr/
