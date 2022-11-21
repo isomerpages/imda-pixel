@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
+![29 sep - Digital Storytelling](/images/Digital%20Storytelling/PIXEL_Digital-Storytelling---Infographics-in-Digital-Storytelling_1600-x-800%20(1).jpg)
 
 | Title | Infographics in Digital Storytelling | | 
 | -------- | -------- | --------| 
@@ -20,7 +20,7 @@ Curious to find out how infographics allows you to condense vast amount of data 
 
 Sign up for the complimentary Digital Storytelling workshop led by Hui Ting Lee - Creative Director of Lime Agency & Just Startup. In this workshop you will get to learn how to use infographics to enhance your storytelling in presentation decks, on your website or in your online communication.
 
-[Register Here](https://imda-pixel.sg/event/354)
+[Registeration has ended](https://imda-pixel.sg/event/354)
 
 **Presenting Partner: Lime Agency**
 
