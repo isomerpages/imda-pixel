@@ -4,9 +4,8 @@ permalink: /facilities/5G-lab/
 description: ""
 third_nav_title: Featured Areas
 ---
-
 # 5G Living Lab
-![]()
+![](/images/Facilities/5GLab.png)
 
 Use the 5G living lab to experiment with and develop 5G applications and proof-of-concepts.
 
