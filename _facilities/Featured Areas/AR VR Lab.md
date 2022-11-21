@@ -20,7 +20,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 <table>
 	<tr>
 		<td style="width:50%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
-		<td  style="width:70%; vertical-align:middle;"><b>Magic Leap 1</b>
+		<td  style="width:70%; vertical-align:middle;"><b>Magic Leap 1</b><br>
 			<br>• Eye tracking 
 			<br>• 1280 x 960 per eye resolution
 			<br>• 50° Diagonal Field of View
@@ -29,7 +29,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 	<tr>
 		<td style="width:30%"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%202.png"></td>
-		<td  style="width:70%; vertical-align:middle;"><b>Magic Leap 2</b>
+		<td  style="width:70%; vertical-align:middle;"><b>Magic Leap 2</b><br>
 			<br>• Eye tracking 
 			<br>• 1440 x 1760 per eye resolution
 			<br>• 70° Diagonal Field of View
