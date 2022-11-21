@@ -22,8 +22,8 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 
 <table>
 	<tr>
-		<td style="width:50%"><img src="/images/Facilities/AR%20VR%20Lab/ARVR.jpg" style="border-radius:50%; border:10px solid green"></td>
-		<td style="width:50%"><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:50%; border:10px solid green"></td>
+		<td style="width:50%"><img src="/images/Facilities/AR%20VR%20Lab/ARVR.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%"><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
 	</tr>
 </table>
 
