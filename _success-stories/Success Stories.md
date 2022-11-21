@@ -14,7 +14,8 @@ However, the startup life is not easy. Even as companies pursue these innovation
 
 Fortunately, governments are well aware of how they can make a difference for startups and the importance of innovation. Singapore’s Infocomm Media Development Authority (IMDA), for one, has enacted a comprehensive set of programs and schemes to support young companies on their journeys.
 
-[Read more](https://www.techinasia.com/3-innovative-singaporean-startups-transforming-live-work-play)
+<a href="https://www.techinasia.com/3-innovative-singaporean-startups-transforming-live-work-play" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Continue Reading</a>
+
 
 ## More Stories
 
