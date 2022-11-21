@@ -22,8 +22,12 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 
 <table>
 	<tr>
-		<td style="width:50%"><img src="/images/Facilities/AR%20VR%20Lab/ARVR.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%"><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/AR%20VR%20Lab/ARVR.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center"><b>AR/VR Lab</b></td>
+		<td style="text-align:center"><b>5G Living Lab</b></td>
 	</tr>
 </table>
 
