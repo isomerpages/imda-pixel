@@ -74,7 +74,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 	<tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%202.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/VR%20Headset%20Pico%204.jpg"></td>
 		<td style="width:70%; vertical-align:middle;"><b>Pico 4</b><br>
 			<br>• All-in-one cordless headset
 			<br>• 2160 x 2160 per eye resolution
