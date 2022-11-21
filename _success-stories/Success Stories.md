@@ -16,10 +16,10 @@ However, the startup life is not easy. Even as companies pursue these innovation
 <table>
 	<tr>
 		<td><img src="https://drive.google.com/uc?export=view&amp;id=17WwWR7LSKswzA8CZGjbeDh5381QJz7zd"></td>
-		<td>AI
-			<br><b><a href="https://www.w3schools.com" target="_blank">How These Small, Little-Known Startups are Accelerating their Expansion to the World</a></b>
-			<br><br>Allen Foo
-			<br> Voox Singapore
+		<td>Partnership
+			<br><b><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank">AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</a></b>
+			<br><br>
+			<br>
 		</td>
 			<td><img src="https://drive.google.com/uc?export=view&amp;id=1MDmyR6LUZud53NZx2xGpc2VAT-zsYovj"></td>
 		<td>AR/VR, Robotics
