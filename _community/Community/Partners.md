@@ -21,8 +21,8 @@ We partner established tech firms and accelerators to host a range of innovation
         <td><br><img src="/images/Community/Partners/AWS.png"></td>
         <td>
             <br><b>Amazon Web Services</b>
-            <br>We partnered AWS. 
-            <br><br><a href="https://www.smartcitiesworld.net/news/news/aws-and-imda-launch-joint-innovation-centre-in-singapore-8332" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage startup growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform.
+            <br><br><a href="https://pixel.imda.gov.sg/success-stories/press-release/aws/" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
