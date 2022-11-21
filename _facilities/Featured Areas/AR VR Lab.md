@@ -10,7 +10,7 @@ third_nav_title: Featured Areas
 Get your hands dirty with a suite of high-end technology equipment like Realwear, Hololens, Oculus, and Tact suit to start the development of immersive experiences.
 ## Equipment
 
-<h3 style="color: black">AR Headsets</h3>
+### AR Headsets
 <table>
 	<tr>
 		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
@@ -50,7 +50,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 </table>
 
-<h3 style="color: black">MR Headsets</h3>
+### MR Headsets
 <table>
 	<tr>
 		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/MR%20Headet%20Microsoft%20HoloLens%202.png"></td>
@@ -62,10 +62,10 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 	</tr>
 </table>
 
-<h3 style="color: black">VR Headsets</h3>
+### VR Headsets
 
 
-<h3 style="color: black">Immersive Accessories</h3>
+### Immersive Accessories
 
 ## Room Specs
 * Size: 61.6 m²
