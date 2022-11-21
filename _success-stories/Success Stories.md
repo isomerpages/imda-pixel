@@ -21,7 +21,7 @@ Fortunately, governments are well aware of how they can make a difference for st
 
 <table>
 	<tr>
-		<td><img src="/images/Success%20stories/AWS%20JIC.jpg"></td>
+		<td style="width:25%"><img src="/images/Success%20stories/AWS%20JIC.jpg"></td>
 		<td>Partnership
 			<br><b><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank">AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</a></b>
 		</td>
