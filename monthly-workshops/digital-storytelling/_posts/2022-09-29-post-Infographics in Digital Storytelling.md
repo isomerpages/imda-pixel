@@ -19,7 +19,6 @@ image: ""
 Curious to find out how infographics allows you to condense vast amount of data into easy-to-understand pieces? Or how to create a data presentation keeps your audiences engaged? 
 
 Sign up for the complimentary Digital Storytelling workshop led by Hui Ting Lee - Creative Director of Lime Agency & Just Startup. In this workshop you will get to learn how to use infographics to enhance your storytelling in presentation decks, on your website or in your online communication.
-
 <br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner: Lime Agency**
@@ -28,7 +27,7 @@ Founded in 2015, Lime Agency is an award-winning branding agency based in Singap
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/digital-storytelling/huitinglime.png)
+![Hui Ting- Lime Agency](/images/Digital%20Storytelling/lime-%20huiting.jpg)
 
 **Hui Ting Lee, Creative Director of Lime Agency & Just Startup**
 
