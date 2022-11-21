@@ -45,7 +45,18 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 
 ## Event Spaces
 Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
-<br><br>
+
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Seminar%20Room.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Collaboration%20Area.jpg" style="border-radius:20px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Seminar Room</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Collaboration Area</b></td>
+	</tr>
+</table>
 
 ## Production Studio - **To remove Makeup room and kitchen studio** 
 Get creative in the professional-grade production studio with facilities, features and equipment such as green screens, a virtual video system, professional cameras and a camera crane system.
