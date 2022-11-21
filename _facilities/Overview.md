@@ -18,11 +18,9 @@ PIXEL provides start-ups and corporates with 28k square feet of innovation space
 ## Specialised Labs
 Use the dedicated specialised labs with your team to develop innovative digital products and solutions.
 
-
-
 <table>
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/AR%20VR%20Lab/ARVR.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/ARVR.jpg" style="border-radius:20px;"></td>
 		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
 	</tr>
 	<tr>
