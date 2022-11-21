@@ -104,7 +104,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 ### Immersive Accessories
 <table>
 	<tr>
-		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactot%20DK3%20Haptic%20Vest.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactot DK3 Haptic Vest</b><br>
 			<br>• Converts sound into haptic feedback in real time
 			<br>• One-size-fits-all
@@ -113,15 +113,15 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 	<tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%202.png"></td>
-		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactal Haptic Face cover for VR HMD</b><br>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactal%20Haptic%20Face%20cover%20for%20VR%20HMD.png"></td>
+		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactal Haptic Face Cover for VR HMD</b><br>
 			<br>• Water-resistant fabric
 			<br>• 6 Haptics Feedback Points
 			<br>• Compatibility: HTC Hive Pro, Oculus Quest 2
 		</td>
 	</tr>
 	<tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Realware%20HMT-1.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactosy%20Haptoc%20Sleeve%20for%20Arms.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactosy Haptic Sleeve for Arms</b><br>
 			<br>• Converts sound into haptic feedback in real time
 			<br>• Water-resistant fabric
@@ -130,7 +130,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
     <tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactosy%20Haptic%20Sleeve%20for%20Hands.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>bHaptics Tactosy Haptic Sleeve for Hands</b><br>
 			<br>• Water-resistant fabric
 			<br>• 3 Haptics Feedback Points each
