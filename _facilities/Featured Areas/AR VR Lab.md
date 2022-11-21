@@ -65,7 +65,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 ### VR Headsets
 <table>
 	<tr>
-		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/VR%20Headset%20HTC%20VIVE%20Pro.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>HTC VIVE Pro</b><br>
 			<br>• 1440 x 1600 per eye resolution (615 PPL)
 			<br>• 110° Horizontal Field of View
