@@ -82,7 +82,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
 	<tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Realware%20HMT-1.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/VR%20Headset%20Oculus%20Quest.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>Oculus Quest 2</b><br>
 			<br>• All-in-one cordless headset
 			<br>• 1832 x 1920 per eye resolution 
@@ -91,7 +91,7 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 		</td>
 	</tr>
     <tr>
-		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td style="width:30%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/VR%20Headset%20Meta%20Quest%20Pro.png"></td>
 		<td style="width:70%; vertical-align:middle;"><b>Meta Quest Pro</b><br>
 			<br>• All-in-one cordless headset
 			<br>• Flexible levels of immersion: fully open peripheral vision, partial block, fully immersed
