@@ -51,7 +51,16 @@ Get your hands dirty with a suite of high-end technology equipment like Realwear
 </table>
 
 <h3 style="color: black">MR Headsets</h3>
-
+<table>
+	<tr>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/MR%20Headet%20Microsoft%20HoloLens%202.png"></td>
+		<td style="width:70%; vertical-align:middle;"><b>Microsoft HoloLens 2</b><br>
+			<br>• Hands free operation
+			<br>• Hand & Eye Tracking, Voice Enabled
+			<br>• Spatial Mapping
+		</td>
+	</tr>
+</table>
 
 <h3 style="color: black">VR Headsets</h3>
 
