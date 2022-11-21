@@ -14,7 +14,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td>
             <br><b>Huawei</b>
             <br>Targeting early-stage Singapore-based start-ups, the Spark Incubator Programme aims to support the growth and expansion of start-ups in three key sectors of FinTech, Web3, Metaverse and Enterprise Software. 
-            <br><br><a href="https://www.theedgesingapore.com/news/special-feature/huawei-cloud-and-imda-partnership-give-local-start-ups-boost-spark-incubator" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://pixel.imda.gov.sg/success-stories/Press-Release/huawei/" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
