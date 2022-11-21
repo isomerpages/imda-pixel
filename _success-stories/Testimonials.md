@@ -17,12 +17,19 @@ description: ""
 <table>
 	<tr>
 		<td style="width:33%; text-align: center; vertical-align:middle;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
-		<td style="vertical-align:middle;">
-			
-> We are deeply appreciative for the access to IMDA's innovation facilities and resources
+		<td style="vertical-align:middle;">We are deeply appreciative for the access to IMDA's innovation facilities and resources
 		</td>
 	</tr>
 </table>
+
+<table>
+	<tr>
+		<td style="width:33%; text-align: center; vertical-align:middle;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+		<td style="vertical-align:middle;"><blockquote>We are deeply appreciative for the access to IMDA's innovation facilities and resources</blockquote>
+		</td>
+	</tr>
+</table>
+
 
 <blockquote>
 We are deeply appreciative for the access to IMDA's innovation facilities and resources
