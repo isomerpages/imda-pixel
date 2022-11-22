@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![Alt text for image on Isomer site](/images/ui-ux/uiuxoct.jpg)
+![27 Oct- UIUX](/images/Events/UIUX/PIXEL_UIUX-Workshop---Framing-UX-Through-a-Service-Design-Lens-for-Success_1600x800.jpg)
 
 | Title | UIUX Workshop: Framing UX Through a Service Design Lens for Success | | 
 | -------- | -------- | --------| 
