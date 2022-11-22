@@ -15,7 +15,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 			<br><b>Size</b>: 14 m²
 			<br><b>Capacity</b>: Up to 6 pax
 			<br><b>Equipment</b>: 
-			<br>• 6 Degrees of Freedom Handheld Controllers
+			<br>&emsp; • 6 Degrees of Freedom Handheld Controllers
 		</td>
 	</tr>
 	<tr>
