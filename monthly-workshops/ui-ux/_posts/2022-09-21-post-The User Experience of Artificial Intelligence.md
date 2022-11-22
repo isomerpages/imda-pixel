@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![Alt text for image on Isomer site](/images/ui-ux/uiuxsep.png)
+![21 Sep- UIUX](/images/UIUX/PIXEL-UIUX-Workshop---The-User-Experience-of-Artificial-Intelligence_1600-x-800_V2.png)
 
 | Title | UIUX Workshop: The User Experience of Artificial Intelligence | | 
 | -------- | -------- | --------| 
