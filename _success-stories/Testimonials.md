@@ -16,7 +16,7 @@ description: ""
 		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/andrewler.png"></td>
 		<td style="vertical-align:middle; border-bottom:none;">
 			
->The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
+> The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
 			<br><i>- Andrew Ler, Atome</i>
 		</td>
 	</tr>
