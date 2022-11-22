@@ -43,6 +43,7 @@ Bao Yun has more than 5 years of professional experience working as a multi-disc
 
 Bao Yun has worked on various projects in different industries from food and beverage, media and government agencies to retail with the aim of deeply understanding its users and landscape, solving problems effectively through service design. Bao Yun strives to create purposeful solutions that drive social changes and inspire connection between communities.
 
+![Katerina](/images/Events/UIUX/32.png)
 
 **Katerina Lankisch, Service Designer of Ideactio**
 
@@ -50,7 +51,7 @@ Katerina has over 7 years of experience conceptualising, designing and creating 
 
 Katerina has collaborated on developing business strategies and incorporating new companies in the UAE, India and Singapore. Designing functional solutions for people from varying cultural and professional backgrounds, requires a thorough understanding of their needs, pain points, and goals. It has taught Katerina the ‘think globally, act locally’ approach.
 
-![Alt text for image on Isomer site](/images/ui-ux/uuiuxoct.png) 
+![umairah](/images/Events/UIUX/33.png)
 
 **Umairah, Graphic Designer of Ideactio**
 
