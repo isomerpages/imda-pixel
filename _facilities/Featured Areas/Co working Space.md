@@ -40,7 +40,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Overview/Grey%20Zone.jpg"></td>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Black Room</b><br>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Grey Zone</b><br>
 			<br><b>Size</b>: 32 m²
 			<br><b>Capacity</b>: Up to 12 pax
 			<br><b>Equipment</b>: 
