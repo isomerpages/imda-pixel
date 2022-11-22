@@ -27,7 +27,7 @@ Fortunately, governments are well aware of how they can make a difference for st
 		</td>
     </tr>
 		<tr>
-		<td style="width:25%;">
+		<td style="width:30%; vertical-align:middle;">
 			<img src="/images/Success%20stories/Huawei%20spark%20incubator%20programme%20.jpg"></td>
 		<td style="vertical-align:middle;">Partnership
 			<br><b><a href=https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/="_blank">AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</a></b>
