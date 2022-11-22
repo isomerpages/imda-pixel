@@ -4,7 +4,6 @@ permalink: /success-stories/testimonials/
 description: ""
 ---
 # Testimonials
-
 <table>
 	<tr>
 		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/alan-hellawell.png"></td>
