@@ -18,8 +18,8 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/ARVR.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Usability%20Testing%20Lab.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/ARVR.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Usability%20Testing%20Lab.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>AR/VR Lab</b></td>
@@ -27,8 +27,8 @@ Use the dedicated specialised labs with your team to develop innovative digital 
 	</tr>
     <!-- ROW 2 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Prototyping%20Lab.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Prototyping%20Lab.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>5G Living Lab</b></td>
@@ -42,8 +42,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Diner%20Room.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Train%20Room.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Diner%20Room.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Train%20Room.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>Diner Room</b></td>
@@ -51,8 +51,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
     <!-- ROW 2 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Black%20Room.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Grey%20Zone.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Black%20Room.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Grey%20Zone.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>Black Room</b></td>
@@ -60,8 +60,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
 	<!-- ROW 3 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Blue%20Zone.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Yellow%20Zone.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Blue%20Zone.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Yellow%20Zone.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>Blue Zone</b></td>
@@ -69,8 +69,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
 	<!-- ROW 4 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Boardroom.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Dungeon%20Room.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Boardroom.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Dungeon%20Room.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>Boardroom</b></td>
@@ -78,8 +78,8 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
 	<!-- ROW 5 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Dragon%20Room.jpg" style="border-radius:20px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Hotdesking%20Area.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Dragon%20Room.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Hotdesking%20Area.jpg" style="border-radius:15px;"></td>
 	</tr>
 	<tr>
 		<td style="text-align:center; border-bottom:none;"><b>Dragon Room</b></td>
@@ -87,7 +87,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 	</tr>
 	<!-- ROW 6 -->
 	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Chill%20Zone.jpg" style="border-radius:20px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Chill%20Zone.jpg" style="border-radius:15px;"></td>
 		<td style="width:50%; border-bottom:none; "></td>
 	</tr>
 	<tr>
@@ -95,7 +95,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		<td style="text-align:center; border-bottom:none;"><b><b></td>
 	</tr>
 </table>
-
+			
 ## Event Spaces
 Connect with the community at our workshops, meetups and industry mixers. Attend large-scale mixer workshops, masterclasses or have meetup sessions here in our event spaces.
 
