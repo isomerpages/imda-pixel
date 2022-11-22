@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
+![19 Oct - ARVR](/images/Events/ARVR/PIXEL_ARVR-Workshop---Evolution-of-Digital-Wellness-with-ARVR-and-5G_1600-x-800_v3.jpg)
 
 | Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G | | 
 | -------- | -------- | --------| 
@@ -17,8 +17,7 @@ image: ""
 ### About the webinar 
 
 Beyond fun and games, in this webinar see how ARVR, 5G and gamification work hand-in-hand to form meaningful solutions for greater health and wellness. Discover how VR can bring you closer to a healthier lifestyle and train future health practitioners! Hear from our speakers and get inspired about the future of digital wellness.
-
-[Register Here](https://imda-pixel.sg/event/361)
+<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner: National University Health System (NUHS)**
 
@@ -37,13 +36,13 @@ MediVR is a Singapore deep-tech start-up that is a leader in creating virtual pa
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/immersive-experiences/19b.png) 
+![Dr Ngiam](/images/Events/ARVR/NUHS%20Speaker%20-%20Ngiam%20Kee%20Yuan.png)
 
 **Dr Ngiam Kee Yuan, Group Chief Technology Officer at NUHS**
 
 Associate Professor Ngiam Kee Yuan is the Group Chief Technology Officer of the National University Health System (NUHS) Singapore overseeing technology deployment in Western Healthcare Cluster of Singapore. In this role, he implements new technologies throughout NUHS and serves as the Chief Advisor to the Center for Innovation in Healthcare in NUHS. Dr Ngiam is concurrently the Deputy Chief Medical Informatics Officer at the National University Hospital of Singapore with a special focus on artificial intelligence research and implementation in healthcare. He has certification training by the American Medical Informatics Association and has published in computing and medical journals on topics related to healthcare AI applications and technology.
 
-![Alt text for image on Isomer site](/images/immersive-experiences/e19octarvr.png) 
+![Ani](/images/Events/ARVR/Ani%20Bhalekar%20(Speaker%20Photo).png)
 
 **Ani Bhalekar, Co-Founder & CEO of EliteFit.AI**
 
@@ -53,7 +52,7 @@ Before founding EliteFit.AI, Ani was a Vice President and Junior Partner at McKi
 
 He has a master’s degrees from the University of Maryland, College Park and from the Kellogg School of Management, Northwestern University.
 
-![Alt text for image on Isomer site](/images/immersive-experiences/19A.png) 
+![Aiden](/images/Events/ARVR/19A.png)
 
 **Aiden Koh, Co-Founder & CTO of MediVR**
 
