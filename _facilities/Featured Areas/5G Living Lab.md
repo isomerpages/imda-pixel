@@ -5,14 +5,12 @@ description: ""
 third_nav_title: Featured Areas
 ---
 # 5G Living Lab
-![](/images/Facilities/5GLab.png)
+![5G](/images/Facilities/5G/5G.jpg)
 
 Use the 5G living lab to experiment with and develop 5G applications and proof-of-concepts.
 
 ## Equipment
-* OPPO Find
-* Nokia FastMile CPE
-* Etc.
+
 
 ## Room Capacity
 * Size: 6.5 m²
