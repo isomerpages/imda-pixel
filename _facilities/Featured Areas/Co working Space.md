@@ -10,7 +10,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 
 <table>
 	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Overview/Black%20Room.jpg"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Magic Leap 1</b><br>
 			<br>• Eye tracking 
 			<br>• 1280 x 960 per eye resolution
@@ -19,7 +19,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		</td>
 	</tr>
 	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%202.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Overview/Train%20Room.jpg"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Magic Leap 2</b><br>
 			<br>• Eye tracking 
 			<br>• 1440 x 1760 per eye resolution
@@ -28,7 +28,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		</td>
 	</tr>
 	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Realware%20HMT-1.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Overview/Diner%20Room.jpg"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Realware HMT-1</b><br>
 			<br>• Hands-free
 			<br>• Languages: English, Mandarin Chinese, Thai etc.
@@ -37,7 +37,7 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		</td>
 	</tr>
     <tr>
-		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Rokid%20X-Craft.png"></td>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/Overview/Grey%20Zone.jpg"></td>
 		<td style="width:50%; vertical-align:middle;"><b>Rokid X-Craft</b><br>
 			<br>• Rugged design: waterproof, dustproof, shockproof 
 			<br>• Modular system for addition of devices/accessories
