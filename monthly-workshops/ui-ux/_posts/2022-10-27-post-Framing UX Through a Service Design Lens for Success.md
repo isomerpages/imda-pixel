@@ -19,8 +19,7 @@ image: ""
 What is the difference between service design and UX design? How does service design bridge the gap between backend processes and the front-end where users interact with your product or services? Peer through the lens of service design to understand your users and address their touchpoints for a better and more seamless user experience! 
 
 In this workshop you will learn about the difference between user experience and service design, learn the foundations of service design principles and how to apply them to UX. You will also get to learn how to build personas and behavioral profiles and to identify areas of opportunities to enhance UX with the help of practice through short exercises.
-
-[Register Here](https://imda-pixel.sg/event/369)
+<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner: Ideactio**
 
