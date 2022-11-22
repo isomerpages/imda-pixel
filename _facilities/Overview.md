@@ -76,24 +76,6 @@ Get new ideas and collaborate by networking with the PIXEL network and mentors a
 		<td style="text-align:center; border-bottom:none;"><b>Boardroom</b></td>
 		<td style="text-align:center; border-bottom:none;"><b>Dungeon Room</b></td>
 	</tr>
-	<!-- ROW 5 -->
-	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Dragon%20Room.jpg" style="border-radius:15px;"></td>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Hotdesking%20Area.jpg" style="border-radius:15px;"></td>
-	</tr>
-	<tr>
-		<td style="text-align:center; border-bottom:none;"><b>Dragon Room</b></td>
-		<td style="text-align:center; border-bottom:none;"><b>Hot-Desking Area<b></td>
-	</tr>
-	<!-- ROW 6 -->
-	<tr>
-		<td style="width:50%; border-bottom:none; "><img src="/images/Facilities/Overview/Chill%20Zone.jpg" style="border-radius:15px;"></td>
-		<td style="width:50%; border-bottom:none; "></td>
-	</tr>
-	<tr>
-		<td style="text-align:center; border-bottom:none;"><b>Chill Zone</b></td>
-		<td style="text-align:center; border-bottom:none;"><b><b></td>
-	</tr>
 </table>
 			
 ## Event Spaces
