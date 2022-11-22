@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![Alt text for image on Isomer site](/images/design-thinking/20octdt.jpg)
+![20 Oct- DT](/images/Events/Design%20Thinking/PIXEL_Design-Thinking---Circular-Venture-Design_1600-x-800.jpg)
 
 | Title | Circular Venture Design | | 
 | -------- | -------- | --------| 
@@ -21,8 +21,7 @@ Global waste generation isn’t showing any signs of slowing down, and largely a
 This presents an immense responsibility on businesses to adopt a fundamentally different approach that can help us transition towards a circular and more sustainable economy.
 
 This 3-hr workshop will take participants through design thinking and circular economic principles to help them integrate these into new ventures they are building.
-
-[Register Here](https://imda-pixel.sg/event/368)
+<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner:PALO IT **
 
@@ -30,13 +29,14 @@ PALO IT Singapore Pte Ltd is an international software development and consultin
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/design-thinking/20octj.png) 
+![Jenline](/images/Events/Design%20Thinking/28.png)
 
 **Jeline Lim, Lead Designer of PALO IT**
 
 Jeline believes that design is not just about how it looks, but how it works. For the past 5 years, she has been inventing ways to improve digital user experience across all channels using the latest technologies, grounded in a strong foundation of best-practice design fundamentals. Jeline takes pride in her work and is proud to say that she created and led the concept and design for the SEA Games 2015 official sites, Singapore’s largest annual event - the Marina Bay Countdown 2015 & 2016, InfoComm Development Authority of Singapore (IDA) and revamped the Forty Hands website, People's Association, Youth.sg and Spa Esprit Group’s online presence.
 
-![Alt text for image on Isomer site](/images/design-thinking/20octa.png) 
+
+![Ankush](/images/Events/Design%20Thinking/Ankush%20Samant.png)
 
 **Ankush Samant, Head Design and Strategy of PALO IT**
 
