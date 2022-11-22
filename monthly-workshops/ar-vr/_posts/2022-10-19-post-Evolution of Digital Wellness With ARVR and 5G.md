@@ -17,7 +17,7 @@ image: ""
 ### About the webinar 
 
 Beyond fun and games, in this webinar see how ARVR, 5G and gamification work hand-in-hand to form meaningful solutions for greater health and wellness. Discover how VR can bring you closer to a healthier lifestyle and train future health practitioners! Hear from our speakers and get inspired about the future of digital wellness.
-<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
+<br><br><a href="https://youtu.be/BaxuePEvOQ0" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Watch Webinar Here</a><br><br>
 
 **Presenting Partner: National University Health System (NUHS)**
 
