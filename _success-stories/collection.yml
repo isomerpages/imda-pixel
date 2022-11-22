@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Success Stories.md
-      - Testimonials.md
       - Press Release/.keep
       - Press Release/AWS Joint Innovation Centre.md
       - Press Release/Huawei Spark Incubator Program.md
