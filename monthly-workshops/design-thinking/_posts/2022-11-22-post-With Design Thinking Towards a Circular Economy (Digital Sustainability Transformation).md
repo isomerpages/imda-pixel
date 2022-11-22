@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-![Alt text for image on Isomer site](/images/design-thinking/dt30nov.jpg)
+![30 Nov- DT](/images/Events/Design%20Thinking/Design-Thinking_Towards-a-Circular-Economy_Digital-Sustainability_1600x800.jpg)
 
 | Title | With Design Thinking Towards a Circular Economy (Digital Sustainability Transformation) | | 
 | -------- | -------- | --------| 
@@ -20,8 +20,7 @@ image: ""
 As Climate Change and Sustainability are leading topics around the world today, and governments are taking action, businesses will have to change and adapt as well. One of the cornerstone ideas of this chance is Circularity - the idea of designing waste out of value chains through new ways of viewing problems.
 
 Design thinking, in its extended form, is a key tool any company can use to work towards a circular economy vision. In this interactive workshop, we will demystify the term circularity, share practical insights and case studies, and provide and apply frameworks and tools that can help participating business leaders take the first step on this important journey.
-
-[Register Here](https://imda-pixel.sg/event/370)
+<br><br><a href="" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Event has ended</a><br><br>
 
 **Presenting Partner:MING LABS **
 
@@ -31,13 +30,13 @@ We're trying to make things work well both for clients who pay for them — and 
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/design-thinking/sdtnov.png) 
+![Sebastian](/images/Events/Design%20Thinking/33.png)
 
 **Sebastian Mueller, Co-Founder of MING LABS**
 
 Sebastian is Founding Partner at MING Labs, leading the business design and corporate venture practice globally. He has worked with many MNCs, LLCs, and government agencies across their change and transformation programs, to put human-centeredness at the heart of change. Most recently, Sebastian is responsible for the sustainable design and circular business practices at MING Labs, working towards their mission of designing for a brighter future.
 
-![Alt text for image on Isomer site](/images/design-thinking/fdtnov.png) 
+![Federica](/images/Events/Design%20Thinking/34.png)
 
 **Federica Lamera, Senior Business Design of MING LABS**
 
