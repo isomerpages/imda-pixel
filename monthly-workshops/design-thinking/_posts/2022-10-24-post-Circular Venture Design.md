@@ -36,7 +36,7 @@ PALO IT Singapore Pte Ltd is an international software development and consultin
 Jeline believes that design is not just about how it looks, but how it works. For the past 5 years, she has been inventing ways to improve digital user experience across all channels using the latest technologies, grounded in a strong foundation of best-practice design fundamentals. Jeline takes pride in her work and is proud to say that she created and led the concept and design for the SEA Games 2015 official sites, Singapore’s largest annual event - the Marina Bay Countdown 2015 & 2016, InfoComm Development Authority of Singapore (IDA) and revamped the Forty Hands website, People's Association, Youth.sg and Spa Esprit Group’s online presence.
 
 
-![Ankush](/images/Events/Design%20Thinking/Ankush%20Samant.png)
+![Ankush](/images/Events/Design%20Thinking/29.png)
 
 **Ankush Samant, Head Design and Strategy of PALO IT**
 
