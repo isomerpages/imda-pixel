@@ -66,8 +66,8 @@ Test out your prototypes with our usability testing lab to help gather quantitat
 		</td>
 	</tr>
 	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Usability%20Testing%20Lab/screen%20recorder.png"></td>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Screen Capture Software</b><br>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/Usability%20Testing%20Lab/screen%20recorder.png"></td>
+		<td style="width:50%; vertical-align:middle;"><b>Screen Capture Software</b><br>
 		</td>
 	</tr>
 </table>
