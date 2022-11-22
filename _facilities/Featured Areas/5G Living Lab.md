@@ -12,7 +12,6 @@ Use the 5G living lab to experiment with and develop 5G applications and proof-o
 ## Equipment
 * OPPO Find
 * Nokia FastMile CPE
-* Starhub 5G SIM Card
 * Etc.
 
 ## Room Capacity
