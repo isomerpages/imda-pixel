@@ -17,7 +17,7 @@ image: ""
 ### About the webinar 
 
 Join us and embark on this journey to breathe new life into everyday retail and ecommerce experiences! Learn to stand out from the crowd and boost consumer engagement with AR/VR solutions.
-<br><br><a href="[(2) PIXEL's ARVR Webinar (Metaverse in Retail: Future of Customer Engagement) - YouTube](https://www.youtube.com/watch?v=BWCdaXgakRM&t=1s)" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Watch Here</a><br><br>
+<br><br><a href="https://youtu.be/BWCdaXgakRM" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Watch Webinar Here</a><br><br>
 
 **Presenting Partner: VostokVR**
 
