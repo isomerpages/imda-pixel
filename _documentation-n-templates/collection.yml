@@ -1,0 +1,4 @@
+collections:
+  documentation-n-templates:
+    output: true
+    order: []
