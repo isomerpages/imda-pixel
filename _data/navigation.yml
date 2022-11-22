@@ -16,12 +16,7 @@ links:
       - title: UI UX
         url: /monthly-workshops/ui-ux/
   - title: Facilities
-    url: /facilities
-    sublinks:
-      - title: Overview
-        url: /facilities
-      - title: Featured Areas
-        url: /facilities/ARVR-lab/
+    collection: facilities
   - title: Community
     url: /community/networking-events/
     sublinks:
@@ -34,14 +29,7 @@ links:
       - title: Incubatees
         url: /community/incubatees
   - title: Success Stories
-    url: /success-stories/
-    sublinks:
-      - title: Success Stories
-        url: /success-stories/
-      - title: Testimonials
-        url: /success-stories/testimonials
-      - title: Press Release
-        url: /success-stories/press-release/aws/
+    collection: success-stories
   - title: Connect with us
     url: /contact-us/
     sublinks:
