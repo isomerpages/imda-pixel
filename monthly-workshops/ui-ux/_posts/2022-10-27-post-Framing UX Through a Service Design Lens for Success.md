@@ -27,15 +27,15 @@ Ideactio is a Singapore based Service Design and Innovation consultancy. Driven 
 
 ### Speakers 
 
-![Alt text for image on Isomer site](/images/ui-ux/ruiuxoct.png) 
 
+![roma](/images/Events/UIUX/30.png)
 **Roma Menon, User Experience Designer of Ideactio**
 
 With a Masters in Communication Design from Pratt Institute in New York, Roma has more than 5 years of professional experience working as a designer in the fields of visual design and service design.
 
 Roma has worked with a variety of clients to co-design and transform industries across multiple sectors and projects, including leisure, food and beverage, media and government agencies. Roma is interested in integrating communication design with human-centred objectives to create and build fulfilling experiences – from digital to physical.
 
-![Alt text for image on Isomer site](/images/ui-ux/yuiuxoct.png) 
+![Bao Yun](/images/Events/UIUX/31.png)
 
 **Koh Bao Yun, Service Designer of Ideactio**
 
@@ -43,7 +43,6 @@ Bao Yun has more than 5 years of professional experience working as a multi-disc
 
 Bao Yun has worked on various projects in different industries from food and beverage, media and government agencies to retail with the aim of deeply understanding its users and landscape, solving problems effectively through service design. Bao Yun strives to create purposeful solutions that drive social changes and inspire connection between communities.
 
-![Alt text for image on Isomer site](/images/ui-ux/kuiuxoct.png) 
 
 **Katerina Lankisch, Service Designer of Ideactio**
 
