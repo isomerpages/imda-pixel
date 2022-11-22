@@ -42,22 +42,14 @@ Bandwagon is the leading independent music media company in Southeast Asia, deli
 
 Vitaliy is an award-winning Technopreneur and founder of Vostok VR & Vostok AI. He has 15+ years of experience in media production and immersive technologies (AR/VR/Metaverse). He has been living in Singapore since 2012 and started his company expansion in Middle East region (UAE and Saudi Arabia) in 2021.
 
-
+![Boon Yi Fei](/images/Events/ARVR/Boon%20Yi%20Fei.jpg)
 
 **Boon Yi Fei, Head of Field Engineering in Unity**
 
-Ani is the co-founder and CEO of EliteFit.AI - an early stage fit-tech startup that is supported by the Singapore Government. EliteFit.AI democratises technology that has historically been available only to elite athletes and makes it available to everyone on their existing devices.
+Yifei heads the South APAC Field Engineering team at Unity Technologies. His experience in real time 3D technology has helped companies, big and small, address their business and technical challenges. Before joining Unity Technologies, Yifei has spent over 9 years working in various roles in the gaming industry, ranging from Technical Artist to Gameplay Programmer.
 
-Before founding EliteFit.AI, Ani was a Vice President and Junior Partner at McKinsey & Company. He drove over one billion dollars worth of client impact via digital transformation projects focused on AI and IoT. Before McKinsey, Ani held global leadership roles at Accenture and Microsoft.  Ani is also a startup advisor and investor. His investments have included Qik which was acquired by Skype for $150 million and Workato, currently valued at $5.7 billion.
+![Clarence](/images/Events/ARVR/Clarence%20.png)
 
-He has a master’s degrees from the University of Maryland, College Park and from the Kellogg School of Management, Northwestern University.
+**Clarence Chan, Founder of Bandwagon**
 
-![Alt text for image on Isomer site](/images/immersive-experiences/19A.png) 
-
-**Aiden Koh, Co-Founder & CTO of MediVR**
-
-Aiden Koh is the Chief Technical Officer of MediVR. He has over 3 years of experience in developing Unity applications for enterprise Mixed Reality and Virtual Reality programmes.
-
-These programs range from technical POCs of experimental Mixed Reality hardware by creating and utilising custom libraries to enhance the capabilities of research hardware, to creating custom Natural Language Processing (NLP) solutions for interactive programs applied to medical training.
-
-He has also worked alongside Microsoft as Mixed Reality partners to advance their Mixed reality headsets applications in the medical field, by providing developers with the means to develop interactive virtual patients that are interactable through conversation. He has contributed extensively to MediVR's Intellectual Property; the process of synthetically generating multiple Virtual patients and their corresponding medical conversational AI to be deployed in Mixed Reality programs.
+Clarence is the founder of Bandwagon Labs whose goal is to help brands create their shopfronts in the interoperable metaverse. He and his team worked on CapitaVerse with Capitaland which pioneered web3 x IRL retail utility at scale in Singapore. Clarence is a Solana Hacker House alumni and holder of SMB #1297.
