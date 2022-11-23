@@ -13,21 +13,22 @@ We believe that the most successful businesses are built by people who understan
 	<tr>
 		<td style="background:#40c1ac; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
-			<br>An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes
+			<br><span style="font-size:0.9em;">An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes</span>
+			<br>
 		</td>
 		<td style="background:#991e66; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
-			<br>A practical understanding of how it can help you create customer-centric digital products and experiences
+			<br><span style="font-size:0.9em;">A practical understanding of how it can help you create customer-centric digital products and experiences</span>
 		</td>
 	</tr>
 	<tr>
 		<td style="background:#ff8400; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
-			<br>An improved UI/UX of your digital prototype or solution, with deliverables like user research, insights, prototyping ideas and user testing in labs
+			<br><span style="font-size:0.9em;">An improved UI/UX of your digital prototype or solution, with deliverables like user research, insights, prototyping ideas and user testing in labs</span>
 		</td>
 		<td style="background:#63c8dc; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>AR/VR</b></span>
-			<br>Designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
+			<br><span style="font-size:0.9em;">Discover how AR/VR can bring users closer to reality and form meaningful solutions</span>
 		</td>
 	</tr>
 </table>
