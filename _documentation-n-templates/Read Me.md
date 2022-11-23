@@ -21,3 +21,5 @@ However, it offers little customisability and functions, such as changing the co
 
 ### Code
 More complex than markdown but unlocks many possibilities. For example, changing  <span style="background:yellow; color:red"> colour</span> or <span style="font-size:1.3em">font size</span>. Do note the full functionality of typical code is currently not possible in Isomer V2 as there is some super function that overwrites or santises the script.
+
+This editor is not the best at reading and writing code so downloading a free code editor is recommended. 
