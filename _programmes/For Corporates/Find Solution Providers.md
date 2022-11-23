@@ -4,7 +4,7 @@ permalink: /programmes/corporates/find-solution-providers/
 description: ""
 third_nav_title: For Corporates
 ---
-## Need A Customised Solution? 
+# Need A Customised Solution? 
 ![](https://www.openinnovation.sg/cms/uploads/OIP_Hero_banner_FA_d46c7381b5.jpg)
 
 We know innovation is tough - there are many factors to consider, from the problem you are trying to solve, to the technology behind it. 
@@ -17,7 +17,7 @@ Leverage on IMDA's Open Innovation Platform (OIP) and let us do the heavy liftin
 <a href="https://go.gov.sg/oipform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Request For a Complimentary Innovation Consultancy</a>
 
 
-## Looking For Ready Solutions? 
+# Looking For Ready Solutions? 
 ![](https://www.openinnovation.sg/cms/uploads/IMDA_OIP_Discovery_Engine_Hero_Banner_f577aa0e3a.png)
 
 The IMDA [Open Innovation Platform (OIP)](https://www.openinnovation.sg/imda) has been connecting hundreds of businesses and technology providers to co-create innovative solutions across various sectors.
