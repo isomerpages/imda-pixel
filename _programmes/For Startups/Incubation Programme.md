@@ -34,4 +34,3 @@ Look forward to a suite of benefits with us!
 
 
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a><br><br>
-
