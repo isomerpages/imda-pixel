@@ -8,7 +8,7 @@ third_nav_title: For Corporates
 We believe that the most successful businesses are built by people who understand the importance of teamwork and collaboration. That's why we're proud to offer our team of consultants, who are ready to help you reach your goals through these resources: 
 
 #### 1. Free Workshops & Webinars
-* Check out our [SME Guide to Design Thinking, UI/UX and Digital Storyteling ](https://pixel.imda.gov.sg/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf)
+
 * Monthly sessions on these topics
 <table>
 	<tr>
@@ -33,6 +33,8 @@ We believe that the most successful businesses are built by people who understan
 		</td>
 	</tr>
 </table>
+
+* Check out our [SME Guide to Design Thinking, UI/UX and Digital Storyteling ](https://pixel.imda.gov.sg/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf)
 
 <a href="https://pixel.imda.gov.sg/monthly-workshops" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Upcoming Sessions</a>
 
