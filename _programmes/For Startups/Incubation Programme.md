@@ -15,9 +15,10 @@ Our aim is to provide a platform where you can showcase your products and servic
 
 We are looking for innovative technology providers and corporate partners who are passionate about their ideas. If you have something to share with the world and would like to connect with those who can help you take your idea from vision to reality, then PIXEL is the place for you.
 
+We provide start-ups and corporates with facilities, expertise, and programmes to ideate, experiment, and build customer-centric digital experiences for the future. Look forward to a suite of benefits!
+
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for Incubation</a><br><br>
 
-PIXEL provides start-ups and corporates with facilities, expertise, and programmes to ideate, experiment, and build customer-centric digital experiences for the future. Look forward to a suite of benefits!
 
 <h3>Facilities</h3>
 <table>
