@@ -37,7 +37,7 @@ sections:
       button: Discover
       alt: Image alt text
       url: https://www.openinnovation.sg/imda
-      image: /images/Homepage/Namecard_exchange.jpg
+      image: /images/Homepage/Namecard_exchange-small.jpg
       subtitle: CORPORATES & STARTUPS
   - infopic:
       title: "Incubation "
@@ -47,7 +47,7 @@ sections:
       url: /startups/incubation-and-tech-showcase/
       alt: Image alt text
       subtitle: STARTUPS
-      image: /images/Homepage/Incubation.jpg
+      image: /images/Homepage/Incubation-small.jpg
   - infopic:
       title: Facilities
       description: Let your creativity flow with our 28,000 sqft of innovation space
@@ -55,7 +55,7 @@ sections:
         more...
       button: Explore
       url: /facilities
-      image: /images/Homepage/Diner Room.jpg
+      image: /images/Homepage/Diner Room-small.jpg
       alt: Facilities image
       subtitle: everyone
   - infopic:
@@ -64,7 +64,7 @@ sections:
         Thinking, Digital Storytelling and UI/UX
       button: Connect
       url: /community/networkingevents/
-      image: /images/Homepage/Community.jpg
+      image: /images/Homepage/Community-small.jpg
       alt: Image alt text
       subtitle: everyone
   - resources:
