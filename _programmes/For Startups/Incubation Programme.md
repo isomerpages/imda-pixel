@@ -42,4 +42,4 @@ Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 * Business and technical mentorship from Huawei, and our network of experts and investors  
 * Up to $2M in potential investment post-program with VC partners such as [GSR Ventures](https://www.linkedin.com/company/gsrventures/)
 
-<a href="" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application Closed</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application Closed</a>
