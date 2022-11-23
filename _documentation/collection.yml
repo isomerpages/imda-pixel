@@ -1,5 +1,5 @@
 collections:
-  documentation-n-templates:
+  documentation:
     output: true
     order:
       - Read Me.md
