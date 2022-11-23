@@ -9,6 +9,7 @@ third_nav_title: For Startups
 
 
 # AWS-IMDA Joint Innovation Centre
+![](/images/Programmes/AWS_JIC.png)
 
 The Joint Innovation Center (JIC) is AWS’s first JIC in Southeast Asia and will be ready in mid-2023. It will serve as an extension of AWS Singapore’s Cloud Innovation Centre[3](https://www.imda.gov.sg/Content-and-News/Media-Releases-and-Speeches/Media-Releases/2022/IMDA-collaborates-with-Amazon-Web-Services-to-strengthen-Innovation-in-Singapore-and-Southeast-Asia#_ftn3), as well as IMDA’s PIXEL and Open Innovation Platform (OIP)[4](https://www.imda.gov.sg/Content-and-News/Media-Releases-and-Speeches/Media-Releases/2022/IMDA-collaborates-with-Amazon-Web-Services-to-strengthen-Innovation-in-Singapore-and-Southeast-Asia#_ftn4) initiatives. The centre will provide enterprises and startups with support to drive innovation through technology education and innovation challenges workshops, opportunities for business growth and scale through AWS and IMDA’s business networks, avenues to showcase their technology use cases, and consultancy using Amazon’s “Working Backwards” methodology – an innovation process that helps an organisation approach a challenge with the end outcome in mind and then rapidly bring that solution to life.
 
