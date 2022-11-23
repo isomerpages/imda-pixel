@@ -22,3 +22,6 @@ description: ""
 ### a. Partners
 ### b. Incubatees
 ### c. Mentors
+
+## Others
+Feel free to use any image size.
