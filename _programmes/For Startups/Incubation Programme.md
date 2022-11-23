@@ -38,8 +38,3 @@ We provide start-ups and corporates with facilities, expertise, and programmes t
 
 <h3>Expertise</h3>
 Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking. 
-<br><br>
-
-
-
-<a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for Incubation</a><br><br>
