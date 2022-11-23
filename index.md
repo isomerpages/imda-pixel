@@ -60,8 +60,8 @@ sections:
       subtitle: everyone
   - infopic:
       title: Community
-      description: Get your hands dirty with our free monthly workshops on Design
-        Thinking, Digital Storytelling and UI/UX
+      description: Plug into PIXEL’s vibrant community of diverse tech, media and
+        design backgrounds to mix with, learn from and get inspired.
       button: Connect
       url: /community/networkingevents/
       image: /images/Homepage/Community-small.jpg
