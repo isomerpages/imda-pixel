@@ -20,8 +20,12 @@ Markdown is very straightforward and easy to use. Simply click on the helper but
 However, it offers little customisability and functions, such as changing the colour of text or creating a button. Code will be needed for that.
 
 ### Code
+The language HTML is used and the style is determined 
+
 More complex than markdown but unlocks many possibilities. For example, changing  <span style="background:yellow; color:red"> colour</span> or <span style="font-size:1.3em">font size</span>. Do note the full functionality of typical code is currently not possible in Isomer V2 as there is some super function that overwrites or santises the script.
 
 This editor is not the best at supporting the reading and writing of code so downloading a code editor is recommended. Here are some free ones:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+Remember to switch the language to HTML so the coloured text will render correctly.
