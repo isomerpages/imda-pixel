@@ -3,12 +3,17 @@ title: Read Me
 permalink: /documentation-n-templates/readme/
 description: ""
 ---
-*Last updated on 24 Nov 2022 by Cherina*
-# Welcome
-This PIXEL website is using Isomer V2. It is written both in 
+*Last updated on 24 Nov 2022 by Cherina Yee*
+# Welcome 
+This PIXEL website is using Isomer V2. It is written in both  
 
-1. **Markdown** (what you are seeing now with ** as bold, > as quote, etc) and 
-2. **HTML with inline CSS ** (code). 
+1. **Markdown** (what you are seeing now with * as italic, > as quote, etc) and 
+2. **HTML with inline CSS**  (code)
 
 ## Markdown
-Markdown is very straightforward. Simply click on the helper buttons at the top to use it, or refer to the Markdown Guide
+Markdown is very straightforward and easy to use. Simply click on the helper buttons at the top of this editor to use it, or refer to the [Markdown Guide](https://simplemde.com/markdown-guide). 
+
+However, it offers little customisability and functions, such as changing the colour of text or creating a button. Code will be needed for that.
+
+## Code
+More complex than markdown but unlocks many possibilities. Do note the full functionality of code cannot be done currently in Isomer V2 
