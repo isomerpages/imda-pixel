@@ -35,22 +35,3 @@ Look forward to a suite of benefits with us!
 
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a><br><br>
 
-
-<h3>Facilities</h3>
-<table>
-	<tr>
-		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
-		<td>Facilities and equipment are designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are  available for use.</td>
-	</tr>
-</table>
-
-<h3>Community</h3>
-<table>
-	<tr>
-		<td style="width:25%"><img src="https://drive.google.com/uc?export=view&amp;id=1uc1e8ceXzID4dw7cEf0FctKCe2ke6lgQ"></td>
-		<td>Gain connections to PIXEL’s network of tech innovators, creative technologist, and digital designers.</td>
-	</tr>
-</table>
-
-<h3>Expertise</h3>
-Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking.
