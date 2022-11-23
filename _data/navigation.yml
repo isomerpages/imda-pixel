@@ -34,7 +34,12 @@ links:
       - title: Incubatees
         url: /community/incubatees
   - title: Success Stories
-    collection: success-stories
+    url: /success-stories/
+    sublinks:
+      - title: Success Stories
+        url: /success-stories/
+      - title: Press Release
+        url: /success-stories/press-release/aws/
   - title: Connect with us
     url: /contact-us/
     sublinks:
@@ -42,10 +47,3 @@ links:
         url: /contact-us/
       - title: eBrochure
         url: https://www.google.com
-  - title: Success Stories
-    url: /success-stories/
-    sublinks:
-      - title: Success Stories
-        url: /success-stories/
-      - title: Press Release
-        url: /success-stories/press-release/aws/
