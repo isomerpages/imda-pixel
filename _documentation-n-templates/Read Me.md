@@ -24,7 +24,7 @@ HTML contains the content of the page while CSS determines the style (aesthetics
 
 More complex than markdown but unlocks many possibilities. For example, changing  <span style="background:yellow; color:red"> colour</span> or <span style="font-size:1.3em">font size</span>. Fortunately, HTML and CSS is quite readable. Do note the full functionality of typical code is currently not possible in Isomer V2 as there is some super function that overwrites or santises the script, so you may run into scenarios where the code should work on a normal page but does not on Isomer, and vice versa.
 
-This editor is not the best at supporting the reading and writing of code so downloading a code editor is recommended. Here are some free ones:
+This editor is not the best at supporting the reading and writing of code so downloading a code editor is recommended. It will also help to flag out any errors. Here are some free ones:
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
