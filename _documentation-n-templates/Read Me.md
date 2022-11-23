@@ -8,7 +8,7 @@ description: ""
 This documentation will include details on the image sizes, code templates to copy and paste into the actual pages, as well as some tips. 
 
 
-## Intro
+## Intro & Software Downlaod
 This PIXEL website uses Isomer V2. It is written in a mixture of both  
 
 1. **Markdown** (what you are seeing now with * as italic, > as quote, etc) and 
