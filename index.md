@@ -5,7 +5,7 @@ description: IMDA’s innovation hub for Corporates and Startups with co-working
   facilities, programmes and networks
 image: /images/pixel only logo.svg
 permalink: /
-notification: Awarded the Top 10 Launchpads in Southeast Asia in scaling
+notification: Awarded the Top 10 Launchpads in Southeast Asia for scaling
   corporate innovation and startups!
 sections:
   - hero:
