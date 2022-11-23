@@ -11,22 +11,24 @@ We believe that the most successful businesses are built by people who understan
 * Monthly sessions on these topics
 <table>
 	<tr>
-		<td style="background:#40c1ac; color:white; border: 15px solid white; width:50%;">
+		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
 			<br><span style="font-size:0.9em;">An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes</span>
-			<br>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DesignThinking.pdf" target="_blank" style="background-color: #F7F7F7; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">eBrochure</a>
 		</td>
-		<td style="background:#991e66; color:white; border: 15px solid white; width:50%;">
+		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
 			<br><span style="font-size:0.9em;">A practical understanding of how it can help you create customer-centric digital products and experiences</span>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" style="background-color: #F7F7F7; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">eBrochure</a>
 		</td>
 	</tr>
 	<tr>
-		<td style="background:#ff8400; color:white; border: 15px solid white; width:50%;">
+		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
 			<br><span style="font-size:0.9em;">An improved UI/UX of your digital prototype or solution, with deliverables like user research, insights, prototyping ideas and user testing in labs</span>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_UIUX.pdf" target="_blank" style="background-color: #F7F7F7; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">eBrochure</a>
 		</td>
-		<td style="background:#63c8dc; color:white; border: 15px solid white; width:50%;">
+		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>AR/VR</b></span>
 			<br><span style="font-size:0.9em;">Discover how AR/VR can bring users closer to reality and form meaningful solutions</span>
 		</td>
