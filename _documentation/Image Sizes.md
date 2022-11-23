@@ -10,3 +10,10 @@ description: ""
 * **Final Image size: 1000px (width) by 440px (height)**
 
 ![](/images/Documentation/Homepage.png)
+
+## 2. Facilities
+### a. Overview
+* **Image size: 1200px (width) by 675px (height)**
+* Note: There is no need to round the edges, they are automatically rounded by the CSS code
+
+### b. Featured Areas - Equipment
