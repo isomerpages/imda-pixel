@@ -8,7 +8,29 @@ third_nav_title: For Corporates
 We believe that the most successful businesses are built by people who understand the importance of teamwork and collaboration. That's why we're proud to offer our team of consultants, who are ready to help you reach your goals through these resources: 
 
 #### 1. Free Workshops & Webinars
-* Get up to 2-days of consultation session 
+* Monthly sessions on these topics
+<table>
+	<tr>
+		<td style="background:rgba(64, 193, 172,60%); border: 15px solid white; width:50%;">
+			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
+			<br>An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes
+		</td>
+		<td style="background:rgba(153, 30, 102,70%); border: 15px solid white; width:50%;">
+			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
+			<br>A practical understanding of how it can help you create customer-centric digital products and experiences
+		</td>
+	</tr>
+	<tr>
+		<td style="background:#ff8400; border: 15px solid white; width:50%;">
+			<span style="text-align: center;"><b>UI/UX</b></span>
+			<br>An improved UI/UX of your digital prototype or solution, with deliverables like user research, insights, prototyping ideas and user testing in labs
+		</td>
+		<td style="background:#63c8dc; border: 15px solid white; width:50%;">
+			<span style="text-align: center;"><b>AR/VR</b></span>
+			<br>Designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
+		</td>
+	</tr>
+</table>
 
 <a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Upcoming Sessions</a>
 
