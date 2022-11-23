@@ -5,7 +5,7 @@ description: ""
 ---
 *Last updated on 24 Nov 2022 by Cherina Yee*
 # Welcome 
-This documentation will include details on the image size and code templates to copy and paste into the actual pages.
+This documentation will include details on the image size, code templates to copy and paste into the actual pages, and some tips. 
 
 
 This PIXEL website is using Isomer V2. It is written in a mixture of both  
@@ -19,4 +19,4 @@ Markdown is very straightforward and easy to use. Simply click on the helper but
 However, it offers little customisability and functions, such as changing the colour of text or creating a button. Code will be needed for that.
 
 ## Code
-More complex than markdown but unlocks many possibilities. For example, changing the <span style="background:yellow; color:red"> colour</span> or <span style="font-size:1.3em">font size</span>. Do note the full functionality of typical code is currently not possible in Isomer V2 as there is some super function that overwrites it for the styles and Javascript is also blocked. 
+More complex than markdown but unlocks many possibilities. For example, changing the <span style="background:yellow; color:red"> colour</span> or <span style="font-size:1.3em">font size</span>. Do note the full functionality of typical code is currently not possible in Isomer V2 as there is some super function that overwrites or santises the script.
