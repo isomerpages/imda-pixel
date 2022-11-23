@@ -55,7 +55,7 @@ sections:
         more...
       button: Explore
       url: /facilities
-      image: /images/Test/facilities.png
+      image: /images/Homepage/Diner Room.jpg
       alt: Facilities image
       subtitle: everyone
   - infopic:
