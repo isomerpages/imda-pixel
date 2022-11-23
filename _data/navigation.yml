@@ -1,7 +1,12 @@
 logo: /images/pixel-logo.png
 links:
   - title: Programmes
-    collection: programmes
+    url: /programmes/corporates/find-solution-providers/
+    sublinks:
+      - title: For Corporates
+        url: /programmes/corporates/find-solution-providers/
+      - title: For Startups
+        url: /programmes/startups/incubation/
   - title: Events
     url: /monthly-workshops/
     sublinks:
