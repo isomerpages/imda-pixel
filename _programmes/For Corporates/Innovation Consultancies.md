@@ -11,21 +11,21 @@ We believe that the most successful businesses are built by people who understan
 * Monthly sessions on these topics
 <table>
 	<tr>
-		<td style="background:#40c1ac; border: 15px solid white; width:50%;">
+		<td style="background:#40c1ac; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
 			<br>An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes
 		</td>
-		<td style="background:#991e66; border: 15px solid white; width:50%;">
+		<td style="background:#991e66; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
 			<br>A practical understanding of how it can help you create customer-centric digital products and experiences
 		</td>
 	</tr>
 	<tr>
-		<td style="background:#ff8400; border: 15px solid white; width:50%;">
+		<td style="background:#ff8400; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
 			<br>An improved UI/UX of your digital prototype or solution, with deliverables like user research, insights, prototyping ideas and user testing in labs
 		</td>
-		<td style="background:#63c8dc; border: 15px solid white; width:50%;">
+		<td style="background:#63c8dc; color:white; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>AR/VR</b></span>
 			<br>Designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
 		</td>
