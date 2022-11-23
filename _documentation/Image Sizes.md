@@ -17,3 +17,8 @@ description: ""
 * Note: There is no need to round the edges, they are automatically rounded by the CSS code
 
 ### b. Featured Areas - Equipment
+
+## 3. Community
+### a. Partners
+### b. Incubatees
+### c. Mentors
