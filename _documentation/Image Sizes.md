@@ -15,7 +15,7 @@ description: ""
 ### a. Overview
 * **Image size: 1200px (width) by 675px (height)**
 * Note: There is no need to round the 4 corners, as they are automatically rounded by the CSS code "```border-radius: 15px```". Change the roundness by editing the no. of pixels.
-* Code for reference: ```<img src="/images/Facilities/Overview/5GLab.jpg" style="border-radius:15px;">```
+* Code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
 
