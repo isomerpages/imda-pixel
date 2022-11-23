@@ -4,10 +4,9 @@ permalink: /programmes/startups/innovation-consultancies/
 description: ""
 third_nav_title: For Startups
 ---
-## Talk to our Experts
+# Talk to our Experts
 We believe that the most successful businesses are built by people who understand the importance of teamwork and collaboration. That's why we're proud to offer our team of consultants, who are ready to help you reach your goals through these resources: 
 
-		
 #### 1. One-to-One complimentary consultation sessions with our Panel Consultants 
 * Get up to 2-days of consultation session 
 
