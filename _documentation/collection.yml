@@ -2,4 +2,5 @@ collections:
   documentation:
     output: true
     order:
+      - Image Sizes.md
       - Read Me.md
