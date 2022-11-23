@@ -17,15 +17,15 @@ We are looking for innovative technology providers and corporate partners who ar
 Look forward to a suite of benefits with us!
 <table>
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%;">
+		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Facilities</b></span>
 			<br>Designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%;">
+		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Expertise</b></span>
 			<br>Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%;">
+		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Community</b></span>
 			<br>Gain connections to PIXEL's network of tech innovators, creative technologist, and digital designers
 		</td>
