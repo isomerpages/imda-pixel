@@ -5,7 +5,8 @@ description: ""
 third_nav_title: For Corporates
 ---
 # Need A Customised Solution? 
-![](https://www.openinnovation.sg/cms/uploads/OIP_Hero_banner_FA_d46c7381b5.jpg)
+
+![Open Innovation Platform - Singapore's National Digital Innovation Platform](/images/Programmes/OIP_Hero_banner.jpg)
 
 We know innovation is tough - there are many factors to consider, from the problem you are trying to solve, to the technology behind it. 
 
@@ -18,7 +19,7 @@ Leverage on IMDA's Open Innovation Platform (OIP) and let us do the heavy liftin
 
 
 # Looking For Ready Solutions? 
-![](https://www.openinnovation.sg/cms/uploads/IMDA_OIP_Discovery_Engine_Hero_Banner_f577aa0e3a.png)
+![Open Innovation Platform - Discovery Engine](/images/Programmes/IMDA_OIP_Discovery_Engine_Hero_Banner.png)
 
 The IMDA [Open Innovation Platform (OIP)](https://www.openinnovation.sg/imda) has been connecting hundreds of businesses and technology providers to co-create innovative solutions across various sectors.
 
