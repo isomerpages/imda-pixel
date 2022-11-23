@@ -5,12 +5,9 @@ description: networking, big events, programmes
 ---
 # Network with our Community
 
-![](/images/Test/community_real.png)
-
 Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant community of diverse tech, media and design backgrounds to mix with, learn from and get inspired to create customer-centric digital experiences.
 
-#### Wonderful Wednesdays
-<img src="https://drive.google.com/uc?export=view&amp;id=1D2a4LKaFZpViZ874RPcmT_rnzuKy_ylZ">
+## Wonderful Wednesdays
+![](/images/Community/Wonderful-Wedenesday.jpg)
 
-Happening **every 3rd Wednesday of the month**,.....
-
+**Every 3rd Wednesday of the month**, we host community get-togethers and invite companies to share about their programmes. Level up your knowledge, mingle around and don't forget to help yourself to the free food. Mark your calendars now!
