@@ -36,3 +36,10 @@ Look forward to a suite of benefits with us!
 
 # PIXELxHuawei Spark Incubation Programme
 Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage startups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
+
+* Up to US$60K in Huawei Cloud credits  
+* Office space at IMDA PIXEL (IMDA’s 28,000 sqft innovation space to support Corporates and Startups with facilities, programmes and networks)  
+* Business and technical mentorship from Huawei, and our network of experts and investors  
+* Up to $2M in potential investment post-program with VC partners such as [GSR Ventures](https://www.linkedin.com/company/gsrventures/)
+
+<a href="" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application Closed</a>
