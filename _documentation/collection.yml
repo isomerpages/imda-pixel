@@ -2,6 +2,6 @@ collections:
   documentation:
     output: true
     order:
-      - Code Template.md
-      - Image Sizes.md
       - Read Me.md
+      - Image Sizes.md
+      - Code Template.md
