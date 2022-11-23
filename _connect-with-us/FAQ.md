@@ -3,13 +3,11 @@ title: FAQ
 permalink: /connect/faq/
 description: ""
 ---
-
-
 ### **FAQ**
 
 ##### 1. How can I use the resources at PIXEL?
 
-Check out our detailed Facilities Factsheet [here](https://go.gov.sg/pixel-facitility-factsheet) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform).
+Check out our detailed [Facilities Factsheet](https://go.gov.sg/pixel-facitility-factsheet) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform).
 
 ##### 2. Is the space available for rent of lease?
 
@@ -26,7 +24,7 @@ Singapore-registered start-ups involved in tech or digital media content develop
 *   Project potential
 *   Potential to contribute to the Tech or Media Community. (e.g. mentorship, proprietary technology)
 
-Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/#!/6347a3c39854900012674f4d)).
+Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/#!/6347a3c39854900012674f4d).
 
 ##### 4. Does my company have to be registered in Singapore to be eligible for incubation?
 
