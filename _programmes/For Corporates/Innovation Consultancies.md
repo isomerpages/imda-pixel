@@ -11,11 +11,11 @@ We believe that the most successful businesses are built by people who understan
 * Monthly sessions on these topics
 <table>
 	<tr>
-		<td style="background:rgba(64, 193, 172,60%); border: 15px solid white; width:50%;">
+		<td style="background:#40c1ac; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
 			<br>An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes
 		</td>
-		<td style="background:rgba(153, 30, 102,70%); border: 15px solid white; width:50%;">
+		<td style="background:#991e66; border: 15px solid white; width:50%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
 			<br>A practical understanding of how it can help you create customer-centric digital products and experiences
 		</td>
