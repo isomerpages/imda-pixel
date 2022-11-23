@@ -3,7 +3,7 @@ title: FAQ
 permalink: /connect/faq/
 description: ""
 ---
-### **FAQ**
+# FAQ
 
 ##### 1. How can I use the resources at PIXEL?
 
