@@ -14,6 +14,7 @@ Copy below code for this button &emsp; <a href="https://www.google.com" target="
 
 Things to edit:
 * **href**: Link to the site
+* Text in between the tags ```<a>Click Me</a>```
 * **target**: 2 options, either **"_blank"** which opens in new tab OR **"_self"** which opens in current tab
 * **background-color**: Background colour of button
 * **color**: Colour of text
