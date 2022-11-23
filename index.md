@@ -64,7 +64,7 @@ sections:
         Thinking, Digital Storytelling and UI/UX
       button: Connect
       url: /community/networkingevents/
-      image: /images/Test/community.png
+      image: /images/Homepage/Community.jpg
       alt: Image alt text
       subtitle: everyone
   - resources:
