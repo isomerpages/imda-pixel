@@ -13,7 +13,7 @@ Our operating hours are on weekdays, from Monday to Friday, 9am to 6pm. <br> We 
 
 You may be keen to showcase your products or tap on PIXEL’s facilities (e.g. 5G Lab, ARVR Lab, Prototyping, UIUX Lab) or our panel of consultants to better understand your users, improve your products or improve your pitch to investors, or even just have a space to co-work. 
 
-Please let us know more using the enquiry form  here. .
+Please fill up the the enquiry form  here. 
 
 ##### 2. Is the space available for rent of lease?
 
