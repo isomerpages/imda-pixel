@@ -9,14 +9,14 @@ All sizes are written as width x height
 ## 1. Home Page
 * Image size: 780px by 440px 
 * Padding: 110px on left and right
-* <span style="font-size:1.2em; background:lightgreen"><b>Final Image size: 1000px by 440px</b></span>
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
 
 ![](/images/Documentation/Homepage.png)
 
 ## 2. Facilities
 ### a. Overview
 
-* <span style="font-size:1.2em; background:lightgreen"><b>Final Image size: 1200px by 675px</b></span>
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1200px by 675px</b></span>
 
 ![](/images/Documentation/Facilities%20-%20Overview.png)
 
@@ -24,6 +24,8 @@ All sizes are written as width x height
 * Code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 500px by 280px</b></span>
+
 Depending on the equipment, different image size and paddings were used.
 * **For long images w short height , e.g. VR headsets**:  (a) scale the image to width 420px, then (b) pad the width and height till 500px by 280px
 ![](/images/Documentation/Equipment_Long.png)
@@ -31,7 +33,6 @@ Depending on the equipment, different image size and paddings were used.
 ![](/images/Documentation/Equipment_Tall.png)
 * **For normal-sized images , e.g. AR/MR headsets**: (a) scale image to width 330px, then (b) pad the width and height till 500px by 280px
 ![](/images/Documentation/Equipment_Midsize.png)
-* <span style="font-size:1.2em; background:lightgreen"><b>Final Image size: 500px by 280px</b></span>
 
 
 ## 3. Community
