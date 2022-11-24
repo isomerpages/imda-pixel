@@ -19,18 +19,25 @@ If you are looking to showcase your products or looking for a space to co-work, 
 
 As PIXEL is not a commercial service provider, our facilities are not for hire. We are open to supporting innovation-related events at our space. If you are interested, you may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg) to request for usage, sharing with us more details about your event.
 
-##### 3. How do I become an incubatee in PIXEL?
+##### 4. How do I become an incubatee in PIXEL?
 
+We are focused on Singapore-registered start-ups which have products aligned with PIXEL’s technology focus area, and have at least a prototype/proof-of-concept. These are in immersive media (i.e. AR/VR), AI, data analytics, IoT, robotics, 5G with a business-to-business (B2B) focus, preferably in the Built Environment/ Industrial/ Lifestyle sectors.
+
+Apply for incubation in our complimentary co-working space [here](https://form.gov.sg/%22%20/l%20%22!/6347a3c39854900012674f4d). Application will be based on merit. We will require the following information: 
+
+*   Company information (e.g. year of establishment, key founders and team, team size, funds raised to date) 
+    
+
+*   Business model (e.g. key customers, addressable market) 
+    
+*   Product Development/Expansion plans (e.g. plans for commercialisation) 
+    
+
+*   Key project milestones during your incubation at PIXEL 
+    
+*   Contributions back to the Innovation community (e.g. providing mentorship)
 Singapore-registered start-ups involved in tech or digital media content development may apply for a Project Suite in PIXEL. Applicants will be assessed based on the following:
 
-*   Company background
-*   Business model
-*   Team members
-*   Feasibility of project
-*   Project potential
-*   Potential to contribute to the Tech or Media Community. (e.g. mentorship, proprietary technology)
-
-Apply for incubation in our complimentary co-working space or project suites [here](https://form.gov.sg/#!/6347a3c39854900012674f4d).
 
 ##### 4. Does my company have to be registered in Singapore to be eligible for incubation?
 
