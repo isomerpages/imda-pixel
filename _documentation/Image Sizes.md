@@ -21,6 +21,10 @@ description: ""
 * Code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
+* Image size: 780px (width) by 440px (height)
+* Padding: 110px on left and right
+* **Final Image size: 500px (width) by 280px (height)**
+
 
 ## 3. Community
 ### a. Partners
