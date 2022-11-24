@@ -20,7 +20,7 @@ sections:
         - title: FOR ALL
           description: We have something for everyone
           url: /monthly-workshops
-      button: Get Innovation Updates here
+      button: Join our mailing list
       url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: Discover new opportunities - Whether you are a corporate looking to
         innovate or a startup looking for business opportunities, we've got you
