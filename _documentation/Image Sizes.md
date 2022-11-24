@@ -43,7 +43,8 @@ Depending on the equipment, different image size and paddings were used.
 
 ## 3. Community
 ### a. Partners
-* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 720px by anything</b></span>
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 720px by anything  (proportionate scaling)</b></span>
+* Image size: 600px by anything (proportionate scaling)
 **Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
 
 
@@ -54,7 +55,7 @@ Depending on the equipment, different image size and paddings were used.
 ![](/images/Documentation/incubatee.png)
 
 ### c. Mentors
-* <span style="font-size:1.2em; background:cyan"><b>Current Image size: 230px by 230px</b></span> 
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 230px by 230px</b></span> 
 * All squares of the same size will do. Currently they are sized at 230px by 230px (downloaded from the old website)
 
 
