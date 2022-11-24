@@ -5,9 +5,13 @@ description: ""
 ---
 # FAQ
 
-##### 1. How can I use the resources at PIXEL?
+##### 1. What are PIXEL’s operating hours?
 
-Check out our detailed [Facilities Factsheet](https://go.gov.sg/pixel-facitility-factsheet) and fill up the request form for facilities and equipment [here](https://go.gov.sg/preqform).
+Our operating hours are on weekdays, from Monday to Friday, 9am to 6pm. <br> We are closed on weekends and public holidays. 
+
+#### 2. How can I tap on PIXEL's resources?
+
+You may be keen to showcase your products or tap on PIXEL’s facilities (e.g. 5G Lab, ARVR Lab, Prototyping, UIUX Lab) or our panel of consultants to better understand your users, improve your products or improve your pitch to investors, or even just have a space to co-work. Please let us know more using the enquiry form  here. .
 
 ##### 2. Is the space available for rent of lease?
 
