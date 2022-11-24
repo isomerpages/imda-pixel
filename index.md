@@ -16,7 +16,7 @@ sections:
           url: /programmes/corporates/find-solution-providers/
         - title: For Startups
           description: Connect with the community
-          url: /startups/incubation-and-tech-showcase/
+          url: /programmes/startups/incubation/
         - title: FOR ALL
           description: We have something for everyone
           url: /monthly-workshops
