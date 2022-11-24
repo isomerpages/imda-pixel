@@ -25,12 +25,12 @@ sections:
       subtitle: Discover new opportunities - Whether you are a corporate looking to
         innovate or a startup looking for business opportunities, we've got you
         covered.
-      title: PIXEL
+      title: PIXEL Innovation Hub
   - infobar:
       title: Innovate with Us
-      description: "At IMDA PIXEL Innovation Hub, we help businesses and startups
-        scale by inspiring, coaching and connecting. Find out what we can offer
-        below. "
+      description: We help businesses and startups scale by inspiring, coaching and
+        connecting. Find out what we can offer below to accelerate your
+        business.
   - infopic:
       title: Open Innovation Platform
       description: "Whether you’re a business looking for innovative solutions for
