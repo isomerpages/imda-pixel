@@ -49,13 +49,14 @@ Depending on the equipment, different image size and paddings were used.
 
 
 ### b. Incubatees
-All squares of the same size will do. Currently they are sized at 252px by 252px, but if all the new collected logos are high res, they can be increased.
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 252px by 252px</b></span> 
+* All squares of the same size will do. Currently they are sized at 252px by 252px, but if all the new collected logos are high res, they can be increased
 ![](/images/Documentation/incubatee.png)
 
 ### c. Mentors
-All squares of the same size will do. Currently they are sized at 230px by 230px (downloaded from the old website). 
 * <span style="font-size:1.2em; background:cyan"><b>Current Image size: 230px by 230px</b></span> 
+* All squares of the same size will do. Currently they are sized at 230px by 230px (downloaded from the old website)
+
 
 ![](/images/Documentation/mentors.png)
 
