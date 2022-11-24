@@ -77,6 +77,4 @@ sections:
       description: "\"PIXEL's innovation capabilities & co-working space led us to
         meet valuable partners and strengthen our overall solution design.\"  -
         Allen Foo, Voox Singapore"
-      button: Read more
-      url: /successstories
 ---
