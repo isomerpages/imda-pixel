@@ -8,7 +8,7 @@ All sizes are written as width x height.
 
 Rule of thumb: Trim the images to just the object, ie. remove all extra white space, before padding it. This will ensure the same width/height is maintained across multiple images. 
 
-Otherwise, most images have different paddings and simply resizing them will not lead to a consistent look.
+Otherwise, most images have different paddings and simply resizing them will not lead to a consistent look like below.
 
 ![](/images/Documentation/same-look-feel.png)
 
