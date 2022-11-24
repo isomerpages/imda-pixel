@@ -6,7 +6,11 @@ description: ""
 # Image Sizes
 All sizes are written as width x height.
 
-Rule of thumb: Trim the images to just the object, ie. remove all extra white space, before padding it. This will ensure the same width/height to be maintained across multiple images.
+Rule of thumb: Trim the images to just the object, ie. remove all extra white space, before padding it. This will ensure the same width/height is maintained across multiple images. 
+
+Otherwise, most images have different paddings and simply resizing them will not lead to a consistent look.
+
+![](/images/Documentation/same-look-feel.png)
 
 ## 1. Home Page
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
