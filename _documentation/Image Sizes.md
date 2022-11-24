@@ -3,6 +3,7 @@ title: Image Sizes
 permalink: /documentation/image-sizes/
 description: ""
 ---
+*Last updated on 25 Nov 2022 by Cherina Yee*
 # Image Sizes
 All sizes are written as width x height.
 
