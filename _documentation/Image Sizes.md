@@ -37,7 +37,7 @@ Depending on the equipment, different image size and paddings were used.
 
 ## 3. Community
 ### a. Partners
-**Line logos are used.** Stack logos are not used as it will overwhelm those that
+**Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
 
 ### b. Incubatees
 ### c. Mentors
