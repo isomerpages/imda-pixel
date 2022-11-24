@@ -7,9 +7,9 @@ description: ""
 All sizes are written as width x height
 
 ## 1. Home Page
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
 * Image size: 780px by 440px 
 * Padding: 110px on left and right
-* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
 
 ![](/images/Documentation/Homepage.png)
 
