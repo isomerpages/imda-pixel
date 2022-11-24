@@ -3,7 +3,7 @@ title: Read Me
 permalink: /documentation/readme/
 description: ""
 ---
-*Last updated on 24 Nov 2022 by Cherina Yee*
+*Last updated on 25 Nov 2022 by Cherina Yee*
 # Documentation
 This documentation contains details on the image sizes, code templates to copy and paste into the actual pages, as well as some tips. 
 
