@@ -26,7 +26,7 @@ Otherwise, most images have different paddings and simply resizing them will not
 
 ![](/images/Documentation/Facilities%20-%20Overview.png)
 
-* Note: There is no need to round the 4 corners, as they are automatically rounded by the CSS code "```border-radius: 15px```". Change the roundness by editing the no. of pixels.
+* Note: A rectangle image will do. There is no need to round the 4 corners, as they are automatically rounded by the CSS code "```border-radius: 15px```". Change the roundness by editing the no. of pixels.
 * Full code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
@@ -45,6 +45,7 @@ Depending on the equipment, different image size and paddings were used.
 ### a. Partners
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 720px by anything  (proportionate scaling)</b></span>
 * Image size: 600px by anything (proportionate scaling)
+* Pad 60px on left and right
 **Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
 ![](/images/Documentation/partners.png)
 
