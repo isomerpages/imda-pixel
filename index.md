@@ -22,7 +22,7 @@ sections:
           url: /monthly-workshops
       button: JOIN OUR MAILING LIST
       url: https://form.gov.sg/62ac4193b8365500125bd367
-      subtitle: If opportunity doesn't knock, build a door. We are that door.
+      subtitle: Get updates on PIXEL’s latest initiatives and events here!
       title: PIXEL
   - infobar:
       title: Innovate with Us
