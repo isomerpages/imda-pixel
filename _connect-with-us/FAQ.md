@@ -29,7 +29,7 @@ We are focused on Singapore-registered start-ups which have products aligned wit
     
 *   Business model (e.g. key customers, addressable market) 
     
-*   Product Development/Expansion plans (e.g. plans for commercialisation) 
+*   Product Development/ Expansion plans (e.g. plans for commercialisation) 
     
 *   Key project milestones during your incubation at PIXEL 
     
