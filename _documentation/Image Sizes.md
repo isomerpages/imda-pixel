@@ -46,7 +46,7 @@ Depending on the equipment, different image size and paddings were used.
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 720px by anything  (proportionate scaling)</b></span>
 * Image size: 600px by anything (proportionate scaling)
 **Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
-
+![](/images/Documentation/partners.png)
 
 
 ### b. Incubatees
