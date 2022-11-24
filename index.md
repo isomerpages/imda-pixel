@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: FOR Corporates
           description: Start your innovation journey
-          url: /programmes/corporates/find-solution-providers/
+          url: programmes/corporates/find-solution-providers/
         - title: For Startups
           description: Connect with the community
           url: /programmes/startups/incubation/
@@ -38,7 +38,7 @@ sections:
         opportunities, we got you! "
       button: Discover
       alt: Image alt text
-      url: https://www.openinnovation.sg/imda
+      url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/Namecard_exchange2.png
       subtitle: CORPORATES & STARTUPS
   - infopic:
@@ -46,7 +46,7 @@ sections:
       description: Be a part of the innovation. Gain access to resources, knowledge
         and people that can help you solve problems and create opportunities.
       button: apply
-      url: /startups/incubation-and-tech-showcase/
+      url: /programmes/startups/incubation/
       alt: Image alt text
       subtitle: STARTUPS
       image: /images/Homepage/Incubation2.png
@@ -65,7 +65,7 @@ sections:
       description: Plug into PIXEL’s vibrant community of diverse tech, media and
         design backgrounds to mix with, learn from and get inspired.
       button: Connect
-      url: /community/networkingevents/
+      url: /community/networking-events/
       image: /images/Homepage/Community2.png
       alt: Image alt text
       subtitle: everyone
