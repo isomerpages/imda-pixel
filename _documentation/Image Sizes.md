@@ -36,6 +36,8 @@ Depending on the equipment, different image size and paddings were used.
 
 ## 3. Community
 ### a. Partners
+**Line logos are used.** Stack logos are not used as it will overwhelm those that
+
 ### b. Incubatees
 ### c. Mentors
 
