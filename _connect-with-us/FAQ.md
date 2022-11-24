@@ -37,10 +37,14 @@ We are focused on Singapore-registered start-ups which have products aligned wit
 
 Apply for incubation in our complimentary co-working space [here](https://form.gov.sg/%22%20/l%20%22!/6347a3c39854900012674f4d).
 
-##### 4. Does my company have to be registered in Singapore to be eligible for incubation?
+##### 5. Does my start-up have to be registered in Singapore to be eligible for incubation?
 
-Yes, your company needs to be a Singapore-registered business under the Accounting and Corporate Regulatory Authority’s (ACRA) registry.
+Yes, your start-up needs to be a Singapore-registered business under the Accounting and Corporate Regulatory Authority’s (ACRA) registry.
 
-##### 5. Is Wi-Fi provided in PIXEL?
+##### 6. Are PIXEL’s events and workshops free?
+
+Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up for the latest events here.
+
+Is Wi-Fi provided in PIXEL?
 
 Yes! PIXEL uses Wireless@SG and users with Wireless@SG account have access to free Wi-Fi services.
