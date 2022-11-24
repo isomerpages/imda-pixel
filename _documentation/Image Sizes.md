@@ -37,6 +37,7 @@ Depending on the equipment, different image size and paddings were used.
 
 ## 3. Community
 ### a. Partners
+* <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
 **Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
 
 ### b. Incubatees
