@@ -27,7 +27,7 @@ Otherwise, most images have different paddings and simply resizing them will not
 ![](/images/Documentation/Facilities%20-%20Overview.png)
 
 * Note: There is no need to round the 4 corners, as they are automatically rounded by the CSS code "```border-radius: 15px```". Change the roundness by editing the no. of pixels.
-* FIll code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
+* Full code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 500px by 280px</b></span>
