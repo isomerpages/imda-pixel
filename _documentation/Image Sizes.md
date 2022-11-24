@@ -25,7 +25,7 @@ All sizes are written as width x height
 
 ### b. Featured Areas - Equipment
 Depending on the equipment, different image size and paddings were used.
-* **For long images w short height , e.g. VR headsets**: (a) scale the image to width 420px, then (b) pad the width and height till 500px by 280px
+* **For long images w short height , e.g. VR headsets**:  (a) scale the image to width 420px, then (b) pad the width and height till 500px by 280px
 ![](/images/Documentation/Equipment_Long.png)
 * **For tall images w short width , e.g. immersive accessories**: (a) scale the image to height 210px, then (b) pad the width and height till 500px by 280px
 ![](/images/Documentation/Equipment_Tall.png)
