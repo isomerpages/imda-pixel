@@ -4,7 +4,9 @@ permalink: /documentation/image-sizes/
 description: ""
 ---
 # Image Sizes
-All sizes are written as width x height
+All sizes are written as width x height.
+
+Rule of thumb: Trim the images to just the object, ie. remove all extra white space, before padding it. This will ensure the same width/height to be maintained across multiple images.
 
 ## 1. Home Page
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 1000px by 440px</b></span>
@@ -41,10 +43,14 @@ Depending on the equipment, different image size and paddings were used.
 **Line logos are used.** Stack logos are not used as it will overwhelm those that can only be line (e.g. Grab, IBM, AWS)
 
 ### b. Incubatees
-
+All squares of the same size will do. Currently they are sized down to 252px by 252px, but if all the new collected logos are high res, they can be increased.
+* <span style="font-size:1.2em; background:cyan"><b>Current Image size: 252px by 252px</b></span> 
+![](/images/Documentation/incubatee.png)
 
 ### c. Mentors
-
+All squares of the same size will do. Currently they are sized at 230px by 230px.
+* <span style="font-size:1.2em; background:cyan"><b>Current Image size: 252px by 252px</b></span> 
+![](/images/Documentation/incubatee.png)
 
 ## Others
 Feel free to use any image size.
