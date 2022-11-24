@@ -15,9 +15,9 @@ You may be keen to tap on PIXEL’s facilities (e.g. 5G Lab, ARVR Lab, Prototypi
 
 If you are looking to showcase your products or looking for a space to co-work, please fill up the enquiry form [here](https://form.gov.sg/6347a3c39854900012674f4d).
 
-##### 2. Is the space available for rent of lease?
+##### 3. Is the space available for rent or lease?
 
-As PIXEL is not a commercial media service provider, our facilities are not for hire. However, PIXEL does support independent digital content creators in producing experimental content and/or pilots. Interested users can email us at pixel@imda.gov.sg with a project proposal to request for usage.
+As PIXEL is not a commercial service provider, our facilities are not for hire. We are open to supporting innovation-related events at our space. If you are interested, you may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg) to request for usage, sharing with us more details about your event.
 
 ##### 3. How do I become an incubatee in PIXEL?
 
