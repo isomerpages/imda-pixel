@@ -52,6 +52,7 @@ Depending on the equipment, different image size and paddings were used.
 
 ### b. Incubatees
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 252px by 252px</b></span> 
+* Trim logos off the white space and then pad to 252px by 252px
 * All squares of the same size will do. Currently they are sized at 252px by 252px, but if all the new collected logos are high res, they can be increased
 ![](/images/Documentation/incubatee.png)
 
