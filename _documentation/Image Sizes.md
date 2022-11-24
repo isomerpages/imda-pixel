@@ -27,7 +27,7 @@ Otherwise, most images have different paddings and simply resizing them will not
 ![](/images/Documentation/Facilities%20-%20Overview.png)
 
 * Note: There is no need to round the 4 corners, as they are automatically rounded by the CSS code "```border-radius: 15px```". Change the roundness by editing the no. of pixels.
-* Code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
+* FIll code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
 * <span style="font-size:1.2em; background:cyan"><b>Final Image size: 500px by 280px</b></span>
@@ -55,6 +55,10 @@ All squares of the same size will do. Currently they are sized at 252px by 252px
 All squares of the same size will do. Currently they are sized at 230px by 230px (downloaded from the old website). 
 * <span style="font-size:1.2em; background:cyan"><b>Current Image size: 230px by 230px</b></span> 
 
+![](/images/Documentation/mentors.png)
+
+* Note: There is no need to crop to a circle, or add a border, as they are automatically done by the CSS code "```border-radius: 50%; border: 10px solid white;```". 
+* Full code for reference: ```<img src="example.jpg" style="border-radius: 50%; border: 10px solid white">```
 
 ## Others
 Feel free to use any image size.
