@@ -24,7 +24,7 @@ All sizes are written as width x height
 * Code for reference: ```<img src="example.jpg" style="border-radius:15px;">```
 
 ### b. Featured Areas - Equipment
-Depending on the photo, different paddings were used.
+Depending on the equipment, different image size and paddings were used.
 * **For squarish images , e.g. AR/MR headsets**: (a) image size 330px by 250px, then (b) pad the height and width till 500px by 280px
 * **For long images w short height , e.g. VR headsets**: (a) scale the image till the width is 420px, then (b) pad the height and width till 500px by 280px
 * **For tall images w short width , e.g. immersive accessories**: (a) scale the image till the height is 210px, then (b) pad the height and width till 500px by 280px
