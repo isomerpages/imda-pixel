@@ -7,14 +7,19 @@ description: ""
 # Code Templates
 ## Hello World!
 
-* How is content written? Using **HTML**
+* How is content written? Using **HTML**. Eg.
+  * Header 1: ```<h1></h1>```
+  * Link: ```<a></a>```
+  * Table: ```<table><tr><td></td><td></td></tr></table>```
+  * Line break: ```<br>``` (no need closing bracket)
+  * Most HTML tags have an opening ```<>``` and corresponding closing bracket ```</>```.  The notable one that does not need a closing bracket is ```<br>```. 
 * How are aesthetics taken care of? Using **CSS**
 * How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
 	* Internal - by using a ```<style>``` element in the ```<head>``` section
 	* External - by using a ```<link>``` element to link to an external CSS file
 	* **In our case, we are using inline**. External is out as we cannot link to another file, internal is possible but it somehow doesn't work for all HTML tags in Isomer.
-	* This is how HTML with inline CSS looks like: ```<a style="color:red;"></a>```
+	* This is how HTML with inline CSS looks like: ```<a style="color:red;"></a>```. The style appears inside the first <>
 
 Useful HTML code:
 
