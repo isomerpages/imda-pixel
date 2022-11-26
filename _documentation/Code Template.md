@@ -10,7 +10,7 @@ description: ""
 * How is content written? Using **HTML**
 * How are aesthetics taken care of? Using **CSS**
 * How to combine both? There are 3 methods: 
-	* Inline - by using the style attribute inside HTML elements
+	* Inline - by using the ```<style>``` attribute inside HTML elements
 	* Internal - by using a ```<style>``` element in the ```<head>``` section
 	* External - by using a ```<link>``` element to link to an external CSS file
 	* **In our case, we are using inline**. External is out as we cannot link to another file, internal is possible but it somehow doesn't work for all HTML tags in Isomer.
