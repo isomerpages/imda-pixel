@@ -4,7 +4,7 @@ permalink: /documentation/code-template/
 description: ""
 ---
 *Last updated on 25 Nov 2022 by Cherina Yee*
-# Code Templates
+# Code Crash Course
 ## Hello World!
 
 #### How is content written? Using **HTML**
