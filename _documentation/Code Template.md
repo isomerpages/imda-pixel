@@ -7,15 +7,17 @@ description: ""
 # Code Templates
 ## Hello World!
 
-#### How is content written? Using **HTML**. 
+#### How is content written? Using **HTML**
 Examples:
   * Header 1: ```<h1></h1>```
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
   * Line break: ```<br>``` (no need closing bracket)
   
-	
-Note: not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
+Notes:
+* These ```<> </>``` are called HTML tags
+* Content is written between the opening and closing tags ```<h1>Hello World</h1>```
+* Not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
 
 
 #### How are aesthetics taken care of? Using **CSS**
