@@ -12,8 +12,9 @@ description: ""
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
   * Line break: ```<br>``` (no need closing bracket)
-  * Most HTML tags have an opening ```<>``` and corresponding closing bracket ```</>```.  The notable one that does not need a closing bracket is ```<br>```. 
+  * Note: not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
 * How are aesthetics taken care of? Using **CSS**
+  * f 
 * How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
 	* Internal - by using a ```<style>``` element in the ```<head>``` section
