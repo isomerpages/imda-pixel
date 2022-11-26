@@ -7,15 +7,21 @@ description: ""
 # Code Templates
 ## Hello World!
 
-* How is content written? Using **HTML**. Eg.
+#### How is content written? Using **HTML**. 
+Examples:
   * Header 1: ```<h1></h1>```
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
   * Line break: ```<br>``` (no need closing bracket)
-  * Note: not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
-* How are aesthetics taken care of? Using **CSS**
-  * f 
-* How to combine both? There are 3 methods: 
+  
+	
+Note: not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
+
+
+#### How are aesthetics taken care of? Using **CSS**
+  * text color: 
+
+#### How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
 	* Internal - by using a ```<style>``` element in the ```<head>``` section
 	* External - by using a ```<link>``` element to link to an external CSS file
