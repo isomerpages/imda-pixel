@@ -44,4 +44,4 @@ Useful examples (all these go into style=""):
 * Internal - by using a ```<style>``` element in the ```<head>``` section
 * External - by using a ```<link>``` element to link to an external CSS file
 	* **In our case, we are using inline**. External is out as we cannot link to another file, internal is possible but it somehow doesn't work for all HTML tags in Isomer.
-	* This is how HTML with inline CSS looks like: ```<a style="color:red;"></a>```. The style appears inside the opening tag <>
+	* This is how HTML with inline CSS looks like: ```<h1 style="color:red;">Title</h1>```. The style appears inside the opening tag <>
