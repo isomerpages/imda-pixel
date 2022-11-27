@@ -14,7 +14,8 @@ description: ""
 
 ```<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application Closed</a>```
 
-<span style="background-color: yellow;  padding-left: 10px; padding-right: 10px;">Things to change</span>:
+How to copy and paste:
+* Copy the code of the relevant button above
 * `href`: Hyperlink to the site (remove if you want your button to not link anywhere, eg when Application Closed) 
 * `<>Click Me<>`: Button text
 * `target="_blank"` opens site in a new tab. Change to "_self" is you want it to open on the current page
