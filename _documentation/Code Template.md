@@ -161,6 +161,7 @@ Notes:
 * Image corners are rounded by `"border-radius:15px;"`. There is no need to round the image beforehand. Uploading a rectangle image will do
 
 # Featured Areas
+## Facilities > Featured Areas
 One equipment per row. All text are vertically aligned to middle. There is a light border between equipments. There is no top border for the 1st row, and no bottom border for the last row. 
 
 <table>
