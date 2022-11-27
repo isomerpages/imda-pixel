@@ -31,7 +31,7 @@ Useful examples (all these go into style=""):
   * Centering horizontally: ```text-align: center;```
   * Centering vertically: ```vertical-align: middle;```
   * No underline for <a href="https://ww.google.com" target="_blank">links</a>: ```text-decoration: none; ```. Here you go: <a href="https://ww.google.com" target="_blank" style="text-decoration: none; ">link</a>
-  * Round edges of images or text: ```border-radius: 100px;```
+  * Round edges of images or text: ```border-radius: 100px;``` / ```border-radius: 50%;```
 
 #### How to combine both? There are 3 methods: 
 * Inline - by using the ```<style>``` attribute inside HTML elements
