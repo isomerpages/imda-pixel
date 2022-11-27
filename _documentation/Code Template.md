@@ -232,6 +232,43 @@ Notes:
 # Partners
 #### Community > Partners
 
+<table>
+    <!-- 1st ROW -->
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="img.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Company  1</b>
+            <br>Description
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+    <!-- MIDDLE ROW -->
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="img.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+		    <br><b>Company 2</b> 
+            <br>Description
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+    <!-- LAST ROW -->
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="img.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Company 3</b> 
+            <br>Description
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+</table>
+
+
 # Mentors
 #### Community > Mentors
 
