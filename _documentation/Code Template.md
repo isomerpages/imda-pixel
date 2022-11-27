@@ -231,6 +231,7 @@ Notes:
 
 # Partners
 #### Community > Partners
+One partner per row. There is a light border at the top and bottom of all rows. All text are vertically aligned to middle and there is a read more button at the bottom.
 
 <table>
     <!-- 1st ROW -->
