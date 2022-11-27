@@ -342,9 +342,11 @@ How to copy and paste:
 * Edit the person, designation, company and description
 
 Code Notes:
-* The image is housed in a table in a table. This is because the image cannot be formatted somehow
-* Images are flushed to the top (default)
-* `width:25%` is the size of the column for the logos. The text takes up 75% of the space
+* The image is housed in a table in a table. This is a hacky way of making it centralised with paddings on the left and right
+* The image is cropped into a circle by `border-radius:50%;`
+* The border around the circle is added by `border:8px solid white;`
+* Font size: Person (1em) > Designation / Company (0.9em) > Description (0.8em)
+* `width:33%` is the size of the column for the logos.
 
 # Incubatees
 #### Community > Incubatees
