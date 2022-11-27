@@ -39,7 +39,7 @@ description: ""
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>TOPIC</b>
 			<br><span style="font-size:0.9em;">Description</span>
-			<br><br><a href=eBrochure.pdf" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="eBrochure.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>TOPIC</b>
@@ -47,7 +47,6 @@ description: ""
 		</td>
 	</tr>
 </table>
-
 Template code:
 				
 ```
@@ -66,7 +65,7 @@ Template code:
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>TOPIC</b>
 			<br><span style="font-size:0.9em;">Description</span>
-			<br><br><a href=eBrochure.pdf" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="eBrochure.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<b>TOPIC</b>
