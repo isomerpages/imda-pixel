@@ -227,3 +227,5 @@ Notes:
 * Text are vertically aligned to the image by `vertical-align:middle;` 
 * 2 columns, indicated by 2 sets of `<td></td>` within each table row
 * `width:50%` is the size of the column. 2 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
+
+# Community
