@@ -24,6 +24,9 @@ description: ""
 
 # Topics for Workshops
 #### Programmes > For Corporates/Startups > Innovation Consultancies
+
+The colour scheme here matches the one in the Events page.
+
 <table>
 	<tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
@@ -47,6 +50,7 @@ description: ""
 		</td>
 	</tr>
 </table>
+
 Template code:
 				
 ```
