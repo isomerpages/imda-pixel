@@ -8,9 +8,9 @@ description: ""
 
 #### How is content written? Using **HTML**
 Examples:
-  * Header 1: ```<h1></h1>```
-  * Link: ```<a href="https://www.google.com" target="_blank"></a>```
-  * Table: ```<table><tr><td></td><td></td></tr></table>```
+  * Header 1: ```<h1>Welcome</h1>```
+  * Link: ```<a href="https://www.google.com" target="_blank">Google</a>```
+  * Table: ```<table><tr><td>Col1</td><td>Col2</td></tr></table>```
   * Image: ```<img src="file.jpg" alt="Image example">```
   * Line break: ```<br>``` 
   * Span: ```<span></span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
