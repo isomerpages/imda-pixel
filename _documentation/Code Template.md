@@ -164,6 +164,7 @@ Notes:
 One equipment per row. All text are vertically aligned to middle. There is a light border between equipments. There is no top border for the 1st row, and no bottom border for the last row. 
 
 <table>
+    <!-- 1st ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 1</b><br>
@@ -171,6 +172,7 @@ One equipment per row. All text are vertically aligned to middle. There is a lig
 			<br>• Feature 2
 		</td>
 	</tr>
+    <!-- MIDDLE ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 2</b><br>
@@ -178,6 +180,7 @@ One equipment per row. All text are vertically aligned to middle. There is a lig
 			<br>• Feature 2
 		</td>
 	</tr>
+    <!-- LAST ROW -->
     <tr>
 		<td style="width:50%; vertical-align:middle;"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle;"><b>Equipment 3</b><br>
@@ -190,6 +193,7 @@ One equipment per row. All text are vertically aligned to middle. There is a lig
 Template code:
 ```
 <table>
+    <!-- 1st ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 1</b><br>
@@ -197,6 +201,7 @@ Template code:
 			<br>• Feature 2
 		</td>
 	</tr>
+    <!-- MIDDLE ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 2</b><br>
@@ -204,6 +209,7 @@ Template code:
 			<br>• Feature 2
 		</td>
 	</tr>
+    <!-- LAST ROW -->
     <tr>
 		<td style="width:50%; vertical-align:middle;"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle;"><b>Equipment 3</b><br>
