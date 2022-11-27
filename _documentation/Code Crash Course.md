@@ -13,6 +13,7 @@ Useful examples:
      * href: Hyperlink to the site
      * target: There are a few options but we use only two here, (1) "_blank": Opens the linked document in a new tab, (2) "_self": Opens the linked document in the current page (default)
   * Table: ```<table><tr><td>Col1</td><td>Col2</td></tr></table>```
+    * tr: Table row 
   * Image: ```<img src="file.jpg" alt="Image example">```
   * Line break: ```<br>``` 
   * Span: ```<span>Text</span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
