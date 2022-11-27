@@ -3,7 +3,7 @@ title: Code Crash Course
 permalink: /documentation/code-crash-course/
 description: ""
 ---
-*Last updated on 25 Nov 2022 by Cherina Yee*
+*Last updated on 27 Nov 2022 by Cherina Yee*
 # Hello World
 
 #### How is content written? Using **HTML**
