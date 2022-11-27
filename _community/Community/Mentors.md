@@ -203,7 +203,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/abhilash-murthy.png"></td>
+					<td><img src="/images/Community/Mentors/abhilash-murthy_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -217,7 +217,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/diogomartins.png"></td>
+					<td><img src="/images/Community/Mentors/diogomartins_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -251,7 +251,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/khoo-eng-tat.png"></td>
+					<td><img src="/images/Community/Mentors/khoo-eng-tat_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -265,7 +265,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/dr_jeannie_lee.png"></td>
+					<td><img src="/images/Community/Mentors/dr_jeannie_lee_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -279,7 +279,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/dr_tan_chek_tien.png"></td>
+					<td><img src="/images/Community/Mentors/dr_tan_chek_tien_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
