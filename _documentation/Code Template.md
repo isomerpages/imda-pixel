@@ -11,3 +11,8 @@ description: ""
 ```<a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Click Me</a>```
 
 <span style="background-color: yellow;  padding-left: 10px; padding-right: 10px;">Things to change</span>:
+* `href`: Hyperlink to the site
+* `<>Click Me<>`: Button text
+* `target="_blank"` opens site in a new tab, change to "_self" is you want it to open on the current page
+* `background-color` if you want to change the button colour
+* `color` if you want to change the text colour
