@@ -242,7 +242,7 @@ One partner per row. There is a light border at the top and bottom of all rows. 
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Company  1</b>
             <br>Description
-            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <!-- MIDDLE ROW -->
@@ -253,7 +253,7 @@ One partner per row. There is a light border at the top and bottom of all rows. 
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 		    <br><b>Company 2</b> 
             <br>Description
-            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <!-- LAST ROW -->
@@ -264,7 +264,7 @@ One partner per row. There is a light border at the top and bottom of all rows. 
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Company 3</b> 
             <br>Description
-            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
 </table>
