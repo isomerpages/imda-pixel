@@ -17,7 +17,7 @@ Examples:
 Notes:
 * These ```<> </>``` are called HTML tags
 * Content is written between the opening and closing tags ```<h1>Hello World</h1>```
-* There can be multiple HTML tags within a HTML tag. A notable eg. is the table. 
+* There can be multiple HTML tags within a HTML tag. An eg. is the table. 
 * Not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
 
 
