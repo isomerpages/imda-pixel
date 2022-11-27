@@ -155,6 +155,7 @@ Template code for 1 room:
 Notes:
 * The rooms consist of 2 rows. The 1st row contains the image, and the 2nd row contains the room name
 * To add more rooms, copy and paste everything from the START till the END 
+* All borders are removed `border-bottom:none;` 
 * 2 columns, indicated by 2 sets of `<td></td>` within each table row
 * `width:50%` is the size of the column. 2 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
-* Image corners are rounded by `"border-radius:15px;"`. There is no need to round the image beforehand. Uploading a rectangle image will do.
+* Image corners are rounded by `"border-radius:15px;"`. There is no need to round the image beforehand. Uploading a rectangle image will do
