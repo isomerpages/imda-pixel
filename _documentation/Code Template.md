@@ -286,6 +286,54 @@ Code Notes:
 
 # Mentors
 #### Community > Mentors
+Three mentors per row. The photo and name is clickable and links to LinkedIn. The photo is automatically cropped to a circle (the image must be a square) and a white border is added by code. There is a white border around each cell. All text are horizontally aligned to center.
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 1</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 2</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 3</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+	</tr>
+</table>
 
 # Incubatees
 #### Community > Incubatees
