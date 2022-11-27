@@ -153,7 +153,7 @@ Template code for 1 room:
 ```
 
 Notes:
-* Above template consists of 2 rooms. To add more rooms, copy and paste everything from the START till the END 
+* To add more rooms, copy and paste everything from the START till the END 
 * 2 columns, indicated by 2 sets of `<td></td>` within table row
 * `width:25%` is the size of the column. 4 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
 * Description font size is smaller `font-size:0.9em`
