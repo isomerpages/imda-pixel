@@ -504,4 +504,4 @@ Code Notes:
 * The image is housed in a table in a table. This is a hacky way of making it centralised with paddings on the left and right
 * Font size: Company (1em) > Description (0.8em)
 * `width:33%` is the size of each column.
-* There is a white border around each table cell `border: 15px solid white; `
+* There is a grey border around each table cell `border: 15px solid #F7F7F7; `
