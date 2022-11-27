@@ -493,3 +493,15 @@ Template code:
 	<!-- END ROW -->
 </table>
 ```
+
+How to copy and paste:
+* Copy the whole row above
+* Change the href to the website link
+* Change the src in the img
+* Edit the company name and description
+
+Code Notes:
+* The image is housed in a table in a table. This is a hacky way of making it centralised with paddings on the left and right
+* Font size: Company (1em) > Description (0.8em)
+* `width:33%` is the size of each column.
+* There is a white border around each table cell `border: 15px solid white; `
