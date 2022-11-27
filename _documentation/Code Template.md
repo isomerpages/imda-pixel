@@ -27,7 +27,7 @@ Notes:
 Examples:
   * <span style="color:red;">text color</span>: ```color: red;``` / ```color:#FF0000;``` / ```color:rgba(255,0,0,0.5);``` - a here refers to alpha which controls the opacity - 0.0 is fully transparent and 1.0 is fully opaque
   * <span style="background-color:#FFFF00;">background color</span>: ```background-color:yellow;```  / ```background-color:#FFFF00;``` / ```background-color:rgba(255,255,0,1);``` 
-  * <span style="font-size:1.3em">Font</span> <span style="font-size:0.7em">size</span>: ```font-size: 1.3em;``` - the units I use here is ```em```. By default, the text is 1em (usually 16px). em is used because it's dynamic. Eg. when the screen is smaller, everything will scale accordingly
+  * <span style="font-size:1.3em">Font</span> <span style="font-size:0.7em">size</span>: ```font-size: 1.3em;``` - the units I use here is ```em```. By default, the text is 1em (usually 16px). em is used because it's dynamic. Eg. when the screen is smaller, the text will scale accordingly instead of being fixed at a certain pixel value.
 
 #### How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
