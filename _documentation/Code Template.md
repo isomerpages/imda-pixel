@@ -13,7 +13,7 @@ Examples:
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
   * Image: ```<img src="file.jpg" alt="Image example">```
-  * Line break: ```<br>``` (no need closing tag)
+  * Line break: ```<br>``` 
   * Span: ```<span></span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
   
 Notes:
