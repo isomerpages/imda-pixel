@@ -12,6 +12,7 @@ Examples:
   * Header 1: ```<h1></h1>```
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
+  * Image: ```<img src="file.jpg" alt="Image example">```
   * Line break: ```<br>``` (no need closing tag)
   * Span: ```<span></span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
   
@@ -19,7 +20,7 @@ Notes:
 * These ```<> </>``` are called HTML tags
 * Content is written between the opening and closing tags ```<h1>Hello World</h1>```
 * There can be multiple HTML tags within a HTML tag. An eg. is the table. 
-* Not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  A notable eg is ```<br>```. 
+* Not all HTML tags need an opening ```<>``` and corresponding closing bracket ```</>```.  Notable egs include ```<br>``` and ```<img>```. 
 
 
 #### How are aesthetics taken care of? Using **CSS**
