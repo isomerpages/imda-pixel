@@ -18,7 +18,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/alan-hellawell.png"></td>
+					<td><img src="/images/Community/Mentors/alan-hellawell_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -32,7 +32,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/andrewler.png"></td>
+					<td><img src="/images/Community/Mentors/andrewler_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -46,7 +46,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/andytan.png"></td>
+					<td><img src="/images/Community/Mentors/andytan_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -63,7 +63,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/arijit_sengupta.png"></td>
+					<td><img src="/images/Community/Mentors/arijit_sengupta_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -77,7 +77,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/gillwang.png"></td>
+					<td><img src="/images/Community/Mentors/gill-wang_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -91,7 +91,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/raghuganti.png"></td>
+					<td><img src="/images/Community/Mentors/raghuganti_230px.png" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -108,7 +108,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/shashankluthra.png"></td>
+					<td><img src="/images/Community/Mentors/shashankluthra_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
