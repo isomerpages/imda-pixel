@@ -503,3 +503,24 @@ Code Notes:
 * There is a grey border around each table cell `border: 15px solid #F7F7F7; `
 
 # Success Stories
+
+<table>
+	<!-- 1ST OR MIDDLE ROWS -->
+	<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="img.jpg">
+		</td>
+		<td style="vertical-align:middle; ">Partnership
+			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
+		</td>
+    </tr>
+	<!-- LAST ROW -->
+	<tr>
+		<td style="width:30%; vertical-align:middle;">
+			<img src="img.jpg">
+		</td>
+		<td style="vertical-align:middle;">Partnership
+			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
+		</td>
+    </tr>
+</table>
