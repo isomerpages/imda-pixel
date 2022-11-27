@@ -8,13 +8,16 @@ description: ""
 
 #### How is content written? Using **HTML**
 Useful examples:
-  * Header 1: ```<h1>Title</h1>```, Header 2: ```<h2>Title</h2>```, etc
-  * Link: ```<a href="https://www.google.com" target="_blank">Link</a>```
+  * Header 1: `<h1>Title</h1>`, Header 2: `<h2>Title</h2>`, etc
+  * Link: `<a href="https://www.google.com" target="_blank">Link</a>`
      * href: Hyperlink to the site
      * target: There are a few options but we use only two here, (1) "_blank": Opens the linked document in a new tab, (2) "_self": Opens the linked document in the current page (default)
-  * Table: ```<table><tr><td>Col1</td><td>Col2</td></tr></table>```
-    * tr: Table row 
+  * Table: `<table><tr><td>Col1</td><td>Col2</td></tr></table>`
+    * tr: Table row, each table row starts with a `<tr>` and ends with a `</tr>` tag.
+    * td: Table data (columns), each table cell is defined by a `<td>` and a `</td>` tag.
   * Image: ```<img src="file.jpg" alt="Image example">```
+    * src: Location of image
+    * alt: Alt text (will appear if the image does not appear, good practice to include)
   * Line break: ```<br>``` 
   * Span: ```<span>Text</span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
   
