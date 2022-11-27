@@ -286,7 +286,7 @@ Code Notes:
 
 # Mentors
 #### Community > Mentors
-Three mentors per row. The photo and name is clickable and links to LinkedIn. The photo is automatically cropped to a circle (the image must be a square) and a white border is added by code. There is a white border around each cell. All text are horizontally aligned to center.
+Three mentors per row. The photo and name is clickable and links to LinkedIn. The photo is automatically cropped to a circle (the image must be a square) and a white border is added by code. All text are horizontally aligned to center.
 <table>
     <!-- ROW 1 -->
 	<tr>
