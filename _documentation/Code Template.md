@@ -49,6 +49,7 @@ description: ""
 </table>
 
 Template code:
+				
 ```
 <table>
 	<tr>
