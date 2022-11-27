@@ -335,5 +335,13 @@ Three mentors per row. The photo and name is clickable and links to LinkedIn. Th
 	</tr>
 </table>
 
+How to copy and paste:
+* To add rows, copy and paste any row as every row here is exactly the same
+
+Code Notes:
+* A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
+* Images are flushed to the top (default)
+* `width:25%` is the size of the column for the logos. The text takes up 75% of the space
+
 # Incubatees
 #### Community > Incubatees
