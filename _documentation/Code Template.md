@@ -30,9 +30,9 @@ Examples:
   * <span style="font-size:1.3em">Font</span> <span style="font-size:0.7em">size</span>: ```font-size: 1.3em;``` - the units I use here is ```em```. By default, the text is 1em (usually 16px). em is used because it's dynamic. Eg. when the screen is smaller, the text will scale accordingly instead of being fixed at a certain pixel value.
 
 #### How to combine both? There are 3 methods: 
-	* Inline - by using the ```<style>``` attribute inside HTML elements
-	* Internal - by using a ```<style>``` element in the ```<head>``` section
-	* External - by using a ```<link>``` element to link to an external CSS file
+* Inline - by using the ```<style>``` attribute inside HTML elements
+* Internal - by using a ```<style>``` element in the ```<head>``` section
+* External - by using a ```<link>``` element to link to an external CSS file
 	* **In our case, we are using inline**. External is out as we cannot link to another file, internal is possible but it somehow doesn't work for all HTML tags in Isomer.
 	* This is how HTML with inline CSS looks like: ```<a style="color:red;"></a>```. The style appears inside the first <>
 
