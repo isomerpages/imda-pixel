@@ -186,3 +186,37 @@ One equipment per row. All text are vertically aligned to middle. There is a lig
 		</td>
 	</tr>
 </table>
+
+Template code:
+```
+<table>
+	<tr>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 1</b><br>
+			<br>• Feature 1
+			<br>• Feature 2
+		</td>
+	</tr>
+	<tr>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
+		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 2</b><br>
+			<br>• Feature 1
+			<br>• Feature 2
+		</td>
+	</tr>
+    <tr>
+		<td style="width:50%; vertical-align:middle;"><img src="img.png"></td>
+		<td style="width:50%; vertical-align:middle;"><b>Equipment 3</b><br>
+			<br>• Feature 1
+			<br>• Feature 2
+		</td>
+	</tr>
+</table>
+```
+
+Notes:
+* By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
+* Only adjust the borders in between the equipment by setting `border-bottom: 0.75px solid lightgrey;` for all rows except for the last
+* Text are vertically aligned to the image by `vertical-align:middle;` 
+* 2 columns, indicated by 2 sets of `<td></td>` within each table row
+* `width:50%` is the size of the column. 2 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
