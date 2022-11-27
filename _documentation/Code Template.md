@@ -88,3 +88,29 @@ Notes:
 
 
 # Facilities
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Room 1</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Room 2</b></td>
+	</tr>
+</table>
+
+Template code:
+```
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Room 1</b></td>
+		<td style="text-align:center; border-bottom:none;"><b>Room 2</b></td>
+	</tr>
+</table>
+```
