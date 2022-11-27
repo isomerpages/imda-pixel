@@ -251,29 +251,26 @@ One partner per row. There is a light border at the top and bottom of all rows. 
             <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
-    <!-- MIDDLE ROW -->
-    <tr>
-        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><img src="img.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-		    <br><b>Company 2</b> 
-            <br>Description
-            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>
-    <!-- LAST ROW -->
-    <tr>
-        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><img src="img.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Company 3</b> 
-            <br>Description
-            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>
 </table>
+
+Template code:
+```
+<table>
+    <!-- START ROW -->
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="img.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Company  1</b>
+            <br>Description
+            <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+		<!-- END ROW -->
+</table>
+```
+
 
 How to copy and paste:
 * To add rows, copy and paste any row as every row here is exactly the same
