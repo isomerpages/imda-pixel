@@ -267,7 +267,7 @@ Template code:
             <br><br><a href="https://www.google.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
-		<!-- END ROW -->
+    <!-- END ROW -->
 </table>
 ```
 
