@@ -221,7 +221,11 @@ Template code:
 </table>
 ```
 
-Notes:
+How to copy and paste:
+* If you want to add rows to the top or the middle, copy the 1st or the middle code (they are the same)
+* If you want to add to the last row, copy the last row, and change the existing last row format to that of the middle row
+
+Code Notes:
 * By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
 * Only adjust the borders in between the equipment by setting `border-bottom: 0.75px solid lightgrey;` for all rows except for the last
 * Bullet points are artificially added by copy and pasting this •
