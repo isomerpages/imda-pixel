@@ -8,12 +8,12 @@ description: ""
 
 #### How is content written? Using **HTML**
 Examples:
-  * Header 1: ```<h1>Welcome</h1>```
-  * Link: ```<a href="https://www.google.com" target="_blank">Google</a>```
+  * Header 1: ```<h1>Title</h1>```
+  * Link: ```<a href="https://www.google.com" target="_blank">Link</a>```
   * Table: ```<table><tr><td>Col1</td><td>Col2</td></tr></table>```
   * Image: ```<img src="file.jpg" alt="Image example">```
   * Line break: ```<br>``` 
-  * Span: ```<span></span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
+  * Span: ```<span>Text</span>``` (use this when you want to style a small portion,  eg. changing <span style="font-size:1.3em">font size</span> or <span style="color:blue;">colour</span> of a part of a text while retaining the main style)
   
 Notes:
 * These ```<> </>``` are called HTML tags
