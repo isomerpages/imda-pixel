@@ -74,4 +74,6 @@ description: ""
 ```
 
 Notes:
-* One table row only because
+* 1 table row, indicated by 1 set of `<tr></tr>`
+* 4 columns, indicated by 4 sets of `<td></td>` within table row
+* `width:25%` is the size of the column. Use percentages instead of pixels so column will size accordingly to screen size
