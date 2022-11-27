@@ -560,4 +560,54 @@ How to copy and paste:
 Code Notes:
 * By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
 * Only adjust the borders in between the equipment by setting `border-bottom: 0.75px solid lightgrey;` for all rows except for the last
-* Text are vertically aligned to the image by `vertical-align:middle;` 
+* Text are vertically aligned to the image by `vertical-align:middle;`
+
+# Testimonials
+#### Success Stories > Testimonials
+Photo on the left, quote on the right
+
+<table>
+	<!-- START ROW -->
+	<tr>
+		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;">
+			<img src="/images/Community/Mentors/alan-hellawell_230px.jpg" style="border-radius:50%;">
+		</td>
+		<td style="vertical-align:middle; border-bottom:none;">
+			<blockquote>
+			Quote here
+			<br><i>- Name, Company</i>
+			</blockquote>
+		</td>
+	</tr>
+	<!-- END ROW -->
+</table>
+
+Template code:
+
+```
+<table>
+	<!-- START ROW -->
+	<tr>
+		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;">
+			<img src="img.jpg" style="border-radius:50%;">
+		</td>
+		<td style="vertical-align:middle; border-bottom:none;">
+			<blockquote>
+			Quote here
+			<br><i>- Name, Company</i>
+			</blockquote>
+		</td>
+	</tr>
+	<!-- END ROW -->
+</table>
+```
+
+How to copy and paste:
+* Copy above from START to END to add one testimonial
+* Change the src in img
+* Edit the quote in blockquote
+* Edit the name and company
+
+Code Notes:
+* Remove all borders `border-bottom:none;`
+* Image here is cropped to circle, you can remove it by deleting `border-radius:50%;`
