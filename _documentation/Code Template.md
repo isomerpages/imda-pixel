@@ -269,6 +269,14 @@ One partner per row. There is a light border at the top and bottom of all rows. 
     </tr>
 </table>
 
+How to copy and paste:
+* Every row here is exactly the same, so you can copy and paste any row
+
+Code Notes:
+* A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
+* Images are flushed to the top (default)
+* `width:25%` is the size of the column for the logos. The text takes up 75% of the space
+
 
 # Mentors
 #### Community > Mentors
