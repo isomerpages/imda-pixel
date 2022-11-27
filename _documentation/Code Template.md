@@ -31,7 +31,7 @@ Examples:
   * <span style="font-size:1.3em">Font</span> <span style="font-size:0.7em">size</span>: ```font-size: 1.3em;``` - the units I use here is ```em```. By default, the text is 1em (usually 16px). em is used because it's dynamic. Eg. when the screen is smaller, the text will scale accordingly instead of being fixed at a certain pixel value.
   * Centering horizontally: ```text-align: center;```
   * Centering vertically: ```vertical-align: middle;```
-  * No underline when adding a <a href="https://ww.google.com" target="_blank">link</a>: ``````
+  * No underline when adding a <a href="https://ww.google.com" target="_blank">link</a>: ```text-decoration: none; ``` TADA <a href="https://ww.google.com" target="_blank" style="text-decoration: none; ">link</a>
 
 #### How to combine both? There are 3 methods: 
 * Inline - by using the ```<style>``` attribute inside HTML elements
