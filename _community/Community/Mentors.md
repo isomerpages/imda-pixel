@@ -155,7 +155,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/keith-oh.png"></td>
+					<td><img src="/images/Community/Mentors/keith-oh_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -169,7 +169,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/thierry-do.png"></td>
+					<td><img src="/images/Community/Mentors/thierry-do_230px.jpg" style="border-radius:50%; border:3px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
