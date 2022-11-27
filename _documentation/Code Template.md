@@ -13,6 +13,7 @@ Examples:
   * Link: ```<a></a>```
   * Table: ```<table><tr><td></td><td></td></tr></table>```
   * Line break: ```<br>``` (no need closing bracket)
+  * Span: ```<span></span>```
   
 Notes:
 * These ```<> </>``` are called HTML tags
