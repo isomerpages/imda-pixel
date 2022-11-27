@@ -23,8 +23,8 @@ Notes:
 
 
 #### How are aesthetics taken care of? Using **CSS**
-  * <span style="color:red;">text color</span>: ```color: red;``` / ```color:#FF0000;``` / ```color:rgba(255,0,0,0.5)``` - a here refers to alpha which controls the opacity - 0.0 is fully transparent and 1.0 is fully opaque
-  * 
+  * <span style="color:red;">text color</span>: ```color: red;``` / ```color:#FF0000;``` / ```color:rgba(255,0,0,0.5);``` - a here refers to alpha which controls the opacity - 0.0 is fully transparent and 1.0 is fully opaque
+  * <span style="background-color:#FFFF00;">background color</span>: ```background-color:yellow;```  / ```background-color:#FFFF00;``` / ```background-color:rgba(255,255,0,1);``` 
 
 #### How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
