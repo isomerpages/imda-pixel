@@ -89,6 +89,8 @@ Notes:
 
 # Facilities
 2 rooms per row. Image corners are rounded by the code.
+
+#### 2 rooms in a row:
 <table>
     <!-- START  OF ROW 1 -->
 	<tr>
@@ -102,7 +104,7 @@ Notes:
 </table>
     <!-- END OF ROW 1 -->
 
-Template code:
+Template code for 2 rooms:
 ```
 <table>
     <!-- START  OF ROW 1 -->
@@ -114,8 +116,40 @@ Template code:
 		<td style="text-align:center; border-bottom:none;"><b>Room 1</b></td>
 		<td style="text-align:center; border-bottom:none;"><b>Room 2</b></td>
 	</tr>
-</table>
     <!-- END OF ROW 1 -->
+</table>
+```
+
+#### 1 room in a row:
+
+<table>
+    <!-- START  OF ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Room 1</b></td>
+		<td style="text-align:center; border-bottom:none;"><b></b></td>
+	</tr>
+    <!-- END OF ROW 1 -->
+</table>
+
+Template code for 1 room:
+
+```
+<table>
+    <!-- START  OF ROW 1 -->
+	<tr>
+		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
+		<td style="width:50%; border-bottom:none; "></td>
+	</tr>
+	<tr>
+		<td style="text-align:center; border-bottom:none;"><b>Room 1</b></td>
+		<td style="text-align:center; border-bottom:none;"><b></b></td>
+	</tr>
+    <!-- END OF ROW 1 -->
+</table>
 ```
 
 Notes:
