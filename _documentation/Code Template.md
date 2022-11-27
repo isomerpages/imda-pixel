@@ -336,7 +336,7 @@ Three mentors per row. The photo and name is clickable and links to LinkedIn. Th
 </table>
 
 How to copy and paste:
-* To add rows, copy and paste any row as every row here is exactly the same
+* Copy the whole row above
 
 Code Notes:
 * A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
