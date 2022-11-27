@@ -8,7 +8,7 @@ description: ""
 
 #### How is content written? Using **HTML**
 Useful examples:
-  * Header 1: ```<h1>Title</h1>```
+  * Header 1: ```<h1>Title</h1>```, Header 2: ```<h2>Title</h2>```, etc
   * Link: ```<a href="https://www.google.com" target="_blank">Link</a>```
      * href: Hyperlink to the site
      * target: There are a few options but we use only two here, (1) "_blank": Opens the linked document in a new tab, (2) "_self": Opens the linked document in the current page (default)
