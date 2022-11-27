@@ -402,3 +402,45 @@ Code Notes:
 
 # Incubatees
 #### Community > Incubatees
+<table>
+    <!-- START ROW -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.google.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="img.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>COMPANY 1</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.google.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="img.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>COMPANY 2</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.google.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="img.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>COMPANY 3</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+	</tr>
+	<!-- END ROW -->
+</table>
