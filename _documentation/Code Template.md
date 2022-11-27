@@ -23,6 +23,7 @@ description: ""
 
 
 # Topics for Workshops
+#### Programmes > For Corporates/Startups > Innovation Consultancies
 <table>
 	<tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
@@ -47,17 +48,18 @@ description: ""
 	</tr>
 </table>
 
+Template code:
 ```
 <table>
 	<tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
-			<b>DESIGN THINKING</b>
-			<br><span style="font-size:0.9em;">An experiential understanding and how it can help you innovate, including customer journey maps and working prototypes</span>
-			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DesignThinking.pdf" target="_blank" style="color: white;">eBrochure</a><br>
+			<b>TOPIC</b>
+			<br><span style="font-size:0.9em;">DESCRIPTION</span>
+			<br><br><a href="eBrochure.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
-			<b>DIGITAL STORYTELLING</b>
-			<br><span style="font-size:0.9em;">A practical understanding of how it can help you create customer-centric digital products and experiences</span>
+			<b>TOPIC</b>
+			<br><span style="font-size:0.9em;">Description</span>
 			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
