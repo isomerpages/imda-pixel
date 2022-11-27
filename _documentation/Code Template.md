@@ -397,7 +397,7 @@ Code Notes:
 * The image is cropped into a circle by `border-radius:50%;`
 * The border around the circle is added by `border:8px solid white;`
 * Font size: Person (1em) > Designation / Company (0.9em) > Description (0.8em)
-* `width:33%` is the size of the column for the logos.
+* `width:33%` is the size of each column.
 * There is a white border around each table cell `border: 15px solid white; `
 
 # Incubatees
