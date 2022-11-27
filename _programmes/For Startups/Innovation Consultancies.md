@@ -20,7 +20,7 @@ We believe that the most successful businesses are built by people who understan
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
 			<br><span style="font-size:0.9em;">A practical understanding of how it can help you create customer-centric digital products and experiences</span>
-			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
