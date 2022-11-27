@@ -503,6 +503,7 @@ Code Notes:
 * There is a grey border around each table cell `border: 15px solid #F7F7F7; `
 
 # Success Stories
+One story per row. All text are vertically aligned to middle. There is a light border between stories. There is no top border for the 1st row, and no bottom border for the last row. The story title is in a hyperlink to make it obvious to users that it is clickable.
 
 <table>
 	<!-- 1ST OR MIDDLE ROWS -->
@@ -510,7 +511,7 @@ Code Notes:
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="img.jpg">
 		</td>
-		<td style="vertical-align:middle; ">Partnership
+		<td style="vertical-align:middle; ">Category
 			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
 		</td>
     </tr>
@@ -519,8 +520,44 @@ Code Notes:
 		<td style="width:30%; vertical-align:middle;">
 			<img src="img.jpg">
 		</td>
-		<td style="vertical-align:middle;">Partnership
+		<td style="vertical-align:middle;">Category
 			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
 		</td>
     </tr>
 </table>
+
+Template code:
+```
+<table>
+	<!-- 1ST OR MIDDLE ROWS -->
+	<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="img.jpg">
+		</td>
+		<td style="vertical-align:middle; ">Category
+			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
+		</td>
+    </tr>
+	<!-- LAST ROW -->
+	<tr>
+		<td style="width:30%; vertical-align:middle;">
+			<img src="img.jpg">
+		</td>
+		<td style="vertical-align:middle;">Category
+			<br><b><a href="https://www.google.com" target="_blank">Story</a></b>
+		</td>
+    </tr>
+</table>
+```
+
+How to copy and paste:
+* If you want to add rows to the top or the middle, copy the 1st / middle code 
+* If you want to add to the last row, copy the last row, and change the existing last row format to that of the 1st/middle row
+* Edit the category
+* Change the link in href
+* Edit the story title
+
+Code Notes:
+* By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
+* Only adjust the borders in between the equipment by setting `border-bottom: 0.75px solid lightgrey;` for all rows except for the last
+* Text are vertically aligned to the image by `vertical-align:middle;` 
