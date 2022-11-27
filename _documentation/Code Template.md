@@ -217,6 +217,7 @@ Template code:
 Notes:
 * By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
 * Only adjust the borders in between the equipment by setting `border-bottom: 0.75px solid lightgrey;` for all rows except for the last
+* Bullet points are artificially added by copy and pasting this •
 * Text are vertically aligned to the image by `vertical-align:middle;` 
 * 2 columns, indicated by 2 sets of `<td></td>` within each table row
 * `width:50%` is the size of the column. 2 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
