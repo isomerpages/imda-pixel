@@ -152,9 +152,11 @@ Template code for 1 room:
 </table>
 ```
 
-Notes:
+How to copy and paste:
+* To add more rooms, choose whether you need 1 or 2 rooms to be in a row and copy and paste everything from the START till the END 
+
+Code Notes:
 * The rooms consist of 2 rows. The 1st row contains the image, and the 2nd row contains the room name
-* To add more rooms, copy and paste everything from the START till the END 
 * All borders are removed as seen in `border-bottom:none;` 
 * 2 columns, indicated by 2 sets of `<td></td>` within each table row
 * `width:50%` is the size of the column. 2 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
