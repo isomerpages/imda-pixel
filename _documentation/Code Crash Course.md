@@ -45,7 +45,3 @@ Useful examples (all these go into style=""):
 * External - by using a ```<link>``` element to link to an external CSS file
 	* **In our case, we are using inline**. External is out as we cannot link to another file, internal is possible but it somehow doesn't work for all HTML tags in Isomer.
 	* This is how HTML with inline CSS looks like: ```<a style="color:red;"></a>```. The style appears inside the opening tag <>
-
-
-## Button
-Copy below code for this button <a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="https://www.google.com">Click Me</a>
