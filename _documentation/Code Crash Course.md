@@ -11,7 +11,7 @@ Useful examples:
   * Header 1: ```<h1>Title</h1>```
   * Link: ```<a href="https://www.google.com" target="_blank">Link</a>```
      * href: Hyperlink to the site
-     * target: There are a few options but we use only two here, (1) "_blank": Opens the linked document in a new window or tab
+     * target: There are a few options but we use only two here, (1) "_blank": Opens the linked document in a new tab, (2) "_self": Opens the linked document in the current page (default)
   * Table: ```<table><tr><td>Col1</td><td>Col2</td></tr></table>```
   * Image: ```<img src="file.jpg" alt="Image example">```
   * Line break: ```<br>``` 
