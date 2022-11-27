@@ -273,7 +273,10 @@ Template code:
 
 
 How to copy and paste:
-* To add rows, copy and paste any row as every row here is exactly the same
+* Copy the row above to add 1 row
+* Change the src in the img
+* Edit the company name and description
+* Change the href in the button
 
 Code Notes:
 * A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
