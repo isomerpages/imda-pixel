@@ -22,7 +22,7 @@ Notes:
 
 
 #### How are aesthetics taken care of? Using **CSS**
-  * text color: ```color: black;``` or ```color:#F7F7F7;``` or ```color:rgba(255,255,255,50%)``` 
+  * text color: ```color: black;``` or ```color:#F7F7F7;``` or ```color:rgba(255,255,255,0.5)``` 
 
 #### How to combine both? There are 3 methods: 
 	* Inline - by using the ```<style>``` attribute inside HTML elements
