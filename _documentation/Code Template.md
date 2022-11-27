@@ -274,7 +274,7 @@ One partner per row. There is a light border at the top and bottom of all rows. 
 </table>
 
 How to copy and paste:
-* Every row here is exactly the same, so you can copy and paste any row
+* To add rows, copy and paste any row as every row here is exactly the same
 
 Code Notes:
 * A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
