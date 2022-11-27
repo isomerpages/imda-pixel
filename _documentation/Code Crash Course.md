@@ -39,6 +39,9 @@ Useful examples (all these go into style=""):
   * No underline for <a href="https://ww.google.com" target="_blank">links</a>: `text-decoration: none; `. Here you go: <a href="https://ww.google.com" target="_blank" style="text-decoration: none; ">link</a>
   * Round edges of images or text: `border-radius: 100px;` / `border-radius: 50%;`
   * Add border: `border: 1px solid green` 
+    * 1st value: px value is the width of the border
+    * 2nd value: solid is the line of the border (can be `dashed` - dotted line etc)
+    * 3rd value: colour of border
 
 #### How to combine both? There are 3 methods: 
 * Inline - by using the ```<style>``` attribute inside HTML elements
