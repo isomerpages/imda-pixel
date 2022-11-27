@@ -16,9 +16,9 @@ description: ""
 
 How to copy and paste:
 * Copy the code of the relevant button above
-* `href`: Hyperlink to the site (remove if you want your button to not link anywhere, eg when Application Closed) 
-* `<>Click Me<>`: Button text
-* `target="_blank"` opens site in a new tab. Change to "_self" is you want it to open on the current page
+* Change the `href`: Hyperlink to the site (remove if you want your button to not link anywhere, eg when Application Closed) 
+* Edit the button text: `<>Click Me<>`
+* `target="_blank"` opens site in a new tab. Change to "_self" if you want it to open on the current page
 * `background-color` if you want to change the button colour
 * `color` if you want to change the text colour
 
