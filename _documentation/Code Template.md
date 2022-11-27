@@ -160,6 +160,8 @@ Template code for 1 room:
 
 How to copy and paste:
 * To add more rooms, choose whether you need 1 or 2 rooms to be in a row and copy and paste everything from the START till the END 
+* Change the src in img
+* Edit the room name
 
 Code Notes:
 * The rooms consist of 2 rows. The 1st row contains the image, and the 2nd row contains the room name
@@ -173,15 +175,7 @@ Code Notes:
 One equipment per row. All text are vertically aligned to middle. There is a light border between equipments. There is no top border for the 1st row, and no bottom border for the last row. 
 
 <table>
-    <!-- 1st ROW -->
-	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 1</b><br>
-			<br>• Feature 1
-			<br>• Feature 2
-		</td>
-	</tr>
-    <!-- MIDDLE ROW -->
+    <!-- 1st or MIDDLE ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 2</b><br>
@@ -202,15 +196,7 @@ One equipment per row. All text are vertically aligned to middle. There is a lig
 Template code:
 ```
 <table>
-    <!-- 1st ROW -->
-	<tr>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
-		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 1</b><br>
-			<br>• Feature 1
-			<br>• Feature 2
-		</td>
-	</tr>
-    <!-- MIDDLE ROW -->
+    <!-- 1st or MIDDLE ROW -->
 	<tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="img.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Equipment 2</b><br>
@@ -230,8 +216,10 @@ Template code:
 ```
 
 How to copy and paste:
-* If you want to add rows to the top or the middle, copy the 1st or the middle code (they are the same)
-* If you want to add to the last row, copy the last row, and change the existing last row format to that of the middle row
+* If you want to add rows to the top or the middle, copy the 1st or the middle code 
+* If you want to add to the last row, copy the last row, and change the existing last row format to that of the 1st/middle row
+* Change the src of img
+* Edit equipment name and features, note that the bullet point is simply copied and pasted here 
 
 Code Notes:
 * By default in Isomer, tables have no top border for 1st row and no bottom border for the last row. We will leave it as it is.
@@ -294,7 +282,7 @@ Code Notes:
 #### Community > Mentors
 Three mentors per row. The photo and name is clickable and links to LinkedIn. The photo is automatically cropped to a circle (the image must be a square) and a white border is added by code. All text are horizontally aligned to center.
 <table>
-    <!-- ROW 1 -->
+    <!-- START ROW -->
 	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -339,12 +327,13 @@ Three mentors per row. The photo and name is clickable and links to LinkedIn. Th
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
 		</td>
 	</tr>
+    <!-- END ROW -->
 </table>
 
 Template code:
 ```
 <table>
-    <!-- ROW 1 -->
+    <!-- START ROW -->
 	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -389,11 +378,12 @@ Template code:
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
 		</td>
 	</tr>
+    <!-- END ROW -->
 </table>
 ```
 
 How to copy and paste:
-* Copy the whole row above
+* Copy the whole row above from START to END
 * Change the href to the LinkedIn link
 * Change the src in the img
 * Edit the person, designation, company and description
@@ -511,3 +501,5 @@ Code Notes:
 * Font size: Company (1em) > Description (0.8em)
 * `width:33%` is the size of each column.
 * There is a grey border around each table cell `border: 15px solid #F7F7F7; `
+
+# Success Stories
