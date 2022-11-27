@@ -335,6 +335,57 @@ Three mentors per row. The photo and name is clickable and links to LinkedIn. Th
 	</tr>
 </table>
 
+Template code:
+```
+<table>
+    <!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 1</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 2</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
+			<a href="https://www.linkedin.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="img.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>PERSON 3</b></a>
+			<br><span style="font-size:0.9em;">Designation</span>
+			<br><span style="font-size:0.9em;">Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Description</span>
+		</td>
+	</tr>
+</table>
+```
+
 How to copy and paste:
 * Copy the whole row above
 * Change the href to the LinkedIn link
