@@ -3,10 +3,8 @@ title: Code Crash Course
 permalink: /documentation/code-crash-course/
 description: ""
 ---
-
 *Last updated on 25 Nov 2022 by Cherina Yee*
-# Crash Course
-## Hello World!
+# Hello World
 
 #### How is content written? Using **HTML**
 Examples:
