@@ -90,7 +90,7 @@ Notes:
 # Facilities
 2 rooms per row. Image corners are rounded by the code.
 <table>
-    <!-- ROW 1 -->
+    <!-- START  OF ROW 1 -->
 	<tr>
 		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
 		<td style="width:50%; border-bottom:none; "><img src="img.jpg" style="border-radius:15px;"></td>
@@ -100,6 +100,7 @@ Notes:
 		<td style="text-align:center; border-bottom:none;"><b>Room 2</b></td>
 	</tr>
 </table>
+    <!-- END OF ROW 1 -->
 
 Template code:
 ```
@@ -118,7 +119,7 @@ Template code:
 ```
 
 Notes:
-* To add more rows, copy and paste everything inside 1 row (`<tr></tr>`) 
+* Above template consists of 2 rooms. To add more rooms, copy and paste everything from the START till the END (`<tr></tr>`) 
 * 2 columns, indicated by 2 sets of `<td></td>` within table row
 * `width:25%` is the size of the column. 4 columns = 100%. Use percentages instead of pixels so column will size accordingly to screen size.
 * Description font size is smaller `font-size:0.9em`
