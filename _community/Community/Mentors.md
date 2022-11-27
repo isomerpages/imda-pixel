@@ -267,7 +267,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/dr_jeannie_lee_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td><img src="/images/Community/Mentors/dr_jeannie_lee.jpg" style="border-radius:50%; border:8px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -281,7 +281,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-					<td><img src="/images/Community/Mentors/dr_tan_chek_tien_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td><img src="/images/Community/Mentors/dr_tan_chek_tien.jpg" style="border-radius:50%; border:8px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
