@@ -13,6 +13,6 @@ description: ""
 <span style="background-color: yellow;  padding-left: 10px; padding-right: 10px;">Things to change</span>:
 * `href`: Hyperlink to the site
 * `<>Click Me<>`: Button text
-* `target="_blank"` opens site in a new tab, change to "_self" is you want it to open on the current page
+* `target="_blank"` opens site in a new tab. Change to "_self" is you want it to open on the current page
 * `background-color` if you want to change the button colour
 * `color` if you want to change the text colour
