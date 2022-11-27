@@ -337,9 +337,12 @@ Three mentors per row. The photo and name is clickable and links to LinkedIn. Th
 
 How to copy and paste:
 * Copy the whole row above
+* Change the href to the LinkedIn link
+* Change the src in the img
+* Edit the person, designation, company and description
 
 Code Notes:
-* A light border at the top and bottom of all rows `border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;` 
+* The image is housed in a table in a table. This is because the image cannot be formatted somehow
 * Images are flushed to the top (default)
 * `width:25%` is the size of the column for the logos. The text takes up 75% of the space
 
