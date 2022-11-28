@@ -44,8 +44,8 @@ sections:
   - infopic:
       title: "Incubation "
       description: Be a PIXEL incubatee. Gain access to co-working space, tech
-        resources, knowledge and network of innovators, so you can be ready when
-        opportunity knocks.
+        resources, knowledge and our network of innovators, so you can be ready
+        when opportunity knocks.
       button: apply
       url: /programmes/startups/incubation/
       alt: Image alt text
