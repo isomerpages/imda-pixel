@@ -19,14 +19,13 @@ If you are looking to showcase your products or looking for a space to co-work, 
 
 As PIXEL is not a commercial service provider, our facilities are not for hire. We are open to supporting innovation-related events at our space. If you are interested, you may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg) to request for usage, sharing with us more details about your event.
 
-##### 4. How do I become an incubatee in PIXEL?
+##### 4. How do I apply for incubation in PIXEL?
 
-We are focused on Singapore-registered start-ups which have products aligned with PIXEL’s technology focus area, and have at least a prototype/ proof-of-concept. These are in immersive media (i.e. AR/VR), AI, data analytics, IoT, robotics, 5G with a business-to-business (B2B) focus, preferably in the Built Environment/ Industrial/ Lifestyle sectors.
+We are focused on Singapore-registered start-ups which have products aligned with PIXEL’s technology focus area, and have at least a prototype/proof-of-concept. These are in immersive media (i.e. AR/VR), AI, data analytics, IoT, robotics, 5G with a business-to-business (B2B) focus, preferably in the Built Environment/ Industrial/ Lifestyle sectors. 
 
- Application will be based on merit and we will require the following information: 
+Apply for incubation in our complimentary co-working space [here](https://form.gov.sg/#!/6347a3c39854900012674f4d). Application will be based on merit. We will require the following information:
 
 *   Company information (e.g. year of establishment, key founders and team, team size, funds raised to date) 
-    
 *   Business model (e.g. key customers, addressable market) 
     
 *   Product Development/ Expansion plans (e.g. plans for commercialisation) 
@@ -35,7 +34,6 @@ We are focused on Singapore-registered start-ups which have products aligned wit
     
 *   Contributions back to the Innovation community (e.g. providing mentorship)
 
-Apply for incubation in our complimentary co-working space [here](https://form.gov.sg/%22%20/l%20%22!/6347a3c39854900012674f4d).
 
 ##### 5. Does my start-up have to be registered in Singapore to be eligible for incubation?
 
@@ -43,8 +41,13 @@ Yes, your start-up needs to be a Singapore-registered business under the Account
 
 ##### 6. Are PIXEL’s events and workshops free?
 
-Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up for the latest events here.
+Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up for the latest events [here](https://form.gov.sg/#!/5f6327d424978a001130835c).
 
-Is Wi-Fi provided in PIXEL?
+#### 7. I represent a corporate/ enterprise, and I want to find innovative solutions in a particular domain. How can I get to know PIXEL’s start-ups and view their demos? 
+
+You may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg), sharing with us more details about your business pain point and innovation needs.
+
+
+#### 8. Is Wi-Fi provided in PIXEL?
 
 Yes! PIXEL uses Wireless@SG and users with Wireless@SG account have access to free Wi-Fi services.
