@@ -63,7 +63,7 @@ sections:
   - infopic:
       title: Community
       description: "Plug into PIXEL’s vibrant community of diverse tech experts,
-        startup founders, corporate innovators, potential investors and get
+        startups, corporate innovators, potential investors and get
         inspired.   "
       button: Connect
       url: /community/networking-events/
