@@ -33,9 +33,9 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: "Whether you’re a business looking for innovative solutions for
-        your business pain points or a tech start-up seeking innovation
-        opportunities, we got you! "
+      description: "We help match corporates with tech startups to solve business
+        challenges. Join our quarterly call or try out the discovery engine for
+        a faster match.   "
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
@@ -43,8 +43,9 @@ sections:
       subtitle: CORPORATES & STARTUPS
   - infopic:
       title: "Incubation "
-      description: Be a part of the innovation. Gain access to resources, knowledge
-        and people that can help you solve problems and create opportunities.
+      description: Be a PIXEL incubatee. Gain access to co-working space, tech
+        resources, knowledge and network of innovators, so you can be ready when
+        opportunity knocks.
       button: apply
       url: /programmes/startups/incubation/
       alt: Image alt text
@@ -52,9 +53,8 @@ sections:
       image: /images/Homepage/Incubation2.png
   - infopic:
       title: Facilities
-      description: Let your creativity flow with our 28,000 sqft of innovation space
-        featuring thematic sets, production studios, discussion spaces and
-        more...
+      description: Let your creativity flow in our 28,000 sqft innovation space with
+        production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
       button: Explore
       url: /facilities
       image: /images/Homepage/Diner Room2.png
@@ -62,8 +62,9 @@ sections:
       subtitle: everyone
   - infopic:
       title: Community
-      description: Plug into PIXEL’s vibrant community of diverse tech, media and
-        design backgrounds to mix with, learn from and get inspired.
+      description: "Plug into PIXEL’s vibrant community of diverse tech experts,
+        startup founders, corporate innovators, potential investors and get
+        inspired.   "
       button: Connect
       url: /community/networking-events/
       image: /images/Homepage/Community2.png
