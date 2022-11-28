@@ -33,9 +33,9 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: "We help match corporates with tech startups to solve business
-        challenges. Join our quarterly call or try out the discovery engine for
-        a faster match.   "
+      description: "We match corporates with tech startups to solve business
+        challenges. Join our quarterly innovation call or try out the discovery
+        engine for a faster match.   "
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
