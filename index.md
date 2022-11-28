@@ -28,7 +28,7 @@ sections:
       title: PIXEL Innovation Hub
   - infobar:
       title: Innovate with Us
-      description: We help businesses and startups scale by inspiring, coaching and
+      description: We help corporates and startups scale by inspiring, coaching and
         connecting. Find out what we can offer below to accelerate your
         business.
   - infopic:
