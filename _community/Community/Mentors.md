@@ -118,6 +118,21 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">Cisco</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales</span>
 		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="[(25) Jê Alipio | LinkedIn](https://www.linkedin.com/in/jealipio/)" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+			<td><img
+src="/images/Community/Mentors/Je%20Alipio.png"></td> style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>JE ALIPIO</b></a>
+			<br><span style="font-size:0.9em;">Director and Head of Games,</span>
+			<br><span style="font-size:0.9em;">South APAC and MENA, The Walt Disney Company</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience
+		</td>
 		<td style="background:white; border: 15px solid white; width:33%;">		
 			<table>
 				<tr>
