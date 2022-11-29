@@ -123,8 +123,8 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-			<td><img
-src="/images/Community/Mentors/Je%20Alipio.png"></td> style="border-radius:50%; border:8px solid white;"></td>
+			    <td><img
+src="/images/Community/Mentors/Je%20Alipio.png" style="border-radius:50%; border:8px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
