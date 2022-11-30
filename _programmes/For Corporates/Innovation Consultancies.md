@@ -38,8 +38,8 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 
 <a href="https://pixel.imda.gov.sg/monthly-workshops" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Upcoming Sessions</a>
 
-#### 2. One-to-One complimentary consultation sessions with our Panel Consultants 
-* Get up to 2-days of consultation session 
+#### 2. One-to-One consultation sessions with our Panel Consultants 
+* Get up to 2-days of complimentary consultation session 
 
 #### 3.  Project Based Coaching Programme
 * Tap on our panel consultants to deliver on an agreed Design Thinking / Digital Storytelling / UI-UX project scope, and build capabilities within your team. 
