@@ -19,17 +19,17 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
-			<br><span style="font-size:0.9em;">Build your knowledge on digital storytelling and content creation skills to elevate the story behind your brand so you can resonate better with your customers. </span>
+			<br><span style="font-size:0.9em;">Build your knowledge on digital storytelling and content creation skills to elevate the story behind your brand to resonate better with your customers. </span>
 			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
-			<br><span style="font-size:0.9em;">Learn how to create natural, intuitive interfaces and experiences for your digital products and services, conduct user research, gather insights and do prototyping with user testing in our labs. </span>
+			<br><span style="font-size:0.9em;">Learn how to create intuitive interfaces and experiences for your digital products and services, conduct user research, gather insights and do prototyping and user testing. </span>
 			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_UIUX.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>AR/VR</b></span>
-			<br><span style="font-size:0.9em;">Discover how AR/VR can bring users closer to reality and form meaningful solutions</span>
+			<br><span style="font-size:0.9em;">Discover how AR/VR can bring users closer to reality and form meaningful solutions. </span>
 		</td>
 	</tr>
 </table>
@@ -42,7 +42,7 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 * Get up to 2-days of complimentary consultation session 
 
 #### 3.  Project Based Coaching Programme
-* Transform your digital products, services, content or brand through a series of coaching sessions with agreed milestones on Design Thinking / Digital Storytelling / UI-UX with an assigned consultant. 
+* Transform your digital products, services, content or brand through a series of coaching sessions with agreed scopes on Design Thinking / Digital Storytelling / UI-UX with an assigned consultant. 
 * This Project-based coaching programme is for Singapore-based Tech &amp; Media Start-ups, SMEs and Large Local Enterprises. Approved projects will be supported up to 70% of the total cost, capped at $70,000. It supports projects that may require up to 12 man-days of consultant engagement, for up to 6 months.
 * Note: <br>All projects will be evaluated based on its innovation, scalability, the commitment to project (team, funding, relevance to core business), and capability building it brings to the organisation.<br> 
 
