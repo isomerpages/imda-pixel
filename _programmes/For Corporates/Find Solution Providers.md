@@ -27,4 +27,4 @@ The IMDA [Open Innovation Platform (OIP)](https://www.openinnovation.sg/imda) ha
 
 We have captured our know-how within the [Discovery Engine](https://www.openinnovation.sg/find-solution) to help businesses at every stage of their innovation journey. If you are kick-starting innovation, you can use this to create your problem statement and be inspired by other company's innovation case studies. However, if you already have something in mind and is looking for a quick match, you can just search for proven solutions by our trusted tech solution providers. 
 
-<a href="https://www.openinnovation.sg/find-solution" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find our more/a>
+<a href="https://www.openinnovation.sg/find-solution" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find our more >
