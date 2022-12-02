@@ -2,7 +2,7 @@ collections:
   success-stories:
     output: true
     order:
-      - Example Title.md
+      - TIA Pixel ElitfitAI Vouch BetterData.md
       - Success Stories.md
       - Press Release/.keep
       - Press Release/AWS Joint Innovation Centre.md
