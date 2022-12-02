@@ -1,5 +1,5 @@
 collections:
-  advertorial-and-story:
+  stories:
     output: true
     order:
       - PIXEL's Incubatee Feature.md
