@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![13 Oct - DS](/images/Digital%20Storytelling/PIXEL_Digital-Storytelling---6-Lessons-from-Squid-Game_1600-x-800.jpg)
+![13octds](/images/Events/Digital%20storytelling/PIXEL_Digital-Storytelling---6-Lessons-from-Squid-Game_1600-x-800.jpg)
 
 | Title | 6 Lessons From Squid Game & How to Apply Them to Data Projects | | 
 | -------- | -------- | --------| 
