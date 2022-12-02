@@ -38,4 +38,4 @@ Fortunately, governments are well aware of how they can make a difference for st
     </tr>
 </table>
 
-<a href="https://www.techinasia.com/3-innovative-singaporean-startups-transforming-live-work-play" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read all</a>
+<a href="/stories/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read all</a>
