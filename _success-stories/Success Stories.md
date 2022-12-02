@@ -33,7 +33,7 @@ Fortunately, governments are well aware of how they can make a difference for st
 			<img src="/images/Success%20stories/Huawei%20spark%20incubator%20programme%20.jpg">
 		</td>
 		<td style="vertical-align:middle;">Partnership
-			<br><b><a href="https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/" target="_blank">Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator</a></b>
+			<br><b><a href="/stories/pixel-huawei-spark-incubation/" target="_blank">Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator</a></b>
 		</td>
     </tr>
 </table>
