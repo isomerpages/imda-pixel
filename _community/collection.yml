@@ -2,6 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Mentors.md
-      - Partners.md
       - Networking Events.md
+      - Partners.md
+      - Mentors.md
