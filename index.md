@@ -57,7 +57,7 @@ sections:
         production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
       button: Explore
       url: /facilities
-      image: /images/Homepage/Diner Room2.png
+      image: /images/Homepage/ARVR_homepage.jpeg
       alt: Facilities image
       subtitle: everyone
   - infopic:
