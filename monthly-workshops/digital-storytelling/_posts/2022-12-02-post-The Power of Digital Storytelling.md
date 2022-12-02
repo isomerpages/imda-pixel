@@ -17,7 +17,7 @@ image: ""
 ### About the workshop
 
 Whether it’s your personal or business brand, digital storytelling is a powerful tool that can help you resonate with your target audience by inspiring trust, building empathy and creating a strong emotional connection. In this workshop, learn the basics of digital storytelling and find out how you can create compelling and emotionally engaging stories that help keep your audience engaged, loyal and places you at a competitive advantage.
-<br><br><a href="[The Power of Digital Storytelling (imda-pixel.sg)](https://imda-pixel.sg/event/371)" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join Here </a><br><br>
+<br><br><a href="https://imda-pixel.sg/event/371" target="_blank" style="background-color: #E8E8E8; color: black; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join Here </a><br><br>
 
 **Presenting Partner: EY Digital Pte Ltd**
 
