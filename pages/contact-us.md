@@ -59,4 +59,12 @@ contacts:
           padding-right: 20px; padding-top:8px;
           padding-bottom:8px">Subscribe</a>'
     title: Mailing List
+  - content:
+      - phone: ""
+      - email: ""
+      - other: '<br><a href="https://www.linkedin.com/showcase/imda-pixel/"
+          target="_blank" style="background-color: #0A66C2; color: white;
+          text-decoration: none; border-radius: 100px; padding-left: 20px;
+          padding-right: 20px; padding-top:8px; padding-bottom:8px">Follow</a>'
+    title: LinkedIn
 ---
