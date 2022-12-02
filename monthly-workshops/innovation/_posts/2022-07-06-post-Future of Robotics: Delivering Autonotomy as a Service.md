@@ -29,13 +29,13 @@ dConstruct Technologies delivers autonomous navigation solutions for mobile robo
 
 ### Speakers 
 
-![Ruben](/images/Events/Design%20Thinking/rueben.jpg)
-**Reuben Png, Founder of IndegoX**
+![Marc Theermann](/images/Events/Innovation/MT%20B&w.png)
+**Marc Theermann, Chief Strategy Officer at Boston Dynamics**
 
-Reuben specialises in Human Centred Design leadership and has been working at the intersection of design, culture and technology for almost two decades. One of his key passions is to see impact via people thriving in organisations and systems that work harmoniously together.
+In his role as Chief Strategy Officer, Theermann oversees the development and implementation of Boston Dynamics’ commercialization strategy. Theermann is the newest member of Boston Dynamics’ executive team, and is responsible for product, marketing, shareholder management, and business development functions. He joins Boston Dynamics from Google, where he was responsible for cross-product strategy and key account management for the global gaming and startup verticals. Theerman has more than two decades of experience working with high-growth companies, including PlaceIQ, AdMeld, which sold to Google ($400M), and Millennial Media, which he sold to AOL/Verizon for $250M. He holds an MBA degree from Northeastern University, and a Masters in International Management from Thunderbird. He speaks English, German, and French, is married and has two daughters.
 
-![Dr Kate](/images/Events/Design%20Thinking/drkate.jpg)
+![jiayi](/images/Events/Innovation/JY%20B&W.png)
 
-**Dr Kate Lazarenko, Designer & Facilitator of IndegoX**
+**Jiayi Chong, Co-Founder of dConstruct**
 
-As a strategic designer, Kate's purpose is to assist organisations to frame the right problems in order to design the right solutions. Having worked across multiple domains, she brings about impact-driven innovation, which starts with connecting the dots between customer needs, business, design, and technology.
+Jiayi has 20 years of experience working in Tech in the Bay Area ( Silicon Valley ). He was a R&D Technical Director at Pixar working on the Physics Simulation Tools + Engine for Film production. His contributions included Finite Elements for Muscles/Flesh of Digital Characters, Free Surface Flow for Fluid Dynamics and Articulated Rigid Bodies/Constrained Dynamics for Physics-based Character Animation. He has film credits in Wall-E, Up, Toy Story 3, Brave and Monsters University. His work amounted to 4 US Patents and Siggraph Technical Talks. After leaving Pixar, he joined Deep Motion to work on Physics-based Humanoid Motion using Deep Reinforcement Learning before returning to Singapore. He is currently the CTO of dConstruct Technologies, a startup focused on building a "Self-Driving Stack" for robots, with a focus on using both traditional techniques in Motion Planning as well as current methods in Machine Learning + Computer Vision. Jia Yi has a Computer Science Degree as well as Masters from Stanford University.
