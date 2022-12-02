@@ -1,4 +1,5 @@
 collections:
   advertorial-and-story:
     output: true
-    order: []
+    order:
+      - TIA Pixel ElitfitAI Vouch BetterData.md
