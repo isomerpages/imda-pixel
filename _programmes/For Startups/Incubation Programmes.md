@@ -6,7 +6,7 @@ third_nav_title: For Startups
 ---
 # PIXEL Incubation Programme
 
-We recognise that innovation can be challenging. Whether you are an innovator or tech provider, PIXEL has something for you.
+Be a PIXEL incubatee at our 28,000 sqft innovation space and let us support you in building your business. Gain access to co-working space, tech resources, workshops, events and our innovation community, so you can be ready when opportunity knocks. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
