@@ -6,6 +6,7 @@ third_nav_title: For Startups
 ---
 # Open Innovation Programme
 ![](/images/Programmes/OIP_Hero_banner.jpg)
+
 Look out for our quarterly innovation call where we work with corporates to put up challenge statements and invite startups, technology providers and research institutes with the relevant technology solutions and capabilities to submit proposals. 
 
 The winner of the challenge can benefit from winning key reference customers, prize monies and a chance to co-innovate with corporate to develop, validate, test and bring your solution to commercialisation. 
