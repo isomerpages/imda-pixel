@@ -37,7 +37,7 @@ Look forward to a suite of benefits with us!
 # PIXELxHuawei Spark Incubation Programme
 ![Pixel X Huawei](/images/Programmes/PixelxHuawei.jpg)
 
-Jointly organized by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage startups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
+Jointly organised by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage startups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
 
 * Up to US$60K in Huawei Cloud credits  
 * Office space at PIXEL (28k sqft innovation space to support Corporates and Startups with facilities, programmes and networks)  
