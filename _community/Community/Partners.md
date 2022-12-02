@@ -20,7 +20,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Amazon Web Services</b>
             <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage startup growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform.
-            <br><br><a href="https://pixel.imda.gov.sg/success-stories/press-release/aws/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
@@ -80,5 +80,5 @@ We partner established tech firms and accelerators to host a range of innovation
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Huawei</b>
             <br>Targeting early-stage Singapore-based start-ups, the Spark Incubator Programme aims to support the growth and expansion of start-ups in three key sectors of FinTech, Web3, Metaverse and Enterprise Software. 
-            <br><br><a href="https://pixel.imda.gov.sg/success-stories/press-release/huawei/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a>
+            <br><br><a href="https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a>
 </table>
