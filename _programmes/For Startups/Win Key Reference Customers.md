@@ -25,4 +25,4 @@ Beyond activities within the JIC, enterprises and startups from AWS’s and IMDA
 # PIXEL Demo Days
 ![](/images/Programmes/Hologram_Table.jpg)
 
-Showcase your tech products
+We hold frequent events and curated tours for organisations, corporates and business associations, so startups will have a chance to demo and showcase their tech products, solutions or services to potential cilents. 
