@@ -1,0 +1,4 @@
+collections:
+  advertorial-and-story:
+    output: true
+    order: []
