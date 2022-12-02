@@ -6,11 +6,11 @@ third_nav_title: For Startups
 ---
 # PIXEL Incubation Programme
 
-Be a PIXEL incubatee at our 28,000 sqft innovation space and let us support you in building your business. Gain access to co-working space, tech resources, workshops, events and our innovation community, so you can be ready when opportunity knocks. 
+Be a PIXEL incubatee at our 28,000 sqft innovation space and let us support you in building your business. Get connected to our innovation community, so you can be ready when opportunity knocks. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our aim is to provide a platform where you can showcase your products and services, connect with like-minded people, exchange ideas, find partners and more.
+Our aim is to provide a platform where you can showcase your products and services, connect with like-minded people, exchange ideas, find partners and meet potential customers.
 
 We are looking for innovative technology providers and corporate partners who are passionate about their ideas. If you have something to share with the world and would like to connect with those who can help you take your idea from vision to reality, then PIXEL is the place for you.
 
@@ -19,15 +19,15 @@ Look forward to a suite of benefits with us!
 	<tr>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Facilities</b></span>
-			<br>Designed to embed customer centricity into your product. AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
+			<br>Designed to embed customer centricity into your product, AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available 
 		</td>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Expertise</b></span>
-			<br>Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops related to AR/VR, UI/UX and design thinking
+			<br>Level up your knowledge with 1-to-1 consultation sessions, project-based coaching and free workshops on AR/VR, UI/UX and design thinking
 		</td>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Community</b></span>
-			<br>Gain connections to PIXEL's network of tech innovators, creative technologist, and digital designers
+			<br>Gain connections to PIXEL's network of tech innovators, creative technologist, digital designers and corporate innovators.
 		</td>
 	</tr>
 </table>
