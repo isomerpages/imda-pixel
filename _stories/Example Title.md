@@ -47,21 +47,21 @@ The first cohort of start-ups who will benefit from this programme includes:
 
 **Web3:**
 
-*   Nervotec: Healthcare analytics as a service to monitor medical grade vital signs
-*   NFT Circle: Digitalization of physical asset, real estate, and arts as a service
-*   Heros: Enable athletes to monetise their careers through fan engagements and rewards
+*   **Nervotec**: Healthcare analytics as a service to monitor medical grade vital signs
+*   **NFT Circle**: Digitalization of physical asset, real estate, and arts as a service
+*   **Heros**: Enable athletes to monetise their careers through fan engagements and rewards
 
 **Fintech:**
 
-*   D-Risk: Assists companies to manage credit risk efficiently, accurately, and affordably with AI
-*   AI: A fraud prevention AI plug-in helping businesses better understand and prevent fraud
+*   **D-Risk**: Assists companies to manage credit risk efficiently, accurately, and affordably with AI
+*   **AI**: A fraud prevention AI plug-in helping businesses better understand and prevent fraud
 
 **Enterprise SaaS:**
 
-*   AI: Solution for higher quality and cost-effective data annotation
-*   Better Data: AI synthetic data provider
-*   Zapkad: A smart digital business card with comprehensive features worldwide
-*   Xrator: Forges cyber resilience for all organisations
+*   **AI**: Solution for higher quality and cost-effective data annotation
+*   **BetterData**: AI synthetic data provider
+*   **Zapkad**: A smart digital business card with comprehensive features worldwide
+*   **Xrator**: Forges cyber resilience for all organisations
 
 Start-ups interested in joining the May 2023 cohort of the programme can apply [here](https://www.f6s.com/spark-incubator/apply). Eligible applicants should be Singapore-located, must ensure that teams already have at least a Minimum Viable Product, possess a strong product-market fit and moat, paid proof-of-concepts, and have previous entrepreneurial or corporate experience.
 
