@@ -4,9 +4,11 @@ permalink: /programmes/startups/win-key-reference-customers/
 description: "Win key reference customers through IMDA Innovation programme "
 third_nav_title: For Startups
 ---
-
 # Open Innovation Programme
 ![](/images/Programmes/OIP_Hero_banner.jpg)
+ Look out for our quarterly innovation call under the Open Innovation Platform. We work with corporates to put up challenge statements and invite startups, technology providers and research institutes with the relevant technology soultions and capabilities to submit proposals. 
+
+The winner of the challenge can benefit from winning key reference customers, prize monies and a chance to co-innovate with corporate to develop, validate, test and bring your solution to commercialisation. 
 
 
 # AWS-IMDA Joint Innovation Centre
