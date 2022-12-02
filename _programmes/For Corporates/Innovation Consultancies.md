@@ -19,7 +19,7 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
-			<br><span style="font-size:0.9em;">Build your digital storytelling knowledge and content creation skills to elevate the story behind your brand to resonate better with your customers. </span>
+			<br><span style="font-size:0.9em;">Build your digital storytelling knowledge and content creation skills to elevate the story behind your brand and resonate better with your customers. </span>
 			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
