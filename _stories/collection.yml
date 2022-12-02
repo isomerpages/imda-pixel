@@ -2,4 +2,5 @@ collections:
   stories:
     output: true
     order:
+      - IMDA AWS Joint Innovation Center.md
       - PIXEL's Incubatee Feature.md
