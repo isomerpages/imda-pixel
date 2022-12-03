@@ -39,7 +39,7 @@ sections:
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
-      image: /images/Homepage/Namecard_exchange2.png
+      image: /images/Homepage/Incubation2.png
       subtitle: CORPORATES & STARTUPS
   - infopic:
       title: "Incubation "
@@ -50,7 +50,7 @@ sections:
       url: /programmes/startups/incubation/
       alt: Image alt text
       subtitle: STARTUPS
-      image: /images/Homepage/Incubation2.png
+      image: /images/Homepage/incubatehomepage.png
   - infopic:
       title: Facilities
       description: Let your creativity flow in our 28,000 sqft innovation space with
