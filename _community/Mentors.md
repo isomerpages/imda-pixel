@@ -161,7 +161,6 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 	</tr>
 </table>
 
-
 ### Design Thinking
 <table>
     <!-- ROW 1 -->
