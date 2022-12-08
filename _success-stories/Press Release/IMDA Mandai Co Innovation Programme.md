@@ -5,7 +5,7 @@ description: Mandai Wildlife Group and IMDA bolster digital transformation
   efforts with inaugural Mandai Co-innovation Programme
 third_nav_title: Press Release
 ---
-# Mandai Wildlife Group and IMDA bolster digital transformation efforts with inaugural Mandai Co-innovation Programme
+### Mandai Wildlife Group and IMDA bolster digital transformation efforts with inaugural Mandai Co-innovation Programme
 
 
 **SINGAPORE, 25 August 2022** —Three companies have been selected to work on innovation problem statements to enhance animal welfare, elevate productivity, and the guest experience across Singapore’s wildlife parks. They emerged winners of the inaugural Mandai Co-Innovation Programme, jointly organised by Mandai Wildlife Group and Infocomm Media Development Authority (IMDA). 
