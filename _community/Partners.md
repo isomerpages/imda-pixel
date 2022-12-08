@@ -3,7 +3,6 @@ title: Partners
 permalink: /community/partners/
 description: partners
 ---
-
 # Partners
  
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These create more opportunities to expand the tech ecosystem, expertise and resources.
