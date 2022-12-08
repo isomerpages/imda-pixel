@@ -1,0 +1,5 @@
+collections:
+  connect-with-us:
+    output: true
+    order:
+      - FAQ.md

@@ -1,0 +1,9 @@
+collections:
+  success-stories:
+    output: true
+    order:
+      - Success Stories.md
+      - Press Release/.keep
+      - Press Release/AWS Joint Innovation Centre.md
+      - Press Release/Huawei Spark Incubator Program.md
+      - Press Release/IMDA Mandai Co Innovation Programme.md

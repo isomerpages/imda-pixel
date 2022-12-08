@@ -1,15 +1,45 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/pixel-logo.png
 links:
-  - title: Contact Us
+  - title: Programmes
+    url: /programmes/corporates/find-solution-providers/
+    sublinks:
+      - title: For Corporates
+        url: /programmes/corporates/find-solution-providers/
+      - title: For Startups
+        url: /programmes/startups/incubation/
+  - title: Events
+    url: /monthly-workshops/
+    sublinks:
+      - title: AR VR
+        url: /monthly-workshops/ar-vr/
+      - title: Design Thinking
+        url: /monthly-workshops/design-thinking/
+      - title: Digital Storytelling
+        url: /monthly-workshops/digital-storytelling/
+      - title: Innovation
+        url: /monthly-workshops/innovation/
+      - title: UI UX
+        url: /monthly-workshops/ui-ux/
+  - title: Facilities
+    collection: facilities
+  - title: Community
+    url: /community/networking-events/
+    sublinks:
+      - title: Networking Events
+        url: /community/networking-events/
+      - title: Partners
+        url: /community/partners
+      - title: Mentors
+        url: /community/mentors
+  - title: Success Stories
+    url: /success-stories/
+    sublinks:
+      - title: Success Stories
+        url: /success-stories/
+      - title: Press Release
+        url: /success-stories/press-release/aws/
+  - title: Connect with us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    sublinks:
+      - title: Contact Us
+        url: /contact-us/

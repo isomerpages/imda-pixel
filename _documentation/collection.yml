@@ -1,0 +1,8 @@
+collections:
+  documentation:
+    output: true
+    order:
+      - Read Me.md
+      - Image Sizes.md
+      - Code Crash Course.md
+      - Code Template.md

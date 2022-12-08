@@ -1,0 +1,7 @@
+collections:
+  stories:
+    output: true
+    order:
+      - IMDA AWS Joint Innovation Center.md
+      - IMDA and Huawei Cloud Announces Launch of Startup Incubator.md
+      - PIXEL's Incubatee Feature.md
