@@ -9,9 +9,7 @@ We partner established tech firms and accelerators to host a range of innovation
 
 <table>
     <tr>
-        <br>
-        </td>
-    </tr>
+    <br>
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><img src="/images/Community/Partners/AWS.png">
