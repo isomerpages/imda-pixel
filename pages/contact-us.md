@@ -53,7 +53,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<br><a href="https://form.gov.sg/5f6327d424978a001130835c"
+      - other: '<br><a href="https://form.gov.sg/62ac4193b8365500125bd367"
           target="_blank" style="background-color: #0A66C2; color: white;
           text-decoration: none; border-radius: 100px; padding-left: 20px;
           padding-right: 20px; padding-top:8px;
