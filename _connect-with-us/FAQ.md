@@ -41,13 +41,15 @@ Yes, your start-up needs to be a Singapore-registered business under the Account
 
 ##### 6. Are PIXEL’s events and workshops free?
 
-Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up for the latest events [here](https://form.gov.sg/#!/5f6327d424978a001130835c).
+Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up to our enewsletter for the latest events [here](https://form.gov.sg/#!/5f6327d424978a001130835c).
 
 #### 7. I represent a corporate/ enterprise, and I want to find innovative solutions in a particular domain. How can I get to know PIXEL’s start-ups and view their demos? 
 
 You may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg), sharing with us more details about your business pain point and innovation needs.
 
+#### 8. I am an experienced start-up operator/ represent a VC. How can I partner PIXEL and contribute? 
+We are always open to connect start-ups with mentors and funding opportunities. You may email us at pixel@imda.gov.sg, sharing with us more details. 
 
-#### 8. Is Wi-Fi provided in PIXEL?
+#### 9. Is Wi-Fi provided in PIXEL?
 
-Yes! PIXEL uses Wireless@SG and users with Wireless@SG account have access to free Wi-Fi services.
+Yes! We provide free Wi-Fi within PIXEL compound. Kindly check with our PIXEL staff for the login credentials. Alternatively, you can also tap on Wireless@SG for free Wi-Fi access.

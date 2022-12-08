@@ -3,23 +3,22 @@ title: Partners
 permalink: /community/partners/
 description: partners
 ---
-
 # Partners
  
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These create more opportunities to expand the tech ecosystem, expertise and resources.
 
 <table>
     <tr>
-        <br><br>
+        <br>
         </td>
     </tr>
     <tr>
-        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><img src="/images/Community/Partners/AWS.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Amazon Web Services</b>
-            <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage startup growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform.
+            <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage startup growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform (OIP).
             <br><br><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>

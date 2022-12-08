@@ -3,9 +3,8 @@ title: Mentors
 permalink: /community/mentors/
 description: mentors
 ---
-
 # Mentors
-PIXEL-appointed mentors are trusted and experienced advisors who are willing to take time from their busy schedules to coach and guide promising infocomm and media start-ups and companies on their innovation projects or business growth plans. PIXEL facilitates the matching of mentors to mentees based on the expertise of mentors and needs of mentees, and provides the space for mentoring sessions.
+PIXEL-appointed mentors are trusted and experienced advisors who are willing to take time from their busy schedules to coach and guide promising tech start-ups and companies on their innovation projects or business growth plans. PIXEL facilitates the matching of mentors to mentees based on the expertise of mentors and needs of mentees, and provides the space for mentoring sessions.
 
 We have both general mentors and specialised ones in the design thinking, digital storytelling and immersive experiences fields. Pick your fit, it's free! Mentors and mentees are expected to develop and mutually agree on the scope and objectives of their engagement. 
 
@@ -161,7 +160,6 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 </table>
-
 
 ### Design Thinking
 <table>

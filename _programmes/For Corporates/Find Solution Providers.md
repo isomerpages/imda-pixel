@@ -15,7 +15,7 @@ Contact us to try out the IMDA's Open Innovation Platform (OIP), where we will g
 Our complimentary professional consultancy includes:
 * Diagnosing your business challenge 
 * Refining the problem statement
-* Crowdsourcing and evaluating innovative solutions. 
+* Crowdsourcing and evaluating innovative solutions
 
 <a href="https://go.gov.sg/oipform" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Request For a Complimentary Innovation Consultancy</a>
 
