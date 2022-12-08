@@ -47,9 +47,9 @@ Yes! The majority of our events and workshops are complimentary to drive innovat
 
 You may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg), sharing with us more details about your business pain point and innovation needs.
 
-#### 8. I am an experienced start-up/operator/ representa VC. How can I partner PIXEL and contribute? 
+#### 8. I am an experienced start-up operator/ represent a VC. How can I partner PIXEL and contribute? 
 We are always open to connect start-ups with mentors and funding opportunities. You may email us at pixel@imda.gov.sg, sharing with us more details. 
 
 #### 9. Is Wi-Fi provided in PIXEL?
 
-Yes! We provide free Wi-Fi within PIXEL compound. Kindly check with our PIXEL staff for the login credentials. Alternatively, you can also tap on Wireless@SG for free Wi-Fi access. 
+Yes! We provide free Wi-Fi within PIXEL compound. Kindly check with our PIXEL staff for the login credentials. Alternatively, you can also tap on Wireless@SG for free Wi-Fi access.
