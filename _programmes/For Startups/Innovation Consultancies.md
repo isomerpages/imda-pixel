@@ -34,7 +34,7 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 	</tr>
 </table>
 
-* Check out our [SME Guide to Design Thinking, UI/UX and Digital Storyteling ]([](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf))
+* Check out our [SME Guide to Design Thinking, UI/UX and Digital Storyteling ](/files/The_SME_Guide_to_DT_UIUX_DS-(FA).pdf)
 
 <a href="https://pixel.imda.gov.sg/monthly-workshops" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Upcoming Sessions</a>
 
