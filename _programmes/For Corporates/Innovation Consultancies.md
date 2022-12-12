@@ -15,17 +15,17 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
 			<br><span style="font-size:0.9em;">Find out how you can use an iterative approach to create customer journey maps and working prototypes to make your product or services more customer-centric. </span>
-			<br><br><a href="pixel.imda.gov.sg/files/PIXEL%20Brochure_DesignThinking.pdf" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DesignThinking.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
 			<br><span style="font-size:0.9em;">Build your digital storytelling knowledge and content creation skills to elevate the story behind your brand and resonate better with your customers. </span>
-			<br><br><a href="pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_DigitalStorytelling.pdf" target="_blank" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#ff8400; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>UI/UX</b></span>
 			<br><span style="font-size:0.9em;">Learn how to create intuitive interfaces and experiences for your digital products and services, conduct user research, gather insights and do prototyping and user testing. </span>
-			<br><br><a href="pixel.imda.gov.sg/files/PIXEL%20Brochure\_UIUX.pdf" target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="https://pixel.imda.gov.sg/files/PIXEL%20Brochure_UIUX.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#63c8dc; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>AR/VR</b></span>
