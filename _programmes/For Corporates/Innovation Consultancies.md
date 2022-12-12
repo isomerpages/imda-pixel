@@ -10,7 +10,6 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 #### 1. Free Workshops & Webinars
 
 * Monthly sessions on these topics
-
 <table>
 	<tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
