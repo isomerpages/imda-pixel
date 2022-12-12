@@ -18,7 +18,7 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DESIGN THINKING</b></span>
 			<br><span style="font-size:0.9em;">Find out how you can use an iterative approach to create customer journey maps and working prototypes to make your product or services more customer-centric. </span>
-			<br><br><a href=pixel.imda.gov/files/PIXEL%20Brochure_DesignThinking.pdf) target="_blank" style="color: white;">eBrochure</a><br>
+			<br><br><a href="pixel.imda.gov/files/PIXEL%20Brochure_DesignThinking.pdf" target="_blank" style="color: white;">eBrochure</a><br>
 		</td>
 		<td style="background:#991e66; color:white; text-align: center; border: 15px solid white; width:25%;">
 			<span style="text-align: center;"><b>DIGITAL STORYTELLING</b></span>
