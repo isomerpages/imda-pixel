@@ -11,8 +11,6 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 
 * Monthly sessions on these topics
 
-[eBrochure](/files/PIXEL%20Brochure_DesignThinking.pdf)
-
 <table>
 	<tr>
 		<td style="background:#40c1ac; color:white; text-align: center; border: 15px solid white; width:25%;">
