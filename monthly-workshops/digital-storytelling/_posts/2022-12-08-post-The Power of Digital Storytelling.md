@@ -1,11 +1,12 @@
 ---
 title: The Power of Digital Storytelling
 permalink: /monthly-workshops/digital-storytelling/permalink/
-date: 2022-12-02
+date: 2022-12-08
 layout: post
 description: ""
 image: ""
 ---
+
 ![8decds](/images/Events/Digital%20storytelling/ds8dec.jpg)
 
 | Title | The Power of Digital Storytelling | | 
