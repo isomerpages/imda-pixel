@@ -23,7 +23,7 @@ Our complimentary professional consultancy includes:
 # Looking For Ready Solutions? 
 ![Open Innovation Platform - Discovery Engine](/images/Programmes/IMDA_OIP_Discovery_Engine_Hero_Banner.png)
 
-The IMDA [Open Innovation Platform (OIP)](https://www.openinnovation.sg/imda) has been connecting hundreds of businesses and technology providers to co-create innovative solutions across various sectors.
+The IMDA [Open Innovation Platform (OIP)](https://www.openinnovation.sg/imda?utm\_medium=website&utm\_source=pixel&utm\_campaign=website) has been connecting hundreds of businesses and technology providers to co-create innovative solutions across various sectors.
 
 We have captured our know-how within the [Discovery Engine](https://www.openinnovation.sg/find-solution?utm\_medium=website&utm\_source=pixel&utm\_campaign=website) to help businesses at every stage of their innovation journey. If you are kick-starting innovation, you can use this to create your problem statement and be inspired by other company's innovation case studies. However, if you already have something in mind and is looking for a quick match, you can just search for proven solutions by our trusted tech solution providers. 
 
