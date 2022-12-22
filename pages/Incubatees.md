@@ -267,7 +267,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>BETTERDATA</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Transforms production data into privacy-preserving and highly realistic synthetic data, to share, access and build safely across teams</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://elitefitforyou.com/home" target="_blank" style="text-decoration: none; color:black;">	
@@ -279,7 +279,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ELITEFIT</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">EliteFit.AI is a leading-edge FitTechnology, revolutionising the fitness industry with the power of Artificial Intelligence</span>
 		</td>
 	</tr>
 	<!-- ROW 2 -->
@@ -337,7 +337,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>DCONSTRUCT ROBOTICS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Autonomous navigation solutions for mobile robotics applications</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.h3dynamics.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -511,7 +511,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>DLABS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">AI software consultancy which uses complex AI processes to simplify business</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Environmental Tech</span>
