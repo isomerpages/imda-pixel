@@ -19,7 +19,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MEDIVR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;"> Alo develops AR & VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://alo.health/" target="_blank" style="text-decoration: none; color:black;">	
