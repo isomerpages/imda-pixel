@@ -38,12 +38,12 @@ description: current incubatees startups
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/augmenteed.png"></td>
+						<td><img src="/images/Community/Incubatees/Augmenteed%20logo.png"></td>
 						<td></td>
 					</tr>
 				</table>
 				<b>AUGMENTEED</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Augmenteed is a platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians</span>
 		</td>
 	</tr>
 	<!-- ROW 2 -->
