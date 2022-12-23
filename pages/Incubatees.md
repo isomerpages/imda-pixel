@@ -904,7 +904,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>PREP VENTURES</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Singapore's Chinese language learning game for young learners</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
@@ -917,7 +917,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>META US</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Meta.us produces branded and third party community esports leagues for sponsors and media companies</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
