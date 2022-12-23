@@ -981,7 +981,7 @@ description: current incubatees startups
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/sidefx.png"></td>
+						<td><img src="/images/Community/Incubatees/Skilio%20logo%20new.png"></td>
 						<td></td>
 					</tr>
 				</table>
