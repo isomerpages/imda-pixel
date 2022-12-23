@@ -804,7 +804,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MANTA PICTURES</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Content Production Studio</span>
 		</td>
 	</tr>
 	<!-- ROW 7 -->
