@@ -888,7 +888,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>42 LAB</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">42Lab was a Biotech education startup that provided high-quality and affordable</span>
 		</td>
 	</tr>
 	<!-- ROW 9 -->
