@@ -19,7 +19,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MEDIVR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;"> MediVR is a leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;"> A leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://alo.health/" target="_blank" style="text-decoration: none; color:black;">	
@@ -31,7 +31,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ALO VR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Alo develops AR & VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Develops AR & VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.augmenteed.tech/" target="_blank" style="text-decoration: none; color:black;">	
@@ -43,7 +43,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>AUGMENTEED</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Augmenteed is a platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians</span>
 		</td>
 	</tr>
 	<!-- ROW 2 -->
@@ -58,7 +58,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VOOX</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">3D smart inspections to ensure projects are compliant, on budget and on time, by capturing, analysing 3D data, and acting on them</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://nplasty.com/" target="_blank" style="text-decoration: none; color:black;">	
