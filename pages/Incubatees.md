@@ -736,7 +736,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>GLUU</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
