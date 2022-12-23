@@ -97,7 +97,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VOSTOK VR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Specializes in 360 Video and Virtual Reality content creation; Provides VOSKHOD, an XR platform for enterprises to do remote immersive trainings for their staff.</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.eis.sg/" target="_blank" style="text-decoration: none; color:black;">	
@@ -121,7 +121,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VISRE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Use VR to create engaging, educational content to raise awareness of eye diseases</span>
 		</td>
 	</tr>
 	<!-- ROW 4 -->
@@ -632,12 +632,12 @@ description: current incubatees startups
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/trustineo.png"></td>
+						<td><img src="/images/Community/Incubatees/trustineonew.png"></td>
 						<td></td>
 					</tr>
 				</table>
 				<b>TRUSTINEO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A multinational technology offering a UNIQUE, innovative solution to help overcome the challenges and complexities of the agribusiness sector and enabling sustainability through digital means </span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
