@@ -658,7 +658,7 @@ description: current incubatees startups
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/outside.png"></td>
+						<td><img src="/images/Community/Incubatees/Outside.png"></td>
 						<td></td>
 					</tr>
 				</table>
