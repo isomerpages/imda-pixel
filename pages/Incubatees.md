@@ -1001,7 +1001,7 @@ description: current incubatees startups
 						<td></td>
 					</tr>
 				</table>
-				<b>SIDE FX STUDIOS</b></a>
+				<b>SKILIO</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Skilio is Southeast Asia’s 1st skills-based hiring talent community</span>
 				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
