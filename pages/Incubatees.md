@@ -411,21 +411,35 @@ description: current incubatees startups
 				</table>
 				<b>EMBODIED SENSING</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
-		</td>
-		<td style="border: 15px solid white; width:33%; text-align: center;">
+				</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://nervotec.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
 						<td></td>
-						<td></td>
+						<td><img src="/images/Community/Incubatees/NERVOTECNEW.png"></td>
 						<td></td>
 					</tr>
 				</table>
-				<b></b>
-				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+				<b>NERVOTEC</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Nervotec is a provider of healthcare analytics as a service that provides software only solutions for the measurement and analysis of medical grade physiological vital signs. </span>
 		</td>
 	</tr>
+<!-- ROW 2 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="http://heros.xyz/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/HEROSNEW.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>HEROES (Our.Fans)</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A fanclub platform for athletes to engage & earn with their fans</span>
+		</td>
 </table>
-
 
 ### Connectivity
 
