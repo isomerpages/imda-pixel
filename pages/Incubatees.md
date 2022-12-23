@@ -820,7 +820,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>BANDWAGON</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Independent music media company, covering news, entertainment and events</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
@@ -833,7 +833,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VIDDSEE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Storyteller platform powered by AI for audiences, storytellers and brands</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Media</span>
@@ -846,7 +846,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VUULR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">TV, film and sports content marketplace connecting distributors and buyers of content worldwide</span>
 		</td>
 	</tr>
 	<!-- ROW 8 -->
