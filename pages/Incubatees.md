@@ -338,6 +338,32 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 	</tr>
+		<!-- ROW 3-->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://d-risk.tech/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/DRISKNEW.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>D-RISK</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">D-Risk is an AI-driven rating platform which provides quick, easy and affordable corporate credit ratings for lending, investment and trade credit management.</span>
+		</td>	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="http://www.zapkad.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/ZAPKADNEW.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>ZAPKAD</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Next generation smart business card with CRM analytics to power business growth</span>
+		</td>
 </table>
 
 ### Robotics
@@ -495,12 +521,12 @@ description: current incubatees startups
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/orovault.png"></td>
+						<td><img src="/images/Community/Incubatees/OROVAULTNEW.png"></td>
 						<td></td>
 					</tr>
 				</table>
 				<b>OROVAULT.CO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">An intelligent document processing (IDP) data aggregation platform that democratises financial data</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Data</span>
