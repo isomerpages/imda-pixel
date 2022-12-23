@@ -392,7 +392,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>H3 DYNAMICS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Hybrid remote-sensing robotics & AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://avido-robotics.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -404,7 +404,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>AVIDO ROBOTICS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;"> More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts</span>
 		</td>
 	</tr>
 </table>
