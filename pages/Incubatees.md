@@ -581,7 +581,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>HYDROLEAP</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Water treatment using IoT-enabled electrical treatment technology</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Environmental Tech</span>
@@ -594,7 +594,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>UMITRON</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Deeptech company using IoT, satellite remote sensing and AI to improve farm efficiency, manage environmental risks and grow revenue</span>
 		</td>
 	</tr>
 	<!-- ROW 3 -->
@@ -610,7 +610,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VOUCH</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup – AI-powered tech (hospitality/tourism)</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Travel Tech</span>
@@ -623,7 +623,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>TRABBLE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup – AI-powered chatbot (tourism)</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Medical Tech</span>
@@ -636,7 +636,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>NEPHTECH PTE LTD</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A medical technology company that provide evidence-based approach to vascular access surveillance and management</span>
 		</td>
 	</tr>
 	<!-- ROW 4 -->
@@ -652,7 +652,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>COSMO SOFTWARE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Web real-time communication software, including Millicast, a video streaming solution</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Consumer Electronics</span>
@@ -665,7 +665,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ADVANTIR INNOVATIONS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Create the Nespresso for soft serve & desserts</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Relations</span>
@@ -678,7 +678,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>DESIGN BUSINESS CHAMBER SINGAPORE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Community of business leaders, practitioners and academia that champions design in business</span>
 		</td>
 	</tr>
 	<!-- ROW 5 -->
@@ -707,7 +707,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>LENDOR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Marketplace where consumers can rent from businesses and peers</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Marketplace</span>
@@ -720,7 +720,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>OUTSIDE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Outside is an All-in-one Workforce Management solution for businesses,  with an app for individuals to work and earn flexibly.</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">An All-in-one Workforce Management solution for businesses,  with an app for individuals to work and earn flexibly.</span>
 		</td>
 	</tr>
 	<!-- ROW 6 -->
