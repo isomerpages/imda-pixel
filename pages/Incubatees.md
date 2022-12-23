@@ -109,7 +109,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>EVOLVE INNOVATION SOLUTIONS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">One platform to create, publish, manage and track all AR Immersive Experiences. Also creating AR/VR experiences for clients</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.visre.co/" target="_blank" style="text-decoration: none; color:black;">	
@@ -294,7 +294,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ESSE PI</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Provides a content analysis platform with customizable ML models and inference engines to contextualise media content</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.affable.ai/" target="_blank" style="text-decoration: none; color:black;">	
