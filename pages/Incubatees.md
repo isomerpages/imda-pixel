@@ -238,9 +238,25 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>BUZZ AR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">We build an immersive marketing experience for businesses, making the metaverse accessible to the public through Pop Up Metaverse.</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">We build an immersive marketing experience for businesses, making the metaverse accessible to the public through Pop Up Metaverse.</span>	
+	</td>
+	</tr>
+			<!-- ROW 7 -->
+	<tr>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="http://www.twomc.com/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Incubatees/TWOMCNEW.png"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>TWOMC</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">TWOMC are pioneers in the convergence of Digital Twins, Extended Reality and Digital Marketing</span>
 	</tr>
 </table>
+
 
 ### AI
 <table>
