@@ -988,7 +988,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>PANGAEA INTERACTIVE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Design and create interactive worlds, Location-Based Games and Social Platforms</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
@@ -1001,7 +1001,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>RATLOOP ASIA</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Console Games Developer</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Games</span>
@@ -1014,7 +1014,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>THE GENTLEBROS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Pc, console, mobile game developer (Cat Quest)</span>
 		</td>
 	</tr>
 	<!-- ROW 12 -->
@@ -1030,7 +1030,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>SIDE FX STUDIOS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">XR experience developer</span>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
 			<a href="http://www.skilio.co/" target="_blank" style="text-decoration: none; color:black;">	
