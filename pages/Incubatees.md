@@ -749,7 +749,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MIGHTY JAXX</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Designer toys and art collectibles studio that has worked with brands like Cartoon Network, Nickelodeon, Warner Brothers, DC Comics etc</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Content</span>
@@ -762,7 +762,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>FINDING PICTURES</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">An independent animation studio, founded by a group of filmmakers and designers</span>
 		</td>
 	</tr>
 	<!-- ROW 6 -->
