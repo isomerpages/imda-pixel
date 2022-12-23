@@ -862,7 +862,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>1PLAYSPORTS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Sports media narrowcasting start-up producing live streams of both  national and international levels</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Sports</span>
@@ -875,7 +875,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>E3 SPORTS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A diversified sports management, entertainment and education enterprise</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
