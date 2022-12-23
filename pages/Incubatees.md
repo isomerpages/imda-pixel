@@ -323,7 +323,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>AFFABLE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Influencer marketing platform to find relevant influencers, manager campaigns and measure effectiveness</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.linkedin.com/company/neuralbay/about/" target="_blank" style="text-decoration: none; color:black;">	
@@ -335,7 +335,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>NEURALBAY</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Specialising in AI vision analytics, translating research into industrial applications to help businesses grow</span>
 		</td>
 	</tr>
 		<!-- ROW 3-->
