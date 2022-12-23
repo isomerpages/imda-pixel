@@ -217,11 +217,11 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://www.eis.sg/" target="_blank" style="text-decoration: none; color:black;">	
+			<a href="https://www.virspatial.com/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Incubatees/evolve.png"></td>
+						<td><img src="/images/Community/Incubatees/VIRSPATIALNEW.png"></td>
 						<td></td>
 					</tr>
 				</table>
@@ -975,16 +975,18 @@ description: current incubatees startups
 				</table>
 				<b>SIDE FX STUDIOS</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
-		</td>
-		<td style="border: 15px solid white; width:33%; text-align: center;">
-			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;">Education</span>
+			<a href="http://www.skilio.co/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
 						<td></td>
-						<td></td>
+						<td><img src="/images/Community/Incubatees/sidefx.png"></td>
 						<td></td>
 					</tr>
 				</table>
+				<b>SIDE FX STUDIOS</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Skilio is Southeast Asia’s 1st skills-based hiring talent community</span>
 				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>	
