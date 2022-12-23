@@ -70,7 +70,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>NPLASTY</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Surgical simulation platform with VR and Haptics to complement and advance surgical training</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://serl.io/" target="_blank" style="text-decoration: none; color:black;">	
@@ -82,7 +82,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>SERL.IO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Collaborative, no-code Mixed Reality platform for work and training (e.g. product or process visualisation, presentations, learning)</span>
 		</td>
 	</tr>
 	<!-- ROW 3 -->
@@ -136,7 +136,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>HIVERLAB</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Specialises in content and system development with immersive technology and media (VR/AR/MR)</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.magicmao.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -148,7 +148,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MAGICMAO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Implimenting Virtual/Augmented or Mixed reality (XR) solutions in businesses </span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://vrcollab.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -160,7 +160,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>VRCOLLAB</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Boosts building information modelling’s viability  in the Architecture, Engineering and Construction (AEC) Industry.</span>
 		</td>
 	</tr>
 	<!-- ROW 5 -->
