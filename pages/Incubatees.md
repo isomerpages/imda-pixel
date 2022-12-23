@@ -778,7 +778,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>SENDJOY</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Marketplace for consumers to book personalised celebrity video messages for loved ones</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Content</span>
@@ -791,7 +791,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>CREATIVES AT WORK</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Media agency by creative professionals who cover every consumer touchpoint including digital asd social media</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Content</span>
