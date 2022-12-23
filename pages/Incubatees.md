@@ -175,7 +175,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>AXOMEM</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Building a next-generation data analytics and visualization platform with user interfaces based on 3D, AR and VR</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="http://ignite-vr.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -187,7 +187,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>IGNITE VR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">VR company in areas of entertainment, education and events</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.meshminds.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -199,7 +199,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MESHMINDS</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Creative technology studio specialising in virtual, augmented and mixed reality, to maximise engagement, empathy and action </span>
 		</td>
 	</tr>
 	<!-- ROW 6 -->
@@ -214,7 +214,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>FROLIC</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Creates game experiences that measure engagement and NPS scores, to attract visitors for large venues and big event operators</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.virspatial.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -272,7 +272,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>LEXATEXER</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Makes products to simplify and automate the analysis of real world data</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.betterdata.ai/" target="_blank" style="text-decoration: none; color:black;">	
