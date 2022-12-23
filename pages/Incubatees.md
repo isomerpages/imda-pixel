@@ -424,7 +424,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ACKCIO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Wireless solutions for industrial monitoring in construction, mining, and oil-and-gas</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://embodiedsensing.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -436,7 +436,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>EMBODIED SENSING</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Develop and integrate devices and platforms for industries such as Smart Buildings, logistics and delivery customer service and retail</span>
 				</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://nervotec.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -482,7 +482,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>MILLICAST</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">A WebRTC-based real-time streaming service that enables sub-second latency, broadcast-quality color and sound, global scale, and end-to-end encryption</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="http://xy-connect.com/en/" target="_blank" style="text-decoration: none; color:black;">	
@@ -494,7 +494,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>XYCONNECT</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">_XYConnect's_ patented smart lighting solution allows smooth data transmission via existing lighting circuit in homes, delivering a reliable signal to everyone</span>
 		</td>
 		<td style="border: 15px solid white; width:33%; text-align: center;">
 				<table>
@@ -539,7 +539,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>REACH52</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup –  health tech platform offering range of health services </span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Product Design</span>
@@ -552,7 +552,7 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>ADI DESIGN STUDIO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on on XR</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Consulting firm specializing in product design, embedded system, and robotics</span>
 		</td>
 	</tr>
 	<!-- ROW 2 -->
