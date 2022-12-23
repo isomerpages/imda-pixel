@@ -227,18 +227,18 @@ description: current incubatees startups
 				</table>
 				<b>VIRSPATIAL TECH</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Virspatial Technologies is a technology company specialising in the creation of spatial digital twins that enable enterprise metaverse applications</span>
-		</td>
-		<td style="border: 15px solid white; width:33%; text-align: center;">
+			</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://buzzar.app/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
 						<td></td>
-						<td></td>
+						<td><img src="/images/Community/Incubatees/BUZZARNEW.png"></td>
 						<td></td>
 					</tr>
 				</table>
-				<b></b>
-				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>
+				<b>BUZZ AR</b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;">We build an immersive marketing experience for businesses, making the metaverse accessible to the public through Pop Up Metaverse.</span>
 	</tr>
 </table>
 
