@@ -242,7 +242,6 @@ description: current incubatees startups
 	</td>
 	</tr>
 	<!-- ROW 7 -->
-		<!-- ROW 7 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="http://www.twomc.com" target="_blank" style="text-decoration: none; color:black;">	
