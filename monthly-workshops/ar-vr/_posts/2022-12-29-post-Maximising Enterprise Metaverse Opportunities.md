@@ -1,7 +1,7 @@
 ---
 title: Maximising Enterprise Metaverse Opportunities
 permalink: /monthly-workshops/ar-vr/permalink/
-date: 2022-12-29
+date: 2023-01-18
 layout: post
 description: ""
 image: ""
