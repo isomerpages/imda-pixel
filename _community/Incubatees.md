@@ -435,7 +435,6 @@ description: current incubatees startups
 </table>
 
 ### IoT
-
 <table>
     <!-- ROW 1 -->
 	<tr>
@@ -493,7 +492,6 @@ description: current incubatees startups
 </table>
 
 ### Connectivity
-
 <table>
     <!-- ROW 1 -->
 	<tr>
