@@ -1,7 +1,7 @@
 ---
 title: Business By Design
 permalink: /monthly-workshops/design-thinking/permalink/
-date: 2022-12-29
+date: 2023-01-11
 layout: post
 description: ""
 image: ""
@@ -10,7 +10,7 @@ image: ""
 
 | Title |Business By Design | | 
 | -------- | -------- | --------| 
-| Date  | 11 January 2022  | 
+| Date  | 11 January 2023  | 
 | Time  | 2pm to 5pm  |
 | Location  | IMDA PIXEL (Seminar Room, Level 2), 10 Central Exchange Green, Singapore 138649 |
 
