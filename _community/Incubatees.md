@@ -281,7 +281,6 @@ description: current incubatees startups
 	</td>
 	</tr>
 </table>
-</table>
 
 ### AI
 <table>
