@@ -284,7 +284,7 @@ description: current incubatees startups
 
 ### AI
 <table>
-    <!-- ROW 1 -->
+  <!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.lexatexer.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -533,7 +533,6 @@ description: current incubatees startups
 </table>
 
 ### Others
-
 <table>
     <!-- ROW 1 -->
 	<tr>
