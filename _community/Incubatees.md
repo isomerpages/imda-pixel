@@ -3,7 +3,6 @@ title: Incubatees
 permalink: /community/incubatees/
 description: current incubatees startups
 ---
-
 # Incubatees
 
 ### AR/VR
@@ -242,10 +241,11 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;">We build an immersive marketing experience for businesses, making the metaverse accessible to the public through Pop Up Metaverse.</span>	
 	</td>
 	</tr>
-			<!-- ROW 7 -->
+	<!-- ROW 7 -->
+		<!-- ROW 7 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="http://www.twomc.com/" target="_blank" style="text-decoration: none; color:black;">	
+			<a href="http://www.twomc.com" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
 						<td></td>
@@ -253,9 +253,35 @@ description: current incubatees startups
 						<td></td>
 					</tr>
 				</table>
-				<b>TWOMC</b></a>
+				<b>TwoMC</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">TWOMC are pioneers in the convergence of Digital Twins, Extended Reality and Digital Marketing</span>
+		</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src=""></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+			</td>
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
+						<td><img src=""></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b></a>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>	
+	</td>
 	</tr>
+</table>
 </table>
 
 
