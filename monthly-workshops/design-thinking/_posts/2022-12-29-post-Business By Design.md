@@ -1,7 +1,7 @@
 ---
 title: Business By Design
 permalink: /monthly-workshops/design-thinking/permalink/
-date: 2023-01-11
+date: 2022-12-29
 layout: post
 description: ""
 image: ""
