@@ -1,7 +1,7 @@
 ---
 title: Human Centred Design with Data
 permalink: /monthly-workshops/ui-ux/permalink/
-date: 2022-12-29
+date: 2023-01-19
 layout: post
 description: ""
 image: ""
