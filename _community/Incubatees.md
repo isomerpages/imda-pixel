@@ -253,36 +253,35 @@ description: current incubatees startups
 					</tr>
 				</table>
 				<b>TwoMC</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">TWOMC are pioneers in the convergence of Digital Twins, Extended Reality and Digital Marketing</span>
-		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="" target="_blank" style="text-decoration: none; color:black;">	
+				<br><span style="font-size:0.8em; line-height:0.8em;">TWOMC are pioneers in the convergence of Digital Twins, Extended Reality and Digital Marketing
+		</span>
+		</td>	
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
 				<table>
 					<tr>
 						<td></td>
-						<td><img src=""></td>
+						<td></td>
 						<td></td>
 					</tr>
 				</table>
-				<b></b></a>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>		</td>	
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
-			</td>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src=""></td>
-						<td></td>
-					</tr>
-				</table>
-				<b></b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;"></span>	
 	</td>
 	</tr>
 </table>
 </table>
-
 
 ### AI
 <table>
