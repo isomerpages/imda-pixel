@@ -389,7 +389,10 @@ description: current incubatees startups
 				<b>ZAPKAD</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Next generation smart business card with CRM analytics to power business growth</span>
 		</td>
+	</tr>
+	<!-- END ROW -->
 </table>
+
 
 ### Robotics
 <table>
