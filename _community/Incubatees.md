@@ -393,7 +393,7 @@ description: current incubatees startups
 
 ### Robotics
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.dconstruct.co/" target="_blank" style="text-decoration: none; color:black;">	
@@ -436,7 +436,7 @@ description: current incubatees startups
 
 ### IoT
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.ackcio.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -493,7 +493,7 @@ description: current incubatees startups
 
 ### Connectivity
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://dolby.io/products/real-time-streaming/" target="_blank" style="text-decoration: none; color:black;">	
@@ -535,7 +535,7 @@ description: current incubatees startups
 
 ### Others
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Data</span>
