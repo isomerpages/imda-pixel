@@ -1072,11 +1072,8 @@ description: current incubatees startups
 				</table>
 				<b>SKILIO</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Skilio is Southeast Asia’s 1st skills-based hiring talent community</span>
-				<b></b>
-				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>	
+		</td>
 		<td style="border: 15px solid white; width:33%; text-align: center;">
-			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
 				<table>
 					<tr>
 						<td></td>
