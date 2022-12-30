@@ -435,6 +435,7 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;"> More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts</span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### IoT
@@ -492,6 +493,8 @@ description: current incubatees startups
 				<b>HEROES (Our.Fans)</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">A fanclub platform for athletes to engage & earn with their fans</span>
 		</td>
+	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Connectivity
@@ -534,6 +537,7 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Others
