@@ -1089,4 +1089,3 @@ description: current incubatees startups
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table>
