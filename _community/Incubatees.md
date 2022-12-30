@@ -285,7 +285,7 @@ description: current incubatees startups
 
 ### AI
 <table>
-  <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.lexatexer.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -389,11 +389,14 @@ description: current incubatees startups
 				<b>ZAPKAD</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">Next generation smart business card with CRM analytics to power business growth</span>
 		</td>
+	</tr>
+	<!-- END ROW -->
 </table>
+
 
 ### Robotics
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.dconstruct.co/" target="_blank" style="text-decoration: none; color:black;">	
@@ -432,11 +435,12 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;"> More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts</span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### IoT
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.ackcio.com/" target="_blank" style="text-decoration: none; color:black;">	
@@ -489,11 +493,13 @@ description: current incubatees startups
 				<b>HEROES (Our.Fans)</b></a>
 				<br><span style="font-size:0.8em; line-height:0.8em;">A fanclub platform for athletes to engage & earn with their fans</span>
 		</td>
+	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Connectivity
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://dolby.io/products/real-time-streaming/" target="_blank" style="text-decoration: none; color:black;">	
@@ -531,11 +537,12 @@ description: current incubatees startups
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Others
 <table>
-    <!-- ROW 1 -->
+  	<!-- ROW 1 -->
 	<tr>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Data</span>
@@ -1079,6 +1086,7 @@ description: current incubatees startups
 				</table>
 				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>	
+		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
