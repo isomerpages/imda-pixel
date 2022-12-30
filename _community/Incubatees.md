@@ -1086,6 +1086,7 @@ description: current incubatees startups
 				</table>
 				<b></b>
 				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>	
+		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
