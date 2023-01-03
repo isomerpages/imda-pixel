@@ -25,13 +25,13 @@ IndegoX is a co-design agency that helps organisations gain clarity in complex s
 
 ### Speakers 
 
-![ruben](/images/UIUX/rueben.jpg)
+![](/images/Events/UIUX/rueben.jpg)
 
 **Reuben Png, Founder of IndegoX**
 
 Reuben specialises in Human Centred Design leadership and has been working at the intersection of design, culture and technology for almost two decades. One of his key passions is to see impact via people thriving in organisations and systems that work harmoniously together.
 
-![Yong Lin](/images/UIUX/Yong%20Lin%20pic.jpg)
+![](/images/Events/UIUX/YongLin.jpg)
 
 **Yong Lin, Design Partner of IndegoX**
 
