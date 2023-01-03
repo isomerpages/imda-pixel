@@ -1,7 +1,7 @@
 ---
 title: Business By Design
-permalink: /monthly-workshops/design-thinking/permalink/
-date: 2023-01-03
+permalink: https://imda-pixel.sg/event/375
+date: 2023-01-11
 layout: post
 description: ""
 image: ""
