@@ -1,6 +1,6 @@
 ---
 title: Example Title
-permalink: /monthly-workshops/ar-vr/test/
+permalink: https://imda-pixel.sg/event/374
 date: 2023-01-03
 layout: post
 description: ""
