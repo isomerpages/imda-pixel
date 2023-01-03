@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: ARVR Test page 
 permalink: https://imda-pixel.sg/event/374
 date: 2023-01-04
 layout: post
