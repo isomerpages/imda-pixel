@@ -1,7 +1,7 @@
 ---
 title: Example Title
 permalink: https://imda-pixel.sg/event/374
-date: 2023-01-03
+date: 2023-01-04
 layout: post
 description: ""
 image: ""
