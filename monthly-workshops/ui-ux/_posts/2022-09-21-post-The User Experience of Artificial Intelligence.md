@@ -1,12 +1,12 @@
 ---
 title: The User Experience of Artificial Intelligence
-permalink: /monthly-workshops/ui-ux/permalink/
+permalink: https://imda-pixel.sg/event/357
 date: 2022-09-21
 layout: post
 description: ""
 image: ""
 ---
-![21 Sep- UIUX](/images/UIUX/PIXEL-UIUX-Workshop---The-User-Experience-of-Artificial-Intelligence_1600-x-800_V2.png)
+![27 Oct- UIUX](/images/Events/UIUX/PIXEL-UIUX-Workshop---The-User-Experience-of-Artificial-Intelligence_1600-x-800_V2.png) 
 
 | Title | UIUX Workshop: The User Experience of Artificial Intelligence | | 
 | -------- | -------- | --------| 
