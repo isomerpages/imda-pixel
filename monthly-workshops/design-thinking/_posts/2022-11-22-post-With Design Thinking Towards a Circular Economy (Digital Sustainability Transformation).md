@@ -1,7 +1,6 @@
 ---
-title: With Design Thinking Towards a Circular Economy (Digital Sustainability
-  Transformation)
-permalink: /monthly-workshops/design-thinking/permalink/
+title: With Design Thinking Towards a Circular Economy (Digital Sustainability Transformation)
+permalink: https://imda-pixel.sg/event/370
 date: 2022-11-22
 layout: post
 description: ""
