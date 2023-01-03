@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Events/Design%20Thinking/11jandt.jpg)
+![11jandt](/images/Events/Design%20Thinking/11jandt.jpg)
 
 | Title |Business By Design | | 
 | -------- | -------- | --------| 
@@ -25,13 +25,13 @@ Aleph is a Creative Engineering company that helps organisations define digital 
 
 ### Speakers 
 
-![](/images/Events/Design%20Thinking/poonwenang.png)
+![poonwenang](/images/Events/Design%20Thinking/poonwenang.png)
 
 **Poon Wen Ang, Design Director / Chief Opportunity Officer of Aleph**
 
 A multi-disciplinary hands-on Creative Engineer on a mission to craft an inclusive and accessible world through design—Poon makes with heart, through research, strategy, insights and big ideas.
 
-![](/images/Events/Design%20Thinking/william.png)
+![William](/images/Events/Design%20Thinking/william.png)
 
 **William Surya, Assoc. Design Director of Aleph**
 
