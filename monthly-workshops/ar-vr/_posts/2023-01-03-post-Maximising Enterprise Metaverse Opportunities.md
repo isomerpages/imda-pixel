@@ -1,6 +1,6 @@
 ---
 title: Maximising Enterprise Metaverse Opportunities
-permalink: /monthly-workshops/ar-vr/permalink/
+permalink: https://imda-pixel.sg/event/374
 date: 2023-01-18
 layout: post
 description: IMDA PIXEL ARVR Webinar - Maximising Enterprise Metaverse Opportunities
