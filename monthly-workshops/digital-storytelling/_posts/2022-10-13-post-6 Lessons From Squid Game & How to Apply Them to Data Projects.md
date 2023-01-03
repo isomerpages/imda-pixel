@@ -1,6 +1,6 @@
 ---
 title: 6 Lessons From Squid Game & How to Apply Them to Data Projects
-permalink: /monthly-workshops/digital-storytelling/6-lessons-from-squid-game/
+permalink: https://imda-pixel.sg/event/364
 date: 2022-10-13
 layout: post
 description: ""

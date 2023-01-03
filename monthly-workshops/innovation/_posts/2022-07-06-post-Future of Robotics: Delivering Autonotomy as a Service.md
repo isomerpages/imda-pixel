@@ -1,6 +1,6 @@
 ---
 title: "Future of Robotics: Delivering Autonotomy as a Service"
-permalink: /monthly-workshops/innovation/permalink/
+permalink: https://imda-pixel.sg/event/340
 date: 2022-07-06
 layout: post
 description: ""

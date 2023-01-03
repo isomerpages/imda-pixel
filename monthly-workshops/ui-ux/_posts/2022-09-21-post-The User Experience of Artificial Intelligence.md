@@ -1,12 +1,12 @@
 ---
 title: The User Experience of Artificial Intelligence
-permalink: /monthly-workshops/ui-ux/permalink/
+permalink: https://imda-pixel.sg/event/357
 date: 2022-09-21
 layout: post
 description: ""
 image: ""
 ---
-![21 Sep- UIUX](/images/UIUX/PIXEL-UIUX-Workshop---The-User-Experience-of-Artificial-Intelligence_1600-x-800_V2.png)
+![27 Oct- UIUX](/images/Events/UIUX/PIXEL-UIUX-Workshop---The-User-Experience-of-Artificial-Intelligence_1600-x-800_V2.png) 
 
 | Title | UIUX Workshop: The User Experience of Artificial Intelligence | | 
 | -------- | -------- | --------| 
@@ -25,13 +25,13 @@ IndegoX is a co-design agency that helps organisations gain clarity in complex s
 
 ### Speakers 
 
-![ruben](/images/UIUX/rueben.jpg)
+![](/images/Events/UIUX/rueben.jpg)
 
 **Reuben Png, Founder of IndegoX**
 
 Reuben specialises in Human Centred Design leadership and has been working at the intersection of design, culture and technology for almost two decades. One of his key passions is to see impact via people thriving in organisations and systems that work harmoniously together.
 
-![Yong Lin](/images/UIUX/Yong%20Lin%20pic.jpg)
+![](/images/Events/UIUX/YongLin.jpg)
 
 **Yong Lin, Design Partner of IndegoX**
 

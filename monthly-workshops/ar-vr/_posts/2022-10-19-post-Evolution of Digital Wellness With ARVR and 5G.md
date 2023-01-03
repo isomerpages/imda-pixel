@@ -1,6 +1,6 @@
 ---
 title: Evolution of Digital Wellness With ARVR and 5G
-permalink: /monthly-workshops/ar-vr/evolution-of-digital-wellness/
+permalink: https://imda-pixel.sg/event/361
 date: 2022-10-19
 layout: post
 description: ""

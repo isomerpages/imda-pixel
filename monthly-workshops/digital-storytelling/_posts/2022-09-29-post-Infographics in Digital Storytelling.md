@@ -1,12 +1,12 @@
 ---
 title: Infographics in Digital Storytelling
-permalink: /monthly-workshops/digital-storytelling/permalink/
+permalink: https://imda-pixel.sg/event/354
 date: 2022-09-29
 layout: post
 description: ""
 image: ""
 ---
-![29 sep - Digital Storytelling](/images/Digital%20Storytelling/PIXEL_Digital-Storytelling---Infographics-in-Digital-Storytelling_1600-x-800%20(1).jpg)
+![29sepds](/images/Events/Digital%20storytelling/PIXEL_Digital-Storytelling---Infographics-in-Digital-Storytelling.jpg)
 
 | Title | Infographics in Digital Storytelling | | 
 | -------- | -------- | --------| 
@@ -27,7 +27,7 @@ Founded in 2015, Lime Agency is an award-winning branding agency based in Singap
 
 ### Speakers 
 
-![Hui Ting- Lime Agency](/images/Digital%20Storytelling/lime-%20huiting.jpg)
+![mas](/images/Events/Digital%20storytelling/limehuiting.jpg)
 
 **Hui Ting Lee, Creative Director of Lime Agency & Just Startup**
 
