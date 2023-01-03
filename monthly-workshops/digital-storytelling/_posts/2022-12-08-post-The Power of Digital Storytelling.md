@@ -1,6 +1,6 @@
 ---
 title: The Power of Digital Storytelling
-permalink: /monthly-workshops/digital-storytelling/permalink/
+permalink: https://imda-pixel.sg/event/371
 date: 2022-12-08
 layout: post
 description: ""
