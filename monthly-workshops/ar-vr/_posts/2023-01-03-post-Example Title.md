@@ -1,12 +1,11 @@
 ---
-title: ARVR Test page 
-permalink: https://imda-pixel.sg/event/374
+title: ARVR Test page
+permalink: https://imda-pixel.sg/event/374/
 date: 2023-01-04
 layout: post
 description: IMDA PIXEL ARVR Webinar - Maximising Enterprise Metaverse Opportunities
 image: /images/Events/ARVR/arvr18jan.jpg
 ---
-![19 Oct - ARVR](/images/Events/ARVR/PIXEL_ARVR-Workshop---Evolution-of-Digital-Wellness-with-ARVR-and-5G_1600-x-800_v3.jpg)
 
 | Title | ARVR Webinar: Evolution of Digital Wellness With Arvr and 5G | | 
 | -------- | -------- | --------| 
