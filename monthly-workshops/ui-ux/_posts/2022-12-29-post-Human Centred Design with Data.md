@@ -1,6 +1,6 @@
 ---
 title: Human Centred Design with Data
-permalink: /monthly-workshops/ui-ux/permalink/
+permalink: https://imda-pixel.sg/event/376
 date: 2023-01-19
 layout: post
 description: ""
