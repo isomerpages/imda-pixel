@@ -1,6 +1,6 @@
 ---
 title: Circular Venture Design
-permalink: /monthly-workshops/design-thinking/permalink/
+permalink: https://imda-pixel.sg/event/368
 date: 2022-10-24
 layout: post
 description: ""
