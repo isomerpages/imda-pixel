@@ -1,6 +1,5 @@
 ---
-title: "Design to Get Unstuck: Is Your Organisation Going to Survive the
-  Metaverse Apocalypse?"
+title: "Design to Get Unstuck: Is Your Organisation Going to Survive the Metaverse Apocalypse?"
 permalink:https://imda-pixel.sg/event/358
 date: 2022-09-15
 layout: post
