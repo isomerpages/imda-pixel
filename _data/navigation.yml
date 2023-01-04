@@ -10,16 +10,16 @@ links:
   - title: Events
     url: /events
     sublinks:
-      - title: AR VR
-        url: /monthly-workshops/ar-vr/
+      - title: ARVR
+        url: /events/arvr/
       - title: Design Thinking
-        url: /monthly-workshops/design-thinking/
+        url: /events/design-thinking/
       - title: Digital Storytelling
-        url: /monthly-workshops/digital-storytelling/
+        url: /events/digital-storytelling/
       - title: Innovation
-        url: /monthly-workshops/innovation/
-      - title: UI UX
-        url: /monthly-workshops/ui-ux/
+        url: /events/innovation/
+      - title: UIUX
+        url: /events/uiux/
   - title: Facilities
     collection: facilities
   - title: Community
