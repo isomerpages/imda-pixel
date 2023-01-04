@@ -11,7 +11,7 @@ links:
     url: /events
     sublinks:
       - title: ARVR
-        url: /events/ar-vr/
+        url: /events/arvr/
       - title: Design Thinking
         url: /events/design-thinking/
       - title: Digital Storytelling
@@ -19,7 +19,7 @@ links:
       - title: Innovation
         url: /events/innovation/
       - title: UIUX
-        url: /events/ui-ux/
+        url: /events/uiux/
   - title: Facilities
     collection: facilities
   - title: Community
