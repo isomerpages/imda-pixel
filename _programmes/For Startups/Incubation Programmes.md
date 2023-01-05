@@ -42,6 +42,6 @@ Jointly organised by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 * Up to US$60K in Huawei Cloud credits  
 * Office space at PIXEL (28k sqft innovation space to support Corporates and Startups with facilities, programmes and networks)  
 * Business and technical mentorship from Huawei, and our network of experts and investors  
-* Up to $2M in potential investment post-program with VC partners such as [GSR Ventures](https://www.linkedin.com/company/gsrventures/)
+* Up to $2M in potential investment post-program with VC partners such as <a href="https://www.linkedin.com/company/gsrventures/" target="_blank">GSR Ventures</a>
 
 <a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Look out for the next call in Q1 2023. </a>
