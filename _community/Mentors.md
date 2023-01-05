@@ -211,7 +211,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table>
+</table></tr></table>
 
 ### Digital Storytelling
 <table>
@@ -260,7 +260,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table>
+</table></tr></table>
 
 ### Immersive Experiences
 <table>
@@ -310,4 +310,4 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table>
+</table></tr></table>
