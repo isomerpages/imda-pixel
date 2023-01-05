@@ -13,7 +13,11 @@ We have both general mentors and specialised ones in the design thinking, digita
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
+				<table>
+					<tr>
+						<td></td>
 			<a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
@@ -131,42 +135,40 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><span style="font-size:0.9em;">Director and Head of Games,</span>
 			<br><span style="font-size:0.9em;">South APAC and MENA, The Walt Disney Company</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience
-		</td>
-		<td style="background:white; border: 15px solid white; width:33%;">		
-			<table>
-				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-			</table>
-			<b></b>
-			<br><span style="font-size:0.9em;"></span>
-			<br><span style="font-size:0.9em;"></span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>
-		<td style="background:white; border: 15px solid white; width:33%;">		
-			<table>
-				<tr>
-					<td></td>
-					<td></td>
-					<td></td>
-				</tr>
-			</table>
-			<b></b>
-			<br><span style="font-size:0.9em;"></span>
-			<br><span style="font-size:0.9em;"></span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+		</span>
+		</td>	
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>		</td>	
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table>
+</table></tr></table>
 
 ### Design Thinking
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.linkedin.com/in/keithoh/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
@@ -215,7 +217,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.linkedin.com/in/abhilashmurthy/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
