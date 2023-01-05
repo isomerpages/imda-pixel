@@ -13,7 +13,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
 			<a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
@@ -41,7 +41,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">Singapore Exchange Pte Ltd</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/andytanyy/" target="_blank" style="text-decoration: none; color:black;">		
 			<table>
 				<tr>
@@ -303,7 +303,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
-		<</td>
+		</td>
 		<td style="border: 15px solid white; width:33%; text-align: center;"></td>
 				<table>
 					<tr>
