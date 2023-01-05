@@ -294,51 +294,50 @@ We have both general mentors and specialised ones in the design thinking, digita
 
 ### Digital Storytelling
 <table>
-    <!-- ROW 1 -->
+	<!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/abhilashmurthy/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/abhilash-murthy_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>ABHILASH MURTHY</b></a>
-			<br><span style="font-size:0.9em;">CEO</span>
-			<br><span style="font-size:0.9em;">BotDistrikt</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Coded bots</span>
+				<table>
+					<tr>
+						<td></td>
+						<td>
+							<img src="/images/Community/Mentors/abhilash-murthy_230px.jpg" style="border-radius:50%; border:8px solid white;">
+						</td>
+						<td></td>
+					</tr>
+				</table>
+				<b>ABHILASH MURTHY</b></a>
+			<br>
+			<span style="font-size:0.9em;">CEO</span>
+			<br>
+			<span style="font-size:0.9em;">BotDistrikt</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">Coded bots</span>
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/diogomartins_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>DIOGO MARTINS</b></a>
-			<br><span style="font-size:0.9em;">Lead, Content & Community</span>
-			<br><span style="font-size:0.9em;">Mediacorp</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
+				<table>
+					<tr>
+						<td></td>
+						<td>
+							<img src="/images/Community/Mentors/diogomartins_230px.jpg" style="border-radius:50%; border:8px solid white;">
+						</td>
+						<td></td>
+					</tr>
+				</table>
+				<b>DIOGO MARTINS</b></a>
+			<br>
+			<span style="font-size:0.9em;">Lead, Content & Community</span>
+			<br>
+			<span style="font-size:0.9em;">Mediacorp</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/diogomartins_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>DIOGO MARTINS</b></a>
-			<br><span style="font-size:0.9em;">Lead, Content & Community</span>
-			<br><span style="font-size:0.9em;">Mediacorp</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
-		</td>
-		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
+		<!--
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">
 			<table>
 				<tr>
 					<td></td>
@@ -347,9 +346,28 @@ We have both general mentors and specialised ones in the design thinking, digita
 				</tr>
 			</table>
 			<b></b>
-			<br><span style="font-size:0.9em;"></span>
-			<br><span style="font-size:0.9em;"></span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
+			<br>
+			<span style="font-size:0.9em;"></span>
+			<br>
+			<span style="font-size:0.9em;"></span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		-->
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>
+			</b>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
 	<!-- END ROW -->
@@ -357,60 +375,100 @@ We have both general mentors and specialised ones in the design thinking, digita
 
 ### Immersive Experiences
 <table>
-    <!-- ROW 1 -->
+	<!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/khoo-eng-tat_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>DR. KHOO ENG TAT</b></a>
-			<br><span style="font-size:0.9em;">Area Director (Outreach)</span>
-			<br><span style="font-size:0.9em;">NUS Engineering Design & Innovation Centre</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Startup advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields</span>
-		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/jeannieleesa/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/dr_jeannie_lee.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>DR. JEANNIE LEE</b></a>
-			<br><span style="font-size:0.9em;">Director of Programmes</span>
-			<br><span style="font-size:0.9em;">SIT</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Research and development in compelling, usable immersive technologies in the XR/VR/AR/MR fields</span>
-		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
-			<a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/dr_tan_chek_tien.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>DR. CHEK TIEN TAN</b></a>
-			<br><span style="font-size:0.9em;">Director</span>
-			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
-			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
-		</td>
-		<td style="border: 15px solid white; width:33%; text-align: center;">
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
+			<a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank" style="text-decoration: none; color:black;">
 				<table>
 					<tr>
 						<td></td>
-						<td></td>
+						<td>
+							<img src="/images/Community/Mentors/khoo-eng-tat_230px.jpg" style="border-radius:50%; border:8px solid white;">
+						</td>
 						<td></td>
 					</tr>
 				</table>
-				<b></b>
-				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
+				<b>DR. KHOO ENG TAT</b></a>
+			<br>
+			<span style="font-size:0.9em;">Area Director (Outreach)</span>
+			<br>
+			<span style="font-size:0.9em;">NUS Engineering Design & Innovation Centre</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">Startup advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
+			<a href="https://www.linkedin.com/in/jeannieleesa/" target="_blank" style="text-decoration: none; color:black;">
+				<table>
+					<tr>
+						<td></td>
+						<td>
+							<img src="/images/Community/Mentors/dr_jeannie_lee.jpg" style="border-radius:50%; border:8px solid white;">
+						</td>
+						<td></td>
+					</tr>
+				</table>
+				<b>DR. JEANNIE LEE</b></a>
+			<br>
+			<span style="font-size:0.9em;">Director of Programmes</span>
+			<br>
+			<span style="font-size:0.9em;">SIT</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">Research and development in compelling, usable immersive technologies in the XR/VR/AR/MR fields</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
+			<a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14/" target="_blank" style="text-decoration: none; color:black;">
+				<table>
+					<tr>
+						<td></td>
+						<td>
+							<img src="/images/Community/Mentors/dr_tan_chek_tien.jpg" style="border-radius:50%; border:8px solid white;">
+						</td>
+						<td></td>
+					</tr>
+				</table>
+				<b>DR. CHEK TIEN TAN</b></a>
+			<br>
+			<span style="font-size:0.9em;">Director</span>
+			<br>
+			<span style="font-size:0.9em;">SIT Centre for Immersification</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
+		</td>
+		<!--
+		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b></b>
+			<br>
+			<span style="font-size:0.9em;"></span>
+			<br>
+			<span style="font-size:0.9em;"></span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		-->
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>
+			</b>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
 	<!-- END ROW -->
