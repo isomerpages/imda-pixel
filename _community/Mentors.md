@@ -303,7 +303,18 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><span style="font-size:0.9em;">Director</span>
 			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
+		<</td>
+		<td style="border: 15px solid white; width:33%; text-align: center;"></td>
+				<table>
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					</tr>
+				</table>
+				<b></b>
+				<br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table></tr></table>
+</table>
