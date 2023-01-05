@@ -255,7 +255,6 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutions</span>
 		</td>
-		<!--
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">
 			<table>
 				<tr>
@@ -273,7 +272,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
-		-->
+		<!--
 		<td style="border: 15px solid white; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
 			<table>
@@ -288,6 +287,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
+		-->
 	</tr>
 	<!-- END ROW -->
 </table>
@@ -336,7 +336,6 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
 		</td>
-		<!--
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">
 			<table>
 				<tr>
@@ -354,7 +353,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
-		-->
+		<!--
 		<td style="border: 15px solid white; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
 			<table>
@@ -369,6 +368,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
+		-->
 	</tr>
 	<!-- END ROW -->
 </table>
@@ -437,7 +437,6 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
 		</td>
-		<!--
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">
 			<table>
 				<tr>
@@ -455,7 +454,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
-		-->
+		<!--
 		<td style="border: 15px solid white; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
 			<table>
@@ -470,6 +469,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
+		-->
 	</tr>
 	<!-- END ROW -->
 </table>
