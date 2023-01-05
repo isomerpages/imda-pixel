@@ -122,8 +122,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<table>
 				<tr>
 					<td></td>
-			    <td><img
-src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8px solid white;"></td>
+			    <td><img src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8px solid white;"></td>
 					<td></td>
 				</tr>
 			</table>
@@ -304,7 +303,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><span style="font-size:0.9em;">SIT Centre for Immersification</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
 		</td>
-		<td style="border: 15px solid white; width:33%; text-align: center;"></td>
+		<td style="border: 15px solid white; width:33%; text-align: center;">
 				<table>
 					<tr>
 						<td></td>
