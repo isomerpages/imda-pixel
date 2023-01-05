@@ -57,7 +57,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 		</td>
 	</tr>
     <!-- ROW 2 -->
-    <tr>
+	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/arijit-sengupta/" target="_blank" style="text-decoration: none; color:black;">		
 			<table>
@@ -102,7 +102,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 		</td>
 	</tr>
     <!-- ROW 3 -->
-    <tr>
+	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/shashankluthra/" target="_blank" style="text-decoration: none; color:black;">
 			<table>
@@ -158,7 +158,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table></tr></table>
+</table>
 
 ### Design Thinking
 <table>
@@ -207,7 +207,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table></tr></table>
+</table>
 
 ### Digital Storytelling
 <table>
@@ -256,7 +256,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 		</td>
 	</tr>
 	<!-- END ROW -->
-</table></tr></table>
+</table>
 
 ### Immersive Experiences
 <table>
