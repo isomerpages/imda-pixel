@@ -159,6 +159,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Design Thinking
@@ -207,6 +208,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Digital Storytelling
@@ -255,6 +257,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><br><span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
 
 ### Immersive Experiences
@@ -304,4 +307,5 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Part researcher, part educator, and mostly tinkerer with a current focus on XR</span>
 		</td>
 	</tr>
+	<!-- END ROW -->
 </table>
