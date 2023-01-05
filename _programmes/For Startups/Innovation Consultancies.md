@@ -46,4 +46,4 @@ We believe that sometimes a new perspective is all it takes to find growth oppor
 * This project-based coaching programme is for Singapore-based tech &amp; media startups, SMEs and large local enterprises. Approved projects will be supported up to 70% of the total cost, capped at $70,000. It supports projects that may require up to 12 man-days of consultant engagement, for up to 6 months.
 * Note: <br>All projects will be evaluated based on its innovation, scalability, the commitment to project (team, funding, relevance to core business), and capability building it brings to the organisation.<br> 
 
-<a href="https://form.gov.sg/5f9a5eb29ad89a0011c84c6c" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find out more</a>
+<a href="https://go.gov.sg/pbcstandard" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find out more</a>
