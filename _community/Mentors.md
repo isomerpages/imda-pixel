@@ -13,7 +13,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
 					<tr>
@@ -168,7 +168,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/keithoh/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
@@ -217,7 +217,7 @@ src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8p
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/abhilashmurthy/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
