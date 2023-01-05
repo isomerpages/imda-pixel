@@ -1,5 +1,5 @@
 ---
-title: Co working Space
+title: Co-working Space
 permalink: /facilities/Facilities/co-working-space/
 description: ""
 third_nav_title: Featured Areas
