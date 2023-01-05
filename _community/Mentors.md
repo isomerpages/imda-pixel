@@ -11,18 +11,18 @@ We have both general mentors and specialised ones in the design thinking, digita
 ### General
 
 <table>
-    <!-- ROW 1 -->
+	<!-- ROW 1 -->
 	<tr>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">		
-			<a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank" style="text-decoration: none; color:black;">	
-			<table>
-				<tr>
-					<td></td>
-					<td><img src="/images/Community/Mentors/alan-hellawell_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
-					<td></td>
-				</tr>
-			</table>
-			<b>ALAN HELLAWELL</b></a>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
+			<a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank" style="text-decoration: none; color:black;">
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Mentors/alan-hellawell_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>ALAN HELLAWELL</b></a>
 			<br><span style="font-size:0.9em;">Venture Partner</span>
 			<br><span style="font-size:0.9em;">Alpha JWC</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Seasoned technology executive advising several leading Singapore-based start-ups</span>
@@ -191,6 +191,20 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">FreshlyGround Pte Ltd</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutions</span>
 		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/thierry-do/?originalSubdomain=sg" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/thierry-do_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>THIERRY DO</b></a>
+			<br><span style="font-size:0.9em;">Co-Founder</span>
+			<br><span style="font-size:0.9em;">FreshlyGround Pte Ltd</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutions</span>
+		</td>
 		<td style="background:white; border: 15px solid white; width:33%; text-align: center; ">		
 			<table>
 				<tr>
@@ -225,6 +239,20 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br><span style="font-size:0.9em;">CEO</span>
 			<br><span style="font-size:0.9em;">BotDistrikt</span>
 			<br><br><span style="font-size:0.8em; line-height:0.8em;">Coded bots</span>
+		</td>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
+			<table>
+				<tr>
+					<td></td>
+					<td><img src="/images/Community/Mentors/diogomartins_230px.jpg" style="border-radius:50%; border:8px solid white;"></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>DIOGO MARTINS</b></a>
+			<br><span style="font-size:0.9em;">Lead, Content & Community</span>
+			<br><span style="font-size:0.9em;">Mediacorp</span>
+			<br><br><span style="font-size:0.8em; line-height:0.8em;">He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run</span>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
 			<a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="text-decoration: none; color:black;">	
