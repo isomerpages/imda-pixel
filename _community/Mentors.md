@@ -14,10 +14,6 @@ We have both general mentors and specialised ones in the design thinking, digita
     <!-- ROW 1 -->
 	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
 			<a href="https://www.linkedin.com/in/alan-hellawell-96a3263/" target="_blank" style="text-decoration: none; color:black;">	
 			<table>
 				<tr>
