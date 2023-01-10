@@ -3,62 +3,47 @@ title: Testimonials
 permalink: /testimonials/
 description: ""
 ---
-# Testimonials
-<table>
-	<tr>
-		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/alan-hellawell_230px.jpg"></td>
-		<td style="vertical-align:middle; border-bottom:none;">
-			
- > We are deeply appreciative for the access to IMDA's innovation facilities and resources.
-			<br><i>- Allen Foo, Voox</i>
-		</td>
-	</tr>
-		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/andrewler_230px.jpg"></td>
-		<td style="vertical-align:middle; border-bottom:none;">
-			
->The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
-			<br><i>- Andrew Ler, Atome</i>
-		</td>
-	</tr>
-</table>
-
-## V1
+### Ani Bhaleka,Elitefit.AI
 
 <table>
 	<tr>
-		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/alan-hellawell_230px.jpg"></td>
-		<td style="vertical-align:middle; border-bottom:none;">
-            We are deeply appreciative for the access to IMDA's innovation facilities and resources.
-			<br><i>- Allen Foo, Voox</i>
-		</td>
-	</tr>
-		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/andrewler_230px.jpg"></td>
-		<td style="vertical-align:middle; border-bottom:none;">
-            The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
-			<br><i>- Andrew Ler, Atome</i>
-		</td>
-	</tr>
-</table>
-
-## V2
-	
-<table>
-	<tr>
-		<td style="width:25%; text-align: center; vertical-align:middle; border-bottom:none;"><img src="/images/Community/Mentors/alan-hellawell_230px.jpg" style="border-radius:50%;"></td>
+		<td style="width:-25%; text-align: center; vertical-align:middle; border-bottom:none;"></td>
 		<td style="vertical-align:middle; border-bottom:none;">
 			<blockquote>
-			We are deeply appreciative for the access to IMDA's innovation facilities and resources.
-			<br><i>- Andrew Ler, Atome</i>
+			IMDA PIXEL truly is a great place for us to be and grow! Thank you for the support! IMDA Spark certification lets our valued clients and distributors know that a credible, neutral, 3rd party has looked at our tech architecture, validated our claims of user privacy, stability and scale which enables them to partner with us with greater confidence.
+			<br><i>- Ani Bhalekar, CEO</i>
 			</blockquote>
 		</td>
 	</tr>
+
+</table>
+
+### Meili Lovanich, Sony Music Entertainment
+
+<table>
 	<tr>
-		<td style="width:25%; text-align: center; vertical-align:middle;"><img src="/images/Community/Mentors/andrewler_230px.jpg" style="border-radius:50%;"></td>
-		<td style="vertical-align:middle;">
+		<td style="width:-25%; text-align: center; vertical-align:middle; border-bottom:none;"></td>
+		<td style="vertical-align:middle; border-bottom:none;">
 			<blockquote>
-				The support labs and co-working space allowed us to meet valuable partners and together, strengthen our overall solution design and customer journey.
-			<br><i>- Andrew Ler, Atome</i>
+			IMDE PIXEL shared a list of companies in our areas of interest (music, gaming, AR/VR, etc.) and has introduced us to PIXEL's incubatees/alumni including Mighty Jaxx and VOSTOK VR, among others. Through the interactions, we have learned a lot about the Singapore media-innovation community and have worked on partnership opportunities with the matched companies.
+			<br><i>- Meili Lovanich, Senior Director, Business Development Asia and Middle East</i>
 			</blockquote>
 		</td>
 	</tr>
+
+</table>
+
+### TWOMC Digital
+
+<table>
+	<tr>
+		<td style="width:-25%; text-align: center; vertical-align:middle; border-bottom:none;"></td>
+		<td style="vertical-align:middle; border-bottom:none;">
+			<blockquote>
+			IMDE PIXEL shared a list of companies in our areas of interest (music, gaming, AR/VR, etc.) and has introduced us to PIXEL's incubatees/alumni including Mighty Jaxx and VOSTOK VR, among others. Through the interactions, we have learned a lot about the Singapore media-innovation community and have worked on partnership opportunities with the matched companies.
+			<br><i>- Meili Lovanich, Senior Director, Business Development Asia and Middle East</i>
+			</blockquote>
+		</td>
+	</tr>
+
 </table>
