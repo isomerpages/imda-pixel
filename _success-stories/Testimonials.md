@@ -6,7 +6,7 @@ description: ""
 <table>
     <!-- ROW 1 -->
 	<tr>
-		<td style="border: 15px solid #F7F7F7; width:70%; text-align: center;">
+		<td style="border: 15px solid #F1F1F1; width:70%; text-align: center;">
 				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL truly is a great place for us to be and grow! Thank you for the support! IMDA Spark certification lets our valued clients and distributors know that a credible, neutral, 3rd party has looked at our tech architecture, validated our claims of user privacy, stability and scale which enables them to partner with us with greater confidence.</span>
 	<br><br>
 		<b>Ani Bhaleka<br>CEO, Elitefit.AI</b>
