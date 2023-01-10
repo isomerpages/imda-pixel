@@ -4,18 +4,6 @@ permalink: /success-stories/testimonials/
 description: ""
 ---
 <table>
-		<td style="border: 15px solid #F1F1F1; width:50%; text-align: center;">
-				<br><span style="font-size:1.em; line-height:1em; color:grey"> Starting a business is always a balance of excitement and apprehension. The PIXEL team really "get" this. I've been consistently impressed with the professional support from everyone on the team. They have taken steps to make us feel welcome, offer valuable advice and even come to the rescue multiple times. Truly a world class facility and support team.</span>
-	<br><br>
-		<b>Ryan McClure<br>Managing Director, TWOMC Digital</b>
-		</td>
-<td style="border: 15px solid #F1F1F1; width:50%; text-align: center;">
-				<br><span style="font-size:1.em; line-height:1em; color:grey"> Starting a business is always a balance of excitement and apprehension. The PIXEL team really "get" this. I've been consistently impressed with the professional support from everyone on the team. They have taken steps to make us feel welcome, offer valuable advice and even come to the rescue multiple times. Truly a world class facility and support team.</span>
-	<br><br>
-		<b>Ryan McClure<br>Managing Director, TWOMC Digital</b>
-		</td>
-	
-<table>
 		<td style="border: 15px solid #F1F1F1; width:70%; text-align: center;">
 				<br><span style="font-size:1.em; line-height:1em; color:grey"> Starting a business is always a balance of excitement and apprehension. The PIXEL team really "get" this. I've been consistently impressed with the professional support from everyone on the team. They have taken steps to make us feel welcome, offer valuable advice and even come to the rescue multiple times. Truly a world class facility and support team.</span>
 	<br><br>
