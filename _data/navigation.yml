@@ -38,10 +38,10 @@ links:
     sublinks:
       - title: Success Stories
         url: /success-stories/
-      - title: Press Release
-        url: /success-stories/press-release/aws/
       - title: Testimonials
         url: /success-stories/testimonials/
+      - title: Press Release
+        url: /success-stories/press-release/aws/
   - title: Connect with us
     url: /contact-us/
     sublinks:
