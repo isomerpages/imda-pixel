@@ -23,7 +23,7 @@ description: ""
 	<td style="border: 15px solid #F1F1F1; width:100%; text-align: center;">
 				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL shared a list of companies in our areas of interest (music, gaming, AR/VR, etc.) and has introduced us to PIXEL's incubatees/alumni including Mighty Jaxx and VOSTOK VR, among others. Through the interactions, we have learned a lot about the Singapore media-innovation community and have worked on partnership opportunities with the matched companies..</span>
 	<br><br>
-		<b>xxxx<br>XXX<br>TWOMC Digital</b></a>
+		<b>xxxx<br>XXX<br>TWOMC Digital</b>
 		</td>	
 </table> 
 
