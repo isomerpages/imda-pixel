@@ -160,7 +160,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<span style="font-size:0.8em; line-height:0.8em;">Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales</span>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="[(25) Jê Alipio | LinkedIn](https://www.linkedin.com/in/jealipio/)" target="_blank" style="text-decoration: none; color:black;">
+			<a href="https://www.linkedin.com/in/jealipio/" target="_blank" style="text-decoration: none; color:black;">
 				<table>
 					<tr>
 						<td></td>
