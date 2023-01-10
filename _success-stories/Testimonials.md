@@ -9,7 +9,7 @@ description: ""
 	<br><br>
 		<b>Ani Bhaleka<br>CEO, Elitefit.AI</b>
 		</td>
-</table><br>
+</table>
 
 <table>
 		<td style="border: 15px solid #F1F1F1; width:70%; text-align: center;">
@@ -17,7 +17,7 @@ description: ""
 	<br><br>
 		<b>Meili Lovanich<br>Senior Director, Business Development Asia and Middle East,<br>Sony Music Entertainment</b>
 		</td>
-</table><br>
+</table>
 
 <table>
 	<td style="border: 15px solid #F1F1F1; width:100%; text-align: center;">
@@ -26,8 +26,6 @@ description: ""
 		<b>xxxx<br>XXX<br>TWOMC Digital</b>
 		</td>	
 </table> 
-
----
 
 
 <table>
