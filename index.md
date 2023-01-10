@@ -74,7 +74,9 @@ sections:
       button: view more
   - infobar:
       title: Testimonials
-      description: "\"PIXEL's innovation capabilities & co-working space led us to
-        meet valuable partners and strengthen our overall solution design.\"  -
-        Allen Foo, Voox Singapore"
+      description: "Starting a business is always a balance of excitement and
+        apprehension. The PIXEL team really \"get\" this. I've been consistently
+        impressed...  "
+      button: read more
+      url: /success-stories/testimonials/
 ---
