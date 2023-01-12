@@ -197,7 +197,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<span style="font-size:0.9em;">IP & Entertainmnent Lawyer</span>
 			<br>
 			<br>
-			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent >20 years handling various aspects of the games business, both as an external lawyer and in-house, most recently as the Asia, Africa and Middle East general counsel for a Fortune 500 entertainment company. He now uses that experience to help businesses - especially those in the media, content and technology fields - solve problems, manage their risk, and get deals done through Consigclear LLC, a Singapore law firm that he founded.</span>
+			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent more than 20 years handling various aspects of the games business.</span>
 		</td>
 			<b>
 			</b>
