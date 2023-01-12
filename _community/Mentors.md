@@ -199,11 +199,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent more than 20 years handling various aspects of the games business.</span>
 		</td>
-			<b>
-			</b>
-			<br>
-			<span style="font-size:0.8em; line-height:0.8em;"></span>
-		</td>
+
 	</tr>
 	<!-- END ROW -->
 </table>
