@@ -3,8 +3,29 @@ title: Success Stories
 permalink: /success-stories/
 description: success stories testimonial
 ---
-
 # Featured Stories
+
+#### How Singapore is gearing up for an AR/VR future
+
+Meta has laid out its [vision for the metaverse](https://tech.fb.com/ar-vr/2021/10/connect-2021-our-vision-for-the-metaverse/). Apple [is rumored to be developing](https://www.macrumors.com/roundup/apple-glasses/) augmented reality (AR) and virtual reality (VR) glasses. ByteDance [acquired Pico](https://www.cnbc.com/2021/08/30/tiktok-owner-bytedance-acquires-pico-and-takes-first-step-into-virtual-reality.html), a maker of VR headsets.
+
+Against this backdrop, it’s clear that AR and VR are set to play a key role in enabling the future of an interconnected digital world.
+
+![How Singapore is gearing up for an AR/VR future](/images/Success%20stories/ARVR%20advertorial.png)
+
+“The experience can be more lifelike with better rendering and more detailed inputs and data and can support more users on the platform altogether,” says Ng.
+
+<a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Continue reading</a>
+
+---
+
+##### Enabling immersive technologies in Singapore
+
+One factor powering the AR/VR wave is the arrival of 5G, which allows for greater bandwidth and lower latencies. This gives AR/VR the foundation to build even more immersive experiences and faster feedback.
+
+
+
+
 ![](/images/Success%20stories/PIXEL%20x%20EED%20.jpg)
 
 #### 3 innovative Singaporean startups that are transforming the way we live, work, and play
