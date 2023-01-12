@@ -180,24 +180,24 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience</span>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/jealipio/" target="_blank" style="text-decoration: none; color:black;">
+			<a href="https://www.linkedin.com/in/adriankwongpio/" target="_blank" style="text-decoration: none; color:black;">
 				<table>
 					<tr>
 						<td></td>
 						<td>
-							<img src="/images/Community/Mentors/JeAlipio.png" style="border-radius:50%; border:8px solid white;">
+							<img src="/images/Community/Mentors/Adrian.png" style="border-radius:50%; border:8px solid white;">
 						</td>
 						<td></td>
 					</tr>
 				</table>
-				<b>JE ALIPIO</b></a>
+				<b>Adrian Kwong</b></a>
 			<br>
-			<span style="font-size:0.9em;">Director and Head of Games,</span>
+			<span style="font-size:0.9em;">Business Counsel,</span>
 			<br>
-			<span style="font-size:0.9em;">South APAC and MENA, The Walt Disney Company</span>
+			<span style="font-size:0.9em;">IP & Entertainmnent Lawyer</span>
 			<br>
 			<br>
-			<span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience</span>
+			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent >20 years handling various aspects of the games business, both as an external lawyer and in-house, most recently as the Asia, Africa and Middle East general counsel for a Fortune 500 entertainment company. He now uses that experience to help businesses - especially those in the media, content and technology fields - solve problems, manage their risk, and get deals done through Consigclear LLC, a Singapore law firm that he founded.</span>
 		</td>
 			<b>
 			</b>
