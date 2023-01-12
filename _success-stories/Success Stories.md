@@ -47,7 +47,7 @@ Fortunately, governments are well aware of how they can make a difference for st
 			<img src="/images/Success%20stories/PIXEL%20x%20EED%20.jpg">
 		</td>
 		<td style="vertical-align:middle; ">Partnership
-			<br><b><a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank">Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.</a></b>
+			<br><b><a href="/stories/pixel-incubatee-eed/" target="_blank">Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.</a></b>
 		</td>
     </tr>
 	<tr>
