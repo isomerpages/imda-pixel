@@ -17,26 +17,6 @@ Against this backdrop, it’s clear that AR and VR are set to play a key role in
 
 <a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Continue reading</a>
 
----
-
-##### Enabling immersive technologies in Singapore
-
-One factor powering the AR/VR wave is the arrival of 5G, which allows for greater bandwidth and lower latencies. This gives AR/VR the foundation to build even more immersive experiences and faster feedback.
-
-
-
-
-![](/images/Success%20stories/PIXEL%20x%20EED%20.jpg)
-
-#### 3 innovative Singaporean startups that are transforming the way we live, work, and play
-
-Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.
-
-However, the startup life is not easy. Even as companies pursue these innovations, they face numerous hurdles such as raising funds and building credibility. 
-
-Fortunately, governments are well aware of how they can make a difference for startups and the importance of innovation. Singapore’s Infocomm Media Development Authority (IMDA), for one, has enacted a comprehensive set of programs and schemes to support young companies on their journeys.
-
-<a href="/stories/pixel-incubatee-eed/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Continue reading</a>
 
 
 ## More Stories
