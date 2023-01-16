@@ -1,6 +1,6 @@
 ---
 title: Powering Brand Experiences with ARVR
-permalink: /events/arvr/permalink/
+permalink: https://imda-pixel.sg/event/305
 date: 2022-02-09
 layout: post
 description: ""
