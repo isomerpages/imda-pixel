@@ -180,7 +180,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience</span>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/adriankwongpio/" target="_blank" style="text-decoration: none; color:black;">
+			<a href="https://www.linkedin.com/in/adriankwong" target="_blank" style="text-decoration: none; color:black;">
 				<table>
 					<tr>
 						<td></td>
@@ -190,7 +190,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 						<td></td>
 					</tr>
 				</table>
-				<b>Adrian Kwong</b></a>
+				<b>ADRIAN KWONG</b></a>
 			<br>
 			<span style="font-size:0.9em;">Business Counsel,</span>
 			<br>
