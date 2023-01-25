@@ -13,7 +13,7 @@ description: ""
 
 <table>
 		<td style="border: 15px solid #F1F1F1; width:70%; text-align: center;">
-				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL truly is a great place for us to be and grow! Thank you for the support! IMDA Spark certification lets our valued clients and distributors know that a credible, neutral, 3rd party has looked at our tech architecture, validated our claims of user privacy, stability and scale which enables them to partner with us with greater confidence.</span>
+				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL is that collaborative space where our talent could not only get a home - but also be exposed to collaboration that helped us bring a superior product to market, in multiple ways. Through PIXEL we met one of our first content creator partners. At PIXEL we also met the UXD consultancy that helped us build our revolutionary UI which is actively being used by a number of our clients and their end users. To engage the consultancy we used one of the schemes of IMDA which subsidised the cost of engaging that consultancy by 70%. IMDA Spark also validated our B2B approach by evaluating our tech, commercials and viability. Because of IMDA PIXEL, our product became significantly better because of world-class facilities for our team to work in, great content powered by the creator economy, a terrific user experience and significant credibility for us at our B2B clients!</span>
 	<br><br>
 		<b>Ani Bhaleka<br>CEO, Elitefit.AI</b>
 		</td>
@@ -69,6 +69,26 @@ All these is crucial in helping us to grow, launch our product and forge really 
 				<br><span style="font-size:1.em; line-height:1em; color:grey"> The Youth Co:Lab Summit was hosted in Singapore for the first time in 2022. We were proud to partner with PIXEL who provided their facilities, shared insights about the local startup ecosystem and showcased exciting startup demonstrations to the participants from the Asia-Pacific region at the pre-summit. We truly appreciate PIXEL's support to inspire young social entrepreneurs.</span>
 	<br><br>
 		<b>Kimmy Paulino<br>International Consultant - Youth Co:Lab Summit & Youth Programming<br>UNDP Bangkok Regional Hub - Youth Unit
+ </b>
+		</td>	
+</table><br>
+
+<table>
+	<td style="border: 15px solid #F1F1F1; width:100%; text-align: center;">
+				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL has provided us with all the tools and facilities we required for our 5G use cases testing. It has proven to be fruitful as it provided us with insights in better visualising firsthand the benefits and limitations between current networks and 5G of our developed programs.</span>
+	<br><br>
+		<b>Tan Siew Hua<br>Trinax, Creative Technologist
+ </b>
+		</td>	
+</table><br>
+
+<table>
+	<td style="border: 15px solid #F1F1F1; width:100%; text-align: center;">
+				<br><span style="font-size:1.em; line-height:1em; color:grey"> Through PIXEL’s business matching process, we were connected to local start-ups and get to collaborate with them in the areas of MR, AI/Data, Internet of Things and 5G. The ecosystem of innovation community is well established for corporates and local start-ups to tap on each others’ expertise and business network. We have been able to work with a few start-ups to build user-centric solutions for regional and global clients, and PIXEL has been very supportive in ensuring that we have a smooth sailing collaboration. 
+</span>
+	<br><br>
+		<b>Joan Yeo<br>HOD, Industry 4.0 Transformation & Emerging Technology Development
+<br>IBM Manufacturing Solutions Pte Ltd
  </b>
 		</td>	
 </table><br>
