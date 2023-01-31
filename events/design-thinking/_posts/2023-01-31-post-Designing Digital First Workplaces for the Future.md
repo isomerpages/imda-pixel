@@ -1,7 +1,7 @@
 ---
 title: Designing Digital First Workplaces for the Future
-permalink: /events/design-thinking/permalink/
-date: 2023-01-31
+permalink: https://imda-pixel.sg/event/377
+date: 2023-02-01
 layout: post
 description: ""
 image: ""
