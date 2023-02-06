@@ -1,7 +1,7 @@
 ---
 title: Incubatees
 permalink: /community/incubatees/
-description: current incubatees startups
+description: current incubatees start-ups
 ---
 # Incubatees
 
