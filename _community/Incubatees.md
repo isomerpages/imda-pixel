@@ -568,7 +568,7 @@ description: current incubatees start-ups
 					</tr>
 				</table>
 				<b>REACH52</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup –  health tech platform offering range of health services </span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook start-up –  health tech platform offering range of health services </span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Product Design</span>
@@ -639,7 +639,7 @@ description: current incubatees start-ups
 					</tr>
 				</table>
 				<b>VOUCH</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup – AI-powered tech (hospitality/tourism)</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook start-up – AI-powered tech (hospitality/tourism)</span>
 		</td>	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Travel Tech</span>
@@ -917,7 +917,7 @@ description: current incubatees start-ups
 					</tr>
 				</table>
 				<b>42 LAB</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">42Lab was a Biotech education startup that provided high-quality and affordable</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">42Lab was a Biotech education start-up that provided high-quality and affordable</span>
 		</td>
 	</tr>
 	<!-- ROW 9 -->
