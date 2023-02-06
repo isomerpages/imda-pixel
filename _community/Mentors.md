@@ -388,7 +388,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<span style="font-size:0.9em;">NUS Engineering Design & Innovation Centre</span>
 			<br>
 			<br>
-			<span style="font-size:0.8em; line-height:0.8em;">Startup advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields</span>
+			<span style="font-size:0.8em; line-height:0.8em;">Start-up advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields</span>
 		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/jeannieleesa/" target="_blank" style="text-decoration: none; color:black;">
