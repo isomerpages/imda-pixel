@@ -14,8 +14,7 @@ description: current incubatees startups
             <br><img src="/images/Community/Incubatees/medivr.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>MEDIVR</b>
-			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">
+            <br><b>MEDIVR<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;"></b>
             <br> A leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning.
         </td>
     </tr>
