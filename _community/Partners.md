@@ -16,7 +16,7 @@ We partner established tech firms and accelerators to host a range of innovation
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Amazon Web Services</b>
-            <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage startup growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform (OIP).
+            <br> AWS and IMDA launches new first-of-its-kind Joint Innovation Centre in Southeast Asia at IMDA’s PIXEL Innovation Hub to encourage start-up growth and accelerate industry innovation supported by the IMDA PIXEL Innovation Hub and IMDA’s Open Innovation Platform (OIP).
             <br><br><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -36,7 +36,7 @@ We partner established tech firms and accelerators to host a range of innovation
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>IBM Singapore</b>
-            <br>We worked with IBM to set up a 5G showcase at PIXEL to inspire startups and companies on the possibilities of 5G to supercharge AI and Augmented Reality/Virtual Reality (AR/VR) applications. Tapping on PIXEL’s 5G testbed and AR/VR lab, IBM’s 5G Industry 4.0 team is working with PIXEL’s ARVR incubatees to experiment and develop solutions.
+            <br>We worked with IBM to set up a 5G showcase at PIXEL to inspire start-ups and companies on the possibilities of 5G to supercharge AI and Augmented Reality/Virtual Reality (AR/VR) applications. Tapping on PIXEL’s 5G testbed and AR/VR lab, IBM’s 5G Industry 4.0 team is working with PIXEL’s ARVR incubatees to experiment and develop solutions.
             <br><br><a href="https://www.imda.gov.sg/Content-and-News/Media-Releases-and-Speeches/Media-Releases/2020/IBM-IMDA-M1-and-Samsung-to-Collaborate-on-Singapores-First-5G-Industry-4_0-Trial" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -46,7 +46,7 @@ We partner established tech firms and accelerators to host a range of innovation
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Meta</b>
-            <br>We partnered Meta and have run two seasons of the Facebook Accelerator programme from February 2019 to September 2020. Over six months, we incubate and support innovative data-driven startups in developing data innovation models for Asia and the rest of the world, Meta offered mentorship, training and support in using data in live environments. PIXEL provided the co-working space and access to creative design consultants for startups to collaborate, build and access key markets. The Facebook Accelerator programme is Meta’s second data innovation startup programme globally, after France, and the first in Asia.
+            <br>We partnered Meta and have run two seasons of the Facebook Accelerator programme from February 2019 to September 2020. Over six months, we incubate and support innovative data-driven start-ups in developing data innovation models for Asia and the rest of the world, Meta offered mentorship, training and support in using data in live environments. PIXEL provided the co-working space and access to creative design consultants for start-ups to collaborate, build and access key markets. The Facebook Accelerator programme is Meta’s second data innovation start-up programme globally, after France, and the first in Asia.
             <br><br><a href="https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2021/3/speech-by-minister-s-iswaran-at-launch-of-upskill-with-facebook-singapore?page=10" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
