@@ -23,7 +23,7 @@ sections:
       button: Join our mailing list
       url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: Discover new opportunities - Whether you are a corporate looking to
-        innovate or a startup looking for business opportunities, we've got you
+        innovate or a start-up looking for business opportunities, we've got you
         covered.
       title: PIXEL Innovation Hub
   - infobar:
