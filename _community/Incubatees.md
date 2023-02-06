@@ -652,7 +652,7 @@ description: current incubatees start-ups
 					</tr>
 				</table>
 				<b>TRABBLE</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook startup – AI-powered chatbot (tourism)</span>
+				<br><span style="font-size:0.8em; line-height:0.8em;">Facebook start-up – AI-powered chatbot (tourism)</span>
 		</td>
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<span style="color:grey; font-size:0.8em; text-align: left;">Medical Tech</span>
