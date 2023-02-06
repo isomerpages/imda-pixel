@@ -6,7 +6,7 @@ description: IMDA’s innovation hub for Corporates and Startups with co-working
 image: /images/pixel only logo.svg
 permalink: /
 notification: Top 10 Launchpads in Southeast Asia for scaling corporate
-  innovation and startups!
+  innovation and start-ups!
 sections:
   - hero:
       background: /images/Test/pixel main header.png
@@ -14,7 +14,7 @@ sections:
         - title: FOR Corporates
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
-        - title: For Startups
+        - title: For Start-ups
           description: Connect with the community
           url: /programmes/startups/incubation/
         - title: FOR ALL
@@ -33,14 +33,14 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: "We match corporates with tech startups to solve business
+      description: "We match corporates with tech start-ups to solve business
         challenges. Join our quarterly innovation call or try out the discovery
         engine for a faster match.   "
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/Incubation2.png
-      subtitle: CORPORATES & STARTUPS
+      subtitle: CORPORATES & START-UPS
   - infopic:
       title: "Incubation "
       description: Be a PIXEL incubatee. Gain access to co-working space, tech
@@ -49,7 +49,7 @@ sections:
       button: apply
       url: /programmes/startups/incubation/
       alt: Image alt text
-      subtitle: STARTUPS
+      subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
   - infopic:
       title: Facilities
@@ -63,7 +63,7 @@ sections:
   - infopic:
       title: Community
       description: "Plug into PIXEL’s vibrant community of diverse tech experts,
-        startups, corporate innovators and get inspired.   "
+        start-ups, corporate innovators and get inspired.   "
       button: Connect
       url: /community/networking-events/
       image: /images/Homepage/Community2.png
