@@ -5,7 +5,7 @@ description: networking, big events, programmes
 ---
 # Network with our Community
 
-Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant community of startups, partners, mentors and friends from diverse backgrounds across multiple industries. Come join our events, start mingling and get inspired!
+Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant community of start-ups, partners, mentors and friends from diverse backgrounds across multiple industries. Come join our events, start mingling and get inspired!
 
 ## Wonderful Wednesdays
 ![](/images/Community/Wonderful-Wedenesday.jpg)
