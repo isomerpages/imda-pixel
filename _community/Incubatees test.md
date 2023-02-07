@@ -6,8 +6,6 @@ description: ""
 # Incubatees
 ### ARVR
 <table>
-    <tr></tr>
-    <br>
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/medivr.png">
@@ -200,6 +198,7 @@ description: ""
     </tr> 			
 		
 ### AI
+<table>
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/lexatexer.png">
@@ -265,7 +264,7 @@ description: ""
             <br><img src="/images/Community/Incubatees/DRISKNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>NEUTALBAY</b>
+            <br><b>D-RISK</b>
             <br>D-Risk is an AI-driven rating platform which provides quick, easy and affordable corporate credit ratings for lending, investment and trade credit management.
 	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -282,6 +281,7 @@ description: ""
     </tr> 
 
 ### Robotics
+<table>
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/dconstruct.png">
@@ -314,6 +314,7 @@ description: ""
     </tr> 
 	
 ### IoT
+<table>
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ackio.png">
@@ -356,6 +357,7 @@ description: ""
     </tr> 
 
 ### Connectivity
+<table>	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/millicast.png">
@@ -378,7 +380,7 @@ description: ""
     </tr> 
 
 ### Others
-
+<table>
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/OROVAULTNEW.png">
@@ -758,6 +760,4 @@ description: ""
             <br>Skilio is Southeast Asia’s 1st skills-based hiring talent community
 	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
-    </tr>	
-
-		
+    </tr>
