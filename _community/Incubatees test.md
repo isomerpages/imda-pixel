@@ -196,6 +196,7 @@ description: ""
 	    <br><br><a href="http://www.twomc.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
+		</table>
 		
 ### AI
 <table>
@@ -279,6 +280,7 @@ description: ""
 	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
+</table>
 
 ### Robotics
 <table>
