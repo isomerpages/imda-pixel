@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Incubatees test.md
       - Networking Events.md
       - Incubatees.md
       - Partners.md
