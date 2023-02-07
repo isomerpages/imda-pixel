@@ -1,6 +1,6 @@
 ---
 title: Incubatees
-permalink: /community/incubatees/
+permalink: /community/incubatees-og/
 description: current incubatees start-ups
 ---
 # Incubatees
