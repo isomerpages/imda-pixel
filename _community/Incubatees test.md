@@ -753,7 +753,7 @@ description: ""
     </tr>	
 	<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="images/Community/Incubatees/Skilio%20logo%20new.png">
+            <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SKILIO</b>
