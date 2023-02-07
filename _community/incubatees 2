@@ -14,7 +14,7 @@ description: current incubatees start-ups
             <br><img src="/images/Community/Incubatees/medivr.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>MEDIVR/b>
+            <br><b>MEDIVR</b>
             <br> A leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning.
 	    <br><br><a href="https://www.medivr.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -37,99 +37,49 @@ description: current incubatees start-ups
             <br><b>AUGMENTEED</b>
             <br>A platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians
             <br><br><a href="https://www.augmenteed.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-<table>
-    <!-- ROW 1 -->
-	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://www.medivr.io/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/medivr.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>MEDIVR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;"> A leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning</span>
-		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://alo.health/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/alovr.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>ALO VR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Develops AR & VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance</span>
-		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://www.augmenteed.tech/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/Augmenteed%20logo.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>AUGMENTEED</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">A platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians</span>
-		</td>
-	</tr>
-	<!-- ROW 2 -->
-	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://www.voox.io/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/voox.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>VOOX</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">3D smart inspections to ensure projects are compliant, on budget and on time, by capturing, analysing 3D data, and acting on them</span>
-		</td>	
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://nplasty.com/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/nplasty.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>NPLASTY</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Surgical simulation platform with VR and Haptics to complement and advance surgical training</span>
-		</td>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://serl.io/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/serlio.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>SERL.IO</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Collaborative, no-code Mixed Reality platform for work and training (e.g. product or process visualisation, presentations, learning)</span>
-		</td>
-	</tr>
-	<!-- ROW 3 -->
-	<tr>
-		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
-			<a href="https://www.vostokvr.com/" target="_blank" style="text-decoration: none; color:black;">	
-				<table>
-					<tr>
-						<td></td>
-						<td><img src="/images/Community/Incubatees/vostok vr.png"></td>
-						<td></td>
-					</tr>
-				</table>
-				<b>VOSTOK VR</b></a>
-				<br><span style="font-size:0.8em; line-height:0.8em;">Specializes in 360 Video and Virtual Reality content creation; Provides VOSKHOD, an XR platform for enterprises to do remote immersive trainings for their staff.</span>
-		</td>	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/voox.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>VOOX</b>
+            <br>3D smart inspections to ensure projects are compliant, on budget and on time, by capturing, analysing 3D data, and acting on them. 
+	    <br><br><a href="https://www.voox.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/nplasty.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>VOOX</b>
+            <br>Surgical simulation platform with VR and Haptics to complement and advance surgical training.
+	    <br><br><a href="https://nplasty.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/serlio.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SERL.IO</b>
+            <br>Collaborative, no-code Mixed Reality platform for work and training (e.g. product or process visualisation, presentations, learning).
+	    <br><br><a href="https://serl.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+ <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/vostok vr.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>VOSTOK VR</b>
+            <br>Specializes in 360 Video and Virtual Reality content creation; Provides VOSKHOD, an XR platform for enterprises to do remote immersive trainings for their staff.
+	    <br><br><a href="https://www.vostokvr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>   
+		
+		
+	
 		<td style="border: 15px solid #F7F7F7; width:33%; text-align: center;">
 			<a href="https://www.eis.sg/" target="_blank" style="text-decoration: none; color:black;">	
 				<table>
