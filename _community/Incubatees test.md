@@ -1,7 +1,7 @@
 ---
-title: Incubatees test
+title: Incubatees
 permalink: /community/incubatees/
-description: ""
+description: current incubatees start-ups
 ---
 # Incubatees
 ### ARVR
