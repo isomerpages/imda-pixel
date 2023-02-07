@@ -1,6 +1,6 @@
 ---
 title: Incubatees test
-permalink: /community/incubatees-2/
+permalink: /community/incubatees/
 description: ""
 ---
 # Incubatees
