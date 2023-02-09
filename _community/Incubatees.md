@@ -521,7 +521,7 @@ description: current incubatees start-ups
             <br><img src="/images/Community/Incubatees/lendor.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>TRUSTINEO</b>
+            <br><b>LENDOR</b>
             <br>Marketplace where consumers can rent from businesses and peers.
 	    <br><br><a href="https://lendor.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
