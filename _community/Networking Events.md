@@ -11,3 +11,5 @@ Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant comm
 ![](/images/Community/Wonderful-Wedenesday.jpg)
 
 **Every 3rd Wednesday of the month**, we host community get-togethers and invite companies to share about their programmes. Level up your knowledge, mingle around and don't forget to help yourself to the free food. Mark your calendars now!
+
+<a href="https://form.gov.sg/63e5bb1c46e5150012608ead" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the community</a>
