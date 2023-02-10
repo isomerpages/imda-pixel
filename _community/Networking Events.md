@@ -16,7 +16,7 @@ Upcoming Wonderful Wednesday:
 
 | Date | Details |Time 
 | -------- | -------- | -------- |
-| 15 Feb 2023   | Wonderful Wednesdays - **Sharing by Seed Legals** on how to automate and streamline the legal process of raising funds, creating policies or managing shareholders | 4pm - 5pm  |
+| 15 Feb 2023   | Wonderful Wednesdays - **Sharing by Seed Legals** on how to <br>automate and streamline the legal process of raising funds, <br>creating policies or managing shareholders | 4pm - 5pm  |
 
 
 Join our community mailing list to stay updated on our latest networking events! 
