@@ -16,8 +16,9 @@ Upcoming Wonderful Wednesday:
 
 | Date | Details |Time 
 | -------- | -------- | -------- |
-| 15 Feb 2023   | Wonderful Wednesdays - Sharing by **Seed Legals** on how to automate and streamline the legal process to raise funds, create policies or manage shareholders.     | 4pm - 5pm      |
+| 15 Feb 2023   | Wonderful Wednesdays - **Sharing by Seed Legals** on how to automate and streamline the legal process of raising funds, creating policies or managing shareholders | 4pm - 5pm  |
 
 
+Join our community mailing list to stay updated on our latest networking events! 
 
-<a href="https://form.gov.sg/63e5bb1c46e5150012608ead" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join the community today! </a>
+<a href="https://form.gov.sg/63e5bb1c46e5150012608ead" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Join PIXEL's community</a>
