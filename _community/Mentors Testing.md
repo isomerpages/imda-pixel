@@ -196,8 +196,8 @@ South APAC and MENA
             <br><img src="/images/Community/Mentors/dr_tan_chek_tien_230px.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Dr Chek Tien Tan, Director
-          <br>SIT Centre for Immersification</b>
+            <br><b>Dr Chek Tien Tan, Director of Centre for Immersification
+          <br>SIT</b>
             <br>Part researcher, part educator, and mostly tinkerer with a current focus on XR
             <br><br><a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
