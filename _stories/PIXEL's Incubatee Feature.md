@@ -5,17 +5,7 @@ description: 3 innovative Singaporean startup that are transforming the way we
   live, work, and play. Featuring IMDA PIXEL's incubatee EliteFit.AI, Vouch and
   BetterData
 ---
-
-
-
-
-
-
-
-
-
-3 innovative Singaporean startups that are transforming the way we live, work, and play
-=======================================================================================
+### 3 innovative Singaporean startups that are transforming the way we live, work, and play
 
 Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.
 
