@@ -8,7 +8,7 @@ PIXEL-appointed mentors are trusted and experienced advisors who are willing to 
 
 We have both general mentors and specialised ones in the design thinking, digital storytelling and immersive experiences fields. Pick your fit, it's free! Mentors and mentees are expected to develop and mutually agree on the scope and objectives of their engagement. 
 
-### General
+### Fundraising
 
 <table>
 	<!-- ROW 1 -->
@@ -98,6 +98,64 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe</span>
 		</td>
+		<!--
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>
+			</b>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		-->
+		<!--
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>
+			</b>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
+		</td>
+		-->
+	</tr>
+	<!-- END ROW -->
+	</table>
+
+### Strategy and Go-To-Market
+<table>
+	<!-- ROW 1 -->
+	<tr>
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
+			<a href="https://www.linkedin.com/in/rganti9/" target="_blank" style="text-decoration: none; color:black;">		
+				<table>
+					<tr>
+						<td></td>
+						<td><img src="/images/Community/Mentors/raghuganti_230px.png" style="border-radius:50%; border:8px solid white;"></td>
+						<td></td>
+					</tr>
+				</table>
+				<b>RAGHU GANTI</b></a>
+			<br>
+			<span style="font-size:0.9em;">ProViz & Enterprise Software Sales Leader</span>
+			<br>
+			<span style="font-size:0.9em;">NVIDIA</span>
+			<br>
+			<br>
+			<span style="font-size:0.8em; line-height:0.8em;">Helping to synthesize complex business issues into actionable and measurable outcomes using contextual data-based insights</span>
+		</td>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/gill-wang-39116a15a/" target="_blank" style="text-decoration: none; color:black;">			
 				<table>
@@ -117,27 +175,28 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for addressing business challenges and facilitating ideation process</span>
-		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
-			<a href="https://www.linkedin.com/in/rganti9/" target="_blank" style="text-decoration: none; color:black;">		
+		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
+			<a href="https://www.linkedin.com/in/adriankwong" target="_blank" style="text-decoration: none; color:black;">
 				<table>
 					<tr>
 						<td></td>
-						<td><img src="/images/Community/Mentors/raghuganti_230px.png" style="border-radius:50%; border:8px solid white;"></td>
+						<td>
+							<img src="/images/Community/Mentors/Adrian.png" style="border-radius:50%; border:8px solid white;">
+						</td>
 						<td></td>
 					</tr>
 				</table>
-				<b>RAGHU GANTI</b></a>
+				<b>ADRIAN KWONG</b></a>
 			<br>
-			<span style="font-size:0.9em;">ProViz & Enterprise Software Sales Leader</span>
+			<span style="font-size:0.9em;">Business Counsel,</span>
 			<br>
-			<span style="font-size:0.9em;">NVIDIA</span>
+			<span style="font-size:0.9em;">IP & Entertainmnent Lawyer</span>
 			<br>
 			<br>
-			<span style="font-size:0.8em; line-height:0.8em;">Helping to synthesize complex business issues into actionable and measurable outcomes using contextual data-based insights</span>
+			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent more than 20 years handling various aspects of the games business.</span>
 		</td>
 	</tr>
-	<!-- ROW 3 -->
+	<!-- ROW 2 -->
 	<tr>
 		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">
 			<a href="https://www.linkedin.com/in/shashankluthra/" target="_blank" style="text-decoration: none; color:black;">
@@ -179,32 +238,27 @@ We have both general mentors and specialised ones in the design thinking, digita
 			<br>
 			<span style="font-size:0.8em; line-height:0.8em;">Guide and advisor for mobile gaming industry with more than 18 years of experience</span>
 		</td>
-		<td style="background:#F7F7F7; border: 15px solid white; width:33%; text-align: center; ">	
-			<a href="https://www.linkedin.com/in/adriankwong" target="_blank" style="text-decoration: none; color:black;">
-				<table>
-					<tr>
-						<td></td>
-						<td>
-							<img src="/images/Community/Mentors/Adrian.png" style="border-radius:50%; border:8px solid white;">
-						</td>
-						<td></td>
-					</tr>
-				</table>
-				<b>ADRIAN KWONG</b></a>
+		<!--
+		<td style="border: 15px solid white; width:33%; text-align: center;">
+			<span style="color:grey; font-size:0.8em; text-align: left;"></span>
+			<table>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+			<b>
+			</b>
 			<br>
-			<span style="font-size:0.9em;">Business Counsel,</span>
-			<br>
-			<span style="font-size:0.9em;">IP & Entertainmnent Lawyer</span>
-			<br>
-			<br>
-			<span style="font-size:0.8em; line-height:0.8em;">Adrian is a senior lawyer with experience in intellectual property, media, technology, and their confluence in video games, having spent more than 20 years handling various aspects of the games business.</span>
+			<span style="font-size:0.8em; line-height:0.8em;"></span>
 		</td>
-
+		-->
 	</tr>
 	<!-- END ROW -->
 </table>
 
-### Design Thinking
+### Design Thinking and Innovation
 <table>
 	<!-- ROW 1 -->
 	<tr>
@@ -285,7 +339,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	<!-- END ROW -->
 </table>
 
-### Digital Storytelling
+### Marketing and Branding 
 <table>
 	<!-- ROW 1 -->
 	<tr>
@@ -366,7 +420,7 @@ We have both general mentors and specialised ones in the design thinking, digita
 	<!-- END ROW -->
 </table>
 
-### Immersive Experiences
+### AR/VR
 <table>
 	<!-- ROW 1 -->
 	<tr>
