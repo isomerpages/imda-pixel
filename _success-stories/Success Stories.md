@@ -22,6 +22,15 @@ Against this backdrop, it’s clear that AR and VR are set to play a key role in
 ## More Stories
 
 <table>
+		<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/ARVR%20advertorial.png">
+		</td>
+		<td style="vertical-align:middle; ">How Singapore is Gearing up For a ARVR Future
+			<br><b><a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank">Meta has laid out its vision for the metaverse. Apple is rumored to be developing augmented reality (AR) and virtual reality (VR) glasses. ByteDance acquired Pico, a maker of VR headsets...</a></b>
+		</td>
+    </tr>
+	<tr>
 	<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/PIXEL%20x%20EED%20.jpg">
