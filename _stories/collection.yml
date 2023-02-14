@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Example Title.md
       - How Singapore is gearing up for an ARVR future.md
       - IMDA AWS Joint Innovation Center.md
       - IMDA and Huawei Cloud Announces Launch of Startup Incubator.md
