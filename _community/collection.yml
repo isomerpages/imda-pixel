@@ -2,7 +2,7 @@ collections:
   community:
     output: true
     order:
-      - Mentors Testing.md
+      - Mentors2.md
       - Networking Events.md
       - Incubatees.md
       - Partners.md
