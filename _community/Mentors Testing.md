@@ -166,3 +166,40 @@ South APAC and MENA
         </td>
     </tr> 
     </table>
+		
+### ARVR
+<table>
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">  
+            <br><img src="/images/Community/Mentors/khoo-eng-tat_230px.jpg">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+          <br><b>Dr Khoo Eng Tat, Area Director (Outreach)  
+          <br>NUS Engineering Design & Innovation Centre</b>
+          <br> Start-up advisor, board director of the AsiaVR Association, former CTO of VR/AR companies and Principal Investigator in the VR/AR/MR fields
+      <br><br><a href="https://www.linkedin.com/in/eng-tat-khoo-6061311a/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="/images/Community/Mentors/dr_jeannie_lee_230px.jpg">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Dr Jeannie Lee, Director of Programmes
+          <br>SIT</b>
+            <br>Research and development in compelling, usable immersive technologies in the XR/VR/AR/MR field
+            <br><br><a href="https://www.linkedin.com/in/jeannieleesa/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><img src="/images/Community/Mentors/dr_tan_chek_tien_230px.jpg">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Dr Chek Tien Tan, Director
+          <br>SIT Centre for Immersification</b>
+            <br>Part researcher, part educator, and mostly tinkerer with a current focus on XR
+            <br><br><a href="https://www.linkedin.com/in/chek-tien-tan-b48aba14/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+    </table>
