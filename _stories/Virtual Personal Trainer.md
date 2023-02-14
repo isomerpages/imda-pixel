@@ -13,3 +13,6 @@ Backaches from extensive traveling drove EliteFit.AI’s co-founder, Ani Bhaleka
 With this in mind, Ani and his team developed an Artificial Intelligence technology that uses computer vision to track an individual’s workouts and sports training to provide real-time feedback on postures and techniques without the use of wearables or other tracking equipment. This product took off with the rise of home-based workouts during the pandemic with companies like Sport Singapore, Unilever and DBS Bank integrating EliteFit.AI into existing platforms to bring greater personal training value to their customers.
 
 With the support from IMDA PIXEL since 2021, EliteFit.AI now tracks more than 10,000 movements over a variety of sports training, fitness training and physiotherapy designed for everyone at any stage of life.
+
+![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_1.jpg)
+![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_2.jpg)
