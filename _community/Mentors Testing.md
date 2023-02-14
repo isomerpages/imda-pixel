@@ -156,13 +156,13 @@ South APAC and MENA
     </tr>
     <tr>
         <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><img src="/images/Community/Mentors/thierry-do_230px.jpg">
+            <br><img src="/images/Community/Mentors/diogomartins_230px.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Thierry Do, HIERRY DO, Co-Founder  
-          <br>FreshlyGround Pte Ltd</b>
-            <br>For >25 years, he helped companies achieve both short-term sales and long-term brand equity through the development and implementation of people-led innovation and customer experience solutionsn process
-            <br><br><a href="https://www.linkedin.com/in/thierry-do/?originalSubdomain=sg" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Diogo Martins, Lead, Content & Community 
+          <br>Mediacorp</b>
+            <br>He builds, creates & mentors ground-up initiatives that focus on making social media or content development strategy have a sound business model behind it, be reproducible and sustainable in the long run
+            <br><br><a href="https://www.linkedin.com/in/diogocordesanicetomartins/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
     </table>
