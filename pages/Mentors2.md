@@ -1,8 +1,10 @@
 ---
-title: Mentors
-permalink: /community/mentors/
+title: Mentors2
+permalink: /community/mentors2/
 description: mentors
 ---
+
+
 # Mentors
 PIXEL-appointed mentors are trusted and experienced advisors who are willing to take time from their busy schedules to coach and guide promising tech start-ups and companies on their innovation projects or business growth plans. PIXEL facilitates the matching of mentors to mentees based on the expertise of mentors and needs of mentees, and provides the space for mentoring sessions.
 
