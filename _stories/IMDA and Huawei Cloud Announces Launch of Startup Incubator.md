@@ -4,9 +4,7 @@ permalink: /stories/pixel-huawei-spark-incubation/
 description: Singapore’s Infocomm Media Development Authority and Huawei Cloud
   announces launch of start-up incubator
 ---
-
-
-# Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator
+### Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator
 
 ###### The Spark Incubator programme will support the growth and expansion of early-stage Singapore-based start-ups operating in the three key sectors of FinTech, Web3 and Enterprise Software.
 

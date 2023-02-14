@@ -4,6 +4,8 @@ permalink: /stories/how-singapore-is-gearing-up-for-an-ar-vr-future/
 description: ""
 image: /images/Success stories/ARVR advertorial.png
 ---
+### Singapore's Step into the ARVR Future
+
 Meta has laid out its [vision for the metaverse](https://tech.fb.com/ar-vr/2021/10/connect-2021-our-vision-for-the-metaverse/). Apple [is rumored to be developing](https://www.macrumors.com/roundup/apple-glasses/) augmented reality (AR) and virtual reality (VR) glasses. ByteDance [acquired Pico](https://www.cnbc.com/2021/08/30/tiktok-owner-bytedance-acquires-pico-and-takes-first-step-into-virtual-reality.html), a maker of VR headsets.
 
 Against this backdrop, it’s clear that AR and VR are set to play a key role in enabling the future of an interconnected digital world.
