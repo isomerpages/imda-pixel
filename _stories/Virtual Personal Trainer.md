@@ -14,9 +14,3 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 
 With the support from IMDA PIXEL since 2021, EliteFit.AI now tracks more than 10,000 movements over a variety of sports training, fitness training and physiotherapy designed for everyone at any stage of life.
 
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_1.jpg)
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_2.jpg)
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_3.jpg)
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_4.jpg)
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_5.jpg)
-![](/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_6.jpg)
