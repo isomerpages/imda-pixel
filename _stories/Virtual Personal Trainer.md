@@ -6,7 +6,7 @@ description: Innovation is essential for business to survive and thrive. Meet
   our stories of innovation. Check out the exclusive interviews with industry
   leaders and learning from their experience and views on hot topics.
 ---
-#### A Physical Trainer In Your Pocket - How EliteFit.AI revolutionises the fitness world 
+### A Physical Trainer In Your Pocket - How EliteFit.AI revolutionises the fitness world 
 
 Backaches from extensive traveling drove [EliteFit.AI’s](https://elitefitforyou.com/home) co-founder, Ani Bhalekar to get his postures corrected via remote physiotherapy sessions. The convenience got him wondering if there would be a similar demand for a virtual personal trainer, where users can perfect their workout on-demand and skip the hassle of scheduling.
 
