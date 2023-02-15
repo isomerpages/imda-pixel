@@ -5,7 +5,7 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-#### How Singapore is gearing up for an AR/VR future
+#### A Physical Trainer In Your Pocket - How EliteFit.AI revolutionises the fitness world
 
 Backaches from extensive traveling drove [EliteFit.AI’s](https://elitefitforyou.com/home) co-founder, Ani Bhalekar to get his postures corrected via remote physiotherapy sessions. The convenience got him wondering if there would be a similar demand for a virtual personal trainer, where users can perfect their workout on-demand and skip the hassle of scheduling. 
 
@@ -38,7 +38,7 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 			<br><b><a href="/stories/pixel-incubatee-eed/" target="_blank">Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.</a></b>
 		</td>
     </tr>
-	<tr>
+  	<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/AWS%20JIC.jpg">
 		</td>
@@ -56,4 +56,5 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
     </tr>
 </table>
 
-<a href="/stories/pixel-incubatee-eed/" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read all</a>
+
+<a href="https://pixel.imda.gov.sg/stories/stories-of-innovation-elitefit/" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read all</a>
