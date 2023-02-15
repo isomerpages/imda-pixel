@@ -55,4 +55,6 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 		</td>
     </tr>
 </table>
+
+
 <a href="https://pixel.imda.gov.sg/stories/stories-of-innovation-elitefit/" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read all</a>
