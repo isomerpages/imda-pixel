@@ -38,7 +38,7 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 			<br><b><a href="/stories/pixel-incubatee-eed/" target="_blank">Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.</a></b>
 		</td>
     </tr>
-	<tr>
+  	<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/AWS%20JIC.jpg">
 		</td>
