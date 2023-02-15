@@ -5,7 +5,7 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-#### How Singapore is gearing up for an AR/VR future
+#### A Physical Trainer In Your Pocket - How EliteFit.AI revolutionises the fitness world
 
 Backaches from extensive traveling drove [EliteFit.AI’s](https://elitefitforyou.com/home) co-founder, Ani Bhalekar to get his postures corrected via remote physiotherapy sessions. The convenience got him wondering if there would be a similar demand for a virtual personal trainer, where users can perfect their workout on-demand and skip the hassle of scheduling. 
 
