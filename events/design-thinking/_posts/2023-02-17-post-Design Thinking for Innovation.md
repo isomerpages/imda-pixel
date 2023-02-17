@@ -1,7 +1,7 @@
 ---
 title: Design Thinking for Innovation
-permalink: /events/design-thinking/permalink/
-date: 2023-02-17
+permalink: https://imda-pixel.sg/event/382
+date: 2023-08-09
 layout: post
 description: ""
 image: ""
