@@ -2,7 +2,7 @@ title: IMDA PIXEL Innovation Hub
 url: https://pixel.imda.gov.sg
 favicon: /images/IMDA-logo.png
 colors:
-  primary-color: "#702f8a"
+  primary-color: "#dbc3db"
   secondary-color: "#2c36ae"
   media-colors:
     - title: media-color-one
@@ -10,7 +10,7 @@ colors:
     - title: media-color-two
       color: "#40c1ac"
     - title: media-color-three
-      color: "#ff8400"
+      color: "#ff8450"
     - title: media-color-four
       color: "#63c8dc"
     - title: media-color-five
