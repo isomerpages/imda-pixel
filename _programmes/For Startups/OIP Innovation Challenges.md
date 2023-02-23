@@ -4,12 +4,15 @@ permalink: /programmes/startups/oip-calls/
 description: Ongoing OIP Innovation Calls
 third_nav_title: For Startups
 ---
-# Open Innovation Platform Calls
-The Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
+# Open Innovation Platform Challenges
+The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
 ### Jurong Lake District Innovation Challenge
+
+Submit your proposals by 21 April 2023, 4PM! 
+ 
 <img src="/images/Programmes/OIP%20Challenges/JLD_1200x630.jpg">
 <br>
 Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Redevelopment Authority (URA), this challenge is a step towards achieving the vision to make Jurong Lake District a model sustainability district and a living lab to testbed green innovation.
