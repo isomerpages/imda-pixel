@@ -10,9 +10,8 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
 ### Jurong Lake District Innovation Challenge
-
 Submit your proposals by 21 April 2023, 4PM! 
- 
+
 <img src="/images/Programmes/OIP%20Challenges/JLD_1200x630.jpg">
 <br>
 Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Redevelopment Authority (URA), this challenge is a step towards achieving the vision to make Jurong Lake District a model sustainability district and a living lab to testbed green innovation.
