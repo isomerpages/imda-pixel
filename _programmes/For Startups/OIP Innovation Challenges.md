@@ -12,52 +12,64 @@ Are you a challenge solver with digital technology expertise and innovation capa
 ### Jurong Lake District Innovation Challenge
 <img src="/images/Programmes/OIP%20Challenges/OIP%20JLD%20Challenge.png">
 <br>
-Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Redevelopment Authority (URA), this challenge is a step towards achieving the vision to make Jurong Lake District a model sustainability district and a living lab to testbed green innovation.<br>
+Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Redevelopment Authority (URA), this challenge is a step towards achieving the vision to make Jurong Lake District a model sustainability district and a living lab to testbed green innovation.
+<br>
+<br>
 <table>
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20logo%20(RGB).png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>CapitaLand 
-          <br> Collection, Aggregation and Reporting of Waste Data to Improve Recycling Rates
+					<br><b>CapitaLand </b>
 	        <br> CapitaLand is keen to create a solution that can facilitate collection, aggregate, and report the state of waste generated and recycling collected within its assets. Collecting recycling data in large commercial properties remains challenging mainly due to decentralised recycling collection networks.
         </td>
     </tr>
     <tr>
         <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><img src="/images/Community/Mentors/andrewler_230px.jpg">
+            <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20x%20LREIT.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Andrew Ler, Senior Advisor
-					<br>Singapore Exchange Pte Ltd</b>
-            <br>Guide and advisor for addressing business challenges and facilitating ideation process
-            <br><br><a href="https://www.linkedin.com/in/andrew-ler-b042882b/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+					<br><b>CapitaLand x Landlease Global Commercial REIT (LREIT)</b>
+            <br>CapitaLand and LREIT is looking to design a pre-emptive and predictive water tank monitoring system that reduces the need for corrective maintenance work.
         </td>
     </tr>
 	<tr>
         <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><img src="/images/Community/Mentors/andytan_230px.jpg">
+            <br><img src="/images/Programmes/OIP%20Challenges/Lendlease.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Andy Tan, Head of Funding
-					<br>Atome</b>
-            <br>A design thinking leader and experienced finance professional with >10 years experience in global debt markets
-            <br><br><a href="https://www.linkedin.com/in/andytanyy/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+					<br><b>Landlease Global Commercial REIT (LREIT)</b>
+            <br>LREIT has set a target of ‘Absolute Zero Carbon by 2040’ – no greenhouse gas emissions from business activities. They are looking into innovative solutions to enhance the energy efficiency of its buildings.
         </td>
     </tr>			
 	<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Mentors/arijit_sengupta_230px.jpg">
+            <br><img src="/images/Programmes/OIP%20Challenges/NTFGH%20x%20JCH.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Arijit Sengupta</b>
-            <br>Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe
-	    <br><br><a href="https://www.linkedin.com/in/arijit-sengupta/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Ng Teng Fong General Hospital (NTFGH) x Jurong Community Hospital (JCH)</b>
+            <br>NTFGH and JCH are looking to optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, while meeting hospital operational requirements.
+        </td>
+    </tr>	
+		<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/SCS%20logo%20Orange.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Science Centre Singapore</b>
+            <br> Science Centre Singapore is keen to explore a gamified, dynamic, and reliable system for data collection from multiple sources that can provide interpretive and predictive analysis based on environmental parameters and recommendations to encourage visitors to adopt sustainable practices.
+        </td>
+    </tr>	
+			<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/SMRT%20Trains%20Logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SMRT</b>
+            <br> SMRT is exploring solutions to encourage drivers to go car-lite and adopt Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District.
         </td>
     </tr>	
 		</table>
-		
 
-    </tr> 
-    </table>
+<a href="https://www.openinnovation.sg/challenges" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
