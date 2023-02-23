@@ -5,7 +5,7 @@ description: Ongoing OIP Innovation Calls
 third_nav_title: For Startups
 ---
 # Open Innovation Platform Calls
-The Open Innovation Platform (OIP) is Singapore's national digital innovation platform.  OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
+The Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
