@@ -74,4 +74,4 @@ Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Red
     </tr>	
 		</table>
 
-<a href="https://www.openinnovation.sg/challenges" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=jldcall" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
