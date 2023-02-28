@@ -162,5 +162,5 @@ Start developing immersive experiences by using a range of cutteing edge technol
 <br>
 
 ## Room Specs
-* Size: 61.6 m²
-* Capacity: Up to 20 pax
+• Size: 61.6 m²
+• Capacity: Up to 20 pax
