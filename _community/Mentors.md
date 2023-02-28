@@ -95,7 +95,7 @@ We have both general mentors and specialised ones in the design thinking, digita
             <br><img src="/images/Community/Mentors/shashankluthra_230px.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Shashank Lutjraa, Vice President, Head of South East Asia
+            <br><b>Shashank Luthra, Vice President, Head of South East Asia
 					<br>Aveva</b>
             <br>Global technology executive with deep expertise in sales, business development & strategy from 20+ years in consulting & enterprise sales.
 	    <br><br><a href="https://www.linkedin.com/in/shashankluthra/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
