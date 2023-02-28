@@ -149,6 +149,14 @@ Start developing immersive experiences by using a range of cutteing edge technol
 			<br>• 3 Haptics Feedback Points each
 			<br>• Detachable & washable mesh lining
 		</td>
+			    <tr>
+		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/ManusVR2.png"></td>
+		<td style="width:50%; vertical-align:middle;"><b>Manus VR Development Kit 2</b><br>
+			<br>• 1 DOF tracking
+			<br>• 360°/ 3DOF
+			<br>• Fully programmable vibration motor
+			<br>• Proprietary Radio Frequency/ Bluetooth Module
+		</td>
 	</tr>
 </table>
 <br>
