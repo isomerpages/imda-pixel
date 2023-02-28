@@ -4,12 +4,12 @@ permalink: /facilities/ARVR-lab/
 description: ""
 third_nav_title: Featured Areas
 ---
-
 # AR VR Lab
 ![AR/VR Wall](/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png)
 
 
-Get your hands dirty with a suite of high-end technology equipment like Realwear, Hololens, Oculus, and Tact suit to start the development of immersive experiences.
+Dive into the world of immersive technology development by utilising our collection of state of the art equipment such as the Magic Leap 2, Meta Quest Pro, Tact Suit and more! 
+
 ## Equipment
 
 ### AR Headsets
