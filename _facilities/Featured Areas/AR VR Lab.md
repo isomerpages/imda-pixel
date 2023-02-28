@@ -158,6 +158,7 @@ Start developing immersive experiences by using a range of cutteing edge technol
 			<br>• Proprietary Radio Frequency/ Bluetooth Module
 		</td>
 	</tr>
+</table>
 <br>
 
 ## Room Specs
