@@ -8,7 +8,7 @@ third_nav_title: Featured Areas
 ![AR/VR Wall](/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png)
 
 
-Start developing immersive experiences by using a range of cutteing edge technology equipment such as the Magic Leap 2, Meta Quest Pro, Tact Suit, and get hands-on experience with these advanced tools! 
+Start developing immersive experiences by using a range of cutting edge technology equipment such as the Magic Leap 2, Meta Quest Pro, Tact Suit, and get hands-on experience with these advanced tools! 
 
 ## Equipment
 
