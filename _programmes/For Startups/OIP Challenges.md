@@ -9,8 +9,14 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
+### Call 17
+
+Submit your proposals by 28 April 2023, 4pm +8GMT!
+
+![](/images/Programmes/OIP%20Challenges/1200x600.jpg)
+
 ### Jurong Lake District Innovation Challenge
-Submit your proposals by 21 April 2023, 4PM! 
+Submit your proposals by 21 April 2023, 4pm +8GMT! 
 
 <img src="/images/Programmes/OIP%20Challenges/JLD_1200x630.jpg">
 <br>
