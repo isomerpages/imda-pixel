@@ -28,6 +28,33 @@ Participating partners of the Open Innovation Call 15 includes, Cellini, Ministr
 	        <br> Cellini is looking to improve their end-to-end inventory and stock management from point of purchase to delivery, to achieve real-time inventory accuracy and a more seamless shopping experience for customers.
         </td>
     </tr>
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/MOH%20X%20CPFB.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Ministry of Health (MOH) x CPF Board (CPFB) </b>
+	        <br> MOH and CPFB is looking for a solution to help  Singaporeans and PRs estimate the amount of cash they need to pay out-of-pocket for their and their loved ones’ healthcare needs, to alleviate anxiety and provide greater assurance over healthcare affordability.
+        </td>
+    </tr>	
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/MS.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Microsoft</b>
+	        <br>Microsoft aim to become carbon negative, water-positive, and zero waste by 2030 and offer an integrated carbon management solution for businesses to create, manage, and trade carbon assets.
+        </td>
+    </tr>		
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/parendigm.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Parendigm</b>
+	        <br>With the rise of digital technologies in parenting, Parendigm is looking to innovate to remain relevant to the shifting preference and behaviours of parents and children.
+        </td>
+    </tr>		
 </table>	
 
 ### Jurong Lake District Innovation Challenge
