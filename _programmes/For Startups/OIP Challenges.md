@@ -55,6 +55,15 @@ Participating partners of the Open Innovation Call 15 includes, Cellini, Ministr
 	        <br>With the rise of digital technologies in parenting, Parendigm is looking to innovate to remain relevant to the shifting preference and behaviours of parents and children.
         </td>
     </tr>		
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/IAL%20SUSS%20Logo%20CMYK.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Institute of Adult Learning</b>
+	        <br>Healthcare education in schools lacks clinical attachments in high acuity units, resulting in knowledge gaps for graduates in managing acute conditions. How can an acute care hospital quickly and interactively train junior healthcare workers to identify and manage patients in acute medical conditions?
+        </td>
+    </tr>		
 </table>	
 
 ### Jurong Lake District Innovation Challenge
