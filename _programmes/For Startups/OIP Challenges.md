@@ -15,7 +15,7 @@ Submit your proposals by 28 April 2023, 4pm +8GMT!
 
 ![OIP Call 17 Hero Banner](/images/Programmes/OIP%20Challenges/OIP%20Call%2017_1200x600.jpg)
 
-Participating partners of the Open Innovation Platform Call 17 includes, Cellini, Ministry of Health, CPF Board, Institute of Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
+Participating partners of the Open Innovation Platform Call 17 includes, Cellini, Ministry of Health, CPF Board, Institute for Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
 
 <table>
     <tr>
@@ -59,7 +59,7 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
             <br><img src="/images/Programmes/OIP%20Challenges/IAL%20SUSS%20Logo%20CMYK.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Institute of Adult Learning</b>
+					<br><b>Institute for Adult Learning</b>
 	        <br>Healthcare education in schools lacks clinical attachments in high acuity units, resulting in knowledge gaps for graduates in managing acute conditions. How can an acute care hospital quickly and interactively train junior healthcare workers to identify and manage patients in acute medical conditions?
         </td>
     </tr>		
