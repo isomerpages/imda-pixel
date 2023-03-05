@@ -65,6 +65,7 @@ Participating partners of the Open Innovation Call 15 includes, Cellini, Ministr
         </td>
     </tr>		
 </table>	
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
 ### Jurong Lake District Innovation Challenge
 Submit your proposals by 21 April 2023, 4pm +8GMT! 
