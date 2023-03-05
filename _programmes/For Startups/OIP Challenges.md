@@ -15,6 +15,21 @@ Submit your proposals by 28 April 2023, 4pm +8GMT!
 
 ![](/images/Programmes/OIP%20Challenges/1200x600.jpg)
 
+
+Participating partners of the Open Innovation Call 15 includes, Cellini, Ministry of Health, CPF Board, Institute of Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
+
+<table>
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20logo%20(RGB).png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>CapitaLand </b>
+	        <br> CapitaLand is keen to create a solution that can facilitate collection, aggregate, and report the state of waste generated and recycling collected within its assets. Collecting recycling data in large commercial properties remains challenging mainly due to decentralised recycling collection networks.
+        </td>
+    </tr>
+</table>	
+
 ### Jurong Lake District Innovation Challenge
 Submit your proposals by 21 April 2023, 4pm +8GMT! 
 
