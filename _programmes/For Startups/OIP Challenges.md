@@ -21,11 +21,11 @@ Participating partners of the Open Innovation Call 15 includes, Cellini, Ministr
 <table>
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20logo%20(RGB).png">
+            <br><img src="/images/Programmes/OIP%20Challenges/cellini.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>CapitaLand </b>
-	        <br> CapitaLand is keen to create a solution that can facilitate collection, aggregate, and report the state of waste generated and recycling collected within its assets. Collecting recycling data in large commercial properties remains challenging mainly due to decentralised recycling collection networks.
+					<br><b>Cellini </b>
+	        <br> Cellini is looking to improve their end-to-end inventory and stock management from point of purchase to delivery, to achieve real-time inventory accuracy and a more seamless shopping experience for customers.
         </td>
     </tr>
 </table>	
