@@ -5,11 +5,11 @@ description: Ongoing Open Innovation Platform Innovation Calls
 third_nav_title: For Startups
 ---
 # Open Innovation Platform Challenges
-The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
+The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowdsource innovative digital solutions from start-ups, technology providers and research institutes. 
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
-### Call 17
+### OIP Call 17
 
 Submit your proposals by 28 April 2023, 4pm +8GMT!
 
@@ -42,7 +42,7 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Microsoft</b>
-	        <br>Microsoft aim to become carbon negative, water-positive, and zero waste by 2030 and offer an integrated carbon management solution for businesses to create, manage, and trade carbon assets.
+	        <br>Microsoft aims to achieve carbon negativity, water positivity, and zero waste, as well as to provide businesses with an integrated carbon management solution that enables them to create, manage, and trade carbon assets by 2030. How can Microsoft enable businesses to create and trade these carbon assets?
         </td>
     </tr>		
     <tr>
@@ -51,7 +51,7 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Parendigm</b>
-	        <br>With the rise of digital technologies in parenting, Parendigm is looking to innovate to remain relevant to the shifting preference and behaviours of parents and children.
+	        <br>Parendigm recognises the growing influence of digital technologies in modern parenting and seeks to innovate to stay current with the evolving preferences and behaviours of parents and children. They are exploring the addition of new digital services that can assist parents throughout their parenting journey and facilitate their child's development.
         </td>
     </tr>		
     <tr>
