@@ -42,10 +42,16 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Microsoft</b>
-	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. Check out these challenges: <br>
-					<br>1. Create, Buy & Sell Tradeable Carbon Assets
-					<br>2. Identifying and Transitioning to Renewable Energy Sources
-					<br>3. Setting and Tracking Sustainability Targets?
+	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. <br><br>
+					Check out these challenges: <br>
+					
+
+| No.| Challenge |
+| -------- | -------- |
+| 1. | Create, Buy & Sell Tradeable Carbon Assets |
+|2.| Identifying and Transitioning to Renewable Energy Sources|
+|3.| Setting and Tracking Sustainability Targets|
+
 </td>
     </tr>		
     <tr>
