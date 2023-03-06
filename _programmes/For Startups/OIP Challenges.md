@@ -43,9 +43,8 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Microsoft</b>
 	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. <br><br>
-					Check out these challenges: <br>
+					Check out these challenges: <br><br>
 					
-
 | No.| Challenge |
 | -------- | -------- |
 | 1. | Create, Buy & Sell Tradeable Carbon Assets |
@@ -70,10 +69,24 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Institute for Adult Learning</b>
 	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education adn Training outcomes. 
-					Check out these challenges: 
+					Check out these challenges: <br><br>
+					
 
-        </td>
-    </tr>		
+
+| Column 1 | Column 2 | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+
+					
+| No.| Challenge |
+| -------- | -------- |
+|1. | Create, Buy & Sell Tradeable Carbon Assets |
+|2.|
+
+</td>
+    </tr>
+	<td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 </table>	<br>
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
