@@ -80,10 +80,10 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 |4.| Digital Learning in Brain Aneurysm Surgery|
 |5.| Effective Online Assessment of Psychomotor Skills|
 |6.| Enhancing the Informed Consent Process for Complex Surgical Procedures|
-|7.| Interactive Learning Solution for High Acuity Healthcare Workers
-|8.| Interactive Community-Based Learning
-|9.| Simulation-Based Training to Manage Adverse Events Related to Contrast Media
-|10.| Simulation-Based Training to Prepare for Screening Seniors in the Community
+|7.| Interactive Learning Solution for High Acuity Healthcare Workers|
+|8.| Interactive Community-Based Learning|
+|9.| Simulation-Based Training to Manage Adverse Events Related to Contrast Media|
+|10.| Simulation-Based Training to Prepare for Screening Seniors in the Community|
 					
 </td>
     </tr>
