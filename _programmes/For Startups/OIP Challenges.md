@@ -5,12 +5,69 @@ description: Ongoing Open Innovation Platform Innovation Calls
 third_nav_title: For Startups
 ---
 # Open Innovation Platform Challenges
-The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowd-source innovative digital solutions from start-ups, technology providers and research institutes. 
+The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovation platform. OIP helps corporates diagnose their business challenges and crowdsource innovative digital solutions from start-ups, technology providers and research institutes. 
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
+### OIP Call 17
+
+Submit your proposals by 28 April 2023, 4pm +8GMT!
+
+![OIP Call 17 Hero Banner](/images/Programmes/OIP%20Challenges/OIP%20Call%2017_1200x600.jpg)
+
+Participating partners of the Open Innovation Platform Call 17 includes, Cellini, Ministry of Health, CPF Board, Institute for Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
+
+<table>
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/cellini.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Cellini </b>
+	        <br> Cellini is looking to improve their end-to-end inventory and stock management from point of purchase to delivery, to achieve real-time inventory accuracy and a more seamless shopping experience for customers.
+        </td>
+    </tr>
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/MOH%20X%20CPFB.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Ministry of Health (MOH) x CPF Board (CPFB) </b>
+	        <br> MOH and CPFB is looking for a solution to help  Singaporeans and PRs estimate the amount of cash they need to pay out-of-pocket for their and their loved ones’ healthcare needs, to alleviate anxiety and provide greater assurance over healthcare affordability.
+        </td>
+    </tr>	
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/MS.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Microsoft</b>
+	        <br>Microsoft aims to achieve carbon negativity, water positivity, and zero waste, as well as to provide businesses with an integrated carbon management solution that enables them to create, manage, and trade carbon assets by 2030. How can Microsoft enable businesses to create and trade these carbon assets?
+        </td>
+    </tr>		
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/parendigm.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Parendigm</b>
+	        <br>Parendigm recognises the growing influence of digital technologies in modern parenting and seeks to innovate to stay current with the evolving preferences and behaviours of parents and children. They are exploring the addition of new digital services that can assist parents throughout their parenting journey and facilitate their child's development.
+        </td>
+    </tr>		
+    <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/IAL%20SUSS%20Logo%20CMYK.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Institute for Adult Learning</b>
+	        <br>Healthcare education in schools lacks clinical attachments in high acuity units, resulting in knowledge gaps for graduates in managing acute conditions. How can an acute care hospital quickly and interactively train junior healthcare workers to identify and manage patients in acute medical conditions?
+        </td>
+    </tr>		
+</table>	
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+
 ### Jurong Lake District Innovation Challenge
-Submit your proposals by 21 April 2023, 4PM! 
+Submit your proposals by 21 April 2023, 4pm +8GMT! 
 
 <img src="/images/Programmes/OIP%20Challenges/JLD_1200x630.jpg">
 <br>
