@@ -64,7 +64,7 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Institute for Adult Learning</b>
-	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education and Training outcomes. <br>
+	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education and Training outcomes. <br><br>
 					Check out these challenges: <br>
 					<br> 1. Adaptive Learning and Competency-Mapping for the Green Economy
 					<br> 2. Core Skills Performance Validation for Workplace Learner
