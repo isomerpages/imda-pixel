@@ -64,8 +64,8 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Institute for Adult Learning</b>
-	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education adn Training outcomes. 
-					Check out these challenges: <br><br>
+	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education and Training outcomes. <br>
+					Check out these challenges: <br>
 					<br> 1. Adaptive Learning and Competency-Mapping for the Green Economy
 					<br> 2. Core Skills Performance Validation for Workplace Learner
 					<br> 3. Customised Learning Journey Through Personalised Assessments
@@ -78,9 +78,10 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					<br> 10. Simulation-Based Training to Prepare for Screening Seniors in the Community
 			</td>
     </tr>
-	<td style="width:25%; border-top:0.75px solid lightgrey;">	<br>
+	<br>
 </table>	<br>
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+
 
 ### Jurong Lake District Innovation Challenge
 Submit your proposals by 21 April 2023, 4pm +8GMT! 
