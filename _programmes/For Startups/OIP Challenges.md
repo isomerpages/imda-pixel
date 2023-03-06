@@ -72,21 +72,14 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					Check out these challenges: <br><br>
 					
 
-
-| Column 1 | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     | 
-
-
-					
 | No.| Challenge |
 | -------- | -------- |
-|1. | Create, Buy & Sell Tradeable Carbon Assets |
-|2.|
-
+|1. | Adaptive Learning and Competency-Mapping for the Green Economy  |
+|2.| Core Skills Performance Validation for Workplace Learner|
+|3. 
 </td>
     </tr>
-	<td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+	<td style="width:25%; border-top:0.75px solid lightgrey;">	<br>
 </table>	<br>
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
