@@ -76,7 +76,11 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 | -------- | -------- |
 |1. | Adaptive Learning and Competency-Mapping for the Green Economy  |
 |2.| Core Skills Performance Validation for Workplace Learner|
-|3. 
+|3.| Customised Learning Journey Through Personalised Assessments|
+|4.| Digital Learning in Brain Aneurysm Surgery|
+|5.| Effective Online Assessment of Psychomotor Skills|
+|6.| 
+					
 </td>
     </tr>
 	<td style="width:25%; border-top:0.75px solid lightgrey;">	<br>
