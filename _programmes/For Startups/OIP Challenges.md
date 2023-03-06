@@ -43,22 +43,11 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Microsoft</b>
 	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. <br><br>
-					Check out these challenges: <br><br>
-					
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-					
-| No. | Challenge |
-| -------- | -------- |
-| 1. | Create, Buy & Sell Tradeable Carbon Assets |
-| 2. | Identifying and Transitioning to Renewable Energy Sources |
-| 3. | Setting and Tracking Sustainability Targets |
-
-</td>
+					Check out these challenges: <br>
+					<br> 1. Create, Buy & Sell Tradeable Carbon Assets
+					<br> 2. Identifying and Transitioning to Renewable Energy Sources
+					<br> 3. Setting and Tracking Sustainability Targets
+			</td>
     </tr>		
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;text-align: center; vertical-align: middle;">	
@@ -77,22 +66,17 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					<br><b>Institute for Adult Learning</b>
 	        <br> Under the innovPlus Challenge 2023 powered by the Open Innovation Platform, the IAL is hosting 10 challenges by various training provides and healthcare institutions to address learning challenges and exploit opportunities for better Learning and Development and Continuing Education adn Training outcomes. 
 					Check out these challenges: <br><br>
-					
-
-| No. | Challenge |
-| -------- | -------- |
-| 1. | Adaptive Learning and Competency-Mapping for the Green Economy  |
-| 2. | Core Skills Performance Validation for Workplace Learner |
-| 3. | Customised Learning Journey Through Personalised Assessments |
-| 4. | Digital Learning in Brain Aneurysm Surgery |
-| 5. | Effective Online Assessment of Psychomotor Skills |
-| 6. | Enhancing the Informed Consent Process for Complex Surgical Procedures |
-| 7. | Interactive Learning Solution for High Acuity Healthcare Workers |
-| 8. | Interactive Community-Based Learning |
-| 9. | Simulation-Based Training to Manage Adverse Events Related to Contrast Media |
-| 10. | Simulation-Based Training to Prepare for Screening Seniors in the Community |
-					
-</td>
+					<br> 1. Adaptive Learning and Competency-Mapping for the Green Economy
+					<br> 2. Core Skills Performance Validation for Workplace Learner
+					<br> 3. Customised Learning Journey Through Personalised Assessments
+					<br> 4. Digital Learning in Brain Aneurysm Surgery
+					<br> 5. Effective Online Assessment of Psychomotor Skills
+					<br> 6. Enhancing the Informed Consent Process for Complex Surgical Procedures
+					<br> 7. Interactive Learning Solution for High Acuity Healthcare Workers
+					<br> 8. Interactive Community-Based Learning
+					<br> 9. Simulation-Based Training to Manage Adverse Events Related to Contrast Media
+					<br> 10. Simulation-Based Training to Prepare for Screening Seniors in the Community
+			</td>
     </tr>
 	<td style="width:25%; border-top:0.75px solid lightgrey;">	<br>
 </table>	<br>
