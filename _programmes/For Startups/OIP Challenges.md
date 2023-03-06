@@ -42,8 +42,12 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Microsoft</b>
-	        <br>Microsoft aims to achieve carbon negativity, water positivity, and zero waste, as well as to provide businesses with an integrated carbon management solution that enables them to create, manage, and trade carbon assets by 2030. How can Microsoft enable businesses to create and trade these carbon assets?
-        </td>
+	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. Check out these challenges:
+					
+* Create, Buy & Sell Tradeable Carbon Assets
+* Identifying and Transitioning to Renewable Energy Sources
+* Setting and Tracking Sustainability Targetsets?
+</td>
     </tr>		
     <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
