@@ -45,11 +45,18 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. <br><br>
 					Check out these challenges: <br><br>
 					
-| No.| Challenge |
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+					
+| No. | Challenge |
 | -------- | -------- |
 | 1. | Create, Buy & Sell Tradeable Carbon Assets |
-|2.| Identifying and Transitioning to Renewable Energy Sources|
-|3.| Setting and Tracking Sustainability Targets|
+| 2. | Identifying and Transitioning to Renewable Energy Sources |
+| 3. | Setting and Tracking Sustainability Targets |
 
 </td>
     </tr>		
@@ -72,18 +79,18 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					Check out these challenges: <br><br>
 					
 
-| No.| Challenge |
+| No. | Challenge |
 | -------- | -------- |
-|1. | Adaptive Learning and Competency-Mapping for the Green Economy  |
-|2.| Core Skills Performance Validation for Workplace Learner|
-|3.| Customised Learning Journey Through Personalised Assessments|
-|4.| Digital Learning in Brain Aneurysm Surgery|
-|5.| Effective Online Assessment of Psychomotor Skills|
-|6.| Enhancing the Informed Consent Process for Complex Surgical Procedures|
-|7.| Interactive Learning Solution for High Acuity Healthcare Workers|
-|8.| Interactive Community-Based Learning|
-|9.| Simulation-Based Training to Manage Adverse Events Related to Contrast Media|
-|10.| Simulation-Based Training to Prepare for Screening Seniors in the Community|
+| 1. | Adaptive Learning and Competency-Mapping for the Green Economy  |
+| 2. | Core Skills Performance Validation for Workplace Learner |
+| 3. | Customised Learning Journey Through Personalised Assessments |
+| 4. | Digital Learning in Brain Aneurysm Surgery |
+| 5. | Effective Online Assessment of Psychomotor Skills |
+| 6. | Enhancing the Informed Consent Process for Complex Surgical Procedures |
+| 7. | Interactive Learning Solution for High Acuity Healthcare Workers |
+| 8. | Interactive Community-Based Learning |
+| 9. | Simulation-Based Training to Manage Adverse Events Related to Contrast Media |
+| 10. | Simulation-Based Training to Prepare for Screening Seniors in the Community |
 					
 </td>
     </tr>
