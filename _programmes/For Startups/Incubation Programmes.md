@@ -37,8 +37,7 @@ Look forward to a suite of benefits with us!
 # SAP.iO Foundry Singapore Accelerator Programme
 IMDA PIXEL and SAP.iO Foundry Singapore has partnered to launch an accelerator program to support B2B technology startups in addressing critical business challenges and help companies run as resilient, profitable, sustainable, and intelligent enterprises. 
 
-Startups with Industry 4.0 or Sustainability use cases or enterprise solutions that employ the following technologies are welcome to <a href="https://sap.io/sgp-23/" target="_blank">apply</a>.  
-
+We are looking for startups with Industry 4.0 or Sustainability use cases or enterprise solutions that employ the following technologies:
 *   5G
 *   Internet of Things (IoT)
 *   Robotics
@@ -46,6 +45,7 @@ Startups with Industry 4.0 or Sustainability use cases or enterprise solutions t
 *   Data Analytics
 *   Augmented, Virtual, or Mixed Reality (AR/VR/MR)
 
+Besides the full suite of support from PIXEL, you can also look forward to the following <a href="https://sap.io/foundries/" target="_blank">benefits</a>.  
 
 <a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Application close on 22nd March </a>
 
