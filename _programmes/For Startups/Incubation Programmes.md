@@ -34,6 +34,21 @@ Look forward to a suite of benefits with us!
 
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a>
 
+# SAP.iO Foundry Singapore Accelerator Programme
+IMDA PIXEL and SAP.iO Foundry Singapore has partnered to launch an accelerator program to support B2B technology startups in addressing critical business challenges and help companies run as resilient, profitable, sustainable, and intelligent enterprises. Programme begins in April 2023 and ends September 2023.
+
+We are looking for startups with Industry 4.0 or Sustainability use cases or enterprise solutions that employ the following technologies:
+*   5G
+*   Internet of Things (IoT)
+*   Robotics
+*   Artificial Intelligence (AI)
+*   Data Analytics
+*   Augmented, Virtual, or Mixed Reality (AR/VR/MR)
+
+Besides the full suite of support from PIXEL, you can also look forward to the following <a href="https://sap.io/foundries/" target="_blank">benefits</a>.  
+
+<a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 31 March 2023 </a>
+
 # PIXEL - Huawei Spark Incubator Programme
 ![Pixel X Huawei](/images/Programmes/PixelxHuawei.jpg)
 
