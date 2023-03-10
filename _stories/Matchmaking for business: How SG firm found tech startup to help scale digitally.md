@@ -2,8 +2,14 @@
 title: "Matchmaking for business: How SG firm found tech startup to help scale
   digitally"
 permalink: /stories/oip-agi-smitsu/
-description: ""
+description: Looking for effective business matchmaking? Read how Assure General
+  Insurance utilised IMDA's Open Innovation Platform to connect with SMITSU, a
+  tech startup, for digital scaling. Discover how this successful partnership
+  drove growth for both companies in Singapore.
+image: /images/Success stories/ST ad - AGI x smitsu.png
 ---
+
+
 
 ### Matchmaking for businesses: How SG firm found tech startup to help scale digitally
 
