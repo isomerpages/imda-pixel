@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - "Matchmaking for business: How SG firm found tech startup to help scale
+        digitally.md"
       - Virtual Personal Trainer.md
       - How Singapore is gearing up for an ARVR future.md
       - PIXEL's Incubatee Feature.md
