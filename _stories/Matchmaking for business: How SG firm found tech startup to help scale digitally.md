@@ -69,3 +69,5 @@ Mr Chua adds: “The entire OIP process is very well facilitated, and we receive
 For Mr Ong, the OIP experience has exceeded all his expectations. He says: “The OIP has been instrumental in levelling the playing field, which enabled us to compete with larger competitors. Our experience has been incredibly positive, and we believe that others will benefit from participating in this programme too.”
 
 [Learn more](https://www.openinnovation.sg/imda?utm_medium=advertorial&utm_source=pixel&utm_campaign=assure_smitsu) about how you can be connected with a tech solution provider and scale your business.
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/imda-matchmaking-for-businesses-how-singapore-firm-found-tech-startup-to-help-scale-digitally) 
