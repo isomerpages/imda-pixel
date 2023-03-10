@@ -5,9 +5,9 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-#### Matchmaking for Businesses: How SG firm found tech startup to scale digitally
+### Matchmaking for Businesses: How SG firm found tech startup to scale digitally
 
-###### Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies
+##### Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies
 
 ![](/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png)
 
