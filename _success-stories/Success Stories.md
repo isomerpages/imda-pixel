@@ -10,6 +10,7 @@ description: success stories testimonial
 ##### Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies
 
 ![](/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png)
+*Photo: Getty images*
 
 For homegrown insurance provider Assure General Insurance (AGI SG), digitalisation has been a game-changer. The firm does not offer its own insurance, but partners major insurers to match its customers with suitable policies from them, earning a commission for each sale.
 
