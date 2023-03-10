@@ -23,6 +23,15 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 <table>
 		<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png">
+		</td>
+		<td style="vertical-align:middle; ">Matchingmaking for Business
+			<br><b><a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank">How SG firm found tech startup to help scale digitally</a></b>
+		</td>
+    </tr>
+	<tr>
+	<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/ARVR%20advertorial.png">
 		</td>
 		<td style="vertical-align:middle; ">How Singapore is Gearing up For a ARVR Future
