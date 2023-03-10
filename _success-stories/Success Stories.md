@@ -26,7 +26,7 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 			<img src="/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png">
 		</td>
 		<td style="vertical-align:middle; ">Matchingmaking for Business
-			<br><b><a href="/stories/how-singapore-is-gearing-up-for-an-ar-vr-future/" target="_blank">How SG firm found tech startup to help scale digitally</a></b>
+			<br><b><a href="/stories/oip-agi-smitsu/" target="_blank">How SG firm found tech startup to help scale digitally</a></b>
 		</td>
     </tr>
 	<tr>
