@@ -46,23 +46,23 @@ With this in mind, Ani and his team developed an Artificial Intelligence technol
 		<td style="vertical-align:middle; ">3  Singaporean startups that are transforming the way we live, work, and play
 			<br><b><a href="/stories/pixel-incubatee-eed/" target="_blank">Think about companies like Uber, Airbnb, and Canva. They all started out as small startups, developing disruptive, innovative solutions that addressed real-world problems and changed up the way things work.</a></b>
 		</td>
-    </tr>
-  	<tr>
+	</tr>
+	<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/AWS%20JIC.jpg">
 		</td>
 		<td style="vertical-align:middle; ">Partnership
 			<br><b><a href="/stories/aws-jic/" target="_blank">AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</a></b>
 		</td>
-    </tr>
-		<tr>
+	</tr>
+	<tr>
 		<td style="width:30%; vertical-align:middle;">
 			<img src="/images/Success%20stories/Huawei%20spark%20incubator%20programme%20.jpg">
 		</td>
 		<td style="vertical-align:middle;">Partnership
 			<br><b><a href="/stories/pixel-huawei-spark-incubation/" target="_blank">Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator</a></b>
 		</td>
-    </tr>
+	</tr>
 </table>
 
 
