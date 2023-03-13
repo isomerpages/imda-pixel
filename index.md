@@ -58,7 +58,7 @@ sections:
         through a series of coaching sessions with our expert consultants. "
       button: Discover
       url: /programmess/corporates/consultancies/
-      image: /images/Homepage/business consultancy.jpg
+      image: /images/Homepage/project based consultancy.png
       alt: Project Based Coaching Program
   - infopic:
       title: Facilities
