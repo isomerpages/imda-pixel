@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Building a Transparent World.md
       - "Matchmaking for business: How SG firm found tech startup to help scale
         digitally.md"
       - Virtual Personal Trainer.md
