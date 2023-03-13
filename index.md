@@ -52,6 +52,15 @@ sections:
       subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
   - infopic:
+      title: Project Based Coaching Programme
+      subtitle: CORPORATES & START-UPS
+      description: "Transform your digital products, services, content or brand
+        through a series of coaching sessions with our expert consultants. "
+      button: Discover
+      url: /programmess/corporates/consultancies/
+      image: /images/Homepage/business consultancy.jpg
+      alt: Project Based Coaching Program
+  - infopic:
       title: Facilities
       description: Let your creativity flow in our 28,000 sqft innovation space with
         production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
@@ -79,13 +88,4 @@ sections:
         impressed...  "
       button: read more
       url: /success-stories/testimonials/
-  - infopic:
-      title: Project Based Coaching Programming
-      subtitle: CORPORATES & START-UPS
-      description: "Transform your digital products, services, content or brand
-        through a series of coaching sessions with our expert consultants. "
-      button: Discover
-      url: /programmess/corporates/consultancies/
-      image: /images/Homepage/business consultancy.jpg
-      alt: Project Based Coaching Program
 ---
