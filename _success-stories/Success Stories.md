@@ -23,7 +23,16 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 ## More Stories
 
 <table>
-		<tbody><tr>
+		<tbody>
+			<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images%2FSuccess%20stories%2FStories%20of%20Innovation%2FHiverlab/Hiverlab-01.jpg">
+		</td>
+		<td style="vertical-align:middle;">Building a Transparent World - How Hiverlab empowers next generation digital infrastruture
+			<br><b><a target="_blank" href="stories/stories-of-innovation-hiverlab/">Meet the team behind Jewel-rassic Quest, the large-scale augmented reality (AR) experience at Jewel Changi Airport, a project which has been recognized as a global benchmark - immersive tech start-up, Hiverlab. </a></b>
+		</td>
+    </tr>
+			<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/Stories%20of%20Innovation/EliteFit/EliteFit_1.jpg">
 		</td>
