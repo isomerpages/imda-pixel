@@ -29,7 +29,7 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 			<img src="/images%2FSuccess%20stories%2FStories%20of%20Innovation%2FHiverlab/Hiverlab-01.jpg">
 		</td>
 		<td style="vertical-align:middle;">Building a Transparent World - How Hiverlab empowers next generation digital infrastruture
-			<br><b><a target="_blank" href="stories/stories-of-innovation-hiverlab/">Meet the team behind Jewel-rassic Quest, the large-scale augmented reality (AR) experience at Jewel Changi Airport, a project which has been recognized as a global benchmark - immersive tech start-up, Hiverlab. </a></b>
+			<br><b><a target="_blank" href="/stories/stories-of-innovation-hiverlab/">Meet the team behind Jewel-rassic Quest, the large-scale augmented reality (AR) experience at Jewel Changi Airport, a project which has been recognized as a global benchmark - immersive tech start-up, Hiverlab. </a></b>
 		</td>
     </tr>
 			<tr>
