@@ -79,4 +79,13 @@ sections:
         impressed...  "
       button: read more
       url: /success-stories/testimonials/
+  - infopic:
+      title: Project Based Coaching Programming
+      subtitle: CORPORATES & START-UPS
+      description: "Transform your digital products, services, content or brand
+        through a series of coaching sessions with our expert consultants. "
+      button: Discover
+      url: /programmess/corporates/consultancies/
+      image: /images/Homepage/business consultancy.jpg
+      alt: Project Based Coaching Program
 ---
