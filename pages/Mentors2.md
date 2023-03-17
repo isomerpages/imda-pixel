@@ -3,8 +3,6 @@ title: Mentors2
 permalink: /community/mentors2/
 description: mentors
 ---
-
-
 # Mentors
 PIXEL-appointed mentors are trusted and experienced advisors who are willing to take time from their busy schedules to coach and guide promising tech start-ups and companies on their innovation projects or business growth plans. PIXEL facilitates the matching of mentors to mentees based on the expertise of mentors and needs of mentees, and provides the space for mentoring sessions.
 
@@ -51,7 +49,8 @@ We have both general mentors and specialised ones in the design thinking, digita
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Arijit Sengupta</b>
-            <br>Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe
+					<br><b>General Partner at B Capital Group </b>
+					<br>Business builder, entrepreneur, investor and mentor/ advisor in tech and B2B services with a track record of scale-ups and exits across the globe
 	    <br><br><a href="https://www.linkedin.com/in/arijit-sengupta/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
