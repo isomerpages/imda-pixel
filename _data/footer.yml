@@ -1,6 +1,6 @@
 contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+show_reach: false
+faq: /connect/faq/
 social_media:
   youtube: https://www.youtube.com/channel/UCcRDfEcVDKImGS25brcGmDQ
   linkedin: https://www.linkedin.com/showcase/imda-pixel/
