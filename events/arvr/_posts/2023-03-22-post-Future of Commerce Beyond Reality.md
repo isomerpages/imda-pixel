@@ -1,7 +1,7 @@
 ---
 title: Future of Commerce Beyond Reality
-permalink: /events/arvr/permalink/
-date: 2023-03-22
+permalink: https://imda-pixel.sg/event/389
+date: 2023-04-26
 layout: post
 description: ""
 image: ""
