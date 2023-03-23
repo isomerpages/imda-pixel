@@ -61,4 +61,4 @@ Jointly organised by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, 
 * Business and technical mentorship from Huawei, and our network of experts and investors  
 * Up to $2M in potential investment post-program with VC partners such as <a href="https://www.linkedin.com/company/gsrventures/" target="_blank">GSR Ventures</a>
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Look out for the next call in Q1 2023. </a>
+<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 12 May 2023.</a>
