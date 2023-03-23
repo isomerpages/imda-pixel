@@ -51,14 +51,18 @@ Besides the full suite of support from PIXEL, you can also look forward to the f
 
 <a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 31 March 2023 </a>
 
-# PIXEL - Huawei Spark Incubator Programme
-![Pixel X Huawei](/images/Programmes/PixelxHuawei.jpg)
+# PIXEL - Huawei Cloud Incubator Programme
+![](/images/Programmes/Huawei%20Incubator%20C2_1200x640px.png)
 
-Jointly organised by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage start-ups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
+Huawei Cloud Startup Incubator is a 4-5 months incubation program specifically designed for startups that are looking to reiterate deeply, quickly and effectively. Partnering with IMDA PIXEL, we look to support Singapore-based early stage startups in the following categories: Web3, Metaverse, FSI, and Enterprise SaaS. You will walk out of the program having investors or business connections who are ready to deep-dive into your company.
 
 * Up to US$60K in Huawei Cloud credits  
-* Office space at PIXEL (28k sqft innovation space to support Corporates and Start-ups with facilities, programmes and networks)  
-* Business and technical mentorship from Huawei, and our network of experts and investors  
-* Up to $2M in potential investment post-program with VC partners such as <a href="https://www.linkedin.com/company/gsrventures/" target="_blank">GSR Ventures</a>
+* Office space at PIXEL 
+* Up to $3M in potential investment post-program with VC partners such as GSR Ventures, ACSEAN Capital and Lion X Digital Innovation Fund - Mentors from Huawei, DocuSign, AngelCentral, Mastercard, Monk's Hill, Globalization Partners, Riskified & more 
+* Office space at PIXEL 
+* Waived fees on your next S$75K in Stripe processing with priority support
+* 1-1 technical deep dive and cloud migration with Huawei's Solution Architect  
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Look out for the next call in Q1 2023. </a>
+Startups can look forward to working closely with Huawei to set a strong milestone plan and further validating product-market fit. You will also get to learn from experienced industry experts & entrepreneurs through masterclasses to enhance your GTM and fundraising strategy. Towards the end of the program, there is an expectation to raise institutional capital, facilitated by Demo Day, where our network of investors and business partners are invited.
+
+<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 12 May 2023.</a>
