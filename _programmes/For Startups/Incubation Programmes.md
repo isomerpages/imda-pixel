@@ -54,7 +54,7 @@ Besides the full suite of support from PIXEL, you can also look forward to the f
 # PIXEL - Huawei Cloud Incubator Programme
 ![](/images/Programmes/Huawei%20Incubator%20C2_1200x640px.png)
 
-Huawei Cloud Startup Incubator (Spark Incubator) is a 4-5 months incubation program specifically designed for startups that are looking to reiterate deeply, quickly and effectively. Partnering with IMDA PIXEL, we look to support Singapore-based early stage startups in the following categories: Web3, Metaverse, FSI, and Enterprise SaaS. You will walk out of the program having investors or business connections who are ready to deep-dive into your company.
+Huawei Cloud Startup Incubator is a 4-5 months incubation program specifically designed for startups that are looking to reiterate deeply, quickly and effectively. Partnering with IMDA PIXEL, we look to support Singapore-based early stage startups in the following categories: Web3, Metaverse, FSI, and Enterprise SaaS. You will walk out of the program having investors or business connections who are ready to deep-dive into your company.
 
 * Up to US$60K in Huawei Cloud credits  
 * Office space at PIXEL 
