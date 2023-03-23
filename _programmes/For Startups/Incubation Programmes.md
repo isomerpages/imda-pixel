@@ -52,7 +52,7 @@ Besides the full suite of support from PIXEL, you can also look forward to the f
 <a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 31 March 2023 </a>
 
 # PIXEL - Huawei Spark Incubator Programme
-![Pixel X Huawei](/images/Programmes/PixelxHuawei.jpg)
+![](/images/Programmes/Huawei%20Incubator%20C2_1200x640px.png)
 
 Jointly organised by Huawei Cloud APAC and IMDA PIXEL, supported by Stripe SEA, this Incubator Program aims to support the early-stage start-ups in Fintech, Web3 and SaaS to reiterate their products deeply, quickly and effectively. Look forward to the following:
 
