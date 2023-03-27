@@ -52,7 +52,7 @@ sections:
       subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
   - infopic:
-      title: Complimentary Innovation Consultancies
+      title: Complimentary Innovation Consulting
       subtitle: CORPORATES & START-UPS
       description: "Transform your digital products, services, content or brand
         through a series of coaching sessions with our expert consultants. "
