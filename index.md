@@ -52,7 +52,7 @@ sections:
       subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
   - infopic:
-      title: Project Based Coaching Programme
+      title: Complimentary Innovation Consultancies
       subtitle: CORPORATES & START-UPS
       description: "Transform your digital products, services, content or brand
         through a series of coaching sessions with our expert consultants. "
