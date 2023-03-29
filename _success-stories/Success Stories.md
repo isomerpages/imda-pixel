@@ -18,8 +18,6 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 
 <a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-agi-smitsu/">Continue reading</a>
 
-
-/stories/stories-of-innovation-zuno/
 ## More Stories
 
 <table>
