@@ -18,12 +18,19 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 
 <a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-agi-smitsu/">Continue reading</a>
 
-
-
 ## More Stories
 
 <table>
 		<tbody>
+			<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/Stories%20of%20Innovation/Zuno/Zuno%20Carbon_1.jpg">
+		</td>
+		<td style="vertical-align:middle;">To Zero and Beyond with Zuno Carbon - Helping enterprises attain a green future
+			<br><b><a target="_blank" href="/stories/stories-of-innovation-zuno/">Sustainability is now a gold standard for all businesses but can you imagine spending hours typing hundred pieces of data into your spreadsheet manually? As an engineer, the pain of witnessing that pushed Hari Nair, Co-Founder and CEO of Zuno Carbon, to make a change in the sustainability field with his start-up’s inventions. </a>
+		</b>
+		</td>
+    </tr>
 			<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images%2FSuccess%20stories%2FStories%20of%20Innovation%2FHiverlab/Hiverlab-01.jpg">
