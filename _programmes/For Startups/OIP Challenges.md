@@ -16,9 +16,9 @@ Submit your proposals by 28 April 2023, 4pm +8GMT!
 ![OIP Call 17 Hero Banner](/images/Programmes/OIP%20Challenges/OIP%20Call%2017_1200x600.jpg)
 
 Participating partners of the Open Innovation Platform Call 17 includes, Cellini, Ministry of Health, CPF Board, Institute for Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
-
+<br><br>
 <table>
-    <tr>
+    <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgreytext-align: center; vertical-align: middle;">	
             <br><img src="/images/Programmes/OIP%20Challenges/cellini.png">
         </td>
@@ -31,9 +31,9 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;text-align: center; vertical-align: middle;">	
             <br><img src="/images/Programmes/OIP%20Challenges/MOH%20X%20CPFB.png">
         </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; ">
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Ministry of Health (MOH) x CPF Board (CPFB) </b>
-	        <br> MOH and CPFB is looking for a solution to help  Singaporeans and PRs estimate the amount of cash they need to pay out-of-pocket for their and their loved ones’ healthcare needs, to alleviate anxiety and provide greater assurance over healthcare affordability.
+	        <br> MOH and CPFB is looking for a solution to help&nbsp; Singaporeans and PRs estimate the amount of cash they need to pay out-of-pocket for their and their loved ones’ healthcare needs, to alleviate anxiety and provide greater assurance over healthcare affordability.
         </td>
     </tr>	
     <tr>
@@ -44,7 +44,7 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					<br><b>Microsoft</b>
 	        <br>Under the Singapore Green Tech Challenge 2023 powered by the Open Innovation Platform, Microsoft seeks to develop and commercialize innovative sustainability solutions for businesses, as it makes progress towards a bold commitment to becoming carbon negative, water-positive, and zero waste by 2030. <br><br>
 					Check out these challenges: <br>
-					<br> 1. Create, Buy & Sell Tradeable Carbon Assets
+					<br> 1. Create, Buy &amp; Sell Tradeable Carbon Assets
 					<br> 2. Identifying and Transitioning to Renewable Energy Sources
 					<br> 3. Setting and Tracking Sustainability Targets
 			</td>
@@ -78,22 +78,22 @@ Participating partners of the Open Innovation Platform Call 17 includes, Cellini
 					<br> 10. Simulation-Based Training to Prepare for Screening Seniors in the Community
 			</td>
     </tr>
-	<br>
-</table>
+	
+</tbody></table>
 
-<a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call17" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
 
 ### Jurong Lake District Innovation Challenge
-Submit your proposals by 21 April 2023, 4pm +8GMT! 
+Submit your proposals by 5 May 2023, 4pm +8GMT! 
 
-<img src="/images/Programmes/OIP%20Challenges/JLD_1200x630.jpg">
+![Jurong Lake District Innovation Challenge 2023](/images/Programmes/OIP%20Challenges/jld_1200x600.jpg)
 <br>
 Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Redevelopment Authority (URA), this challenge is a step towards achieving the vision to make Jurong Lake District a model sustainability district and a living lab to testbed green innovation.
 <br>
 <br>
 <table>
-    <tr>
+    <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
             <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20logo%20(RGB).png">
         </td>
@@ -126,7 +126,7 @@ Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Red
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Ng Teng Fong General Hospital (NTFGH) x Jurong Community Hospital (JCH)</b>
-            <br>NTFGH and JCH are looking to optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff, while meeting hospital operational requirements.
+            <br>NTFGH and JCH are looking to optimise the performance and energy efficiency of existing Air Handling Units while ensuring good thermal comfort for patients and staff,&nbsp;while meeting hospital operational requirements.
         </td>
     </tr>	
 		<tr>
@@ -147,6 +147,6 @@ Co-organised by Smart Nation and Digital Government Office (SNDGO) and Urban Red
             <br> SMRT is exploring solutions to encourage drivers to go car-lite and adopt Walk-Cycle-Ride modes of transport for trips within the Jurong Lake District.
         </td>
     </tr>	
-		</table>
+		</tbody></table>
 
-<a href="https://www.openinnovation.sg/challenges?utm_medium=website&utm_source=pixelwebsite&utm_campaign=jldcall" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=jldcall" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>

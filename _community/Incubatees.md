@@ -6,7 +6,7 @@ description: current incubatees start-ups
 # Incubatees
 ### ARVR
 <table>
-    <tr>
+    <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/Medivrlogo.jpg">
         </td>
@@ -22,7 +22,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ALO VR</b>
-            <br>Develops AR & VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance
+            <br>Develops AR &amp; VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance
             <br><br><a href="https://alo.health/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -196,11 +196,11 @@ description: current incubatees start-ups
 	    <br><br><a href="http://www.twomc.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
-		</table>
+		</tbody></table>
 		
 ### AI
 <table>
-<tr>
+<tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/lexatexer.png">
         </td>
@@ -280,11 +280,11 @@ description: current incubatees start-ups
 	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-</table>
+</tbody></table>
 
 ### Robotics
 <table>
-<tr>
+<tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/dconstruct.png">
         </td>
@@ -300,7 +300,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>H3 DYNAMICS</b>
-            <br>Hybrid remote-sensing robotics & AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces.
+            <br>Hybrid remote-sensing robotics &amp; AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces.
 	    <br><br><a href="https://www.h3dynamics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -314,11 +314,11 @@ description: current incubatees start-ups
 	    <br><br><a href="https://avido-robotics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	</table>
+	</tbody></table>
 	
 ### IoT
 <table>
-<tr>
+<tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ackio.png">
         </td>
@@ -354,15 +354,15 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>HEROES (Our.Fans)</b>
-            <br>A fanclub platform for athletes to engage & earn with their fans.
+            <br>A fanclub platform for athletes to engage &amp; earn with their fans.
 	    <br><br><a href="http://heros.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-</table>
+</tbody></table>
 
 ### Connectivity
 <table>	
-<tr>
+<tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/millicast.png">
         </td>
@@ -378,15 +378,15 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>XYCONNECT</b>
-            <br>XYConnect's_ patented smart lighting solution allows smooth data transmission via existing lighting circuit in homes, delivering a reliable signal to everyone.
+            <br>XYConnect's_&nbsp;patented smart lighting solution allows smooth data transmission via existing lighting circuit in homes, delivering a reliable signal to everyone.
 	    <br><br><a href="http://xy-connect.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	</table>
+	</tbody></table>
 
 ### Others
 <table>
-<tr>
+<tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/OROVAULTNEW.png">
         </td>
@@ -492,7 +492,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ADVANTIR INNOVATIONS</b>
-            <br>Create the Nespresso for soft serve & desserts.
+            <br>Create the Nespresso for soft serve &amp; desserts.
 	    <br><br><a href="https://www.swirlgo.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 		
@@ -632,7 +632,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>1PLAYSPORTS</b>
-            <br>Sports media narrowcasting start-up producing live streams of both  national and international levels.
+            <br>Sports media narrowcasting start-up producing&nbsp;live streams&nbsp;of both  national and international levels.
 	    <br><br><a href="https://www.1playsports.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 		
@@ -671,10 +671,10 @@ description: current incubatees start-ups
             <br><img src="/images/Community/Incubatees/metaus.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>META US</b>
+            <br> <b> Team META</b>
             <br>Meta.us produces branded and third party community esports leagues for sponsors and media companies.
-	    <br><br><a href="https://www.meta.us/about-us" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
+	    <br><br><a href="https://teammeta.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+		</td>
     </tr>		
 	<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
@@ -722,7 +722,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>PANGAEA INTERACTIVE</b>
-            <br>Design and create interactive worlds, Location-Based Games and Social Platforms/
+            <br>Design and create&nbsp;interactive worlds, Location-Based Games and Social Platforms/
 	    <br><br><a href="https://tribe-world.com/pangaea/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
@@ -766,4 +766,4 @@ description: current incubatees start-ups
 	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
-	</table>
+	</tbody></table>
