@@ -16,6 +16,7 @@ Submit your proposals by 28 April 2023, 4pm +8GMT!
 ![OIP Call 17 Hero Banner](/images/Programmes/OIP%20Challenges/OIP%20Call%2017_1200x600.jpg)
 
 Participating partners of the Open Innovation Platform Call 17 includes, Cellini, Ministry of Health, CPF Board, Institute for Adult Learning, Microsoft and Parendigm! Read on more below to find out about their business challenges and stand to win $3,150,000 worth in prize monies and Microsoft support!
+<br>
 <table>
     <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgreytext-align: center; vertical-align: middle;">	
