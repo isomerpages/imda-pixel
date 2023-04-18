@@ -59,7 +59,7 @@ Mr Justin Ang, Assistant Chief Executive, IMDA said, “IMDA is excited to colla
 
 _The Infocomm Media Development Authority (IMDA) leads Singapore’s digital transformation by developing a vibrant digital economy and an inclusive digital society. As Architects of Singapore’s Digital Future, we foster growth in Infocomm Technology and Media sectors in concert with progressive regulations, harnessing frontier technologies, and developing local talent and digital infrastructure ecosystems to establish Singapore as a digital metropolis._
 
-_For more news and information, visit [www.imda.gov.sg](https://www.imda.gov.sg/Page-Not-Found?item=web%3a%7b4316EF55-1C60-49BD-BF5F-BB215858C5E3%7d%40en) or follow IMDA on Facebook (IMDAsg) and Twitter (@IMDAsg)._
+_For more news and information, visit [www.imda.gov.sg](https://www.imda.gov.sg/Business) or follow IMDA on Facebook (IMDAsg) and Twitter (@IMDAsg)._
 
 * * *
 
