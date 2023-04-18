@@ -43,3 +43,10 @@ Through the Singapore GreenTech Challenge, Microsoft aims to encourage collabora
 Sustainability is a collective responsibility, and Microsoft is committed to partnering with others to drive positive change for the planet while pursuing its goals to be carbon negative, water positive and zero waste by 2030.
 
 By working together with IMDA and SGTech, Microsoft aims to enable the reduction of environmental impact by companies, create new value, and build a resilient, digitally inclusive, and sustainable Singapore.
+
+***
+**_About_** **_Infocomm Media Development Authority (IMDA)_**
+
+_The Infocomm Media Development Authority (IMDA) leads Singapore’s digital transformation by developing a vibrant digital economy and an inclusive digital society. As Architects of Singapore’s Digital Future, we foster growth in Infocomm Technology and Media sectors in concert with progressive regulations, harnessing frontier technologies, and developing local talent and digital infrastructure ecosystems to establish Singapore as a digital metropolis._
+
+_For more news and information, visit [www.imda.gov.sg](https://www.imda.gov.sg/Business) or follow IMDA on Facebook (IMDAsg) and Twitter (@IMDAsg)._
