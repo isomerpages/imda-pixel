@@ -1,8 +1,8 @@
 ---
 title: "Design Thinking x Sustainability: Innovating for a Sustainable Empathic
   Future"
-permalink: /events/design-thinking/innovating-for-a-sustainable-empathic-future/
-date: 2023-04-20
+permalink: https://imda-pixel.sg/event/391
+date: 2023-05-24
 layout: post
 description: Sustainability has become increasing vital for businesses to remain
   relevant and competitive today. This is an introductory workshop for
