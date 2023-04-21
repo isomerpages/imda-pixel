@@ -9,11 +9,11 @@ description: Looking for the latest events in workshops, webinars, and
   network with like-minded professionals.
 image: /images/IMDA-logo.png
 ---
-Check out the comprehensive list of all the events we have planned for the upcoming months. Our events are carefully crafted to provide value and insight into the latest industry trends, and we are committed to ensuring that our attendees leave with actionable takeaways and new connections.
+Check out our upcoming events that provide valuable insights into industry trends. 
 
-Whether you are looking to expand your knowledge base, network with like-minded professionals, or simply stay up-to-date with the latest industry news, we have an event that is tailored to your needs.
+Our carefully crafted events guarantee actionable takeaways and new connections. Expand your knowledge, network, and stay up-to-date with us. 
 
-Don't miss out on the opportunity to learn, connect, and grow with us. Register for one of our upcoming events today and take the first step towards achieving your professional goals.
+Register today to achieve your professional goals.
 
 #### May 2023
 <table>
@@ -23,7 +23,7 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
 			<th>Time</th>
       <th>Date</th>
       <th>Event</th>
-			<th>Event Type</th>
+			<th style="width: 200px;">Event Type</th>
     </tr>
   </thead>
   <tbody>
@@ -60,7 +60,7 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
       <td>17 May (Wed)</td>
 			<td>10.00am - 2.00pm
       </td><td>Future Proofing Your Stratefy in the Age of AI by ASUS x NVIDIA</td>
-			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
+			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
     </tr>
     <tr>
       <td>6</td>
