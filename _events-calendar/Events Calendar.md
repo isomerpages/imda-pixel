@@ -22,7 +22,7 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
       <th>No.</th>
 			<th>Time</th>
       <th>Date</th>
-      <th>Event</th>
+      <th style="width: 150px;">Event</th>
 			<th>Event Type</th>
     </tr>
   </thead>
