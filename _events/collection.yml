@@ -1,5 +1,5 @@
 collections:
-  events-calendar:
+  events:
     output: true
     order:
       - Events Calendar.md
