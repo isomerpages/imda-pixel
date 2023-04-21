@@ -60,7 +60,7 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
       <td>17 May (Wed)</td>
 			<td>10.00am - 2.00pm
       </td><td>Future Proofing Your Stratefy in the Age of AI by ASUS x NVIDIA</td>
-			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
+			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
     </tr>
     <tr>
       <td>6</td>
