@@ -12,12 +12,6 @@ Looking to supercharge your innovation journey? Plug into PIXEL’s vibrant comm
 
 **Every 3rd Wednesday of the month**, we host community get-togethers and invite companies to share about their programmes. Level up your knowledge, mingle around and don't forget to help yourself to the free food. Mark your calendars now!
 
-Upcoming Wonderful Wednesday: 
-
-| Date | Details |Time 
-| -------- | -------- | -------- |
-| 15 Feb 2023   | Wonderful Wednesdays - **Sharing by Seed Legals** on how to <br>automate and streamline the legal process of raising funds, <br>creating policies or managing shareholders | 4pm - 5pm  |
-
 
 Stay in touch with our latest events by joining the community mailing list!
 
