@@ -10,7 +10,7 @@ Whether you are looking to expand your knowledge base, network with like-minded 
 
 Don't miss out on the opportunity to learn, connect, and grow with us. Register for one of our upcoming events today and take the first step towards achieving your professional goals.
 
-
+#### May 2023
 <table>
   <thead>
     <tr>
@@ -65,26 +65,51 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
 			<td><a href="https://imda-pixel.sg/event/390" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td>Row 7, Column 1</td>
-      <td>Row 7, Column 2</td>
-      <td>Row 7, Column 3</td>
-			<td>Closed Door</td>
+      <td>7</td>
+      <td>22 May (Mon)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EPIC Games Virtual Production Challenge
+			</td><td>Closed Door</td>
     </tr>
     <tr>
-      <td>Row 8, Column 1</td>
-      <td>Row 8, Column 2</td>
-      <td>Row 8, Column 3</td>
-			<td>Closed Door</td>
+      <td>8</td>
+      <td>23 May (Tue)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EPIC Games Virtual Production Challenge
+			</td><td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td>Row 9, Column 1</td>
-      <td>Row 9, Column 2</td>
-      <td>Row 9, Column 3</td>
-			<td>Closed Door</td>
+      <td>9</td>
+      <td>24 May (Wed)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EPIC Games Virtual Production Challenge
+			</td><td>Closed Door</td>
     </tr>
     <tr>
-      <td>Row 10, Column 1</td>
+      <td>10</td>
+      <td>24 May (Wed)</td>
+			<td>2.00pm - 5.00pm</td>
+			<td><b>PIXEL's Workshop</b></td>
+			<td><a href="https://imda-pixel.sg/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
+    </tr>
+		 <tr>
+      <td>Row 11, Column 1</td>
       <td>Row 10, Column 2</td>
+			<td>Row 10, Column 2</td>
+      <td>Row 10, Column 3</td>
+			<td>Closed Door</td>
+    </tr>
+		 <tr>
+      <td>Row 12, Column 1</td>
+      <td>Row 10, Column 2</td>
+			<td>Row 10, Column 2</td>
+      <td>Row 10, Column 3</td>
+			<td>Closed Door</td>
+    </tr>
+		 <tr>
+      <td>Row 13, Column 1</td>
+      <td>Row 10, Column 2</td>
+			<td>Row 10, Column 2</td>
       <td>Row 10, Column 3</td>
 			<td>Closed Door</td>
     </tr>
