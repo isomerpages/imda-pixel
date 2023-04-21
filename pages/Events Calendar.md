@@ -24,42 +24,42 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
   <tbody>
     <tr style="background-color: #f2f2f2;">
       <td>1</td>
-      <td>2 May 2023 (Tue)</td>
+      <td>2 May (Tue)</td>
 			<td>9.00am - 6.00pm
       </td><td>Microsoft Azure OpenAI Workshop</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>4 May 2023 (Thu)</td>
+      <td>4 May (Thu)</td>
 			<td>9.00am - 6.00pm</td>
       <td>D.Camp Global Demo Day</td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>3</td>
-      <td>12 May 2023 (Fri)</td>
+      <td>12 May (Fri)</td>
 			<td>9.00am - 6.00pm</td>
       <td>IMDA x SIFMA Workshop and Networking event</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>12 May 2023 (Fri)</td>
+      <td>12 May (Fri)</td>
 			<td>9.00am - 6.00pm</td>
       <td>Investing Workshop by Angelcentral</td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>5</td>
-      <td>17 May 2023 (Wed)</td>
+      <td>17 May (Wed)</td>
 			<td>10.00am - 2.00pm
       </td><td>Future Proofing Your Stratefy in the Age of AI by ASUS x NVIDIA</td>
 			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
     </tr>
     <tr>
       <td>6</td>
-      <td>17 May 2023 (Wed)</td>
+      <td>17 May (Wed)</td>
 			<td>2.00pm - 5.00pm
 			</td><td><b>PIXEL's Workshop</b><br>AI in Action: Digital Storytelling with Ease</td>
 			<td><a href="https://imda-pixel.sg/event/390" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
@@ -89,28 +89,28 @@ Don't miss out on the opportunity to learn, connect, and grow with us. Register 
       <td>10</td>
       <td>24 May (Wed)</td>
 			<td>2.00pm - 5.00pm</td>
-			<td><b>PIXEL's Workshop</b></td>
+			<td><b>PIXEL's Workshop</b><br>Design Thinking: Innovating for a Sustainable Empathic Future</td>
 			<td><a href="https://imda-pixel.sg/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
     </tr>
-		 <tr>
-      <td>Row 11, Column 1</td>
-      <td>Row 10, Column 2</td>
-			<td>Row 10, Column 2</td>
-      <td>Row 10, Column 3</td>
-			<td>Closed Door</td>
+		 <tr style="background-color: #f2f2f2;">
+      <td>11</td>
+      <td>25 May (Thu)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EPIC Games Virtual Production Challenge
+			</td><td>Closed Door</td>
     </tr>
+    
 		 <tr>
-      <td>Row 12, Column 1</td>
-      <td>Row 10, Column 2</td>
-			<td>Row 10, Column 2</td>
-      <td>Row 10, Column 3</td>
-			<td>Closed Door</td>
-    </tr>
+      <td>12</td>
+			<td>26 May (Fri)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EPIC Games Virtual Production Challenge
+			</td><td>Closed Door</td>    </tr>
 		 <tr>
-      <td>Row 13, Column 1</td>
-      <td>Row 10, Column 2</td>
-			<td>Row 10, Column 2</td>
-      <td>Row 10, Column 3</td>
+      <td>13</td>
+      <td>31 May (Wed)</td>
+			<td>9.00am - 6.00pm</td>
+      <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
   </tbody>
