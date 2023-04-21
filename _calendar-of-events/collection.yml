@@ -1,4 +1,5 @@
 collections:
   calendar-of-events:
     output: true
-    order: []
+    order:
+      - Events Calendar.md
