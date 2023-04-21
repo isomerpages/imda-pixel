@@ -9,3 +9,11 @@ Check out the comprehensive list of all the events we have planned for the upcom
 Whether you are looking to expand your knowledge base, network with like-minded professionals, or simply stay up-to-date with the latest industry news, we have an event that is tailored to your needs.
 
 Don't miss out on the opportunity to learn, connect, and grow with us. Register for one of our upcoming events today and take the first step towards achieving your professional goals.
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
