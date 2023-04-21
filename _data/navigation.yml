@@ -10,6 +10,8 @@ links:
   - title: Events
     url: /events-calendar/
     sublinks:
+      - title: Events Calendar
+        url: /events-calendar/
       - title: ARVR
         url: /events/arvr/
       - title: Design Thinking
