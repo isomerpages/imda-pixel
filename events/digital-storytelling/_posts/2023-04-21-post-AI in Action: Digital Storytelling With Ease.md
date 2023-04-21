@@ -1,7 +1,7 @@
 ---
 title: "AI in Action: Digital Storytelling With Ease"
-permalink: /events/digital-storytelling/ai-in-action-storytelling-with-ease/
-date: 2023-04-21
+permalink: [/events/digital-storytelling/ai-in-action-storytelling-with-ease/](https://imda-pixel.sg/event/390)
+date: 2023-05-17
 layout: post
 description: In this workshop, participants will refresh their knowledge on
   digital storytelling and learn how to supercharge their digital storytelling
