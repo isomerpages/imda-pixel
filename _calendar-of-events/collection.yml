@@ -1,0 +1,4 @@
+collections:
+  calendar-of-events:
+    output: true
+    order: []
