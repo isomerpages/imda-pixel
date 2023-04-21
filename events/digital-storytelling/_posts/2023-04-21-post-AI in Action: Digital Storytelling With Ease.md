@@ -9,7 +9,7 @@ description: In this workshop, participants will refresh their knowledge on
   different types of AI can be applied to enhance digital stories and gain
   insights into commonly used AI tools for digital storytelling. Through live
   demonstrations and hands-on practice, participants will explore and experiment
-  with various AI tools to create compelling digital stories.
+  with various AI tools to create compelling digital stories. 
 image: /images/Events/Digital storytelling/_digital assets (ds workshop - ai in
   action digital storytelling with ease)_400x400.png
 ---
