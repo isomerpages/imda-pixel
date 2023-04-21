@@ -1,5 +1,5 @@
 ---
-title: "AI in Action: Digital Storytelling With Ease"
+title: "AI in Action: Digital Storytelling with Ease"
 permalink: https://imda-pixel.sg/event/390
 date: 2023-05-17
 layout: post
