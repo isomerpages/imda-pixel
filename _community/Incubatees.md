@@ -395,6 +395,16 @@ description: current incubatees start-ups
         </td>
     </tr> 
 <tr>
+     <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/techfox.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Techfox</b>
+            <br>Development of am AI enabled robotics delivery system.
+	    <br><br><a href="http://techfox.com.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/avidorobotics.png">
         </td>
@@ -436,6 +446,16 @@ description: current incubatees start-ups
             <br><b>NERVOTEC</b>
             <br>Nervotec is a provider of healthcare analytics as a service that provides software only solutions for the measurement and analysis of medical grade physiological vital signs.
 	    <br><br><a href="https://nervotec.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Gaitmetrics</b>
+            <br>Provides e-learning, mobile learning, AR, VR, MR and metaverse solutions through its proprietary platform to enable businesses to leverage immersive and interactive content to build experiential solutions.
+	    <br><br><a href="https://gaitmetrics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
