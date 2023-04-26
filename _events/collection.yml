@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/AWS IMDA Joint Innovation Centre.md
       - Upcoming Events/.keep
       - Events Calendar.md
