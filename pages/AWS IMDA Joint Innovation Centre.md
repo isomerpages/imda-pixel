@@ -19,7 +19,7 @@ The AWS-IMDA JIC @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an i
 		<tr>
 		</tr><tr style="background-color: #f2f2f2;">
       <td>AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</td>
-			<td><a href="https://aws-saasxccelerateximda-chapter.splashthat.com/?trk=d60a4470-afcb-45c2-a2d8-23582ce4ebf9&amp;sc_channel=em" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+			<td><a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 	<tr>
 		<td>AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</td>
@@ -27,7 +27,7 @@ The AWS-IMDA JIC @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an i
   </tr>
 		<tr>
 		</tr><tr style="background-color: #f2f2f2;">
-      <td>AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</td>
-			<td><a href="https://aws-saasxccelerateximda-chapter.splashthat.com/?trk=d60a4470-afcb-45c2-a2d8-23582ce4ebf9&amp;sc_channel=em" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+      <td>IMDA &amp; AWS to Establish Joint Innovation Center in Singapore</td>
+			<td><a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 </tbody></table>

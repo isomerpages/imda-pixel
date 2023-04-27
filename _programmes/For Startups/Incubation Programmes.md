@@ -8,7 +8,7 @@ third_nav_title: For Startups
 
 Be a PIXEL incubatee at our 28,000 sqft innovation co-working space and let us support you in building your business. Get connected to our innovation community, so you can be ready when opportunity knocks. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Our aim is to provide a platform where you can showcase your products and services, connect with like-minded people, exchange ideas, find partners and meet potential customers.
 
@@ -16,7 +16,7 @@ We are looking for innovative technology providers and corporate partners who ar
 
 Look forward to a suite of benefits with us!
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Facilities</b></span>
 			<br>Designed to embed customer centricity into your product, AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available. 
@@ -30,7 +30,7 @@ Look forward to a suite of benefits with us!
 			<br>Gain connections to PIXEL's network of tech innovators, creative technologist, digital designers and corporate innovators.
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a>
 
@@ -43,14 +43,14 @@ As a participant in this program, you will receive guidance from our team of exp
 
 The program offers a variety of benefits to aid in your success, including but not limited to: 
 * Up to US$60K in Huawei Cloud credits  
-* Office space, facilities & resources at IMDA PIXEL
-* Up to $3M in potential investment post-program with VC partners such as GSR Ventures, ACSEAN Capital and Lion X Digital Innovation Fund - Mentors from Huawei, DocuSign, AngelCentral, Mastercard, Monk's Hill, Globalization Partners, Riskified & more 
+* Office space, facilities &amp; resources at IMDA PIXEL
+* Up to $3M in potential investment post-program with VC partners such as GSR Ventures, ACSEAN Capital and Lion X Digital Innovation Fund - Mentors from Huawei, DocuSign, AngelCentral, Mastercard, Monk's Hill, Globalization Partners, Riskified &amp; more 
 * Waived fees on your next S$75K in Stripe processing with priority support
-* Mentorship from Huawei and their global network of experts and investors. Technical deep dives with Huawei & access to Huawei Cloud services.
+* Mentorship from Huawei and their global network of experts and investors. Technical deep dives with Huawei &amp; access to Huawei Cloud services.
 
-Startups can look forward to working closely with Huawei to set a strong milestone plan and further validating product-market fit. You will also get to learn from experienced industry experts & entrepreneurs through masterclasses to enhance your GTM and fundraising strategy. Towards the end of the program, there is an expectation to raise institutional capital, facilitated by Demo Day, where our network of investors and business partners are invited.
+Startups can look forward to working closely with Huawei to set a strong milestone plan and further validating product-market fit. You will also get to learn from experienced industry experts &amp; entrepreneurs through masterclasses to enhance your GTM and fundraising strategy. Towards the end of the program, there is an expectation to raise institutional capital, facilitated by Demo Day, where our network of investors and business partners are invited.
 
-<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 12 May 2023.</a>
+<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Apply now! Applications due on 12 May 2023.</a>
 # SAP.iO Foundry Singapore Accelerator Programme
 ![SAP.io foundry accelerator progamme](/images/Programmes/SAPio_Banner.jpg)
 
@@ -66,5 +66,4 @@ We are looking for startups with Industry 4.0 or Sustainability use cases or ent
 
 Besides the full suite of support from PIXEL, you can also look forward to the following <a href="https://sap.io/foundries/" target="_blank">benefits</a>.  
 
-<a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" > Apply now! Applications due on 31 March 2023 </a>
-
+<a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Find out more. </a>
