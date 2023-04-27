@@ -66,4 +66,4 @@ We are looking for startups with Industry 4.0 or Sustainability use cases or ent
 
 Besides the full suite of support from PIXEL, you can also look forward to the following <a href="https://sap.io/foundries/" target="_blank">benefits</a>.  
 
-<a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Find out more </a>
+<a href="https://sap.io/sgp-23/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Application closed. Find out more. </a>
