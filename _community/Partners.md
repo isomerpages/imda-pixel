@@ -6,7 +6,6 @@ description: partners
 # Partners
  
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These create more opportunities to expand the tech ecosystem, expertise and resources.
-
 <br><table>
     <tbody><tr>
     </tr><tr>
@@ -77,5 +76,3 @@ We partner established tech firms and accelerators to host a range of innovation
             <br>Targeting early-stage Singapore-based start-ups, the Spark Incubator Programme aims to support the growth and expansion of start-ups in three key sectors of FinTech, Web3, Metaverse and Enterprise Software. 
             <br><br><a href="https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
 </td></tr></tbody></table>
-
-		
