@@ -45,3 +45,57 @@ The AWS-IMDA JIC @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an i
         </td>
     </tr> 
 	</tbody></table>
+	
+#### Exhibition Showcase
+<table>
+<tbody><tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/ackio.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>ACKCIO</b>
+            <br>Wireless solutions for industrial monitoring in construction, mining, and oil-and-gas
+	    <br><br><a href="https://www.ackcio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/embodied-sensing.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>EMBODIED SENSING</b>
+            <br>Develop and integrate devices and platforms for industries such as Smart Buildings, logistics and delivery customer service and retail.
+	    <br><br><a href="https://embodiedsensing.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/NERVOTECNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>NERVOTEC</b>
+            <br>Nervotec is a provider of healthcare analytics as a service that provides software only solutions for the measurement and analysis of medical grade physiological vital signs.
+	    <br><br><a href="https://nervotec.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Gaitmetrics</b>
+            <br>Provides e-learning, mobile learning, AR, VR, MR and metaverse solutions through its proprietary platform to enable businesses to leverage immersive and interactive content to build experiential solutions.
+	    <br><br><a href="https://gaitmetrics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/HEROSNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>HEROES (Our.Fans)</b>
+            <br>A fanclub platform for athletes to engage &amp; earn with their fans.
+	    <br><br><a href="http://heros.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+</tbody></table>
