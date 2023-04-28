@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/.keep
       - Events Calendar.md
