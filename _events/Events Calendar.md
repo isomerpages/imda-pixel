@@ -13,44 +13,7 @@ Check out our upcoming events that provide valuable insights into industry trend
 
 Our carefully crafted events guarantee actionable takeaways and new connections. Expand your knowledge, network, and stay up-to-date with us. 
 
-Register today to achieve your professional goals.
-
-#### April 2023
-<table>
-  <thead>
-    <tr>
-      <th>No.</th>
-			<th>Time</th>
-      <th>Date</th>
-      <th>Event</th>
-			<th style="width: 200px;">Event Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #f2f2f2;">
-      <td>1</td>
-      <td>25 Apr (Tue)</td>
-			<td>9.00am - 4.00pm
-      </td><td>AWS SaasXccelerate x IMDA Chapter Industry Day and Networking Event</td>
-				<td>Event Ended</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>26 Apr (Wed)</td>
-			<td>2.00pm - 3.00pm</td>
-			<td><b>PIXEL's Webinar</b><br>Future of Commerce Beyond Reality</td>
-			<td>Event Ended</td>
-    </tr>
-		<tr style="background-color: #f2f2f2;">
-      <td>3</td>
-      <td>26 Apr (Wed)</td>
-			<td>9.00am - 5.00pm</td>
-      <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
-			<td>Closed Door</td>
-    </tr>
-</tbody>
-</table>
-
+Register today to achieve your professional goals. 
 
 #### May 2023
 <table>
@@ -90,14 +53,14 @@ Register today to achieve your professional goals.
       <td>17 May (Wed)</td>
 			<td>10.00am - 2.00pm
       </td><td>Future Proofing Your Stratey in the Age of AI by ASUS x NVIDIA</td>
-			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a><br><br></td>
+			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px;vertical-align:middle">Register</a><br><br></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>5</td>
       <td>17 May (Wed)</td>
 			<td>2.00pm - 5.00pm
 			</td><td><b>PIXEL's Workshop</b><br>AI in Action: Digital Storytelling with Ease</td>
-			<td><a href="https://imda-pixel.virtualbreaker.com/event/390" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
+			<td><a href="https://imda-pixel.virtualbreaker.com/event/390" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
     <tr>
       <td>6</td>
@@ -126,7 +89,7 @@ Register today to achieve your professional goals.
       <td>24 May (Wed)</td>
 			<td>2.00pm - 5.00pm</td>
 			<td><b>PIXEL's Workshop</b><br>Design Thinking: Innovating for a Sustainable Empathic Future</td>
-			<td><a href="https://imda-pixel.virtualbreaker.com/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
+			<td><a href="https://imda-pixel.virtualbreaker.com/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
 		 <tr>
       <td>10</td>
@@ -155,7 +118,7 @@ Register today to achieve your professional goals.
 			<td>6.00pm - 9.00pm</td>
 				<td><b>Networking Event</b><br>
 						Stammtisch in Singapore (Special Edition) by German Entrepreneurship and IMDA PIXEL</td>
-			<td><a href="https://www.german-entrepreneurship.com/event/stammtisch-singapore-may2023/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Register</a></td>
+			<td><a href="https://www.german-entrepreneurship.com/event/stammtisch-singapore-may2023/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
   </tbody>
 </table>
