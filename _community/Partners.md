@@ -6,9 +6,8 @@ description: partners
 # Partners
  
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These create more opportunities to expand the tech ecosystem, expertise and resources.
-<br><table>
+<table>
     <tbody><tr>
-    </tr><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><img src="/images/Community/Partners/AWS.png">
         </td>
