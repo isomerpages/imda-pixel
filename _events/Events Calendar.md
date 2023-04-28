@@ -13,44 +13,7 @@ Check out our upcoming events that provide valuable insights into industry trend
 
 Our carefully crafted events guarantee actionable takeaways and new connections. Expand your knowledge, network, and stay up-to-date with us. 
 
-Register today to achieve your professional goals.
-
-#### April 2023
-<table>
-  <thead>
-    <tr>
-      <th>No.</th>
-			<th>Time</th>
-      <th>Date</th>
-      <th>Event</th>
-			<th style="width: 200px;">Event Type</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #f2f2f2;">
-      <td>1</td>
-      <td>25 Apr (Tue)</td>
-			<td>9.00am - 4.00pm
-      </td><td>AWS SaasXccelerate x IMDA Chapter Industry Day and Networking Event</td>
-				<td>Event Ended</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>26 Apr (Wed)</td>
-			<td>2.00pm - 3.00pm</td>
-			<td><b>PIXEL's Webinar</b><br>Future of Commerce Beyond Reality</td>
-			<td>Event Ended</td>
-    </tr>
-		<tr style="background-color: #f2f2f2;">
-      <td>3</td>
-      <td>26 Apr (Wed)</td>
-			<td>9.00am - 5.00pm</td>
-      <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
-			<td>Closed Door</td>
-    </tr>
-</tbody>
-</table>
-
+Register today to achieve your professional goals. 
 
 #### May 2023
 <table>
