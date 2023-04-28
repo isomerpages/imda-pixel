@@ -2,5 +2,5 @@ collections:
   events:
     output: true
     order:
-      - AWS IMDA Joint Innovation Centre.md
       - Events Calendar.md
+      - AWS IMDA Joint Innovation Centre.md
