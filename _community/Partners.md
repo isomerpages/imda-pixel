@@ -6,10 +6,8 @@ description: partners
 # Partners
  
 We partner established tech firms and accelerators to host a range of innovation and knowledge sharing programmes. These create more opportunities to expand the tech ecosystem, expertise and resources.
-
-<br><table>
+<table>
     <tbody><tr>
-    </tr><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><img src="/images/Community/Partners/AWS.png">
         </td>
@@ -68,13 +66,12 @@ We partner established tech firms and accelerators to host a range of innovation
             <br>We partnered Ubisoft to develop a start-up programme for companies to leverage technology and enhance entertainment experiences. Participating start-ups in Singapore and the region can access PIXEL’s facilities and programmes, as well as Ubisoft’s global resources and mentorship to develop innovative solutions. This is Ubisoft’s first International Start-up Programme in Asia.
             <br><br><a href="https://news.ubisoft.com/en-us/article/Dv8yabFrdkvbKG0VNdFgd/ubisoft-startup-program-expands-into-singapore-as-ubisoft-entrepreneurs-lab" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
-    </tr>
-		
-		<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+    </tr> 
+			<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><img src="/images/Community/Partners/Huawei.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Huawei</b>
             <br>Targeting early-stage Singapore-based start-ups, the Spark Incubator Programme aims to support the growth and expansion of start-ups in three key sectors of FinTech, Web3, Metaverse and Enterprise Software. 
-            <br><br><a href="https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a>
+            <br><br><a href="https://govinsider.asia/connected-gov/singapores-infocomm-media-development-authority-and-huawei-cloud-announces-launch-of-start-up-incubator/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
 </td></tr></tbody></table>
