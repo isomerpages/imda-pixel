@@ -41,7 +41,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
 
 RSVP your attendance to be part of the launch of AWS-IMDA Joint Innovation Centre! Be the first to visit the space and witness innovation powered by AWS. Learn about the success stories of IMDA and AWS programs for both large enterprises, SMEs and startups. Listen to success stories and possibilities of corporate innovation from our panelist from IMDA, AWS, CASE, PAND.AI, and PinDrop in our exciting fireside chat powered by Amazon Alexa.
 
-<a href="" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
+<a href="href=" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
 	
 #### Exhibition Showcase
 <table>
