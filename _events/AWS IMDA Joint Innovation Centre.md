@@ -14,7 +14,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
 	<thead>
     <tr>
       <th>AWS-JIC:</th>
-			<th style="width: 120px;"></th>
+			<th style="width: 200px;"></th>
     </tr>
   </thead>
   <tbody>
