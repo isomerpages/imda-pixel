@@ -2,5 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/.keep
+      - Upcoming Networking Events/.keep
       - Events Calendar.md
