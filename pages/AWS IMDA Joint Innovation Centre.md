@@ -107,9 +107,8 @@ The AWS-IMDA JIC @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an i
             <br><img src="/images/Community/Incubatees/HEROSNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>HEROES (Our.Fans)</b>
-            <br>A fanclub platform for athletes to engage &amp; earn with their fans.
-	    <br><br><a href="http://heros.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
+            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud. This game is a fun way to learn how important it is to automate the security in the cloud. 
         </td>
     </tr> 
 </tbody></table>
