@@ -53,9 +53,8 @@ The AWS-IMDA JIC @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an i
             <br><img src="/images/Community/Incubatees/ackio.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>ACKCIO</b>
-            <br>Wireless solutions for industrial monitoring in construction, mining, and oil-and-gas
-	    <br><br><a href="https://www.ackcio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Learning Smart - Deepracer Arcade: Get Rolling with Machine Learning</b>
+            <br>Developers of all skill levels can get hands on with machine learning through a cloud based 3D racing simulator, fully autonomous 1/18th scale race car driven by reinforcement learning, and global racing league. AWS DeepRacer gives you an interesting and fun way to get started with machine learning (ML). Try out the DeepRacer Arcade and race against an Artificial Intelligence (AI) avatar. Learn how organization use DeepRacer to prepare their employees for a digital-driven world.
         </td>
     </tr> 
 <tr>
