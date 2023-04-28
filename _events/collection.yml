@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Events Calendar.md
+      - AWS IMDA Joint Innovation Centre.md
