@@ -18,7 +18,19 @@ Submit your proposals by 9 June 2023, 4pm +8GMT
 We are excited to partner with some of the prominent lifestyle retail brands such as **Stellar Lifestyle, Diageo** and&nbsp;**Yue Hwa Chinese Products Emporium Limited**&nbsp;to bring you a fresh batch of IMDA Open Innovation Platform challenges. With numerous opportunities to innovate in the retail space, you can transform the customer experience and take your business to new heights.
 
 In this call, we have also teamed up with **Mandai Wildlife Group** to create opportunities for you to improve data collection processes within wildlife reserves and rethink conservation efforts. As a tech trailblazer, your solutions can make a real difference in protecting our natural heritage.
-
+<br>
+<table>
+    <tbody><tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/CapitaLand%20logo%20(RGB).png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>CapitaLand </b>
+	        <br> CapitaLand is keen to create a solution that can facilitate collection, aggregate, and report the state of waste generated and recycling collected within its assets. Collecting recycling data in large commercial properties remains challenging mainly due to decentralised recycling collection networks.
+        </td>
+    </tr>
+			
+</tbody></table>
 
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
