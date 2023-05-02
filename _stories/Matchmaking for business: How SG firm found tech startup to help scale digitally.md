@@ -8,20 +8,17 @@ description: Looking for effective business matchmaking? Read how Assure General
   drove growth for both companies in Singapore.
 image: /images/Success stories/ST ad - AGI x smitsu.png
 ---
-
-
-
 ### Matchmaking for businesses: How SG firm found tech startup to help scale digitally
 
 **Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies**
 
 ![Photo: Getty images](/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png)
-IMDA’s Open Innovation Platform aims to help companies with problem statements find the right tech partners and create breakthroughs. <br>
+IMDA’s Open Innovation Platform aims to help companies with problem statements find the right tech partners and create breakthroughs.&nbsp;<br>
 *Photo: GETTY IMAGES*
 
 For homegrown insurance provider Assure General Insurance (AGI SG), digitalisation has been a game-changer. The firm does not offer its own insurance, but partners major insurers to match its customers with suitable policies from them, earning a commission for each sale.
 
-AGI SG’s employees used to spend hours manually keying potential clients’ details and requests into spreadsheets and checking its partners’ available policies to find the most suitable ones. This process was time-consuming, prone to human error and resulted in long response times to inquiries. 
+AGI SG’s employees used to spend hours manually keying potential clients’ details and requests into spreadsheets and checking its partners’ available policies to find the most suitable ones. This process was time-consuming, prone to human error and resulted in long response times to inquiries.&nbsp;
 
 AGI SG was looking for a digital solution tailored to solve these problems and chanced upon the Infocomm Media Development Authority’s (IMDA) Open Innovation Platform (OIP), which connects businesses with digital challenges to relevant technology providers.
 
@@ -30,13 +27,13 @@ In February 2021, AGI SG approached IMDA OIP to have its operations analysed so 
 After evaluating proposals submitted by solution providers on the OIP, AGI SG selected local software start-up SMITSU – a company that offered a smart system which automatically generates quotations from insurers that fulfilled the required coverage. The solution was commercialised and AGI SG started using a customised version of the system in less than six months.
 
 **ONE-STOP SUPPORT STATION**
-> From diagnosing our challenges to refining our problem statement, assessing proposals and setting key performance indicators to ensure the right outcomes, we received end-to-end support, and it was entirely free.
+&gt; From diagnosing our challenges to refining our problem statement, assessing proposals and setting key performance indicators to ensure the right outcomes, we received end-to-end support, and it was entirely free.
 
 *MR ALEXIS ADRIAN CHUA, AGI SG’S CHIEF EXECUTIVE OFFICER*
 
 With the new solution, AGI SG staff could easily compare real-time quotations from its partners within minutes of entering prospective customers’ information and insurance wishes. AGI SG’s chief executive officer Alexis Adrian Chua shares: “We have reduced our manual processes by 60 per cent and slashed our customer quotation lead time to an average of 4 hours.”
 
-### Lending a hand to smaller businesses
+##### Lending a hand to smaller businesses
 ![Getty images](/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu_2.png)
 Participants can also benefit from IMDA’s network of experts and consultants, technology resources, and facilities for prototyping. <br>
 *Photo: Getty images*
@@ -57,12 +54,12 @@ SMITSU also programmed a module to automatically calculate the commission for AG
 
 He continues: “Participating in the OIP innovation call process has allowed us to make significant improvements to our product, resulting in a more appealing offering to be presented to potential customers. In addition, the feedback we received from the OIP team has given us valuable insights which helps us improve our product to meet the evolving needs of our customers.”
 
-### Empowering businesses to grow
+##### Empowering businesses to grow
 
 Participating in the OIP has yielded other dividends, he adds. “Thanks to AGI SG, we've been able to introduce our automated solutions to companies outside of the usual industries we engage with. One such company is a local lending firm that deals with SMEs and is constantly inundated with large volumes of documents to be processed. While we're currently prioritising our current work, these connections are extremely valuable and we plan to follow up with them in the near future.”
 
 ESTABLISHING A STRONGER PRESENCE
-> The OIP has been instrumental in levelling the playing field, which enabled us to compete with larger competitors.
+&gt; The OIP has been instrumental in levelling the playing field, which enabled us to compete with larger competitors.
 
 *MR HENTO ONG, SMITSU’S FOUNDER*
 
@@ -75,6 +72,6 @@ Mr Chua adds: “The entire OIP process is very well facilitated, and we receive
 
 For Mr Ong, the OIP experience has exceeded all his expectations. He says: “The OIP has been instrumental in levelling the playing field, which enabled us to compete with larger competitors. Our experience has been incredibly positive, and we believe that others will benefit from participating in this programme too.”
 
-[Learn more](https://www.openinnovation.sg/imda?utm_medium=advertorial&utm_source=pixel&utm_campaign=assure_smitsu) about how you can be connected with a tech solution provider and scale your business.
+[Learn more](https://www.openinnovation.sg/imda?utm_medium=advertorial&amp;utm_source=pixel&amp;utm_campaign=assure_smitsu)&nbsp;about how you can be connected with a tech solution provider and scale your business.
 
-Source: [The Straits Times](https://www.straitstimes.com/singapore/imda-matchmaking-for-businesses-how-singapore-firm-found-tech-startup-to-help-scale-digitally) 
+Source: [The Straits Times](https://www.straitstimes.com/singapore/imda-matchmaking-for-businesses-how-singapore-firm-found-tech-startup-to-help-scale-digitally)
