@@ -53,6 +53,16 @@ Here's a sneak peek of some of the challenges:
 					<br><br> In this challenge, they are looking for a luxury-led solution that elevates Johnnie Walker Blue Label's existing gifting experience, positioning them as the preferred gifting choice for consumers. 
         </td>
     </tr>
+					<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Yue Hwa Chinese Products</b>
+	        <br> Yue Hwa wants to attract and retain motivated employees by providing them more control over their work rosters as the current scheduling system is manual and laborious. 
+					<br><br> In this challenge, they are looking for an automated human resource planning system that improves the efficiency of the employee roster scheduling. 
+        </td>
+    </tr>
 </tbody></table>
 
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
