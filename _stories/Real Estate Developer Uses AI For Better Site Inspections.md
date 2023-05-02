@@ -60,3 +60,5 @@ IMDA has also introduced H3 Zoom.AI to construction companies that could benefit
 Mr Ting is similarly positive about the OIP. “We will be interested to participate in the OIP again if there is a need to do an industry-wide search for a solution to address a unique problem. We recommend that other companies do so too, if they face problems that require innovative solutions,” he says.
 
 Learn [more](https://www.openinnovation.sg/imda?utm_medium=advertorial&utm_source=straitstimes&utm_campaign=capitaland_h3dynamics) about how you can be connected with a tech solution provider and scale your business.
+
+Source: [The Straits Times](https://www.straitstimes.com/singapore/imda-from-120-to-2-hours-real-estate-developer-makes-site-inspection-more-efficient-and-accurate-with-artificial-intelligence-ai)
