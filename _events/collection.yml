@@ -2,7 +2,8 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Networking Events/.keep
       - Upcoming Networking Events/Stammtisch in Singapore by German
         Entrepreneurship and IMDA PIXEL.md
-      - Upcoming Networking Events/.keep
+      - Upcoming Networking Events/AWS IMDA Joint Innovation Centre.md
       - Events Calendar.md

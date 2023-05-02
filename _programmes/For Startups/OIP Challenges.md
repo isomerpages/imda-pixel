@@ -9,6 +9,19 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
+### Open Innovation Call 18 
+
+Submit your proposals by 9 June 2023, 4pm +8GMT
+
+![Open Innovation Platform Challenge - Submit your proposals by 9 June 2023!](/images/Programmes/OIP%20Challenges/1200x630%20without%20cta.png)
+
+We are excited to partner with some of the prominent lifestyle retail brands such as **Stellar Lifestyle, Diageo** and&nbsp;**Yue Hwa Chinese Products Emporium Limited**&nbsp;to bring you a fresh batch of IMDA Open Innovation Platform challenges. With numerous opportunities to innovate in the retail space, you can transform the customer experience and take your business to new heights.
+
+In this call, we have also teamed up with **Mandai Wildlife Group** to create opportunities for you to improve data collection processes within wildlife reserves and rethink conservation efforts. As a tech trailblazer, your solutions can make a real difference in protecting our natural heritage.
+
+
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+
 
 ### Jurong Lake District Innovation Challenge
 Submit your proposals by 5 May 2023, 4pm +8GMT! 
