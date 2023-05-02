@@ -19,6 +19,7 @@ We are excited to partner with some of the prominent lifestyle retail brands suc
 
 In this call, we have also teamed up with **Mandai Wildlife Group** to create opportunities for you to improve data collection processes within wildlife reserves and rethink conservation efforts. As a tech trailblazer, your solutions can make a real difference in protecting our natural heritage.
 
+
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
 
