@@ -5,18 +5,18 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-### Matchmaking for Businesses: How SG firm found tech startup to scale digitally
+### Real Estate Developer Uses AI For Better Site Inspections
 
-##### Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies
+##### From 120 to 2 hours: Real estate developer makes site inspection more efficient and accurate with AI
 
-![](/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png)
+![](/images/Success%20stories/image%201.png)
 *Photo: Getty images*
 
-For homegrown insurance provider Assure General Insurance (AGI SG), digitalisation has been a game-changer. The firm does not offer its own insurance, but partners major insurers to match its customers with suitable policies from them, earning a commission for each sale.
+For real estate giant CapitaLand Development (CLD), artificial intelligence (AI) has transformed a crucial process of its business – inspection of its properties before launch.
 
-AGI SG’s employees used to spend hours manually keying potential clients’ details and requests into spreadsheets and checking its partners’ available policies to find the most suitable ones. This process was time-consuming, prone to human error and resulted in long response times to inquiries.
+In the past, the company’s project managers, contractors and other specialists walked the ground in individual and joint inspections to examine the quality of materials, scrutinise the workmanship of finished portions and pinpoint areas that can be perfected. The teams also met regularly to share images captured during these site walks to align on problems and solutions.
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-agi-smitsu/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-capitaland-h3-zoom/">Continue reading</a>
 
 ## More Stories
 
@@ -24,10 +24,19 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 		<tbody>
 			<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png">
+		</td>
+		<td style="vertical-align:middle;">Matchmaking for Businesses: How SG firm found tech startup to scale digitally
+			<br><b><a target="_blank" href="/stories/oip-agi-smitsu/">Tapping IMDA's pool of solution vendors on the Open Innovation Platform enabled insurance provider Assure General Insurance to find the right software partner in SMITSU, driving growth in both companies </a>
+		</b>
+		</td>
+    </tr>
+			<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/Stories%20of%20Innovation/Zuno/Zuno%20Carbon_1.jpg">
 		</td>
 		<td style="vertical-align:middle;">To Zero and Beyond with Zuno Carbon - Helping enterprises attain a green future
-			<br><b><a target="_blank" href="/stories/stories-of-innovation-zuno/">Sustainability is now a gold standard for all businesses but can you imagine spending hours typing hundred pieces of data into your spreadsheet manually? As an engineer, the pain of witnessing that pushed Hari Nair, Co-Founder and CEO of Zuno Carbon, to make a change in the sustainability field with his start-up’s inventions. </a>
+			<br><b><a target="_blank" href="/stories/stories-of-innovation-zuno/">Sustainability is now a gold standard for all businesses but can you imagine spending hours typing hundred pieces of data into your spreadsheet manually? As an engineer, the pain of witnessing that pushed&nbsp;Hari Nair, Co-Founder and CEO of&nbsp;Zuno Carbon, to make a change in the&nbsp;sustainability&nbsp;field with his start-up’s inventions. </a>
 		</b>
 		</td>
     </tr>
@@ -36,7 +45,7 @@ AGI SG’s employees used to spend hours manually keying potential clients’ de
 			<img src="/images%2FSuccess%20stories%2FStories%20of%20Innovation%2FHiverlab/Hiverlab-01.jpg">
 		</td>
 		<td style="vertical-align:middle;">Building a Transparent World - How Hiverlab empowers next generation digital infrastruture
-			<br><b><a target="_blank" href="/stories/stories-of-innovation-hiverlab/">Meet the team behind Jewel-rassic Quest, the large-scale augmented reality (AR) experience at Jewel Changi Airport, a project which has been recognized as a global benchmark - immersive tech start-up, Hiverlab. </a></b>
+			<br><b><a target="_blank" href="/stories/stories-of-innovation-hiverlab/">Meet the team behind Jewel-rassic Quest, the large-scale augmented reality (AR) experience at Jewel Changi Airport, a project which has been recognized as a global benchmark - immersive tech start-up,&nbsp;Hiverlab. </a></b>
 		</td>
     </tr>
 			<tr>
