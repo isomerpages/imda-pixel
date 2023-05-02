@@ -17,7 +17,9 @@ Submit your proposals by 9 June 2023, 4pm +8GMT
 
 We are excited to partner with some of the prominent lifestyle retail brands such as **Stellar Lifestyle, Diageo** and&nbsp;**Yue Hwa Chinese Products Emporium Limited**&nbsp;to bring you a fresh batch of IMDA Open Innovation Platform challenges. With numerous opportunities to innovate in the retail space, you can transform the customer experience and take your business to new heights.
 
-In this call, we have also teamed up with **Mandai Wildlife Group** to create opportunities for you to improve data collection processes within wildlife reserves and rethink conservation efforts. As a tech trailblazer, your solutions can make a real difference in protecting our natural heritage. Here's a sneak peek of some of the challenges: 
+In this call, we have also teamed up with **Mandai Wildlife Group** to create opportunities for you to improve data collection processes within wildlife reserves and rethink conservation efforts. As a tech trailblazer, your solutions can make a real difference in protecting our natural heritage. 
+
+Here's a sneak peek of some of the challenges: 
 <br>
 <table>
     <tbody>
