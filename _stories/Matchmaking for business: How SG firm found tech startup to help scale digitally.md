@@ -18,7 +18,7 @@ IMDA’s Open Innovation Platform aims to help companies with problem statements
 
 For homegrown insurance provider Assure General Insurance (AGI SG), digitalisation has been a game-changer. The firm does not offer its own insurance, but partners major insurers to match its customers with suitable policies from them, earning a commission for each sale.
 
-AGI SG’s employees used to spend hours manually keying potential clients’ details and requests into spreadsheets and checking its partners’ available policies to find the most suitable ones. This process was time-consuming, prone to human error and resulted in long response times to inquiries.&nbsp;
+AGI SG’s employees used to spend hours manually keying potential clients’ details and requests into spreadsheets and checking its partners’ available policies to find the most suitable ones. This process was time-consuming, prone to human error and resulted in long response times to inquiries.
 
 AGI SG was looking for a digital solution tailored to solve these problems and chanced upon the Infocomm Media Development Authority’s (IMDA) Open Innovation Platform (OIP), which connects businesses with digital challenges to relevant technology providers.
 
