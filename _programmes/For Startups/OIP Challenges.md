@@ -43,6 +43,16 @@ Here's a sneak peek of some of the challenges:
 					<br><br>In this challenge, they are looking for a safe and scalable technical solution to transport large volumnes of heavy goods via the staircases of SMRT train stations to retailers. 
         </td>
     </tr>
+				<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/1508924_diageo_logo_black-rgb.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Diageo </b>
+	        <br> As part of Diageo's extensive sustainability initiatives, they have started to phase out the use of cardboard boxes for luxury gifting and are seeking more sustainable solutions while retaining a premium experience for their customers. 
+					<br><br> In this challenge, they are looking for a luxury-led solution that elevates Johnnie Walker Blue Label's existing gifting experience, positioning them as the preferred gifting choice for consumers. 
+        </td>
+    </tr>
 </tbody></table>
 
 <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
