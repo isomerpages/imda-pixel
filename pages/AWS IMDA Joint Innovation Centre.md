@@ -51,7 +51,10 @@ RSVP your attendance to be part of the launch of AWS-IMDA Joint Innovation Centr
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Learning Smart - Deepracer Arcade: Get Rolling with Machine Learning</b>
-            <br>Developers of all skill levels can get hands on with machine learning through a cloud based 3D racing simulator, fully autonomous 1/18th scale race car driven by reinforcement learning, and global racing league. AWS DeepRacer gives you an interesting and fun way to get started with machine learning (ML). Try out the DeepRacer Arcade and race against an Artificial Intelligence (AI) avatar. Learn how organization use DeepRacer to prepare their employees for a digital-driven world.
+            <br>Race against machine and compete in a global racing league in the AWS DeepRacer Arcade!
+The AWS DeepRacer Arcade is a car racing game that teaches you the fundamentals of machine learning, more specifically, reinforcement learning. 
+During a quick tutorial, you'll learn the basic concept of reinforcement learning and how AWS DeepRacer leverages that to navigate autonomously around the track. 
+Submit your time to the global leaderboard to see how you stack up. Learn how organizations use DeepRacer to prepare their employees for a digital-driven world.
         </td>
     </tr> 
 <tr>
