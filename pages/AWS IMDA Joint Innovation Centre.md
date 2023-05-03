@@ -5,7 +5,7 @@ description: ""
 ---
 The AWS-IMDA Joint Innovation Centre (JIC) @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
 
-The centre will feature digital innovation that are built on AWS suite of services that inspire a smarter way of working, playing and living.The center is an extension of [AWS Singapore’s Cloud Innovation Centre](https://www.aboutamazon.sg/news/aws/aws-launches-aseans-first-cloud-innovation-center-in-singapore) (CIC), as well as IMDA’s [PIXEL](https://pixel.imda.gov.sg/) and [Open Innovation Platform](https://www.openinnovation.sg/imda) (OIP) initiatives.
+The centre will feature digital innovation that are built on AWS suite of services that inspire a smarter way of working, playing and living.The center is an extension of [AWS Singapore's Cloud Innovation Centre](https://aws.amazon.com/government-education/cloud-innovation-centers/) (CIC), as well as IMDA’s [PIXEL](https://pixel.imda.gov.sg/) and [Open Innovation Platform](https://www.openinnovation.sg/imda) (OIP) initiatives.
 
 
 
