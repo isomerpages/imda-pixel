@@ -25,7 +25,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
   </tr>
 	<tr>
 		<td>AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</td>
-			<td><a href="https://aws-saasxccelerateximda-chapter.splashthat.com/?trk=d60a4470-afcb-45c2-a2d8-23582ce4ebf9&amp;sc_channel=em" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+			<td><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 		<tr>
 		</tr><tr style="background-color: #f2f2f2;">
