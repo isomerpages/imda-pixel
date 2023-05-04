@@ -80,7 +80,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
             <br><img src="/images/Community/Incubatees/NERVOTECNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Working/Living – Digital Twin for Sustainability</b>
+            <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
             <br>Digital twins help you optimize building operations, increase production output, and improve equipment performance. With the ability to use existing data from multiple sources, create virtual representations of any physical environment, and combine existing 3D models with real-world data, you can now harness digital twins to create a holistic view of your operations faster and make it easier to automate carbon accounting and improve sustainability efforts and with less effort.
         </td>
     </tr> 
