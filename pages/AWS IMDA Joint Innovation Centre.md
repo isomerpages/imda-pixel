@@ -81,7 +81,8 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
-            <br>Digital twins help you optimize building operations, increase production output, and improve equipment performance. With the ability to use existing data from multiple sources, create virtual representations of any physical environment, and combine existing 3D models with real-world data, you can now harness digital twins to create a holistic view of your operations faster and make it easier to automate carbon accounting and improve sustainability efforts and with less effort.
+            <br>H3Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3Zoom.AI will be featuring a demo with a hardhat and camera that represents that Interior Inspector solution which is an off-the-shelf 360 cameras to provide automated defect detection, localization, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes. 
+					<br><br>See how IMDA Accredited Company- Virspatial Technologies leverages on the Digital Twins technology to create smart buildings. Virspatial Technologies will feature their energy management offerings which include sensors, a digital twin, and easy viewing of facility information, personnel intelligence, and key stats 
         </td>
     </tr> 
 <tr>
@@ -99,7 +100,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living– Voice Authentication Safety</b>
-            <br>Witness firsthand the power of voice for driving security and customer experience in consumer applications, while also observing Pindrop’s unmatched ability to authenticate legitimate users while detecting bad actors, recorded voices, and deepfakes. .
+            <br>Witness firsthand the power of voice for driving security and customer experience in consumer applications, while also observing Pindrop’s unmatched ability to authenticate legitimate users while detecting bad actors, recorded voices, and deepfakes. Pindrop is an example of a successful company that benefited from both AWS and IMDA programs to start their business in Singapore. Founded in 2012 and based in Atlanta, Pindrop came to Singapore around 2022 and is part of AWS ISV Accelerate Partner Program and it is one of IMDA’s Accredited companies
         </td>
     </tr> 
 <tr>
@@ -108,7 +109,9 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
-            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud. This game is a fun way to learn how important it is to automate the security in the cloud. 
+            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud – AWS users must determine the amount of configuration work that they perform as part of their security responsibilities. This game is a fun way to learn how important it is to automate the security in the cloud. 
         </td>
     </tr> 
 </tbody></table>
+
+###### Any questions? Feel free to contact:  farmji@amazon.com
