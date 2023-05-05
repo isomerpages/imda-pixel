@@ -36,6 +36,43 @@ Be among the first to witness the innovation powered by AWS. Explore the space a
 
 Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Programme</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #f2f2f2;">10.30am - 11.00am</td>
+      <td style="background-color: #f2f2f2;">Registration </td>
+    </tr>
+    <tr>
+      <td>11.00am - 11.20am</td>
+      <td>Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2;">11.20am - 12.00pm</td>
+      <td style="background-color: #f2f2f2;">Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
+    </tr>
+    <tr>
+      <td>Row 4, Column 1</td>
+      <td>Row 4, Column 2</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f2f2f2;">Row 5, Column 1</td>
+      <td style="background-color: #f2f2f2;">Row 5, Column 2</td>
+    </tr>
+    <tr>
+      <td>Row 6, Column 1</td>
+      <td>Row 6, Column 2</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 **Programme:**
 
 10.30am - 11.00am: Registration at Level 1<br>
