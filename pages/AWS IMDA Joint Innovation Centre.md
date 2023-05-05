@@ -57,32 +57,19 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
       <td style="background-color: #f2f2f2;">Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
     </tr>
     <tr>
-      <td>Row 4, Column 1</td>
-      <td>Row 4, Column 2</td>
+      <td>12.00pm - 12.15pm</td>
+      <td>Q&amp;A </td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">Row 5, Column 1</td>
-      <td style="background-color: #f2f2f2;">Row 5, Column 2</td>
+      <td style="background-color: #f2f2f2;">12.15pm - 1.00pm</td>
+      <td style="background-color: #f2f2f2;">**Hands-on activity:** Try out the interactive demos by AWS and companies from IMDA and AWS programmes</td>
     </tr>
     <tr>
-      <td>Row 6, Column 1</td>
-      <td>Row 6, Column 2</td>
+      <td>1:00pm onwards</td>
+      <td>Lunch Reception</td>
     </tr>
   </tbody>
 </table>
-
-
-
-**Programme:**
-
-10.30am - 11.00am: Registration at Level 1<br>
-11.00am - 11.20am: Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration.<br>
-11.20am - 12.00pm:
-Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
-12.00pm - 12.15pm: Q&amp;A open mic for audience<br>
-12.15pm - 1.00pm: Free and easy: Try out the interactive demos by AWS and companies from IMDA and AWS programmes!
-
-*Lunch will be provided
 
 **Fireside chat speakers:**
 <table>
