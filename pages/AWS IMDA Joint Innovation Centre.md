@@ -9,7 +9,6 @@ The centre will feature digital innovation that are built on AWS suite of servic
 
 
 
-
 <table>
 	<thead>
     <tr>
