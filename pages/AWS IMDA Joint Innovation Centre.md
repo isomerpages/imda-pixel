@@ -43,18 +43,18 @@ RSVP your attendance to be part of the launch of AWS-IMDA Joint Innovation Centr
 
 **Programme:**
 
-10.30am - 11.00am: Registration at Level 1
-
-11.00am - 11.20am: Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration. 
- 
+10.30am - 11.00am: Registration at Level 1<br>
+11.00am - 11.20am: Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration.<br>
 11.20am - 12.00pm:
-Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop 
-
-12.00pm - 12.15pm: Q&amp;A open mic for audience 
-
+Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
+12.00pm - 12.15pm: Q&amp;A open mic for audience<br>
 12.15pm - 1.00pm: Free and easy: Try out the interactive demos by AWS and companies from IMDA and AWS programmes!
 
 *Lunch will be provided
+
+**Fireside chat speakers:**
+
+
 
 <a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
 	
