@@ -3,16 +3,15 @@ title: AWS IMDA Joint Innovation Centre
 permalink: /events/upcoming-events/aws-jic/
 description: ""
 ---
-The AWS-IMDA Joint Innovation Centre (JIC) @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
+The IMDA-AWS Joint Innovation Centre (JIC) @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
 
 The centre will feature digital innovation that are built on AWS suite of services that inspire a smarter way of working, playing and living. The center is an extension of [AWS Singapore's Cloud Innovation Centre](https://aws.amazon.com/government-education/cloud-innovation-centers/) (CIC), as well as IMDA’s [PIXEL](https://pixel.imda.gov.sg/) and [Open Innovation Platform](https://www.openinnovation.sg/imda) (OIP) initiatives.
-
 
 
 <table>
 	<thead>
     <tr>
-      <th>AWS-JIC:</th>
+      <th>Read about IMDA x AWS Joint Innovation Centre:</th>
 			<th style="width: 200px;"></th>
     </tr>
   </thead>
@@ -23,12 +22,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
 			<td><a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 	<tr>
-		<td>AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation</td>
-			<td><a href="https://www.aboutamazon.sg/news/aws/aws-and-imda-launch-first-of-its-kind-joint-innovation-centre-in-southeast-asia-to-deepen-collaboration-and-industry-innovation" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
-  </tr>
-		<tr>
-		</tr><tr style="background-color: #f2f2f2;">
-      <td>IMDA &amp; AWS to Establish Joint Innovation Center in Singapore</td>
+		      <td>IMDA &amp; AWS to Establish Joint Innovation Center in Singapore</td>
 			<td><a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 </tbody></table>
