@@ -19,10 +19,10 @@ The centre will feature digital innovation that are built on AWS suite of servic
 		<tr>
 		</tr><tr style="background-color: #f2f2f2;">
       <td>IMDA and AWS launch Southeast Asia's first-of-its-kind Joint Innovation Centre.</td>
-			<td><a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+			<td><a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank;" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 	<tr>
-		      <td>IMDA &amp; AWS to Establish Joint Innovation Center in Singapore</td>
+		      <td>IMDA and AWS to Establish Joint Innovation Center in Singapore</td>
 			<td><a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 </tbody></table>
