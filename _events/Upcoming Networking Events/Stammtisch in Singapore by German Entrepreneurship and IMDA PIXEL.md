@@ -32,8 +32,6 @@ Look forward to an exciting evening of great networking, beer and good food!
  
 **German AI Startups of the Singapore (AI) Market Discovery Program**
 
-[**Cognigy**](https://www.cognigy.com/)&nbsp;is an enterprise software provider for Conversational AI automation. Cognigy.AI automates customer and employee communications, and enables enterprises to have natural language conversations on-premises and in SaaS environments.
-
 [**Halbestunde**](https://halbestunde.com/)&nbsp;is revolutionizing music education with their cutting-edge app, making use of SMR and OMR technology, that allows users to learn any music piece with 12 different instruments.
 
 [**Laife**](https://laifeplus.com/)&nbsp;uses AI to generate highly personalized music based on data points collected from users to alleviate mental health issues such as anxiety, depression, and insomnia.
