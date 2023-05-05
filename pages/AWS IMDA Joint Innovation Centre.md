@@ -27,12 +27,14 @@ The centre will feature digital innovation that are built on AWS suite of servic
   </tr>
 </tbody></table>
 
-#### Join the Joint Innovation Centre Launch Event
+#### Join us at the Joint Innovation Centre Launch Event
 
 ![](/images/Facilities/Co%20Working%20Space/blue-zone.jpg) 
 **Image for placement only**
 
-RSVP your attendance to be part of the launch of AWS-IMDA Joint Innovation Centre! Be the first to visit the space and witness innovation powered by AWS. Learn about the success stories of IMDA and AWS programs for large enterprises, SMEs and startups. Listen to success stories and possibilities of corporate innovation from our panelist from IMDA, AWS, CASE, PAND.AI, and PinDrop in our exciting fireside chat.
+Be among the first to witness the innovation powered by AWS. Explore the space and discover success stories of IMDA and AWS programs for enterprises, SMEs, and startups. 
+
+Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
 **Programme:**
 
