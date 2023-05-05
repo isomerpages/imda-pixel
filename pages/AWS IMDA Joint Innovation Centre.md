@@ -56,35 +56,41 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
 <table>
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/dconstruct.png">
+            <br><img src="/images/Events/AWS%20JIC/tim%20prugar.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Tim Prugar</b>
+            <br><b>Timothy Prugar, Pindrop</b>
             <br>Technical Advisor, APJ at Pindrop, a leading voice authentication and fraud prevention company with offices in Singapore, London, and Atlanta. A patent holder in call validation, Tim sits on the Board of Directors of the Communication Fraud Control Association, a global network of telecommunications professionals combating fraud in the telecom space. Previously, Tim was the VP of Operations and Product Owner at Next Caller, leading the design and implementation of Next Caller's real-time call authentication and fraud detection product lines while serving as a member of the Executive Leadership Team. Next Caller was acquired by Pindrop in 2021. Tim holds a Bachelors Degree from Princeton University and a Masters Degree from Columbia University. 
         </td>
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/h3dynamics.png">
+            <br><img src="/images/Events/AWS%20JIC/jx%20profile.jpeg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>H3 DYNAMICS</b>
-            <br>Hybrid remote-sensing robotics &amp; AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces.
-	    <br><br><a href="https://www.h3dynamics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Jia Xian, DataRobot</b>
+            <br>Jia Xian is the Regional Sales Leader at DataRobot Asia, responsible for overseeing the company's business in key Asian markets, including Singapore, SEA, Hong Kong, Taiwan, and India. With over 12 years of experience in sales and leadership roles across both emerging and established technology companies in Vendor and Distributor environments, he is a seasoned technopreneur. Prior to joining DataRobot, he held various greenfield roles at Salesforce (SaaS) and Oracle (IaaS / PaaS), focusing on building new business in untapped verticals and markets. He also spent seven years in cybersecurity, where he established the regional offices for DT Asia Group, a regional value-added distributor for IT security solutions.
         </td>
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/avidorobotics.png">
+            <br><img src="/images/Events/AWS%20JIC/shennoncase.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>AVIDO ROBOTICS</b>
-            <br>More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts.
-	    <br><br><a href="https://avido-robotics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>Shennon Khong, Consumers Association of Singapore (CASE)</b>
+            <br>Ms Shennon Khong heads the Strategic Development and CaseTrust Departments of the Consumers Association of Singapore (CASE). With more than 20 years of experience in corporate communications and stakeholder engagement in the public, private and non-profit sectors, Shennon has a strong passion in building partnerships and delivering value to stakeholders she works with. She has spearheaded several key projects in CASE which include the association’s digitalisation project through IMDA’s Open Innovation Platform, CaseTrust Accreditation Schemes for various industries such as Spa &amp; Wellness, Renovation, Motoring, as well as E-businesses that is slated to be launched soon..
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Events/AWS%20JIC/swpandaai.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Chuang Shin Wee, Pand.ai</b>
+            <br>Chuang Shin Wee is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI for the Southeast Asian market. Today, Pand.ai serves a number of Fortune 500 financial institutions across Asia including Allianz, CIMB, MSIG and Schroder. Prior to founding Pand.ai, Shin Wee was the Head of Digital Banking for Standard Chartered Bank in China, where he built a number of award-winning digital capabilities for the bank. In 2013, he was named “Top 50 Business Innovators in China” by CBN Weekly for inventing an ATM software that helped the bank to reduce the cost per lead by more than 90%. Shin Wee graduated with a First-Class Honours in Electronic &amp; Communication Engineering from the University of Bristol. He later attended the Massachusetts Institute of Technology (MIT) and completed an MBA from the Wharton School.
         </td>
     </tr> 
 	</tbody></table>
-
 
 <a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
 	
