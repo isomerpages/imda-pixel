@@ -27,7 +27,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
   </tr>
 </tbody></table>
 
-#### Joint Innovation Centre Launch Registration
+#### Join the Joint Innovation Centre Launch Event
 
 ![](/images/Facilities/Co%20Working%20Space/blue-zone.jpg) 
 **Image for placement only**
