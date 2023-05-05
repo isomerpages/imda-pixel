@@ -74,7 +74,7 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
 </table>
 
 
-**Fireside chat speakers:**
+#### Fireside chat speakers
 <table>
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
