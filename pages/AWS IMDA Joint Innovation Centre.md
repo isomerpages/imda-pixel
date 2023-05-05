@@ -53,7 +53,37 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
 *Lunch will be provided
 
 **Fireside chat speakers:**
-
+<table>
+<tbody><tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/dconstruct.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Tim Prugar</b>
+            <br>Technical Advisor, APJ at Pindrop, a leading voice authentication and fraud prevention company with offices in Singapore, London, and Atlanta. A patent holder in call validation, Tim sits on the Board of Directors of the Communication Fraud Control Association, a global network of telecommunications professionals combating fraud in the telecom space. Previously, Tim was the VP of Operations and Product Owner at Next Caller, leading the design and implementation of Next Caller's real-time call authentication and fraud detection product lines while serving as a member of the Executive Leadership Team. Next Caller was acquired by Pindrop in 2021. Tim holds a Bachelors Degree from Princeton University and a Masters Degree from Columbia University. 
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/h3dynamics.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>H3 DYNAMICS</b>
+            <br>Hybrid remote-sensing robotics &amp; AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces.
+	    <br><br><a href="https://www.h3dynamics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/avidorobotics.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>AVIDO ROBOTICS</b>
+            <br>More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts.
+	    <br><br><a href="https://avido-robotics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+	</tbody></table>
 
 
 <a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
