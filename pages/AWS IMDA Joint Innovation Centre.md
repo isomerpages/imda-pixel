@@ -36,6 +36,8 @@ Be among the first to witness the innovation powered by AWS. Explore the space a
 
 Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
+<a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br><br>
+
 <table>
   <thead>
     <tr>
@@ -45,31 +47,32 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: #f2f2f2;">10.30am - 11.00am</td>
-      <td style="background-color: #f2f2f2;">Registration </td>
+      <td>10.30am - 11.00am</td>
+      <td>Registration </td>
     </tr>
     <tr>
-      <td>11.00am - 11.20am</td>
-      <td>Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
+      <td style="background-color: #f2f2f2;">11.00am - 11.20am</td>
+      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">11.20am - 12.00pm</td>
-      <td style="background-color: #f2f2f2;">Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
+      <td>11.20am - 12.00pm</td>
+      <td>Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
     </tr>
     <tr>
-      <td>12.00pm - 12.15pm</td>
-      <td>Q&amp;A </td>
+      <td style="background-color: #f2f2f2;">12.00pm - 12.15pm</td>
+      <td style="background-color: #f2f2f2;">Q&amp;A </td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">12.15pm - 1.00pm</td>
-      <td style="background-color: #f2f2f2;">**Hands-on activity:** Try out the interactive demos by AWS and companies from IMDA and AWS programmes</td>
+      <td>12.15pm - 1.00pm</td>
+      <td>**Hands-on activity:** Try out the interactive demos by AWS and companies from IMDA and AWS programmes</td>
     </tr>
     <tr>
-      <td>1:00pm onwards</td>
-      <td>Lunch Reception</td>
+      <td style="background-color: #f2f2f2;">1:00pm onwards</td>
+      <td style="background-color: #f2f2f2;">Lunch Reception</td>
     </tr>
   </tbody>
 </table>
+
 
 **Fireside chat speakers:**
 <table>
@@ -111,7 +114,7 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr> 
 	</tbody></table>
 
-<a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
+
 	
 #### Exhibition Showcase
 <table>
