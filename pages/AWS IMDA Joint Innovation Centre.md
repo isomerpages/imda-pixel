@@ -19,11 +19,13 @@ The centre will feature digital innovation that are built on AWS suite of servic
 		<tr>
 		</tr><tr style="background-color: #f2f2f2;">
       <td>IMDA and AWS launch Southeast Asia's first-of-its-kind Joint Innovation Centre.</td>
-			<td><a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank;" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+			<td style="vertical-align: middle;">
+				<a href="https://pixel.imda.gov.sg/stories/aws-jic/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 	<tr>
 		      <td>IMDA and AWS to Establish Joint Innovation Center in Singapore</td>
-			<td><a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
+		<td style="vertical-align: middle;">
+			<a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px">Read on</a></td>
   </tr>
 </tbody></table>
 
@@ -36,6 +38,8 @@ Be among the first to witness the innovation powered by AWS. Explore the space a
 
 Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
+<a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br><br>
+
 <table>
   <thead>
     <tr>
@@ -45,46 +49,34 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: #f2f2f2;">10.30am - 11.00am</td>
-      <td style="background-color: #f2f2f2;">Registration </td>
+      <td>10.30am - 11.00am</td>
+      <td>Registration </td>
     </tr>
     <tr>
-      <td>11.00am - 11.20am</td>
-      <td>Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
+      <td style="background-color: #f2f2f2;">11.00am - 11.20am</td>
+      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">11.20am - 12.00pm</td>
-      <td style="background-color: #f2f2f2;">Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
+      <td>11.20am - 12.00pm</td>
+      <td>Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
     </tr>
     <tr>
-      <td>Row 4, Column 1</td>
-      <td>Row 4, Column 2</td>
+      <td style="background-color: #f2f2f2;">12.00pm - 12.15pm</td>
+      <td style="background-color: #f2f2f2;">Q&amp;A </td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">Row 5, Column 1</td>
-      <td style="background-color: #f2f2f2;">Row 5, Column 2</td>
+      <td>12.15pm - 1.00pm</td>
+			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes</td>
     </tr>
     <tr>
-      <td>Row 6, Column 1</td>
-      <td>Row 6, Column 2</td>
+      <td style="background-color: #f2f2f2;">1:00pm onwards</td>
+      <td style="background-color: #f2f2f2;">Lunch Reception</td>
     </tr>
   </tbody>
 </table>
 
 
-
-**Programme:**
-
-10.30am - 11.00am: Registration at Level 1<br>
-11.00am - 11.20am: Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration.<br>
-11.20am - 12.00pm:
-Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
-12.00pm - 12.15pm: Q&amp;A open mic for audience<br>
-12.15pm - 1.00pm: Free and easy: Try out the interactive demos by AWS and companies from IMDA and AWS programmes!
-
-*Lunch will be provided
-
-**Fireside chat speakers:**
+#### Fireside chat speakers
 <table>
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
@@ -92,7 +84,7 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Timothy Prugar, Pindrop</b>
-            <br>Timothy Prugar is a Technical Advisor, APJ at Pindrop, a leading voice authentication and fraud prevention company with offices in Singapore, London, and Atlanta. A patent holder in call validation, Tim sits on the Board of Directors of the Communication Fraud Control Association, a global network of telecommunications professionals combating fraud in the telecom space. Previously, Tim was the VP of Operations and Product Owner at Next Caller, leading the design and implementation of Next Caller's real-time call authentication and fraud detection product lines while serving as a member of the Executive Leadership Team. Next Caller was acquired by Pindrop in 2021. Tim holds a Bachelors Degree from Princeton University and a Masters Degree from Columbia University. 
+            <br><br>Timothy Prugar is a Technical Advisor, APJ at Pindrop, a leading voice authentication and fraud prevention company with offices in Singapore, London, and Atlanta. A patent holder in call validation, Tim sits on the Board of Directors of the Communication Fraud Control Association, a global network of telecommunications professionals combating fraud in the telecom space.
         </td>
     </tr> 
 <tr>
@@ -101,7 +93,7 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Jia Xian, DataRobot</b>
-            <br>Jia Xian is the Regional Sales Leader at DataRobot Asia, responsible for overseeing the company's business in key Asian markets, including Singapore, SEA, Hong Kong, Taiwan, and India. With over 12 years of experience in sales and leadership roles across both emerging and established technology companies in Vendor and Distributor environments, he is a seasoned technopreneur. Prior to joining DataRobot, he held various greenfield roles at Salesforce (SaaS) and Oracle (IaaS / PaaS), focusing on building new business in untapped verticals and markets. He also spent seven years in cybersecurity, where he established the regional offices for DT Asia Group, a regional value-added distributor for IT security solutions.
+            <br><br>Jia Xian is the Regional Sales Leader at DataRobot Asia, responsible for overseeing the company's business in key Asian markets, including Singapore, SEA, Hong Kong, Taiwan, and India. With over 12 years of experience in sales and leadership roles across both emerging and established technology companies in Vendor and Distributor environments, he is a seasoned technopreneur. 
         </td>
     </tr> 
 <tr>
@@ -110,7 +102,7 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Shennon Khong, Consumers Association of Singapore (CASE)</b>
-            <br>Ms Shennon Khong heads the Strategic Development and CaseTrust Departments of the Consumers Association of Singapore (CASE). With more than 20 years of experience in corporate communications and stakeholder engagement in the public, private and non-profit sectors, Shennon has a strong passion in building partnerships and delivering value to stakeholders she works with. She has spearheaded several key projects in CASE which include the association’s digitalisation project through IMDA’s Open Innovation Platform, CaseTrust Accreditation Schemes for various industries such as Spa &amp; Wellness, Renovation, Motoring, as well as E-businesses that is slated to be launched soon..
+            <br><br>Ms Shennon Khong heads the Strategic Development and CaseTrust Departments of the Consumers Association of Singapore (CASE). With more than 20 years of experience in corporate communications and stakeholder engagement in the public, private and non-profit sectors, Shennon has a strong passion in building partnerships and delivering value to stakeholders she works with. 
         </td>
     </tr> 
 <tr>
@@ -119,12 +111,12 @@ Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop <br>
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Chuang Shin Wee, Pand.ai</b>
-            <br>Chuang Shin Wee is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI for the Southeast Asian market. Today, Pand.ai serves a number of Fortune 500 financial institutions across Asia including Allianz, CIMB, MSIG and Schroder. Prior to founding Pand.ai, Shin Wee was the Head of Digital Banking for Standard Chartered Bank in China, where he built a number of award-winning digital capabilities for the bank. In 2013, he was named “Top 50 Business Innovators in China” by CBN Weekly for inventing an ATM software that helped the bank to reduce the cost per lead by more than 90%. Shin Wee graduated with a First-Class Honours in Electronic &amp; Communication Engineering from the University of Bristol. He later attended the Massachusetts Institute of Technology (MIT) and completed an MBA from the Wharton School.
+            <br><br>Chuang Shin Wee is the Founder and CEO of Pand.ai, a Singapore-headquartered specialist in conversational AI for the Southeast Asian market. Today, Pand.ai serves a number of Fortune 500 financial institutions across Asia including Allianz, CIMB, MSIG and Schroder. Prior to founding Pand.ai, Shin Wee was the Head of Digital Banking for Standard Chartered Bank in China, where he built a number of award-winning digital capabilities for the bank. 
         </td>
     </tr> 
 	</tbody></table>
 
-<a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br>
+
 	
 #### Exhibition Showcase
 <table>
@@ -164,7 +156,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
-            <br>H3Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3Zoom.AI will be featuring a demo with a hardhat and camera that represents that Interior Inspector solution which is an off-the-shelf 360 cameras to provide automated defect detection, localization, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes. 
+							<br>H3 Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3 Zoom.AI will be featuring a demo with a hardhat and camera that represents that Interior Inspector solution which is an off-the-shelf 360 camera to provide automated defect detection, localisation, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes. 
 					<br><br>See how IMDA Accredited Company- Virspatial Technologies leverages on the Digital Twins technology to create smart buildings. Virspatial Technologies will feature their energy management offerings which include sensors, a digital twin, and easy viewing of facility information, personnel intelligence, and key stats 
         </td>
     </tr> 
@@ -197,4 +189,4 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 </tbody></table>
 
-###### Any questions? Feel free to contact:  farmji@amazon.com
+##### Any questions? Reach out [here](mailto:farmjj@amazon.com)
