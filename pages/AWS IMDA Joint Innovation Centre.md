@@ -66,12 +66,11 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr>
     <tr>
       <td>12.15pm - 1.00pm</td>
-			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes</td>
+			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes<br><br>*Lunch Provided</td>
     </tr>
     <tr>
-      <td style="background-color: #f2f2f2;">1:00pm onwards</td>
-      <td style="background-color: #f2f2f2;">Lunch Reception</td>
-    </tr>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -156,8 +155,8 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
-							<br>H3 Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3 Zoom.AI will be featuring a demo with a hardhat and camera that represents that Interior Inspector solution which is an off-the-shelf 360 camera to provide automated defect detection, localisation, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes. 
-					<br><br>See how IMDA Accredited Company- Virspatial Technologies leverages on the Digital Twins technology to create smart buildings. Virspatial Technologies will feature their energy management offerings which include sensors, a digital twin, and easy viewing of facility information, personnel intelligence, and key stats 
+							<br>H3Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3Zoom.AI will be featuring an interactive demo with a camera mounted on a hardhat that represents the “Interior Inspector” solution which is an AI-Powered solution that enables site inspection and surveyors to complete commissioning workflows. 
+					<br><br>See how IMDA Accredited Company - Virspatial Technologies leverages on the “Digital Twins” technology to create smart buildings. Virspatial Technologies will feature a video of their energy management offerings which include sensors, a digital twin, and easy viewing of facility information, personnel intelligence, and key stats.
         </td>
     </tr> 
 <tr>
