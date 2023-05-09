@@ -121,7 +121,7 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
 <table>
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/ackio.png">
+            <br><img src="/images/Events/AWS%20JIC/learning%20smart%20deepracer%20arcade.jpeg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Learning Smart - Deepracer Arcade: Get Rolling with Machine Learning</b>
@@ -133,7 +133,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/embodied-sensing.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20pixel%20bot.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living - PIXEL Bot: Living with Robots</b>
@@ -142,7 +142,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/NERVOTECNEW.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20playing%20-%20interpretive%20art.jpeg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Playing – Interpretive Art with AWS’ Generative AI</b>
@@ -151,7 +151,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/NERVOTECNEW.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20working_living%20-%20digital%20twin.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
@@ -161,7 +161,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/NERVOTECNEW.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20working%20-%20workplace%20safety.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working– Workplace Safety and Inspection</b>
@@ -170,7 +170,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20voice%20authentication.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living– Voice Authentication Safety</b>
@@ -179,7 +179,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/HEROSNEW.png">
+            <br><img src="/images/Events/AWS%20JIC/smart%20cloud%20-%20chaos%20kitty.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
