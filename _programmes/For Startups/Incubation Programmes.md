@@ -35,7 +35,7 @@ Look forward to a suite of benefits with us!
 <a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a>
 
 # PIXEL - Huawei Cloud Incubator Programme
-![](/images/Programmes/Huawei%20Incubator%202.png)
+![](/images/Programmes/banner%202junehw.png)
 
 Huawei Cloud Startup Incubator Program (Spark Incubator) is accepting applications for the June 2023 cohort. This 5-month program, a partnership between IMDA PIXEL and Huawei Cloud, is tailored for early-stage startups in Singapore operating in the exciting fields of Web 3.0, Metaverse, AI-Generated Content, Enterprise SaaS and Fintech. 
 
@@ -50,7 +50,7 @@ The program offers a variety of benefits to aid in your success, including but n
 
 Startups can look forward to working closely with Huawei to set a strong milestone plan and further validating product-market fit. You will also get to learn from experienced industry experts &amp; entrepreneurs through masterclasses to enhance your GTM and fundraising strategy. Towards the end of the program, there is an expectation to raise institutional capital, facilitated by Demo Day, where our network of investors and business partners are invited.
 
-<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Apply now! Applications due on 12 May 2023.</a>
+<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Apply now! Applications due on 2 Jun 2023.</a>
 # SAP.iO Foundry Singapore Accelerator Programme
 ![SAP.io foundry accelerator progamme](/images/Programmes/SAPio_Banner.jpg)
 
