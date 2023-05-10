@@ -4,7 +4,7 @@ permalink: /community/incubatees/
 description: current incubatees start-ups
 ---
 # Incubatees
-### ARVR
+### ARVR/ Metaverse
 <table>
     <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
