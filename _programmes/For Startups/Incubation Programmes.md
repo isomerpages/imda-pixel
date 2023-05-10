@@ -50,7 +50,7 @@ The program offers a variety of benefits to aid in your success, including but n
 
 Startups can look forward to working closely with Huawei to set a strong milestone plan and further validating product-market fit. You will also get to learn from experienced industry experts &amp; entrepreneurs through masterclasses to enhance your GTM and fundraising strategy. Towards the end of the program, there is an expectation to raise institutional capital, facilitated by Demo Day, where our network of investors and business partners are invited.
 
-<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Apply now! Applications due on 12 May 2023.</a>
+<a href="https://www.f6s.com/huawei-incubator-2/about" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px"> Apply now! Applications due on 2 Jun 2023.</a>
 # SAP.iO Foundry Singapore Accelerator Programme
 ![SAP.io foundry accelerator progamme](/images/Programmes/SAPio_Banner.jpg)
 
