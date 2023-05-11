@@ -53,9 +53,10 @@ plugins:
 staging: https://staging.d3nusvu8peabav.amplifyapp.com
 prod: https://master.d3nusvu8peabav.amplifyapp.com
 shareicon: /images/pixel only logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: G-Y5HE8VNXS1
 linkedin-insights: ""
 resources_name: events
 future: true
+google_analytics_ga4: ""
