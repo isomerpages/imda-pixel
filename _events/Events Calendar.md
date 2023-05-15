@@ -98,22 +98,31 @@ Register today to achieve your professional goals.
 			<td>EPIC Games Virtual Production Challenge
 			</td><td>Closed Door</td>
     </tr>
-		 <tr style="background-color: #f2f2f2;">
+		<tr style="background-color: #f2f2f2;">
       <td>11</td>
+      <td>25 May (Thu)</td>
+      <td>2.00pm - 3.30pm</td>
+			<td><b>OIP Call 18:</b>
+<br> Mandai Co-Innovation Programme 2023 Reverse Pitching
+			</td>			
+			<td><a href="https://imda-pixel.virtualbreaker.com/event/394" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+    </tr>
+		 <tr>
+      <td>12</td>
 			<td>26 May (Fri)</td>
       <td>9.00am - 6.00pm</td>
 			<td>EPIC Games Virtual Production Challenge
 			</td><td>Closed Door</td>    
 		</tr>
-		<tr>
-      <td>12</td>
+		<tr style="background-color: #f2f2f2;">
+      <td>13</td>
       <td>31 May (Wed)</td>
 			<td>9.00am - 6.00pm</td>
       <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
 		</tr>
-			<tr style="background-color: #f2f2f2;">
-      <td>13</td>
+			<tr>
+      <td>14</td>
       <td>31 May (Wed)</td>
 			<td>6.00pm - 9.00pm</td>
 				<td><b>Networking Event</b><br>
