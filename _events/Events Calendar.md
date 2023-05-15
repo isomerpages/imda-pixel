@@ -76,36 +76,37 @@ Register today to achieve your professional goals.
 			<td>EPIC Games Virtual Production Challenge
 			</td><td>Closed Door</td>
     </tr>
-    <tr>
+		<tr>
       <td>8</td>
+      <td>23 May (Thu)</td>
+      <td>2.00pm - 3.30pm</td>
+			<td><b>OIP Call 18:</b>
+<br> Mandai Co-Innovation Programme 2023 Reverse Pitching
+			</td>			
+			<td><a href="https://imda-pixel.virtualbreaker.com/event/394" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td>9</td>
       <td>24 May (Wed)</td>
       <td>9.00am - 6.00pm</td>
 			<td>EPIC Games Virtual Production Challenge
 			</td><td>Closed Door</td>
     </tr>
       <tr>
-				</tr><tr style="background-color: #f2f2f2;">
-      <td>9</td>
+				</tr>
+		<tr>
+      <td>10</td>
       <td>24 May (Wed)</td>
 			<td>2.00pm - 5.00pm</td>
 			<td><b>PIXEL's Workshop</b><br>Design Thinking: Innovating for a Sustainable Empathic Future</td>
 			<td><a href="https://imda-pixel.virtualbreaker.com/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
-		 <tr>
-      <td>10</td>
+		 <tr style="background-color: #f2f2f2;">
+      <td>11</td>
       <td>25 May (Thu)</td>
       <td>9.00am - 6.00pm</td>
 			<td>EPIC Games Virtual Production Challenge
 			</td><td>Closed Door</td>
-    </tr>
-		<tr style="background-color: #f2f2f2;">
-      <td>11</td>
-      <td>25 May (Thu)</td>
-      <td>2.00pm - 3.30pm</td>
-			<td><b>OIP Call 18:</b>
-<br> Mandai Co-Innovation Programme 2023 Reverse Pitching
-			</td>			
-			<td><a href="https://imda-pixel.virtualbreaker.com/event/394" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
 		 <tr>
       <td>12</td>
