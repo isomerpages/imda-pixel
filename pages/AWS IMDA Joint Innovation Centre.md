@@ -188,7 +188,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="![](/images/Events/AWS%20JIC/simspace%20weaver.png)">
+            <br><img src="/images/Events/AWS%20JIC/simspace%20weaver.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b> Large-scale Crowd Simulations in AWS</b>
