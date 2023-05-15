@@ -188,11 +188,11 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20cloud%20-%20chaos%20kitty.jpg">
+            <br><img src="![](/images/Events/AWS%20JIC/simspace%20weaver.png)">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
-            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud – AWS users must determine the amount of configuration work that they perform as part of their security responsibilities. This game is a fun way to learn how important it is to automate the security in the cloud. 
+            <br><b> Large-scale Crowd Simulations in AWS</b>
+            <br>As the complexity of urban routines and major events increases, planning and managing of crowd flow become a necessity. Large crowds in high densities poses high risk of stampede. An agent-based simulation allows for evaluation of scenarios and mitigation strategies that cannot be efficiently validated in the physical environment. It provides a way to simulate scenarios to optimize new estate design, improve crowd flow, and prepare for dispersal during emergency situations. AWS SimSpace Weaver is a managed service offering from AWS which enables large-scale dynamic entities simulation. It speeds up realistic crowd simulations with human-like agent behavior, enabling faster decision-making. 
         </td>
     </tr> 
 </tbody></table>
