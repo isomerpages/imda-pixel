@@ -238,6 +238,36 @@ description: current incubatees start-ups
     </tr>  		
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/serial23.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Serial.co</b>
+            <br>SERIAL COMMUNICATION activities involve the use of advanced technologies such as virtual and augmented reality, mixed reality, and 3D graphics, providing clients, both individuals, and organisations across varying industries, engaging and interactive experiences. Recent clients include Meta, Meshminds, National Design Centre. Aside from client-focused projects, the creative team pushes the boundaries of what is possible with new platforms and technology in the digital space to create novel experiences and artistic projects.
+	    <br><br><a href="https://serial.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/xctuality%20may23.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Xctuality</b>
+            <br>Xctuality is an immersive technology company that is connecting people... anyone, everywhere. Our innovative B2B2C solutions lay the foundations for smart city ecosystems, and harness technology for the betterment of humanity. By developing the next evolution of social networking, we are cultivating collaborative environments beyond borders, and redefining the way humans connect.
+	    <br><br><a href="https://xctuality.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/smoblerstudiomay2023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Smobler Studio</b>
+            <br>Smobler is a metaverse architecture agency that specializes in IP creation, brand marketing and metaverse development. Smobler is focused on co-creating a Metaverse for Good based on its IDEALS (inclusion, diversity, equity, access, leadership and sustainability) as well as building a diverse ecosystem with a strong academy emphasis. Smobler offers Free to Use (or a Freemium business model) to onboard brands and services to pay it forward through its signature Metaverse for Good platform. 
+	    <br><br><a href="https://www.smoblerstudios.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ldr%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
