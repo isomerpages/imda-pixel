@@ -238,6 +238,36 @@ description: current incubatees start-ups
     </tr>  		
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/serial23.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Serial.co</b>
+            <br>SERIAL COMMUNICATION activities involve the use of advanced technologies such as virtual and augmented reality, mixed reality, and 3D graphics, providing clients, both individuals, and organisations across varying industries, engaging and interactive experiences. Recent clients include Meta, Meshminds, National Design Centre. Aside from client-focused projects, the creative team pushes the boundaries of what is possible with new platforms and technology in the digital space to create novel experiences and artistic projects.
+	    <br><br><a href="https://serial.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/xctuality%20may23.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Xctuality</b>
+            <br>Xctuality is an immersive technology company that is connecting people... anyone, everywhere. Our innovative B2B2C solutions lay the foundations for smart city ecosystems, and harness technology for the betterment of humanity. By developing the next evolution of social networking, we are cultivating collaborative environments beyond borders, and redefining the way humans connect.
+	    <br><br><a href="https://xctuality.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/smoblerstudiomay2023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Smobler Studio</b>
+            <br>Smobler is a metaverse architecture agency that specializes in IP creation, brand marketing and metaverse development. Smobler is focused on co-creating a Metaverse for Good based on its IDEALS (inclusion, diversity, equity, access, leadership and sustainability) as well as building a diverse ecosystem with a strong academy emphasis. Smobler offers Free to Use (or a Freemium business model) to onboard brands and services to pay it forward through its signature Metaverse for Good platform. 
+	    <br><br><a href="https://www.smoblerstudios.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ldr%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -362,6 +392,16 @@ description: current incubatees start-ups
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Garden Genesis</b>
+            <br>DNA-MILE (DNA-based Multiple InteLligences Evaluation) is a proprietary tool for early discovery of children's learning inclination to enhance learning effectiveness.
+	    <br><br><a href="https://www.gardengenesis.app/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -402,6 +442,16 @@ description: current incubatees start-ups
             <br><b>Techfox</b>
             <br>Development of am AI enabled robotics delivery system.
 	    <br><br><a href="http://techfox.com.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+     <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/aruviimay2023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Aruvii</b>
+            <br>Aruvii’s FAST3DIS™ is a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces. Our proprietary real-time 3D Perception AI technology converts raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications. FAST3DIS Software is sensor-agnostic and supports a wide range of 3D Vision Sensors such as 3D LiDARs, Depth Cameras and Time-of-Flight (ToF) sensors.
+	    <br><br><a href="https://aruvii.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
