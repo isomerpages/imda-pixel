@@ -392,6 +392,16 @@ description: current incubatees start-ups
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Garden Genesis</b>
+            <br>DNA-MILE (DNA-based Multiple InteLligences Evaluation) is a proprietary tool for early discovery of children's learning inclination to enhance learning effectiveness.
+	    <br><br><a href="https://www.gardengenesis.app/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -432,6 +442,16 @@ description: current incubatees start-ups
             <br><b>Techfox</b>
             <br>Development of am AI enabled robotics delivery system.
 	    <br><br><a href="http://techfox.com.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+     <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/aruviimay2023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>Aruvii</b>
+            <br>Aruvii’s FAST3DIS™ is a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces. Our proprietary real-time 3D Perception AI technology converts raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications. FAST3DIS Software is sensor-agnostic and supports a wide range of 3D Vision Sensors such as 3D LiDARs, Depth Cameras and Time-of-Flight (ToF) sensors.
+	    <br><br><a href="https://aruvii.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
