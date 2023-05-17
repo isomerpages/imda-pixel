@@ -54,11 +54,11 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr>
     <tr>
       <td style="background-color: #f2f2f2;">11.00am - 11.20am</td>
-      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
+      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre</td>
     </tr>
     <tr>
       <td>11.20am - 12.00pm</td>
-      <td>Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
+      <td>Fireside chat featuring CASE, DataRobot, PAND.AI and PinDrop</td>
     </tr>
     <tr>
       <td style="background-color: #f2f2f2;">12.00pm - 12.15pm</td>
