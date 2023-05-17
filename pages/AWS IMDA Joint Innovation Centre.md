@@ -3,7 +3,7 @@ title: AWS IMDA Joint Innovation Centre
 permalink: /events/upcoming-events/aws-jic/
 description: ""
 ---
-The IMDA-AWS Joint Innovation Centre (JIC) @ PIXEL is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
+The **IMDA-AWS Joint Innovation Centre (JIC) @ PIXEL** is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
 
 The centre will feature digital innovation that are built on AWS suite of services that inspire a smarter way of working, playing and living. The center is an extension of [AWS Singapore's Cloud Innovation Centre](https://aws.amazon.com/government-education/cloud-innovation-centers/) (CIC), as well as IMDA’s [PIXEL](https://pixel.imda.gov.sg/) and [Open Innovation Platform](https://www.openinnovation.sg/imda) (OIP) initiatives.
 
@@ -54,11 +54,11 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr>
     <tr>
       <td style="background-color: #f2f2f2;">11.00am - 11.20am</td>
-      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre and other collaboration</td>
+      <td style="background-color: #f2f2f2;">Introduction and launch of the AWS-IMDA Joint Innovation Centre</td>
     </tr>
     <tr>
       <td>11.20am - 12.00pm</td>
-      <td>Fireside chat featuring AWS, CASE, DataRobot, PAND.AI and PinDrop</td>
+      <td>Fireside chat featuring CASE, DataRobot, PAND.AI and PinDrop</td>
     </tr>
     <tr>
       <td style="background-color: #f2f2f2;">12.00pm - 12.15pm</td>
@@ -155,7 +155,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
-							<br>H3Zoom.AI was the winner for one of the innovation call from IMDA's Open Innovation Platform for a digital site inspection and defects management system solution. H3Zoom.AI will be featuring an interactive demo with a camera mounted on a hardhat that represents the “Interior Inspector” solution which is an AI-Powered solution that enables site inspection and surveyors to complete commissioning workflows. 
+							<br>Digital twins help you optimize building operations, increase production output, and improve equipment performance. With the ability to use existing data from multiple sources, create virtual representations of any physical environment, and combine existing 3D models with real-world data, you can now harness digital twins to create a holistic view of your operations faster and make it easier to automate carbon accounting and improve sustainability efforts and with less effort.
 					<br><br>See how IMDA Accredited Company - Virspatial Technologies leverages on the “Digital Twins” technology to create smart buildings. Virspatial Technologies will feature a video of their energy management offerings which include sensors, a digital twin, and easy viewing of facility information, personnel intelligence, and key stats.
         </td>
     </tr> 
