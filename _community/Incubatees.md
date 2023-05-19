@@ -504,7 +504,7 @@ description: current incubatees start-ups
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Gaitmetrics</b>
-            <br>Provides e-learning, mobile learning, AR, VR, MR and metaverse solutions through its proprietary platform to enable businesses to leverage immersive and interactive content to build experiential solutions.
+            <br>Uses radio frequency signals to generate imaging data to provide insights that can be interpreted about movements of people within a given environment space. An AI-powered and non-intrusive human monitoring system is developed based on human gait biometrics extracted from such radio frequency signals with plans to ride on the standardisation in IEEE802.11bf to leverage sensors data that could be available from any Wifi compliant Access Points.
 	    <br><br><a href="https://gaitmetrics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
