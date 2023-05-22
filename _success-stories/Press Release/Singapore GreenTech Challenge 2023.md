@@ -12,7 +12,7 @@ third_nav_title: Press Release
 ---
 ### Singapore GreenTech Challenge 2023 powered by Microsoft, IMDA and SGTech to accelerate nationwide innovation for a resilient and sustainable future
 
-![Singapore GreenTech Challenge 2023](/images/singapore%20greentech%20challenge%202023.jpg)
+![Singapore GreenTech Challenge 2023](/images/Success%20stories/singapore%20greentech%20challenge%202023.jpg)
 
 [_The challenge call for participation is now open till 28 April 2023_](https://www.openinnovation.sg/challenges)
 
