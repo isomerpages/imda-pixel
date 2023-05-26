@@ -133,7 +133,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20pixel%20bot.png">
+            <br><img src="/images/Events/AWS%20JIC/living%20bots.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living - PIXEL Bot: Living with Robots</b>
@@ -151,7 +151,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20working_living%20-%20digital%20twin.png">
+            <br><img src="/images/Events/AWS%20JIC/digital%20twins.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
@@ -161,7 +161,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20working%20-%20workplace%20safety.png">
+            <br><img src="/images/Events/AWS%20JIC/workplace%20safety%20and%20inspection.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working– Workplace Safety and Inspection</b>
@@ -170,7 +170,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20voice%20authentication.png">
+            <br><img src="/images/Events/AWS%20JIC/voice%20authentication.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living– Voice Authentication Safety</b>
@@ -179,7 +179,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
 	      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20cloud%20-%20chaos%20kitty.jpg">
+            <br><img src="/images/Events/AWS%20JIC/chaos%20kitty.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
