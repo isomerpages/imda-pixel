@@ -164,7 +164,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
             <br><img src="/images/Events/AWS%20JIC/workplace%20safety%20and%20inspection.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Working– Workplace Safety and Inspection</b>
+            <br><b>Smart Working - Workplace Safety and Inspection</b>
             <br>Interior Inspector uses off-the-shelf 360 cameras to provide automated defect detection, localization, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes.
         </td>
     </tr> 
