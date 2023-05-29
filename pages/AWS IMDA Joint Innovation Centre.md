@@ -36,7 +36,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
 
 Be among the first to witness the innovation powered by AWS. Explore the space and discover success stories of IMDA and AWS programs for enterprises, SMEs, and startups. 
 
-Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
+Join our panelists from AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
 <a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br><br>
 
@@ -66,7 +66,7 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr>
     <tr>
       <td>12.15pm - 1.00pm</td>
-			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes<br><br>*Lunch Provided</td>
+			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes<br><br>*Lunch will be provided</td>
     </tr>
     <tr>
       <td>
