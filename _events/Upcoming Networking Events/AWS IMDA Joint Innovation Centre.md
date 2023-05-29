@@ -2,6 +2,7 @@
 title: AWS IMDA Joint Innovation Centre
 permalink: /events/upcoming-events/aws-jic/
 description: ""
+third_nav_title: Upcoming Networking Events
 ---
 The **IMDA-AWS Joint Innovation Centre (JIC) @ PIXEL** is AWS’s first JIC in Southeast Asia, serving as an innovation hub for enterprises, startups and governments in Singapore and Southeast Asia. 
 
@@ -36,7 +37,7 @@ The centre will feature digital innovation that are built on AWS suite of servic
 
 Be among the first to witness the innovation powered by AWS. Explore the space and discover success stories of IMDA and AWS programs for enterprises, SMEs, and startups. 
 
-Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
+Join our panelists from AWS, CASE, PAND.AI, and PinDrop in a dynamic fireside chat to learn about corporate innovation success stories and possibilities.
 
 <a href="https://form.gov.sg/644b715d664c1b00127030e1" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Register Here</a><br><br>
 
@@ -66,7 +67,7 @@ Join our panelists from IMDA, AWS, CASE, PAND.AI, and PinDrop in a dynamic fires
     </tr>
     <tr>
       <td>12.15pm - 1.00pm</td>
-			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes<br><br>*Lunch Provided</td>
+			<td><b>Hands-on activity:</b> Try out the interactive demos by AWS and companies from IMDA and AWS programmes<br><br>*Lunch will be provided</td>
     </tr>
     <tr>
       <td>
@@ -133,7 +134,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20pixel%20bot.png">
+            <br><img src="/images/Events/AWS%20JIC/living%20bots.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Living - PIXEL Bot: Living with Robots</b>
@@ -151,7 +152,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20working_living%20-%20digital%20twin.png">
+            <br><img src="/images/Events/AWS%20JIC/digital%20twins.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smart Working/Living – Digital Twins for Sustainability</b>
@@ -161,29 +162,29 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20working%20-%20workplace%20safety.png">
+            <br><img src="/images/Events/AWS%20JIC/workplace%20safety%20and%20inspection.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Working– Workplace Safety and Inspection</b>
+            <br><b>Smart Working - Workplace Safety and Inspection</b>
             <br>Interior Inspector uses off-the-shelf 360 cameras to provide automated defect detection, localization, and reporting within internal building spaces for facilities management and construction site personnel to enhance quality assessment and periodic maintenance processes.
         </td>
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20living%20-%20voice%20authentication.png">
+            <br><img src="/images/Events/AWS%20JIC/voice%20authentication.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Living– Voice Authentication Safety</b>
-            <br>Witness firsthand the power of voice for driving security and customer experience in consumer applications, while also observing Pindrop’s unmatched ability to authenticate legitimate users while detecting bad actors, recorded voices, and deepfakes. Pindrop is an example of a successful company that benefited from both AWS and IMDA programs to start their business in Singapore. Founded in 2012 and based in Atlanta, Pindrop came to Singapore around 2022 and is part of AWS ISV Accelerate Partner Program and it is one of IMDA’s Accredited companies
+            <br><b>Smart Living - Voice Authentication Safety</b>
+            <br>Witness firsthand the power of voice for driving security and customer experience in consumer applications, while also observing Pindrop’s unmatched ability to authenticate legitimate users while detecting bad actors, recorded voices, and deepfakes. Pindrop is an example of a successful company that benefited from both AWS and IMDA programmes to start their business in Singapore. Founded in 2012 and based in Atlanta, Pindrop came to Singapore around 2022 and is part of AWS ISV Accelerate Partner Program and it is one of IMDA’s Accredited companies. 
         </td>
     </tr> 
 <tr>
 	      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Events/AWS%20JIC/smart%20cloud%20-%20chaos%20kitty.jpg">
+            <br><img src="/images/Events/AWS%20JIC/chaos%20kitty.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Cloud– Chaos Kitty!: Cloud Security Made Fun and Easy</b>
-            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud – AWS users must determine the amount of configuration work that they perform as part of their security responsibilities. This game is a fun way to learn how important it is to automate the security in the cloud. 
+            <br><b>Smart Cloud - Chaos Kitty!: Cloud Security Made Fun and Easy</b>
+            <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud - AWS users must determine the amount of configuration work that they perform as part of their security responsibilities. This game is a fun way to learn how important it is to automate the security in the cloud. 
         </td>
     </tr> 
 <tr>
