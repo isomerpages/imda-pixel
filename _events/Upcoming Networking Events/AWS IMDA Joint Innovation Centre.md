@@ -183,7 +183,7 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
             <br><img src="/images/Events/AWS%20JIC/chaos%20kitty.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smart Cloud - Chaos Kitty!: Cloud Security Made Fun and Easy</b>
+            <br><b>Smart Cloud - Chaos Kitty: Cloud Security Made Fun and Easy</b>
             <br>Chaos Kitty is a security chaos engineering game that puts customers in the seat of an incident responder. Security and Compliance is a shared responsibility between AWS and the customer. While AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud, AWS users are responsible of the Security in the Cloud - AWS users must determine the amount of configuration work that they perform as part of their security responsibilities. This game is a fun way to learn how important it is to automate the security in the cloud. 
         </td>
     </tr> 
