@@ -1,6 +1,6 @@
 ---
 title: "AI in Action: Digital Storytelling with Ease"
-permalink: https://www.imda-pixel.virtualbreaker.com/event/390
+permalink: https://www.imda-pixel.sg/event/390
 date: 2023-05-17
 layout: post
 description: In this workshop, participants will refresh their knowledge on
