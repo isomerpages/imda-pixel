@@ -143,7 +143,7 @@ Register today to achieve your professional goals.
 		
       <tr><td>16</td>
       <td>30 Jun (Fri)</td>
-			<td>9.00pm - 6.00pm</td>
+			<td>9.00am - 6.00pm</td>
 			<td>Epic Games Virtual Production Challenge 
 			</td><td>Closed Door</td>
     </tr>
