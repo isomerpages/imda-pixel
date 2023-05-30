@@ -1,7 +1,7 @@
 ---
 title: Sustainability in the Digital Industry
-permalink: /events/arvr/permalink/
-date: 2023-05-30
+permalink: 
+date: 2023-06-22
 layout: post
 description: ""
 image: ""
