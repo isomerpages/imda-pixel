@@ -36,26 +36,27 @@ Register today to achieve your professional goals.
     </tr>
     <tr>
       <td>2</td>
-      <td>4 May (Thu)</td>
+      <td>5 Jun (Mon)</td>
 			<td>9.00am - 6.00pm</td>
-      <td>D.Camp Global Demo Day</td>
+      <td>AWS - PIXEL JIC Launch </td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>3</td>
-      <td>12 May (Fri)</td>
+      <td>7 Jun (Wed)</td>
 			<td>9.00am - 6.00pm</td>
-      <td>IMDA x SIFMA Workshop and Networking event</td>
+      <td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>17 May (Wed)</td>
-			<td>10.00am - 2.00pm
-      </td><td>Future Proofing Your Stratey in the Age of AI by ASUS x NVIDIA</td>
-			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px;vertical-align:middle">Register</a><br><br></td>
+      <td>7 Jun (Wed)</td>
+			<td>9.00am - 6.00pm
+      </td><td>Networking with Colour in Tech &amp; UK Metaverse Entrepreneurs</td>
+			<td>Closed Door</td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
+    </tr><tr style="background-color: #f2f2f2;">
       <td>5</td>
       <td>17 May (Wed)</td>
 			<td>2.00pm - 5.00pm
@@ -237,7 +238,7 @@ Register today to achieve your professional goals.
       <td>13</td>
       <td>31 May (Wed)</td>
 			<td>9.00am - 6.00pm</td>
-      <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
+      <td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
 		</tr>
 			<tr>
