@@ -1,7 +1,7 @@
 ---
-title: "Beyond Reality: ARVR Unlocked"
-permalink: /events/design-thinking/permalink/
-date: 2023-05-30
+title: "Beyond Reality: ARV/R Unlocked"
+permalink: https://www.imda-pixel.sg/event/395
+date: 2023-06-14
 layout: post
 description: ""
 image: ""
