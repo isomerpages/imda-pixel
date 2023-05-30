@@ -54,8 +54,7 @@ Register today to achieve your professional goals.
 			<td>9.00am - 6.00pm
       </td><td>Networking with Colour in Tech &amp; UK Metaverse Entrepreneurs</td>
 			<td>Closed Door</td>
-    </tr>
-    <tr>
+    </tr><tr>
     </tr><tr style="background-color: #f2f2f2;">
       <td>5</td>
       <td>12 Jun (Mon)</td>
@@ -100,8 +99,7 @@ Register today to achieve your professional goals.
 			<td>Huawei Incubator Workshop
 			</td><td>Closed Door</td>
     </tr>
-      <tr>
-		 </tr><tr style="background-color: #f2f2f2;">
+		 <tr style="background-color: #f2f2f2;">
       <td>11</td>
       <td>20 Jun (Tue)</td>
       <td>12.00pm - 6.00pm</td>
@@ -125,15 +123,15 @@ Register today to achieve your professional goals.
 <br> Sustainability in the Digital Industry
 			</td>			
 			<td><a href="https://imda-pixel.sg/event/396" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td> 
-	      </tr><tr>
+	</tr>
+	<tr>
       <td>14</td>
       <td>27 Jun (Tue)</td>
       <td>10.30am - 2.00pm</td>
 			<td>Smobler x The Sandbox Partner Networking
 			</td><td>Closed Door</td>
     </tr>
-		      <tr>
-		 </tr><tr style="background-color: #f2f2f2;">
+		 <tr style="background-color: #f2f2f2;">
       <td>15</td>
       <td>28 Jun (Wed)</td>
       <td>9.00am - 6.00pm</td>
