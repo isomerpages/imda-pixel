@@ -138,14 +138,12 @@ Register today to achieve your professional goals.
 			<td>EInvoice InvoiceNow Enterprise Clinic
 			</td><td>Closed Door</td>
     </tr>
-		
       <tr><td>16</td>
       <td>30 Jun (Fri)</td>
 			<td>9.00am - 6.00pm</td>
 			<td>Epic Games Virtual Production Challenge 
 			</td><td>Closed Door</td>
     </tr>
-    
   </tbody>
 </table>
 
