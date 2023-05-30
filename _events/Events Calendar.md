@@ -103,33 +103,51 @@ Register today to achieve your professional goals.
       <tr>
 		 </tr><tr style="background-color: #f2f2f2;">
       <td>11</td>
-      <td>20 Jun (Thu)</td>
+      <td>20 Jun (Tue)</td>
       <td>12.00pm - 6.00pm</td>
 			<td>Savant Degrees x Lippo Workshop
 			</td><td>Closed Door</td>
     </tr>
 		 <tr>
       <td>12</td>
-			<td>26 May (Fri)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
-			</td><td>Closed Door</td>    
+			<td>21 Jun (Wed)</td>
+      <td>9.30am - 12.30pm</td>
+			<td><b>PIXEL's Workshop</b>
+<br> Circular Design – Designing businesses and products to create no waste
+			</td>			
+			<td><a href="https://imda-pixel.sg/event/397" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td> 
 		</tr>
 		<tr style="background-color: #f2f2f2;">
       <td>13</td>
-      <td>20 Jun (Wed)</td>
-			<td>9.00am - 6.00pm</td>
-      <td>eInvoicing - InvoiceNow Enterprise Clinic</td>
-			<td>Closed Door</td>
-		</tr>
-			<tr>
+      <td>22 Jun (Thu)</td>
+			<td>2.00pm - 3.00pm</td>
+			<td><b>PIXEL's Webinar</b>
+<br> Sustainability in the Digital Industry
+			</td>			
+			<td><a href="https://imda-pixel.sg/event/396" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td> 
+	      </tr><tr>
       <td>14</td>
-      <td>31 May (Wed)</td>
-			<td>6.00pm - 9.00pm</td>
-				<td><b>Networking Event</b><br>
-						Stammtisch in Singapore (Special Edition) by German Entrepreneurship and IMDA PIXEL</td>
-			<td><a href="https://www.german-entrepreneurship.com/event/stammtisch-singapore-may2023/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+      <td>27 Jun (Tue)</td>
+      <td>10.30am - 2.00pm</td>
+			<td>Smobler x The Sandbox Partner Networking
+			</td><td>Closed Door</td>
     </tr>
+		      <tr>
+		 </tr><tr style="background-color: #f2f2f2;">
+      <td>15</td>
+      <td>28 Jun (Wed)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EInvoice InvoiceNow Enterprise Clinic
+			</td><td>Closed Door</td>
+    </tr>
+		
+      <tr><td>16</td>
+      <td>30 Jun (Fri)</td>
+			<td>9.00pm - 6.00pm</td>
+			<td>Epic Games Virtual Production Challenge 
+			</td><td>Closed Door</td>
+    </tr>
+    
   </tbody>
 </table>
 
