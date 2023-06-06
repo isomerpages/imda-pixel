@@ -1,7 +1,7 @@
 ---
 title: The Value of Immersive Experiences Unveiled
-permalink: /events/arvr/permalink/
-date: 2023-06-06
+permalink: https://imda-pixel.sg/event/400
+date: 2023-07-26
 layout: post
 description: ""
 image: ""
