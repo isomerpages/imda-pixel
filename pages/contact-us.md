@@ -3,7 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: PIXEL
-/images/Events/AWS%20JIC/awsroom.jpg  
 locations:
   - address:
       - 10 Central Exchange Green
