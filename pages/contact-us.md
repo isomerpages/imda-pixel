@@ -3,7 +3,7 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: PIXEL
-'<br><img src="/images/Facilities/Overview/pixelbuilding.jpg">
+overview: '<br><img src="/images/Facilities/Overview/pixelbuilding.jpg">
 locations:
   - address:
       - 10 Central Exchange Green
