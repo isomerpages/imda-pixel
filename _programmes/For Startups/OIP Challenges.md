@@ -29,8 +29,8 @@ Here’s a sneak peek of the challenge:
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Personal Data Protection Commission (PDPC)</b>
-	        <br>The personal Data Protection Commission (PDPC) serves as Singapore's main authority in matters relating to personal data protection and administers and enforces the Personal Data Protection Act (PDPA).
-					<br><br> In this challenge, they are looking for prototyping of privacy preserving age estimation solutions that uses types of data other than the solutions provided in the market
+	        <br>The Personal Data Protection Commission (PDPC) serves as Singapore's main authority in matters relating to personal data protection and administers and enforces the Personal Data Protection Act (PDPA).
+					<br><br> The PDPC challenge aims to explore innovative approaches that can offer organisations more options for precise age estimation of individuals, especially children, while also taking into account privacy concerns.
         </td>
     </tr>
 </tbody></table>
