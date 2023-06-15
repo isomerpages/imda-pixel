@@ -18,3 +18,14 @@ The AGVs take the safest and most efficient pathway through the facility and ave
 
 ![](/images/Success%20stories/oipamgen2.jpg)
 *Amgen Singapore Manufacturing’s information systems director Vincent Tan (far right) working together with Movel AI’s chief executive Abhishek Gupta to optimise the AGV prototype.*
+
+“Through the use of sensors and cameras, the AGVs can increase productivity and reduce cost by eliminating accidental damage caused by human operators,” he adds.
+
+“Most importantly, by minimising human errors, they prevent injuries and improve our workers’ safety, especially in tight and confined spaces. The fact that the AGVs are electric vehicles, and thus more sustainable, is another big plus,”
+he says.
+
+Amgen partnered with local start-up Movel AI, which specialises in robotics navigation solutions for single robots and
+fleets of over 100 of them, to develop the solution. It found Movel AI through the Infocomm Media Development Authority’s (IMDA) Open Innovation Platform (OIP). The OIP is a virtual crowd-sourcing platform that connects businesses facing challenges with relevant technology providers.
+
+“We turned to the OIP because it offers easier and faster crowdsourcing and ensures the right fit of vendors from a diverse pool of technology providers.
+
