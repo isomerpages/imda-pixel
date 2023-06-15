@@ -16,7 +16,7 @@ At biotech giant Amgen’s biomanufacturing facility in Tuas, smart vehicles wit
 
 By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen raised productivity and optimised manpower use, compared to the previous method of using human-operated forklifts to move the totes.
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-capitaland-h3-zoom/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-amgen/">Continue reading</a>
 
 ## More Stories
 
