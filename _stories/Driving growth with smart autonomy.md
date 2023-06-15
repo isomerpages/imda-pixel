@@ -3,7 +3,7 @@ title: Driving growth with smart autonomy
 permalink: /stories/oip-amgen/
 description: ""
 ---
-### Driving growth with smart autonomy
+### Driving Growth With Smart Autonomy
 
 ###### With support from robotics navigation specialist Movel AI, biotech firm Amgen is using smart vehicles in its factory to boost worker safety and efficiency
 
@@ -29,3 +29,22 @@ fleets of over 100 of them, to develop the solution. It found Movel AI through t
 
 “We turned to the OIP because it offers easier and faster crowdsourcing and ensures the right fit of vendors from a diverse pool of technology providers.
 
+IMDA guided us through a structured process to better define our needs, objectives and parameters. It also worked closely with us to market our challenge, and to scout and connect us with the best ideas from the network of solutions providers,” Tan says.
+
+Amgen joined the OIP’s innovation call in June 2021 and was paired with Movel AI four months later. The AGV project is in its pilot phase. It was launched in December 2022.
+
+##### Bringing Businesses to the Next Level
+
+For Movel AI, which was founded in 2016, the partnership with Amgen has been equally impactful.
+
+“It gave us the opportunity to innovate and stretch ourselves,” says Movel AI’s chief executive Abhishek Gupta. 
+
+It sourced the AGVs from another company and customised navigation solutions for them to meet Amgen’s needs. Movel AI’s flagship product, called Seirios, improves robotic navigation with simultaneous localisation and mapping technology (SLAM) so that robots can understand their environment more quickly. Users can track the robots’ movement in realtime through a sleek user interface accessible via any device, including desktops, tablets and mobile phones.
+
+Using Seirios, the AGVs’ movements are also accurate to within 2cm, crucial to navigating the Amgen factory’s narrow spaces. This precision extends to the AGVs’ forklifts. “As the forklift goes underneath the tote to lift it up, it has to be very exact, or it will hit the tote and cause an accident.”
+
+Gupta adds that the OIP is a boon to start-ups and smaller businesses. “It would have been very difficult for us to approach a big multinational corporation like Amgen directly. Being selected as Amgen’s partner has definitely elevated our standing and will instil confidence in potential clients.”
+
+Tan notes that companies can find the best fit for their needs through the OIP, since they work towards goals, rather than product specifications. This invites more innovative proposals. “Moreover, the OIP reduces the risks and barriers to getting customised technology solutions that go beyond those available in the market,” he says.
+
+He adds that Amgen will continue to partner IMDA to improve the speed to market of its products and serve more patients.
