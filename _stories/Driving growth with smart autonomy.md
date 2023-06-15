@@ -15,3 +15,6 @@ At biotech giant Amgen’s biomanufacturing facility in Tuas, smart vehicles wit
 By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen raised productivity and optimised manpower use, compared to the previous method of using human-operated forklifts to move the totes. 
 
 The AGVs take the safest and most efficient pathway through the facility and avert the need to allocate manpower to transport the totes, resulting in better resource utilisation, says Amgen Singapore Manufacturing’s information systems director Vincent Tan.
+
+![](/images/Success%20stories/oipamgen2.jpg)
+*Amgen Singapore Manufacturing’s information systems director Vincent Tan (far right) working together with Movel AI’s chief executive Abhishek Gupta to optimise the AGV prototype.*
