@@ -5,24 +5,34 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-### Real Estate Developer Uses AI For Better Site Inspections
+### Driving Growth With Smart Autonomy
 
-##### From 120 to 2 hours: Real estate developer makes site inspection more efficient and accurate with AI
+##### With support from robotics navigation specialist Movel AI, biotech firm Amgen is using smart vehicles in its factory to boost worker safety and efficiency
 
-![](/images/Success%20stories/image%201.png)
-*Photo: Getty images*
+![](/images/Success%20stories/oipamgen1.jpg)
+*Photo: SPH MEDIA*
 
-For real estate giant CapitaLand Development (CLD), artificial intelligence (AI) has transformed a crucial process of its business – inspection of its properties before launch.
+At biotech giant Amgen’s biomanufacturing facility in Tuas, smart vehicles with forklifts navigate the factory floor on their own, lifting and carrying large totes of drug substances, each weighing as much as three tonnes, from one area to another.
 
-In the past, the company’s project managers, contractors and other specialists walked the ground in individual and joint inspections to examine the quality of materials, scrutinise the workmanship of finished portions and pinpoint areas that can be perfected. The teams also met regularly to share images captured during these site walks to align on problems and solutions.
+By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen raised productivity and optimised manpower use, compared to the previous method of using human-operated forklifts to move the totes.
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-capitaland-h3-zoom/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-amgen/">Continue reading</a>
 
 ## More Stories
 
 <table>
 		<tbody>
 			<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/image%201.png">
+		</td>
+		<td style="vertical-align:middle;">Real Estate Developer Uses AI For Better Site Inspections
+			<br><b><a target="_blank" href="/stories/oip-capitaland-h3-zoom/">From 120 to 2 hours: Real estate developer makes site inspection more efficient and accurate with AI</a>
+		</b>
+		</td>
+    </tr>
+			<tr>
+			</tr><tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png">
 		</td>
