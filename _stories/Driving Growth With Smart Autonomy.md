@@ -8,7 +8,7 @@ description: ""
 ###### With support from robotics navigation specialist Movel AI, biotech firm Amgen is using smart vehicles in its factory to boost worker safety and efficiency
 
 ![](/images/Success%20stories/oipamgen1.jpg)
-*Smart vehicles are used at Amgen’s biomanufacturing facility in Tuas to lift and move substances from one area to another. PHOTO: SPH MEDIA*
+*Smart vehicles are used at Amgen’s biomanufacturing facility in Tuas to lift and move substances from one area to another.&nbsp;PHOTO: SPH MEDIA*
 
 At biotech giant Amgen’s biomanufacturing facility in Tuas, smart vehicles with forklifts navigate the factory floor on their own, lifting and carrying large totes of drug substances, each weighing as much as three tonnes, from one area to another.
 
@@ -17,7 +17,9 @@ By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen rais
 The AGVs take the safest and most efficient pathway through the facility and avert the need to allocate manpower to transport the totes, resulting in better resource utilisation, says Amgen Singapore Manufacturing’s information systems director Vincent Tan.
 
 ![](/images/Success%20stories/oipamgen2.jpg)
-*Amgen Singapore Manufacturing’s information systems director Vincent Tan (far right) working together with Movel AI’s chief executive Abhishek Gupta to optimise the AGV prototype.*
+Photo Credit: SPH
+<br>*Amgen Singapore Manufacturing’s information systems director Vincent Tan (far right) working together with Movel AI’s chief executive Abhishek Gupta to optimise the AGV prototype.*
+
 
 “Through the use of sensors and cameras, the AGVs can increase productivity and reduce cost by eliminating accidental damage caused by human operators,” he adds.
 
