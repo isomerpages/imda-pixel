@@ -64,8 +64,8 @@ We have both general mentors and specialised ones in the design thinking, digita
             <br><img src="/images/Community/Mentors/gaurav-tandon_230px.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b> Gaurav Tandon, Head of Product (Consumer)
-					<br>Grab</b>
+					<br><b> Gaurav Tandon, Director 
+					<br>Product at Circles.Life</b>
           <br> Entrepreneur, venture builder and product leader with 16+ years of experience in building digital products and businesses in 20+ countries. Expert in marketplaces, subscription products and topics such as user experience, go-to-market, building MVPs and finding product-market fit, hypothesis testing, user growth and monetization.
 	    <br><br><a href="https://www.linkedin.com/in/gaurav-tandon-gt/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
