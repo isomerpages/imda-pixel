@@ -29,14 +29,14 @@ Register today to achieve your professional goals.
   <tbody>
     <tr style="background-color: #f2f2f2;">
       <td>1</td>
-      <td>2 May (Tue)</td>
+      <td>4 July (Tue)</td>
 			<td>9.00am - 6.00pm
-      </td><td>Microsoft Azure OpenAI Workshop</td>
+      </td><td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>4 May (Thu)</td>
+      <td>4 July (Thu)</td>
 			<td>9.00am - 6.00pm</td>
       <td>D.Camp Global Demo Day</td>
 			<td>Closed Door</td>
