@@ -29,106 +29,122 @@ Register today to achieve your professional goals.
   <tbody>
     <tr style="background-color: #f2f2f2;">
       <td>1</td>
-      <td>4 July (Tue)</td>
+      <td>4 Jul (Tue)</td>
 			<td>9.00am - 6.00pm
       </td><td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>4 July (Thu)</td>
-			<td>9.00am - 6.00pm</td>
-      <td>D.Camp Global Demo Day</td>
+      <td>4 Jul (Tue)</td>
+			<td>10.00am - 12.00pm</td>
+      <td>20th Indonesian Journalist Visit Programme</td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>3</td>
-      <td>12 May (Fri)</td>
-			<td>9.00am - 6.00pm</td>
-      <td>IMDA x SIFMA Workshop and Networking event</td>
+      <td>6 Jul (Thu)</td>
+			<td>9.00am - 1.00pm</td>
+      <td>Huawei Incubator Workshop</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>17 May (Wed)</td>
-			<td>10.00am - 2.00pm
-      </td><td>Future Proofing Your Stratey in the Age of AI by ASUS x NVIDIA</td>
-			<td><a href="http://asus.opensesabee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 50px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px;vertical-align:middle">Register</a><br><br></td>
-    </tr>
-    <tr style="background-color: #f2f2f2;">
-      <td>5</td>
-      <td>17 May (Wed)</td>
+      <td>6 Jul (Thu)</td>
 			<td>2.00pm - 5.00pm
-			</td><td><b>PIXEL's Workshop</b><br>AI in Action: Digital Storytelling with Ease</td>
-			<td><a href="https://imda-pixel.sg/event/390" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+      </td><td> [Far East Hospitality] Problem Refinement Workshop</td>
+			<td>Closed Door</td>
+    </tr>
+    <tr>
+    </tr><tr style="background-color: #f2f2f2;">
+      <td>5</td>
+      <td>10 Jul (Mon)</td>
+			<td>9.30am - 12.30pm
+      </td><td> [Marche]<br> Discovery Workshop</td>
+			<td>Closed Door</td>
     </tr>
     <tr>
       <td>6</td>
-			<td>22 May (Mon)</td>
+			<td>11 Jul (Tue)</td>
       <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
+			<td>[IMDA-Academy] Workshop
 			</td><td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>7</td>
-      <td>23 May (Tue)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
+      <td>11 Jul (Tue)</td>
+      <td>9.00am - 1.00pm</td>
+			<td>Huawei Incubator Workshop
 			</td><td>Closed Door</td>
     </tr>
 		<tr>
       <td>8</td>
-      <td>23 May (Thu)</td>
-      <td>2.00pm - 3.30pm</td>
+      <td>12 Jul (Wed)</td>
+      <td>9.00am - 5.00pm</td>
 			<td><b>OIP Call 18:</b>
-<br> Mandai Co-Innovation Programme 2023 Reverse Pitching
-			</td>			
-			<td><a href="https://imda-pixel.sg/event/394" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+<br> EInvoice InvoiceNow Enterprise Clinic</td>
+			<td>Closed Door</td>
     </tr>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
+    </tr><tr style="background-color: #f2f2f2;">
       <td>9</td>
-      <td>24 May (Wed)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
+      <td>12 Jul (Wed)</td>
+      <td>9.00am - 1.00pm</td>
+			<td>Huawei Incubator Workshop
 			</td><td>Closed Door</td>
     </tr>
       <tr>
-				</tr>
-		<tr>
       <td>10</td>
-      <td>24 May (Wed)</td>
-			<td>2.00pm - 5.00pm</td>
-			<td><b>PIXEL's Workshop</b><br>Design Thinking: Innovating for a Sustainable Empathic Future</td>
-			<td><a href="https://imda-pixel.sg/event/391" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+      <td>13 Jul (Thu)</td>
+			<td>9.00am - 1.00pm</td>
+<td>Huawei Incubator Workshop
+			</td><td>Closed Door</td>
     </tr>
-		 <tr style="background-color: #f2f2f2;">
+      <tr>
+		 </tr><tr style="background-color: #f2f2f2;">
       <td>11</td>
-      <td>25 May (Thu)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
+      <td>19 Jul (Wed)</td>
+      <td>9.00am - 12.00pm</td>
+			<td>MOH Visit to IMDA-AWS Joint Innovation Centre (JIC) 
 			</td><td>Closed Door</td>
     </tr>
 		 <tr>
       <td>12</td>
-			<td>26 May (Fri)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>EPIC Games Virtual Production Challenge
-			</td><td>Closed Door</td>    
+			<td>20 Jul (Thu)</td>
+      <td>2.00pm - 5.00pm</td>
+				<td><b>PIXEL's Workshop</b><br>
+						Revolutionizing Hospitality: Harnessing Technology's Potential</td>
+			<td>Closed Door</td>    
 		</tr>
 		<tr style="background-color: #f2f2f2;">
       <td>13</td>
-      <td>31 May (Wed)</td>
+      <td>21 Jul (Fri)</td>
 			<td>9.00am - 6.00pm</td>
-      <td>EInvoice InvoiceNow Enterprise Clinic</td>
+      <td>IMDA x SID event </td>
 			<td>Closed Door</td>
 		</tr>
 			<tr>
-      <td>14</td>
-      <td>31 May (Wed)</td>
-			<td>6.00pm - 9.00pm</td>
-				<td><b>Networking Event</b><br>
-						Stammtisch in Singapore (Special Edition) by German Entrepreneurship and IMDA PIXEL</td>
-			<td><a href="https://www.german-entrepreneurship.com/event/stammtisch-singapore-may2023/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+	     <td>14</td>
+			<td>21 Jul (Fri)</td>
+      <td>9.00am - 6.00pm</td>
+      <td>BCG-RISE cohort</td>
+			<td>Closed Door</td>
+		</tr>   
+		
+		<tr style="background-color: #f2f2f2;">
+      <td>15</td>
+      <td>26 Jul (Wed)</td>
+			<td>9.00am - 5.00pm</td>
+      <td>NIE Visit to IMDA-AWS Joint Innovation Centre (JIC) </td>
+			<td>Closed Door</td>
+		</tr>
+			<tr>
+      <td>16</td>
+      <td>26 Jul (Wed)</td>
+			<td>2.00pm - 3.00pm</td>
+				<td><b>PIXEL's Webinar</b><br>
+						The Value of Immersive Experiences Unveiled</td>
+			<td><a href="https://imda-pixel.sg/event/400" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
   </tbody>
 </table>
