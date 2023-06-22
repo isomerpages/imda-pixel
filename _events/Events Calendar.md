@@ -55,8 +55,7 @@ Register today to achieve your professional goals.
       </td><td> [Far East Hospitality] Problem Refinement Workshop</td>
 			<td>Closed Door</td>
     </tr>
-    <tr>
-    </tr><tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #f2f2f2;">
       <td>5</td>
       <td>10 Jul (Mon)</td>
 			<td>9.30am - 12.30pm
@@ -85,8 +84,7 @@ Register today to achieve your professional goals.
 <br> EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
-    <tr>
-    </tr><tr style="background-color: #f2f2f2;">
+    <tr style="background-color: #f2f2f2;">
       <td>9</td>
       <td>12 Jul (Wed)</td>
       <td>9.00am - 1.00pm</td>
@@ -100,8 +98,7 @@ Register today to achieve your professional goals.
 <td>Huawei Incubator Workshop
 			</td><td>Closed Door</td>
     </tr>
-      <tr>
-		 </tr><tr style="background-color: #f2f2f2;">
+		 <tr style="background-color: #f2f2f2;">
       <td>11</td>
       <td>19 Jul (Wed)</td>
       <td>9.00am - 12.00pm</td>
@@ -130,7 +127,6 @@ Register today to achieve your professional goals.
       <td>BCG-RISE cohort</td>
 			<td>Closed Door</td>
 		</tr>   
-		
 		<tr style="background-color: #f2f2f2;">
       <td>15</td>
       <td>26 Jul (Wed)</td>
