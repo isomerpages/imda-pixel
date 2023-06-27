@@ -1,7 +1,7 @@
 ---
 title: Metaverse Architect Smobler joins IMDA’s PIXEL Innovation Hub
-permalink: /success-stories/press-release/permalink/
-description: ""
+permalink: /success-stories/press-release/permalink/smobler-pixel/
+description: Metaverse Architect Smobler joins IMDA’s PIXEL Innovation Hub
 third_nav_title: Press Release
 ---
 ### Metaverse Architect Smobler joins IMDA’s PIXEL Innovation Hub
