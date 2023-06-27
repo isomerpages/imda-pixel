@@ -4,7 +4,9 @@ permalink: /success-stories/press-release/permalink/
 description: ""
 third_nav_title: Press Release
 ---
-### Launch of The Intelligent Sustainable Enterprise Programme
+### Metaverse Architect Smobler joins IMDA’s PIXEL Innovation Hub
+
+![](/images/Success%20stories/smobler%20pr.png)
 
 22 May, 2023 — SAP SE (NYSE: SAP) and Singapore’s Infocomm Media Development Authority (IMDA) has launched the Intelligent Sustainable Enterprise program, a 6-month program focused on supporting tech startups to build innovative solutions for businesses in the following areas: 5G, internet of things (IoT), robotics, data analytics and augmented, virtual, or mixed reality (AR/VR/MR).
 
