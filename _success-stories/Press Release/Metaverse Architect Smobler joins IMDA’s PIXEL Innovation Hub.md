@@ -7,6 +7,7 @@ third_nav_title: Press Release
 ### Metaverse Architect Smobler joins IMDA’s PIXEL Innovation Hub
 
 ![](/images/Success%20stories/smobler%20pr1.PNG)
+*Photo: Smobler - Building Worlds Together*
 
 SINGAPORE, June 27, 2023/EINPresswire.com[EINPresswire.com](http://www.einpresswire.com/)/ -- [Smobler](http://www.smoblerstudios.com/),  one of the region’s leading open metaverse architects is on-board Infocomm Media and Development Authority (IMDA) PIXEL’s innovation hub.
 
