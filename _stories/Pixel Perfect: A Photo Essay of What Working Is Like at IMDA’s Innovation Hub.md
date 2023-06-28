@@ -114,3 +114,9 @@ As the work day comes to a close, instead of feeling worn out, I feel the opposi
 “We’re here to help corporates and startups accelerate their innovation journeys,” says Tang. “That is always going to be what our Pixel innovation team is for.”
 
 And who knows, maybe Pixel could help a well-loved corporate brand take itself to the next level or, better yet, have a hand in developing the next great B2B unicorn.
+
+
+IMDA Pixel is a place where both startups and corporates can come together to build the next generation of cutting-edge products. It provides facilities as well as support and resources for firms. If you’re a startup that’s looking for a place to call home, click [here](https://go.gov.sg/pixel-incubation-tia) to get in touch with Pixel. 
+
+*This content was produced by Tech in Asia Studios, which connects brands with Asia's tech community. [Learn more](https://www.techinasia.com/advertise) about partnering with Tech in Asia Studios.*
+
