@@ -21,7 +21,7 @@ As [one of the leading launchpads](https://e27.co/alibaba-clouds-final-nominees-
 
 To get a better picture of what Pixel does for the local tech community, I spent a full work day there.
 
-##### First Impression
+##### First impression
 ![](/images/Success%20stories/tiapmc2.jpg)
 
 ![](/images/Success%20stories/tiapmc3.jpg)
@@ -31,7 +31,7 @@ Arriving early in the morning, I sneak a quick look into the main working area t
 
 It also reminds me of my university days, with different ideas being shared between people who are eager to learn from each other and have a high drive to succeed.
 
-##### A shared Love for Tech 
+##### A shared love for tech 
 
 ![](/images/Success%20stories/tiapmc4.jpg)
 *A shared love for tech*
@@ -64,4 +64,40 @@ The main attraction is the corner filled with equipment related to augmented and
 
 ![](/images/Success%20stories/tiapmc9.jpg)
 *I feel like John Wick choosing his weapons. / Photo credit: Tech in Asia*
+
+Of course, all these gadgets aren’t for fun and games. The equipment provides startups with the resources they need for research and development. 
+
+“For instance, they can try something like a Microsoft HoloLens or a Meta Quest Pro to see which ones would work best with their solutions,” Tang explains. “It helps defray the initial development expenses as it costs a lot to keep up with rapid product cycles. This also means they can divert their limited funds to more important areas.” 
+
+#####  Stepping into a whole new world 
+
+We then move on to the prototyping lab, which reminds me of a workshop for rugged mechanics, although its gear and equipment consist of more than just simple tools. 
+
+It houses a contraption that is slightly bewildering at first. That said, once I understand what it’s for, I let out an audible: “Oh my god, that’s so cool.”
+
+![](/images/Success%20stories/tiapmc10.jpg)
+*What an absolute beaut. / Photo credit: Tech in Asia*
+
+This is mGate Beta. It allows users to simulate an immersive metaverse experience with multi-sensory input, and the “floor” you see is actually an omnidirectional treadmill that allows users to “walk” freely - a full 360 degrees - in the virtual world. Testing it out made me feel like a  [*Ready Player One* future](https://www.youtube.com/watch?v=cSp1dM2Vj48) might not be too far away. 
+
+The company behind mGate Beta, [StepVR](https://www.stepvr.io/),  has been incubating at Pixel since earlier this year. Jim Jin, a partner at the firm, says that he’s happy with how the launchpad has provided much in the way of tools and technical support. 
+
+He’s also quick to point out that being able to work with Pixel itself has been one of the biggest boons for the company as it introduced StepVR to several business contacts.  
+
+“From a strategic point of view, having that Pixel branding and being backed by a government agency makes it easier to get the right connections and PR,” says Jin. “It reduces the need for us to put lots of extra effort into outreach, allowing us to focus on our product.” 
+
+##### Beyond the Tangible
+
+As Jin highlighted, there’s much more to Pixel than just facilities and equipment, and StepVR isn’t the only startup that’s benefited from the launchpad’s resources and support.
+
+One of the startups I have a quick chat with is [InteractAI](https://www.interactai.live) (previously known as MediVR), a local AI firm that’s developing solutions to help train doctors and nurses through AI-generated conversations. 
+
+When the InteractAI team first joined Pixel a year ago, the company was still at the pre-seed stage, recalls Tang. Since then, the resources and support provided by the launchpad and its team have paved the way for business opportunities that contributed to InteractAI’s growth. 
+
+“Pixel is very active in bringing in startups like us - as well as government bodies and corporates - together for sharing and networking,” says Jeremy Ong, COO of InteractAI. “For instance, we’ve connected with Meta and other corporates that are interested in our solutions. Pixel’s help is also one of the reasons why we’re currently partnered with Nvidia.” 
+
+According to Ong, InteractAI has been growing at a rapid pace since its tech was first deployed in local medical institutions and hospitals, and the company has since established itself as a trusted partner to train healthcare professionals. 
+
+
+
 
