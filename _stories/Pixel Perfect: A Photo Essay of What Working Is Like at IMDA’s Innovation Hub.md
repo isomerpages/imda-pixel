@@ -41,3 +41,18 @@ Today, I’m attending several sessions hosted by IMDA and Amazon Web Services (
 Some seem like old friends, while I can tell that others have just met for the first time, judging from their boisterous introductions. Lots of handshakes go around, and everyone seems to have that glint in their eye from being part of something they’re passionate about. 
 
 ![](/images/Success%20stories/tiapmc5.jpg)
+
+![](/images/Success%20stories/tiapmc6.jpg)
+*Free workshops and classes? Sign me up. / Photo credit: Tech in Asia*
+
+“We hold regular events like this with big names such as AWS, Huawei, Meta, and Nvidia to create opportunities for our startups and corporates to exchange ideas and explore collaborations,” says Tang Kang Min, who manages startup programs with IMDA’s innovation team. 
+
+“By having mentors involved, together with Pixel’s programs, we also help our startups with things like market entry and product validation,” she adds. 
+
+##### Giving startups eVRything they need 
+
+After the sessions, Tang brings me around the Pixel facility, and one of the coolest places is a room that looks like it could’ve come out of some huge, multinational company’s innovation lab. 
+
+This is Pixel’s AR VR Lab. 
+
+![](/images/Success%20stories/tiapmc7.jpg)
