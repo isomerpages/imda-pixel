@@ -56,3 +56,12 @@ After the sessions, Tang brings me around the Pixel facility, and one of the coo
 This is Pixel’s AR VR Lab. 
 
 ![](/images/Success%20stories/tiapmc7.jpg)
+*Takes me back to my younger days playing around with the latest tech gadgets - and this employee from Visre is like a kid in a candy store / Photo credit: Tech in Asia*
+
+The main attraction is the corner filled with equipment related to augmented and virtual reality, and it definitely brings out the inner kid in me. Every corner had something different to try out.
+
+![](/images/Success%20stories/tiapmc8.jpg)
+
+![](/images/Success%20stories/tiapmc9.jpg)
+*I feel like John Wick choosing his weapons. / Photo credit: Tech in Asia*
+
