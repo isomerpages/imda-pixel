@@ -113,4 +113,4 @@ As the work day comes to a close, instead of feeling worn out, I feel the opposi
 
 “We’re here to help corporates and startups accelerate their innovation journeys,” says Tang. “That is always going to be what our Pixel innovation team is for.”
 
-And who knows, maybe Pixel could help a well-loved corporate brand take itself to the next level or, better yet, have a hand in developing the next great B2B unicorn. 
+And who knows, maybe Pixel could help a well-loved corporate brand take itself to the next level or, better yet, have a hand in developing the next great B2B unicorn.
