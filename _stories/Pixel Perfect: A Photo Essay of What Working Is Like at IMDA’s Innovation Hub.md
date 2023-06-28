@@ -96,8 +96,21 @@ When the InteractAI team first joined Pixel a year ago, the company was still at
 
 “Pixel is very active in bringing in startups like us - as well as government bodies and corporates - together for sharing and networking,” says Jeremy Ong, COO of InteractAI. “For instance, we’ve connected with Meta and other corporates that are interested in our solutions. Pixel’s help is also one of the reasons why we’re currently partnered with Nvidia.” 
 
-According to Ong, InteractAI has been growing at a rapid pace since its tech was first deployed in local medical institutions and hospitals, and the company has since established itself as a trusted partner to train healthcare professionals. 
+According to Ong, InteractAI has been growing at a rapid pace since its tech was first deployed in local medical institutions and hospitals, and the company has since established itself as a trusted partner to train healthcare professionals.
 
+![](/images/Success%20stories/tiapmc11.jpg)
+*Is 2D better than 3D? Why not both? / Photo credit: Tech in Asia*
 
+He adds that the workshops organized by Pixel and its consultants give startups valuable insights. For instance, tech firms can get advice in areas like [UI and UX design](https://flatironschool.com/blog/what-is-ux-ui-design/) or learn about legal considerations for businesses. These workshops are all free for everyone - and we all know Singaporeans love free stuff.  
 
+Additionally, programs like the Open Innovation Platform - which acts as a marketplace to match corporates’ innovation needs with startups - give firms such as InteractAI opportunities to work with established companies, which lets them validate existing solutions and further develop or expand existing ones. 
 
+“It gives us a chance to look out for potential use cases for large companies that align with our current lineup of products,” Ong points out. 
+
+##### Winding down 
+
+As the work day comes to a close, instead of feeling worn out, I feel the opposite. It’s refreshing to have been part of a vibrant experience and environment, and I’m left feeling hopeful for all the startups that I met. 
+
+“We’re here to help corporates and startups accelerate their innovation journeys,” says Tang. “That is always going to be what our Pixel innovation team is for.”
+
+And who knows, maybe Pixel could help a well-loved corporate brand take itself to the next level or, better yet, have a hand in developing the next great B2B unicorn. 
