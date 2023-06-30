@@ -5,18 +5,18 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-### Driving Growth With Smart Autonomy
+### Pixel Perfect: A Photo Essay of What Incubating Is Like at Imda’s Innovation Hub
 
-##### With support from robotics navigation specialist Movel AI, biotech firm Amgen is using smart vehicles in its factory to boost worker safety and efficiency
+##### For a place called Pixel, it definitely doesn’t have a tiny vibe to it.
 
-![](/images/Success%20stories/oipamgen1.jpg)
-*Photo: SPH MEDIA*
+![](/images/Success%20stories/tiapmc1.jpg)
+*Black’s great for giving that “too cool for you” energy. / Photo credit: Tech in Asia*
 
-At biotech giant Amgen’s biomanufacturing facility in Tuas, smart vehicles with forklifts navigate the factory floor on their own, lifting and carrying large totes of drug substances, each weighing as much as three tonnes, from one area to another.
+Located in the heart of the One-north district in Singapore, Pixel is an innovation hub developed by the Infocomm Media Development Authority (IMDA) to encourage corporate innovation and help startups scale. It’s got everything that corporates dabbling in digital innovation and tech startups could want: a community event space, co-working facilities, AR and VR labs, UI and UX labs, recreational areas, and more. 
 
-By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen raised productivity and optimised manpower use, compared to the previous method of using human-operated forklifts to move the totes.
+Of course, facilities are but one part of the equation. If office areas were all startups wanted, any co-working space would do. Based on what I’ve heard, however, Pixel seems to be attractive to businesses for reasons beyond the physical. 
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-amgen/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/pixel-space/">Continue reading</a>
 
 ## More Stories
 
@@ -24,15 +24,25 @@ By leveraging such vehicles, called automated guided vehicles (AGVs), Amgen rais
 		<tbody>
 			<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
-			<img src="/images/Success%20stories/image%201.png">
+			<img src="/images/Success%20stories/oipamgen1.jpg">
 		</td>
-		<td style="vertical-align:middle;">Real Estate Developer Uses AI For Better Site Inspections
-			<br><b><a target="_blank" href="/stories/oip-capitaland-h3-zoom/">From 120 to 2 hours: Real estate developer makes site inspection more efficient and accurate with AI</a>
+		<td style="vertical-align:middle;"> Driving Growth With Smart Autonomy
+			<br><b><a target="_blank" href="/stories/oip-amgen/">With support from robotics navigation specialist Movel AI, biotech firm Amgen is using smart vehicles in its factory to boost worker safety and efficiency</a>
 		</b>
 		</td>
     </tr>
 			<tr>
 			</tr><tr>
+			      </tr><tr>
+    <td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+      <img src="/images/Success%20stories/image%201.png">
+    </td>
+    <td style="vertical-align:middle;">Real Estate Developer Uses AI For Better Site Inspections
+      <br><b><a target="_blank" href="/stories/oip-capitaland-h3-zoom/">From 120 to 2 hours: Real estate developer makes site inspection more efficient and accurate with AI</a>
+    </b>
+    </td>
+    </tr>
+      <tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/ST%20ad%20-%20AGI%20x%20smitsu.png">
 		</td>
