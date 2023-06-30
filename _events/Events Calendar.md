@@ -80,8 +80,7 @@ Register today to achieve your professional goals.
       <td>8</td>
       <td>12 Jul (Wed)</td>
       <td>9.00am - 5.00pm</td>
-			<td><b>OIP Call 18:</b>
-<br> EInvoice InvoiceNow Enterprise Clinic</td>
+			<td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
