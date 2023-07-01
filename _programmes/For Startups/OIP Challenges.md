@@ -12,6 +12,9 @@ Are you a challenge solver with digital technology expertise and innovation capa
 
 ## **Open Innovation Call 20**
 
+In our latest IMDA Open Innovation Platform, we have brought to you a diverse set of challenges. From training and skills development, technology and innovation, healthcare and well-being to sustainability and circular economy, there's something for everyone! In this challenge call, we’ve partnered with the likes of the **Institute for Adult Learning**, **Pacific International Lines**, **NTUC Health**, **National Council of Social Services** with **Lions Befrienders Service Association**, **The Movement for the Intellectually Disabled of Singapore** and **Thye Hua Kwan**, **PCS Security**,  **Cordlife Group**, as well as **Wareesan**. 
+
+
 Here's a sneak peek of some of the challenges: 
 <br>
 <table>
