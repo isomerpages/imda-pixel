@@ -21,20 +21,20 @@ Here's a sneak peek of some of the challenges:
     <tbody>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/mandaiwg_logo.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/astar_artc_horizontal%20logo_rgb.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Mandai Wildlife Group </b>
+					<br><b>Advanced Remanufacturing And Technology Centre (ARTC)</b>
 	        <br> Mandai Wildlife Group uses nest boxes to breed certain avian species smoothly, but need valuable data for scientific research and conservation efforts without human interference. 
 					<br><br>In this challenge, they are looking for a solution that allows remote monitoring of the birds’ activities and conditions as well as the environmental conditions in and around the nest boxes.
         </td>
     </tr>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/cropped-stellar-logo.png"><img src="/images/Programmes/OIP%20Challenges/Call%2018/jr%20east.png">
+            <br><img src="!/images/Programmes/OIP%20Challenges/Call%2020/ial%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Stellar Lifestyle x JR East </b>
+					<br><b>Institute For Adult Learning (IAL) x Skillsfuture SG </b>
 	        <br> SMRT train stations lack proper physical infrastructure to support retail activities. Stellar Lifestyle and JR East aim to enhance the efficiency and safety of delivery runs within the existing station infrastructures through the use of automation.
 					<br><br>In this challenge, they are looking for a safe and scalable technical solution to transport large volumnes of heavy goods via the staircases of SMRT train stations to retailers. 
         </td>
