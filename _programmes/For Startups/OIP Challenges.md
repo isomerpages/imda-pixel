@@ -9,6 +9,56 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? Read on below to find out more about the ongoing challenges!
 
+
+## **Open Innovation Call 20**
+
+Here's a sneak peek of some of the challenges: 
+<br>
+<table>
+    <tbody>
+			<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/mandaiwg_logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Mandai Wildlife Group </b>
+	        <br> Mandai Wildlife Group uses nest boxes to breed certain avian species smoothly, but need valuable data for scientific research and conservation efforts without human interference. 
+					<br><br>In this challenge, they are looking for a solution that allows remote monitoring of the birds’ activities and conditions as well as the environmental conditions in and around the nest boxes.
+        </td>
+    </tr>
+			<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/cropped-stellar-logo.png"><img src="/images/Programmes/OIP%20Challenges/Call%2018/jr%20east.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Stellar Lifestyle x JR East </b>
+	        <br> SMRT train stations lack proper physical infrastructure to support retail activities. Stellar Lifestyle and JR East aim to enhance the efficiency and safety of delivery runs within the existing station infrastructures through the use of automation.
+					<br><br>In this challenge, they are looking for a safe and scalable technical solution to transport large volumnes of heavy goods via the staircases of SMRT train stations to retailers. 
+        </td>
+    </tr>
+				<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/1508924_diageo_logo_black-rgb.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Diageo </b>
+	        <br> As part of Diageo's extensive sustainability initiatives, they have started to phase out the use of cardboard boxes for luxury gifting and are seeking more sustainable solutions while retaining a premium experience for their customers. 
+					<br><br> In this challenge, they are looking for a luxury-led solution that elevates Johnnie Walker Blue Label's existing gifting experience, positioning them as the preferred gifting choice for consumers. 
+        </td>
+    </tr>
+					<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Yue Hwa Chinese Products</b>
+	        <br> Yue Hwa wants to attract and retain motivated employees by providing them more control over their work rosters as the current scheduling system is manual and laborious. 
+					<br><br> In this challenge, they are looking for an automated human resource planning system that improves the efficiency of the employee roster scheduling. 
+        </td>
+    </tr>
+</tbody></table>
+
+
 ## **Open Innovation Call 19**
 
 Submit your proposals by 21 July 2023, 4pm GMT+8
