@@ -12,7 +12,8 @@ Are you a challenge solver with digital technology expertise and innovation capa
 
 ## **Open Innovation Call 20**
 
-In our latest IMDA Open Innovation Platform, we have brought to you a diverse set of challenges. From training and skills development, technology and innovation, healthcare and well-being to sustainability and circular economy, there's something for everyone! In this challenge call, we’ve partnered with the likes of the **Institute for Adult Learning**, **Pacific International Lines**, **NTUC Health**, **National Council of Social Services** with **Lions Befrienders Service Association**, **The Movement for the Intellectually Disabled of Singapore** and **Thye Hua Kwan**, **PCS Security**,  **Cordlife Group**, as well as **Wareesan**. 
+In our latest IMDA Open Innovation Platform, we have brought to you a diverse set of challenges. From training and skills development, technology and innovation, healthcare and well-being to sustainability and circular economy, there's something for everyone! 
+<br><br>In this challenge call, we’ve partnered with the likes of the **Institute for Adult Learning**, **Pacific International Lines**, **NTUC Health**, **National Council of Social Services** with **Lions Befrienders Service Association**, **The Movement for the Intellectually Disabled of Singapore** and **Thye Hua Kwan**, **PCS Security**,  **Cordlife Group**, as well as **Wareesan**. 
 
 
 Here's a sneak peek of some of the challenges: 
@@ -25,28 +26,59 @@ Here's a sneak peek of some of the challenges:
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Advanced Remanufacturing And Technology Centre (ARTC)</b>
-	        <br> Mandai Wildlife Group uses nest boxes to breed certain avian species smoothly, but need valuable data for scientific research and conservation efforts without human interference. 
-					<br><br>In this challenge, they are looking for a solution that allows remote monitoring of the birds’ activities and conditions as well as the environmental conditions in and around the nest boxes.
+	        <br> This challenge is overseen by two challenge owners. The first owner focuses on the digitalisation of enterprise operations to improve operational efficiencies. The second owner serves clients like mobile device and electronic vehicles or battery manufacturers to help them manage their technology asset lifecycle. One common challenge faced by both companies is the management of data that affect the analysis of energy consumption patterns and inefficiencies in production systems.
+					<br><br>In this challenge, they are looking for a smart energy management system designed to measure, monitor and control energy consumption in real-time throughout the manufacturing process.
         </td>
     </tr>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="!/images/Programmes/OIP%20Challenges/Call%2020/ial%20logo.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ial%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Institute For Adult Learning (IAL) x Skillsfuture SG </b>
-	        <br> SMRT train stations lack proper physical infrastructure to support retail activities. Stellar Lifestyle and JR East aim to enhance the efficiency and safety of delivery runs within the existing station infrastructures through the use of automation.
-					<br><br>In this challenge, they are looking for a safe and scalable technical solution to transport large volumnes of heavy goods via the staircases of SMRT train stations to retailers. 
+	        <br> As part of IAL’s InnovPlus Challenge 2023, a hospital in the public healthcare sector, offers a course aimed at training newly graduated nurses in managing patients presented with clinical emergencies, such as resuscitation situations.&nbsp;
+					As resuscitation situations do not arise often, it is difficult for nurses to apply what they have learnt. 
+					<br><br>In this challenge, they are looking for an immersive simulation-based training solution to enhance the existing resuscitation training programme for nurses, increase their competency levels in resuscitation skills, and help build their confidence to manage life-threatening emergencies in real-life scenarios.
         </td>
     </tr>
 				<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/1508924_diageo_logo_black-rgb.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ntuc%20health%202019%20logo_fullcolour%20(rgb)%20(1)%20(002).png"> 
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Diageo </b>
-	        <br> As part of Diageo's extensive sustainability initiatives, they have started to phase out the use of cardboard boxes for luxury gifting and are seeking more sustainable solutions while retaining a premium experience for their customers. 
-					<br><br> In this challenge, they are looking for a luxury-led solution that elevates Johnnie Walker Blue Label's existing gifting experience, positioning them as the preferred gifting choice for consumers. 
+					<br><b>NTUC Health </b>
+	        <br> With 6 nursing homes and 26 day centres, NTUC Health is one of the largest eldercare and active aging service providers in Singapore. The ongoing shortage of nursing manpower in Singapore has posed challenges for operations across their homes. 
+					<br><br> In this challenge, they are looking for a solution to help reduce administrative burden and optimise schedules of nursing home staff to allow them more time to focus on residents and providing quality care. 
+        </td>
+    </tr>
+					<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds-logo-full-color-rgb.jpg">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
+	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
+					<br><br> They are looking for a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
+        </td>
+    </tr>
+					<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs_master_logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>PCS Security</b>
+	        <br> PCS Security is a leading security solution provider specialising in value-added systems and services for their customers. They are facing challenges in their existing sales process, including a lack of collaboration, transparency and the constraints of a rigid Enterprise Resource Planning (ERP) system. 
+					<br><br> They are looking for a solution that integrates with their existing ERP system and offers flexibility for modifications throughout the sales workflow. 
+        </td>
+    </tr>
+					<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Cordlife Group Limited</b>
+	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists.&nbsp;Cordlife is currently encountering challenges in their operations including communication and manual invoicing processes and a lack of a centralised client platform.
+					<br><br> In this challenge, they are looking for a self-service online portal accessible through their website to enhance communication with its B2C and B2B clients. This portal should have separate interfaces for expectant parents and healthcare professionals, allowing easy access to documents and efficient management of administrative tasks.
         </td>
     </tr>
 					<tr>
