@@ -38,7 +38,7 @@ Here's a sneak peek of some of the challenges:
 					<br><b>Institute For Adult Learning (IAL) x Skillsfuture SG </b>
 	        <br> As part of IAL’s InnovPlus Challenge 2023, a hospital in the public healthcare sector, offers a course aimed at training newly graduated nurses in managing patients presented with clinical emergencies, such as resuscitation situations.&nbsp;
 					As resuscitation situations do not arise often, it is difficult for nurses to apply what they have learnt. 
-					<br><br>In this challenge, they are looking for an immersive simulation-based training solution to enhance the existing resuscitation training programme for nurses, increase their competency levels in resuscitation skills, and help build their confidence to manage life-threatening emergencies in real-life scenarios.
+					<br><br> The IAL seeks an immersive simulation-based training solution to enhance the resuscitation training program for nurses. The goal is to improve their competency in resuscitation skills, boost confidence in handling life-threatening emergencies, and replicate real-life scenarios.
         </td>
     </tr>
 				<tr>
@@ -58,7 +58,7 @@ Here's a sneak peek of some of the challenges:
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
 	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
-					<br><br> They are looking for a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
+					<br><br> MINDS aims to find a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
         </td>
     </tr>
 					<tr>
@@ -68,31 +68,31 @@ Here's a sneak peek of some of the challenges:
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>PCS Security</b>
 	        <br> PCS Security is a leading security solution provider specialising in value-added systems and services for their customers. They are facing challenges in their existing sales process, including a lack of collaboration, transparency and the constraints of a rigid Enterprise Resource Planning (ERP) system. 
-					<br><br> They are looking for a solution that integrates with their existing ERP system and offers flexibility for modifications throughout the sales workflow. 
+					<br><br> PCS Security is looking for a solution that integrates with their existing ERP system and offers flexibility for modifications throughout the sales workflow. 
         </td>
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
-        </td>
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife%20logo_wotagline.jpg">        </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Cordlife Group Limited</b>
-	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists.&nbsp;Cordlife is currently encountering challenges in their operations including communication and manual invoicing processes and a lack of a centralised client platform.
-					<br><br> In this challenge, they are looking for a self-service online portal accessible through their website to enhance communication with its B2C and B2B clients. This portal should have separate interfaces for expectant parents and healthcare professionals, allowing easy access to documents and efficient management of administrative tasks.
+	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
+					<br><br> Cordlife seeks a self-service online portal on their website to improve communication with both B2C and B2B clients. The portal will have separate interfaces for expectant parents and healthcare professionals, providing convenient access to documents and efficient administrative task management.
         </td>
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/wareesan-logo-vector-219x300.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Yue Hwa Chinese Products</b>
-	        <br> Yue Hwa wants to attract and retain motivated employees by providing them more control over their work rosters as the current scheduling system is manual and laborious. 
-					<br><br> In this challenge, they are looking for an automated human resource planning system that improves the efficiency of the employee roster scheduling. 
+					<br><b>Wareesan Management Pte Ltd</b>
+	        <br> Wareesan offers services to Singapore’s Muslim community, including providing grave exhumation and reinterment management at Muslim cemeteries. Exhumation includes working within tight time limits due to the need to coordinate with the deceased’s families. However, the current process is time-consuming, labour-intensive, and physically demanding to complete on time.
+					<br><br> Wareesan is seeking a solution to reduce reliance on manual labor and improve the exhumation process for graves. The ideal machine should be easily maneuverable in tight spaces, possess enough power to break the ground, and dig up to a depth of 2 meters.
         </td>
     </tr>
 </tbody></table>
-
+<br>
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call20" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
 ## **Open Innovation Call 19**
 
@@ -120,4 +120,4 @@ Here’s a sneak peek of the challenge:
     </tr>
 </tbody></table>
 
-<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call18" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+<a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call19" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
