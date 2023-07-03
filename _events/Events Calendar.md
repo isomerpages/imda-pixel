@@ -109,8 +109,8 @@ Register today to achieve your professional goals.
 			<td>19 Jul (Wed)</td>
       <td>2.00pm - 5.00pm</td>
 				<td><b>PIXEL's Networking Event</b><br>
-						Climate Fresk - Hands Hearts and Minds</td>
-			<td>Closed Door</td>    
+						Climate Fresk - Hands Hearts and Minds with Palo IT </td>
+			<td><a href="https://form.gov.sg/6477fe36a325ba001127901d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
 	<tr style="background-color: #f2f2f2;">
       <td>13</td>
