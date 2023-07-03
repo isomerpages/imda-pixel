@@ -20,8 +20,8 @@ Here's a sneak peek of some of the challenges:
 <br>
 <table>
     <tbody>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">
+      <tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/artc%20logo.png">
 				</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Advanced Remanufacturing And Technology Centre (ARTC)</b>
@@ -42,7 +42,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 				<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ntuc%20health%202019%20logo_fullcolour%20(rgb)%20(1)%20(002).png"> 
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ntuc%20health.png"> 
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>NTUC Health </b>
@@ -52,7 +52,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds-logo-full-color-rgb.jpg">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
@@ -62,8 +62,8 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs_master_logo.png">
-        </td>
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs%20security.png">
+						</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>PCS Security</b>
 	        <br> PCS Security is a leading security solution provider specialising in value-added systems and services for their customers. They are facing challenges in their existing sales process, including a lack of collaboration, transparency and the constraints of a rigid Enterprise Resource Planning (ERP) system. 
@@ -72,7 +72,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife%20logo_wotagline.jpg">        </td>
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">        </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Cordlife Group Limited</b>
 	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
@@ -81,7 +81,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/wareesan-logo-vector-219x300.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/wareesan.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Wareesan Management Pte Ltd</b>
