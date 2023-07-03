@@ -93,7 +93,7 @@ Here's a sneak peek of some of the challenges:
 <br>
 <a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20">Find Out More</a>
 <br>
-<a href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+
 
 ## **Open Innovation Call 19**
 
