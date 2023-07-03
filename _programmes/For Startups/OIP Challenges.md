@@ -21,8 +21,8 @@ Here's a sneak peek of some of the challenges:
 <table>
     <tbody>
 <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-    <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">
-        </td>
+  <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">
+      </td>
 					<br><b>Advanced Remanufacturing And Technology Centre (ARTC)</b>
 	        <br> This challenge is overseen by two challenge owners. The first owner focuses on the digitalisation of enterprise operations to improve operational efficiencies. The second owner serves clients like mobile device and electronic vehicles or battery manufacturers to help them manage their technology asset lifecycle. One common challenge faced by both companies is the management of data that affect the analysis of energy consumption patterns and inefficiencies in production systems.
 					<br><br>In this challenge, they are looking for a smart energy management system designed to measure, monitor and control energy consumption in real-time throughout the manufacturing process.
@@ -89,6 +89,8 @@ Here's a sneak peek of some of the challenges:
         </td>
     </tr>
 </tbody></table>
+<br>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20">Find Out More</a>
 <br>
 <a href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
 
