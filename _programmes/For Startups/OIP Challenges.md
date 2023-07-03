@@ -31,10 +31,10 @@ Here's a sneak peek of some of the challenges:
     </tr>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/skillsfuture%20ial%20logo.png">
 				</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Cordlife </b>
+					<br><b>Institute For Adult Learning (IAL) x Skillsfure SG </b>
 	        <br> As part of IAL’s InnovPlus Challenge 2023, a hospital in the public healthcare sector, offers a course aimed at training newly graduated nurses in managing patients presented with clinical emergencies, such as resuscitation situations.&nbsp;
 					As resuscitation situations do not arise often, it is difficult for nurses to apply what they have learnt. 
 					<br><br> The IAL seeks an immersive simulation-based training solution to enhance the resuscitation training program for nurses. The goal is to improve their competency in resuscitation skills, boost confidence in handling life-threatening emergencies, and replicate real-life scenarios.
