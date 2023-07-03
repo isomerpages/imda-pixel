@@ -98,7 +98,7 @@ Here's a sneak peek of some of the challenges:
 
 Submit your proposals by 21 July 2023, 4pm GMT+8
 
-![Open Innovation Platform Call 19](/images/Programmes/OIP%20Challenges/call19_1200x600.jpg)
+![PDPC Innovation Challenge - Submit your proposals by 21 Jul 2023](/images/Programmes/OIP%20Challenges/call19_1200x600_withoutblurb.jpg)
 
 As Singapore’s main authority on personal data protection, the Personal Data Protection Commission (PDPC) is calling for fresh proposals on privacy-friendly and innovative age estimation solutions that goes beyond the mainstream solutions available in the market.
 
