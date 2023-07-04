@@ -16,7 +16,7 @@ Located in the heart of the One-north district in Singapore, Pixel is an innovat
 
 Of course, facilities are but one part of the equation. If office areas were all startups wanted, any co-working space would do. Based on what I’ve heard, however, Pixel seems to be attractive to businesses for reasons beyond the physical. 
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/pixel-space/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/pixel-innovation-hub/">Continue reading</a>
 
 ## More Stories
 

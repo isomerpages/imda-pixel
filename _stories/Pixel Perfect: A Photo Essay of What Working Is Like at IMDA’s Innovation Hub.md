@@ -1,6 +1,6 @@
 ---
 title: "Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s Innovation Hub"
-permalink: /stories/pixel-space/
+permalink: /stories/pixel-innovation-hub/
 description: On top of cutting-edge facilities, Pixel provides other advantages
   such as business connections and consultations to help firms scale.
 image: /images/Success stories/tiapmc2.jpg
