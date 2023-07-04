@@ -7,6 +7,8 @@ image: /images/Success stories/tiapmc7.jpg
 ---
 ### **Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s Innovation Hub**
 
+*By Jonathan Chew/ Tech in Asia*
+
 ###### **On top of cutting-edge facilities, Pixel provides other advantages such as business connections and consultations to help firms scale.**
 
 For a place called Pixel, it definitely doesn’t have a tiny vibe to it. 
@@ -119,4 +121,4 @@ And who knows, maybe Pixel could help a well-loved corporate brand take itself t
 
 IMDA Pixel is a place where both startups and corporates can come together to build the next generation of cutting-edge products. It provides facilities as well as support and resources for firms. If you’re a startup that’s looking for a place to call home, click [here](https://go.gov.sg/pixel-incubation-tia) to get in touch with Pixel. 
 
-*This content was produced by Tech in Asia Studios, which connects brands with Asia's tech community. [Learn more](https://www.techinasia.com/advertise) about partnering with Tech in Asia Studios.*
+Source: [Tech in Asia](https://www.techinasia.com/visual-story/pixel-perfect-photo-essay-working-imdas-innovation-hub)
