@@ -29,6 +29,14 @@ Here's a sneak peek of some of the challenges:
 					<br><br>In this challenge, they are looking for a smart energy management system designed to measure, monitor and control energy consumption in real-time throughout the manufacturing process.
         </td>
     </tr>
+<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Cordlife Group Limited</b>
+	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
+					<br><br> Cordlife seeks a self-service online portal on their website to improve communication with both B2C and B2B clients. The portal will have separate interfaces for expectant parents and healthcare professionals, providing convenient access to documents and efficient administrative task management.
+        </td>
+    </tr>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
             <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/skillsfuture%20ial%20logo.png">
@@ -38,6 +46,15 @@ Here's a sneak peek of some of the challenges:
 	        <br> As part of IAL’s InnovPlus Challenge 2023, a hospital in the public healthcare sector, offers a course aimed at training newly graduated nurses in managing patients presented with clinical emergencies, such as resuscitation situations.&nbsp;
 					As resuscitation situations do not arise often, it is difficult for nurses to apply what they have learnt. 
 					<br><br> The IAL seeks an immersive simulation-based training solution to enhance the resuscitation training program for nurses. The goal is to improve their competency in resuscitation skills, boost confidence in handling life-threatening emergencies, and replicate real-life scenarios.
+        </td>
+    </tr>
+<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
+	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
+					<br><br> MINDS aims to find a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
         </td>
     </tr>
 				<tr>
@@ -52,31 +69,12 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds%20logo.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
-	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
-					<br><br> MINDS aims to find a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
-        </td>
-    </tr>
-					<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
             <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs%20security.png">
 						</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>PCS Security</b>
 	        <br> PCS Security is a leading security solution provider specialising in value-added systems and services for their customers. They are facing challenges in their existing sales process, including a lack of collaboration, transparency and the constraints of a rigid Enterprise Resource Planning (ERP) system. 
 					<br><br> PCS Security is looking for a solution that integrates with their existing ERP system and offers flexibility for modifications throughout the sales workflow. 
-        </td>
-    </tr>
-					<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Cordlife Group Limited</b>
-	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
-					<br><br> Cordlife seeks a self-service online portal on their website to improve communication with both B2C and B2B clients. The portal will have separate interfaces for expectant parents and healthcare professionals, providing convenient access to documents and efficient administrative task management.
         </td>
     </tr>
 					<tr>
