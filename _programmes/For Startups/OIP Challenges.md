@@ -20,30 +20,46 @@ Here's a sneak peek of some of the challenges:
 <br>
 <table>
     <tbody>
-			<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/astar_artc_horizontal%20logo_rgb.png">
-        </td>
+      <tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/artc%20logo.png">
+				</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Advanced Remanufacturing And Technology Centre (ARTC)</b>
 	        <br> This challenge is overseen by two challenge owners. The first owner focuses on the digitalisation of enterprise operations to improve operational efficiencies. The second owner serves clients like mobile device and electronic vehicles or battery manufacturers to help them manage their technology asset lifecycle. One common challenge faced by both companies is the management of data that affect the analysis of energy consumption patterns and inefficiencies in production systems.
 					<br><br>In this challenge, they are looking for a smart energy management system designed to measure, monitor and control energy consumption in real-time throughout the manufacturing process.
         </td>
     </tr>
+<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife.png">        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>Cordlife Group Limited</b>
+	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
+					<br><br> Cordlife seeks a self-service online portal on their website to improve communication with both B2C and B2B clients. The portal will have separate interfaces for expectant parents and healthcare professionals, providing convenient access to documents and efficient administrative task management.
+        </td>
+    </tr>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ial%20logo.png">
-        </td>
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/skillsfuture%20ial%20logo.png">
+				</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Institute For Adult Learning (IAL) x Skillsfuture SG </b>
+					<br><b>Institute For Adult Learning (IAL) x Skillsfure SG </b>
 	        <br> As part of IAL’s InnovPlus Challenge 2023, a hospital in the public healthcare sector, offers a course aimed at training newly graduated nurses in managing patients presented with clinical emergencies, such as resuscitation situations.&nbsp;
 					As resuscitation situations do not arise often, it is difficult for nurses to apply what they have learnt. 
 					<br><br> The IAL seeks an immersive simulation-based training solution to enhance the resuscitation training program for nurses. The goal is to improve their competency in resuscitation skills, boost confidence in handling life-threatening emergencies, and replicate real-life scenarios.
         </td>
     </tr>
+<tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
+	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
+					<br><br> MINDS aims to find a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
+        </td>
+    </tr>
 				<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ntuc%20health%202019%20logo_fullcolour%20(rgb)%20(1)%20(002).png"> 
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/ntuc%20health.png"> 
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>NTUC Health </b>
@@ -53,18 +69,8 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/minds-logo-full-color-rgb.jpg">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>The Movement for the Intellectually Disabled of Singapore (MINDS)</b>
-	        <br> MINDS is a non-profit organisation established to empower and support individuals with intellectual disabilities and their families. Currently, the Training Officers (TOs) at MINDS face significant challenges in delivering comprehensive and individualised training to boost clients’ independence and inclusion due to the high level of personalised training required for each individual.
-					<br><br> MINDS aims to find a digital training solution to facilitate TOs and provide more efficient training methods for clients to learn Activities of Daily Living and community Living Skills. 
-        </td>
-    </tr>
-					<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs_master_logo.png">
-        </td>
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/pcs%20security.png">
+						</td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>PCS Security</b>
 	        <br> PCS Security is a leading security solution provider specialising in value-added systems and services for their customers. They are facing challenges in their existing sales process, including a lack of collaboration, transparency and the constraints of a rigid Enterprise Resource Planning (ERP) system. 
@@ -73,16 +79,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/cordlife%20logo_wotagline.jpg">        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-					<br><b>Cordlife Group Limited</b>
-	        <br> Cordlife provides cord blood and tissue banking services to expectant parents, as well as diagnostic services to expectant mothers by partnering with obstetricians and gynaecologists. They face operational challenges such as communication and manual invoicing processes and a lack of a centralised client platform.
-					<br><br> Cordlife seeks a self-service online portal on their website to improve communication with both B2C and B2B clients. The portal will have separate interfaces for expectant parents and healthcare professionals, providing convenient access to documents and efficient administrative task management.
-        </td>
-    </tr>
-					<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/wareesan-logo-vector-219x300.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2020/wareesan.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Wareesan Management Pte Ltd</b>
@@ -92,7 +89,9 @@ Here's a sneak peek of some of the challenges:
     </tr>
 </tbody></table>
 <br>
-<a href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find Out More</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="https://www.openinnovation.sg/challenges?utm\_medium=website&amp;utm\_source=pixelwebsite&amp;utm\_campaign=call20">Find Out More</a>
+<br>
+
 
 ## **Open Innovation Call 19**
 
