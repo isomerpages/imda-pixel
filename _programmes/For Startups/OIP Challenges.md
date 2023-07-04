@@ -12,7 +12,9 @@ Are you a challenge solver with digital technology expertise and innovation capa
 
 ## **Open Innovation Call 20**
 Submit your proposals by 11 August 2023, 4pm GMT+8
+
 ![open innovation platform call 20 hero banner](/images/Programmes/OIP%20Challenges/Call%2020/open%20innovation%20platform%20call%2020%20hero%20banner.jpg)
+
 In our latest IMDA Open Innovation Platform, we have brought to you a diverse set of challenges. From training and skills development, technology and innovation, healthcare and well-being to sustainability and circular economy, there's something for everyone! 
 <br><br>For this challenge, we have partnered with various organisations including the **Institute for Adult Learning**, **Pacific International Lines**, **NTUC Health**, **National Council of Social Services** with **Lions Befrienders Service Association**, **The Movement for the Intellectually Disabled of Singapore** and **Thye Hua Kwan**, **PCS Security**,  **Cordlife Group**, as well as **Wareesan**. 
 
