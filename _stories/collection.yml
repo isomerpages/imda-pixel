@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - "Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s
+        Innovation Hub.md"
       - Driving Growth With Smart Autonomy.md
       - Real Estate Developer Uses AI For Better Site Inspections.md
       - Helping enterprises attain a green future.md
