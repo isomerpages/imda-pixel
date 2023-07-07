@@ -50,3 +50,5 @@ Gupta adds that the OIP is a boon to start-ups and smaller businesses. “It wou
 Tan notes that companies can find the best fit for their needs through the OIP, since they work towards goals, rather than product specifications. This invites more innovative proposals. “Moreover, the OIP reduces the risks and barriers to getting customised technology solutions that go beyond those available in the market,” he says.
 
 He adds that Amgen will continue to partner IMDA to improve the speed to market of its products and serve more patients.
+
+Source: Business Times, 16 June 2023
