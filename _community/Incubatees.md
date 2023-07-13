@@ -367,7 +367,7 @@ description: current incubatees start-ups
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Greenie Web</b>
             <br>AI model that allows businesses to identify, calculate, analyse and rectify carbon emissions and reduce carbon footprint.
-	    <br><br><a href="https://gardengenesis.app/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.greenieweb.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
