@@ -92,62 +92,61 @@ Register today to achieve your professional goals.
     </tr>
       <tr>
       <td>10</td>
-      <td>23 Jul (Wed)</td>
+      <td>23 Aug (Wed)</td>
 			<td>9.00am - 6.00pm</td>
 <td>EInvoice InvoiceNow Enterprise Clinic
 			</td><td>Closed Door</td>
     </tr>
 		 <tr style="background-color: #f2f2f2;">
       <td>11</td>
-      <td>19 Jul (Wed)</td>
-      <td>9.00am - 12.00pm</td>
-			<td>MOH Visit to IMDA-AWS Joint Innovation Centre (JIC) 
+      <td>23 Aug (Wed)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>IMDA IDP Safari (SME Go Digital)
 			</td><td>Closed Door</td>
 			</tr>
 		 <tr>
       <td>12</td>
-			<td>19 Jul (Wed)</td>
-      <td>2.00pm - 5.00pm</td>
-				<td><b>PIXEL's Networking Event</b><br>
-						Climate Fresk - Hands Hearts and Minds with Palo IT </td>
-			<td><a href="https://form.gov.sg/6477fe36a325ba001127901d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+			<td>23 Aug (Wed)</td>
+      <td>9.00am - 2.00pm</td>
+			<td>Huawei Incubator Workshop - Hiring Strategy
+			</td><td>Closed Door</td>
     </tr>
 	<tr style="background-color: #f2f2f2;">
       <td>13</td>
-			<td>20 Jul (Thu)</td>
-      <td>2.00pm - 5.00pm</td>
-				<td><b>PIXEL's Workshop</b><br>
-						Revolutionizing Hospitality: Harnessing Technology's Potential</td>
-			<td>Closed Door</td>    
+			<td>23 Aug (Wed)</td>
+      <td>3.00pm - 5.00pm</td>
+				<td>PIXEL's Wonderful Wednesday<br>
+			</td><td>Closed Door</td>    
 		</tr>
 		 <tr>
       <td>14</td>
-      <td>21 Jul (Fri)</td>
-			<td>9.00am - 6.00pm</td>
-      <td>IMDA x SID event </td>
+      <td>24 Aug (Thu)</td>
+			<td>9.00am - 1.00pm</td>
+      <td>Objective Experience Eye Tracking Demo </td>
 			<td>Closed Door</td>
 		</tr>
 <tr style="background-color: #f2f2f2;">
 	     <td>15</td>
-			<td>21 Jul (Fri)</td>
-      <td>9.00am - 6.00pm</td>
-      <td>BCG-RISE cohort</td>
-			<td>Closed Door</td>
+			<td>28 Aug (Mon)</td>
+			<td>2.00pm - 4.00pm</td>
+				<td><b>PIXEL's ARVR Workshop</b><br>
+						Introduction to Qualcomm XR &amp; Snapdragon Spaces</td>
+			<td><a href="https://imda-pixel.sg/event/444" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
 		</tr>   
 		<tr>
       <td>16</td>
-      <td>26 Jul (Wed)</td>
-			<td>9.00am - 5.00pm</td>
-      <td>NIE Visit to IMDA-AWS Joint Innovation Centre (JIC) </td>
+      <td>30 Aug (Wed)</td>
+			<td>9.00am - 6.00pm</td>
+      <td>EInvoice InvoiceNow Enterprise Clinic</td>
 			<td>Closed Door</td>
 		</tr>
 	<tr style="background-color: #f2f2f2;">
       <td>17</td>
-      <td>26 Jul (Wed)</td>
-			<td>2.00pm - 3.00pm</td>
-				<td><b>PIXEL's Webinar</b><br>
-						The Value of Immersive Experiences Unveiled</td>
-			<td><a href="https://imda-pixel.sg/event/400" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
+      <td>31 Aug (Thu)</td>
+			<td>2.00pm - 5.00pm</td>
+				<td><b>PIXEL's Design Thinking Workshop</b><br>
+						Design Thinking and AI: Finding the Perfect Balance Between Human and Machine</td>
+			<td><a href="https://imda-pixel.sg/event/439" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 10px; padding-right: 10px; padding-top:8px; padding-bottom:8px; vertical-align:middle">Register</a></td>
     </tr>
   </tbody>
 </table>
