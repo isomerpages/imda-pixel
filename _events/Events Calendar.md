@@ -92,9 +92,9 @@ Register today to achieve your professional goals.
     </tr>
       <tr>
       <td>10</td>
-      <td>13 Jul (Thu)</td>
-			<td>9.00am - 1.00pm</td>
-<td>Huawei Incubator Workshop
+      <td>23 Jul (Wed)</td>
+			<td>9.00am - 6.00pm</td>
+<td>EInvoice InvoiceNow Enterprise Clinic
 			</td><td>Closed Door</td>
     </tr>
 		 <tr style="background-color: #f2f2f2;">
