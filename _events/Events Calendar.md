@@ -57,37 +57,37 @@ Register today to achieve your professional goals.
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>5</td>
-      <td>16 Jul (Mon)</td>
-			<td>9.30am - 12.30pm
-      </td><td> [Marche]<br> Discovery Workshop</td>
+      <td>16 Aug (Wed)</td>
+			<td>9.00am - 1.00pm
+      </td><td> Huawei Incubator Workshop - Fundraising 2</td>
 			<td>Closed Door</td>
     </tr>
     <tr>
       <td>6</td>
-			<td>11 Jul (Tue)</td>
-      <td>9.00am - 6.00pm</td>
-			<td>[IMDA-Academy] Workshop
+			<td>16 Aug (Wed)</td>
+      <td>2.00pm - 5.00pm</td>
+			<td>Design Thinking Workshop with  Singapore Tourism Board
 			</td><td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>7</td>
-      <td>11 Jul (Tue)</td>
-      <td>9.00am - 1.00pm</td>
-			<td>Huawei Incubator Workshop
+      <td>17 Aug (Thu)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>EInvoice InvoiceNow Enterprise Clinic
 			</td><td>Closed Door</td>
     </tr>
 		<tr>
       <td>8</td>
-      <td>12 Jul (Wed)</td>
-      <td>9.00am - 5.00pm</td>
-			<td>EInvoice InvoiceNow Enterprise Clinic</td>
+      <td>21 Aug (Mon)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>AWS-IHiS StartUp Launch</td>
 			<td>Closed Door</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>9</td>
-      <td>12 Jul (Wed)</td>
-      <td>9.00am - 1.00pm</td>
-			<td>Huawei Incubator Workshop
+      <td>22 Aug (Tue)</td>
+      <td>9.00am - 6.00pm</td>
+			<td>IMDA IDP Safari (SME Go Digital)
 			</td><td>Closed Door</td>
     </tr>
       <tr>
