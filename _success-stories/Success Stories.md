@@ -110,7 +110,15 @@ Of course, facilities are but one part of the equation. If office areas were all
 			<br><b><a target="_blank" href="/stories/pixel-huawei-spark-incubation/">Singapore’s Infocomm Media Development Authority and Huawei Cloud announces launch of start-up incubator</a></b>
 		</td>
 	</tr>
+	<tr>
+		<td style="width:30%; vertical-align:middle;">
+			<img src="/images/Success%20stories/artc%20advert.jpg">
+		</td>
+		<td style="vertical-align:middle;">ARTC's Startup Challenge 2021
+			<br><b><a target="_blank" href="/stories/oip-artc/">How Three Local Tech Startups Address Real-world Business Problems and Win MNC Customers</a></b>
+		</td>
+	</tr>			
 </tbody></table>
 
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" href="https://pixel.imda.gov.sg/stories/stories-of-innovation-hiverlab/">Read all</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" href="https://pixel.imda.gov.sg/stories/pixel-innovation-hub">Read all</a>
