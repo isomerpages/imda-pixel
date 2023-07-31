@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - How three local tech startups address real world business problems and
+        win MNC customers.md
       - "Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s
         Innovation Hub.md"
       - Driving Growth With Smart Autonomy.md
