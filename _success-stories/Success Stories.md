@@ -121,4 +121,4 @@ Of course, facilities are but one part of the equation. If office areas were all
 </tbody></table>
 
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" href="https://pixel.imda.gov.sg/stories/stories-of-innovation-hiverlab/">Read all</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" href="https://pixel.imda.gov.sg/stories/pixel-innovation-hub">Read all</a>
