@@ -4,7 +4,7 @@ title: How three local tech startups address real world business problems and
 permalink: /stories/oip-artc/
 description: ""
 ---
-##### How three local tech startups address real-world business problems and win MNC customers
+##### How Three Local Tech Startups Address Real-world Business Problems and Win MNC Customers
 
 ![](/images/Success%20stories/artc%20advert.jpg)
 
