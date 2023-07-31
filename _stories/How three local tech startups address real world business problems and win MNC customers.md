@@ -1,6 +1,5 @@
 ---
-title: How three local tech startups address real world business problems and
-  win MNC customers
+title:  How Three Local Tech Startups Address Real-world Business Problems and Win MNC Customers
 permalink: /stories/oip-artc/
 description: ""
 ---
