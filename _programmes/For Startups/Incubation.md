@@ -18,7 +18,7 @@ Look forward to a suite of benefits with us!
 	<tbody><tr>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Facilities</b></span>
-			<br>Designed to embed customer centricity into your product, AR/VR Lab, 5G Test Bed, Usability Testing Lab for UI/UX, and media production facilities are available. 
+			<br>Designed to embed customer centricity into your product, AR/VR Lab, 5G Test Bed, and Usability Testing Lab for UI/UX are available. 
 		</td>
 		<td style="background:#E8E8E8; border: 15px solid white; width:33%;">
 			<span style="text-align: center;"><b>Expertise</b></span>
@@ -30,8 +30,6 @@ Look forward to a suite of benefits with us!
 		</td>
 	</tr>
 </tbody></table>
-
-<a href="https://form.gov.sg/6347a3c39854900012674f4d" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply for PIXEL Incubation</a>
 
 # PIXEL - Huawei Cloud Incubator Programme
 ![](/images/Programmes/banner%202junehw.png)
