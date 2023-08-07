@@ -4,8 +4,7 @@ permalink: /programmes/startups/incubation/
 description: Join PIXEL's Incubation Programme and/or Apply For Tech Showcase
 third_nav_title: For Startups
 ---
-# PIXEL Incubation Programme
-
+# PIXEL Incubation 
 Join our innovation community at PIXEL, and let us support you in building your business. Connect with like-minded individuals and be part of a vibrant ecosystem, so you can be ready when opportunity knocks. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1TpU2Xp5PZ0" title="YouTube video player" frameborder="0" style="text-align:center" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
