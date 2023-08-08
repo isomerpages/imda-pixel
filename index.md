@@ -47,7 +47,7 @@ sections:
         resources, knowledge and our network of innovators, so you can be ready
         when opportunity knocks.
       button: apply
-      url: /programmes/startups/community/
+      url: /programmes/startups/pixel-community/
       alt: Image alt text
       subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
