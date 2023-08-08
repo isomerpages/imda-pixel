@@ -6,7 +6,7 @@ third_nav_title: For Corporates
 ---
 # Need A Customised Solution? 
 
-![OIP Hero Banner](/images/Programmes/oip%20hero%20banner_v3.png)
+![OIP Hero Banner](/images/Programmes/open%20innovation%20platform.jpg)
 
 We know innovation is tough - there are many factors to consider, from the business problem you are trying to solve, to understanding what digital solution to leverage on. 
 
