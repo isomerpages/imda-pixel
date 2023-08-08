@@ -8,10 +8,8 @@ links:
       - title: For Start-ups
         url: /programmes/startups/incubation/
   - title: Events
-    url: /events-calendar/
+    url: /Events
     sublinks:
-      - title: Events Calendar
-        url: /events-calendar/
       - title: ARVR
         url: /events/arvr/
       - title: Design Thinking
