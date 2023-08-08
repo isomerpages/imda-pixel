@@ -1,7 +1,7 @@
 ---
 title: Unleashed the Possibility of Future with Lenovo ThinkReality and Qualcomm
-permalink: /events/arvr/permalink/
-date: 2023-08-08
+permalink: https://imda-pixel.sg/event/444
+date: 2023-08-31
 layout: post
 description: ""
 image: ""
