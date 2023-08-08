@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - Upcoming Networking Events/.keep
+    order: []
