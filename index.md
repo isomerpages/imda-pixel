@@ -11,12 +11,12 @@ sections:
   - hero:
       background: /images/Test/pixel main header.png
       key_highlights:
-        - title: FOR Corporates
+        - title: For Corporates
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
         - title: For Start-ups
           description: Connect with the community
-          url: /programmes/startups/incubation/
+          url: /programmes/startups/community/
         - title: FOR ALL
           description: We have something for everyone
           url: /events
@@ -47,7 +47,7 @@ sections:
         resources, knowledge and our network of innovators, so you can be ready
         when opportunity knocks.
       button: apply
-      url: /programmes/startups/incubation/
+      url: /programmes/startups/pixel-community/
       alt: Image alt text
       subtitle: START-UPS
       image: /images/Homepage/incubatehomepage.png
