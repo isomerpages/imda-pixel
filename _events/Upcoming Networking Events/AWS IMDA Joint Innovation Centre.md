@@ -119,4 +119,4 @@ Submit your time to the global leaderboard to see how you stack up. Learn how or
     </tr> 
 </tbody></table>
 
-##### Any questions? Reach out [here](mailto:farmjj@amazon.com)
+##### Any questions? Reach out [here](mailto:farmji@amazon.com)
