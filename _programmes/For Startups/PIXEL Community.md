@@ -1,6 +1,6 @@
 ---
 title: PIXEL Community
-permalink: /programmes/for-startups/community/
+permalink: /programmes/startups/community/
 description: Join PIXEL's Innovation Community and Apply For Tech Showcase
 third_nav_title: For Startups
 ---
