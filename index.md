@@ -16,7 +16,7 @@ sections:
           url: programmes/corporates/find-solution-providers/
         - title: For Start-ups
           description: Connect with the community
-          url: /programmes/startups/incubation/
+          url: /programmes/startups/community/
         - title: FOR ALL
           description: We have something for everyone
           url: /events
