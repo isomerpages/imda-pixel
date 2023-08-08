@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/Test/pixel main header.png
       key_highlights:
-        - title: FOR Corporates
+        - title: For Corporates
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
         - title: For Start-ups
