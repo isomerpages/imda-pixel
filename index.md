@@ -16,7 +16,7 @@ sections:
           url: programmes/corporates/find-solution-providers/
         - title: For Start-ups
           description: Connect with the community
-          url: /programmes/startups/community/
+          url: /programmes/startups/pixel-community/
         - title: FOR ALL
           description: We have something for everyone
           url: /events
@@ -33,16 +33,16 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: "We match corporates with tech start-ups to solve business
+      description: We match corporates with tech start-ups to solve business
         challenges. Join our quarterly innovation call or try out the discovery
-        engine for a faster match.   "
+        engine for a faster match.
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/Incubation2.png
       subtitle: CORPORATES & START-UPS
   - infopic:
-      title: "Incubation "
+      title: Incubation
       description: Be a PIXEL incubatee. Gain access to co-working space, tech
         resources, knowledge and our network of innovators, so you can be ready
         when opportunity knocks.
@@ -54,8 +54,8 @@ sections:
   - infopic:
       title: Complimentary Innovation Consulting
       subtitle: CORPORATES & START-UPS
-      description: "Transform your digital products, services, content or brand
-        through a series of coaching sessions with our expert consultants. "
+      description: Transform your digital products, services, content or brand through
+        a series of coaching sessions with our expert consultants.
       button: Discover
       url: /programmess/corporates/consultancies/
       image: /images/Homepage/project based consultancy.png
@@ -71,8 +71,8 @@ sections:
       subtitle: everyone
   - infopic:
       title: Community
-      description: "Plug into PIXEL’s vibrant community of diverse tech experts,
-        start-ups, corporate innovators and get inspired.   "
+      description: Plug into PIXEL’s vibrant community of diverse tech experts,
+        start-ups, corporate innovators and get inspired.
       button: Connect
       url: /community/networking-events/
       image: /images/Homepage/Community2.png
@@ -83,9 +83,9 @@ sections:
       button: view more
   - infobar:
       title: Testimonials
-      description: "Starting a business is always a balance of excitement and
-        apprehension. The PIXEL team really \"get\" this. I've been consistently
-        impressed...  "
+      description: Starting a business is always a balance of excitement and
+        apprehension. The PIXEL team really "get" this. I've been consistently
+        impressed...
       button: read more
       url: /success-stories/testimonials/
 ---
