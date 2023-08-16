@@ -143,7 +143,7 @@ description: current incubatees start-ups
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>IGNITE VR</b>
             <br>VR company in areas of entertainment, education and events.
-	    <br><br><a href="http://ignite-vr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="http://ignitevr.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  	
 <tr>
@@ -156,16 +156,6 @@ description: current incubatees start-ups
 	    <br><br><a href="https://www.meshminds.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  			
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/frolic.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>FROLIC</b>
-            <br>Creates game experiences that measure engagement and NPS scores, to attract visitors for large venues and big event operators.
-	    <br><br><a href="https://www.canva.com/design/DAEf9jEvemQ/jk85gl21cl_Q1qcDM05ISw/view?website#2:frolic-games" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>  					
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/VIRSPATIALNEW.png">
@@ -342,16 +332,6 @@ description: current incubatees start-ups
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/neuralbay.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>NEUTALBAY</b>
-            <br>Specialising in AI vision analytics, translating research into industrial applications to help businesses grow.
-	    <br><br><a href="https://www.linkedin.com/company/neuralbay/about/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/DRISKNEW.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -452,16 +432,6 @@ description: current incubatees start-ups
             <br><b>Aruvii</b>
             <br>Aruvii’s FAST3DIS™ is a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces. Our proprietary real-time 3D Perception AI technology converts raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications. FAST3DIS Software is sensor-agnostic and supports a wide range of 3D Vision Sensors such as 3D LiDARs, Depth Cameras and Time-of-Flight (ToF) sensors.
 	    <br><br><a href="https://aruvii.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/avidorobotics.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>AVIDO ROBOTICS</b>
-            <br>More than 15 years of experiences in a myriad of industries. Electronics and robotics enthusiasts.
-	    <br><br><a href="https://avido-robotics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 	</tbody></table>
