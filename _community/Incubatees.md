@@ -494,16 +494,6 @@ description: current incubatees start-ups
 <table>	
 <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/millicast.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>MILLICAST</b>
-            <br>A WebRTC-based real-time streaming service that enables sub-second latency, broadcast-quality color and sound, global scale, and end-to-end encryption.
-	    <br><br><a href="https://dolby.io/products/real-time-streaming/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/xyconnect.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -534,16 +524,6 @@ description: current incubatees start-ups
             <br><b>REACH52</b>
             <br>Facebook startup –  health tech platform offering range of health services.
 	    <br><br><a href="https://reach52.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/adidesign.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>ADI DESIGN STUDIO</b>
-            <br>Consulting firm specializing in product design, embedded system, and robotics.
-	    <br><br><a href="https://www.adidesigns.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -584,36 +564,6 @@ description: current incubatees start-ups
             <br><b>VOUCH</b>
             <br>Facebook startup – AI-powered tech (hospitality/tourism)
 	    <br><br><a href="https://www.vouchconcierge.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/trabble.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>TRABBLE</b>
-            <br>Facebook startup – AI-powered chatbot (tourism)
-	    <br><br><a href="https://www.trabble.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 			
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/nephtech.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>NEPHTECH PTE LTD</b>
-            <br>A medical technology company that provide evidence-based approach to vascular access surveillance and management.
-	    <br><br><a href="https://www.linkedin.com/in/nephtech-pte-ltd-711b19143/?originalSubdomain=sg" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/cosmo.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>COSMO SOFTWARE</b>
-            <br>Web real-time communication software, including Millicast, a video streaming solution.
-	    <br><br><a href="https://www.cosmonautasoftware.com/en-us" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
 <tr>
