@@ -1,7 +1,7 @@
 ---
 title: Crafting ARVR Opportunities with Design Thinking 2
-permalink: /events/design-thinking/permalink/
-date: 2023-08-17
+permalink: https://imda-pixel.sg/event/441
+date: 2023-09-27
 layout: post
 description: ""
 image: ""
