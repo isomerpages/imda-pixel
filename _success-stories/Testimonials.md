@@ -21,7 +21,7 @@ description: ""
 
 <table>
 		<tbody><tr><td style="border: 15px solid #F1F1F1; width:70%; text-align: center;">
-				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL shared a list of companies in our areas of interest (music, gaming, AR/VR, etc.) and introduced us to PIXEL's incubatees and alumni. Through the interactions, we have learned a lot about the Singapore media-innovation community and have worked on partnership opportunities with the matched companies.</span>
+				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL shared a list of companies in our areas of interest (music, gaming, AR/VR, etc.) and introduced us to PIXEL's start-ups and alumni. Through the interactions, we have learned a lot about the Singapore media-innovation community and have worked on partnership opportunities with the matched companies.</span>
 	<br><br>
 		<b>Meili Lovanich<br>Senior Director, Business Development Asia and Middle East,<br>Sony Music Entertainment</b>
 		</td>
@@ -61,15 +61,6 @@ All these is crucial in helping us to grow, launch our product and forge really 
 				<br><span style="font-size:1.em; line-height:1em; color:grey"> IMDA PIXEL Team was instrumental in matching Myloh with Chemistry, who designed the Myloh UIUX and engagement journey. We are grateful that the collaboration resulted in being recognised by Fast Company as one of the best wellness design in 2022, and impacting thousands of lives!</span>
 	<br><br>
 		<b>Steve Loh<br>Founder, Myloh.co</b>
-		</td>	
-</tr></tbody></table><br>
-
-<table>
-	<tbody><tr><td style="border: 15px solid #F1F1F1; width:100%; text-align: center;">
-				<br><span style="font-size:1.em; line-height:1em; color:grey"> The Youth Co:Lab Summit was hosted in Singapore for the first time in 2022. We were proud to partner with PIXEL who provided their facilities, shared insights about the local startup ecosystem and showcased exciting startup demonstrations to the participants from the Asia-Pacific region at the pre-summit. We truly appreciate PIXEL's support to inspire young social entrepreneurs.</span>
-	<br><br>
-		<b>Kimmy Paulino<br>International Consultant - Youth Co:Lab Summit &amp; Youth Programming<br>UNDP Bangkok Regional Hub - Youth Unit
- </b>
 		</td>	
 </tr></tbody></table><br>
 
