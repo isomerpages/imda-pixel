@@ -42,16 +42,6 @@ sections:
       image: /images/Homepage/Incubation2.png
       subtitle: CORPORATES & START-UPS
   - infopic:
-      title: Incubation
-      description: Be a PIXEL incubatee. Gain access to co-working space, tech
-        resources, knowledge and our network of innovators, so you can be ready
-        when opportunity knocks.
-      button: apply
-      url: /programmes/startups/pixel-community/
-      alt: Image alt text
-      subtitle: START-UPS
-      image: /images/Homepage/incubatehomepage.png
-  - infopic:
       title: Complimentary Innovation Consulting
       subtitle: CORPORATES & START-UPS
       description: Transform your digital products, services, content or brand through
