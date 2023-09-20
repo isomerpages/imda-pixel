@@ -11,7 +11,7 @@ Our operating hours are on weekdays, Monday to Friday, from 9am to 6pm. <br> We 
 
 ##### 2. How can I tap on PIXEL's resources?
 
-If you are interested in tapping into PIXEL's resources, such as 5G Lab, ARVR Lab, Prototyping, or UIUX Lab, or if you would like to consult wiht our panel of experts to better understand your users and improve your products, please fill up the enquiry form  [here](https://form.gov.sg/5f9a4b40b4e12c0011d5e0a5). 
+If you are interested in tapping into PIXEL's resources, such as 5G Lab, ARVR Lab, Prototyping, or UIUX Lab, or if you would like to consult with our panel of experts to better understand your users and improve your products, please fill up the enquiry form  [here](https://form.gov.sg/5f9a4b40b4e12c0011d5e0a5). 
 
 ##### 3. Is the space available for rent or lease?
 
