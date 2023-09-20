@@ -5,7 +5,7 @@ description: success stories testimonial
 ---
 # Featured Stories
 
-### Pixel Perfect: A Photo Essay of What Incubating Is Like at Imda’s Innovation Hub
+### Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s Innovation Hub
 
 ##### For a place called Pixel, it definitely doesn’t have a tiny vibe to it.
 
