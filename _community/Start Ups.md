@@ -5,7 +5,7 @@ description: Join our network of innovative start-ups and gain access to a
   wealth of resources and support including innovation consulting, expert
   guidance, and a community of like-minded.
 ---
-# Incubatees
+# Start-ups
 ### ARVR/ Metaverse
 <table>
     <tbody><tr>
