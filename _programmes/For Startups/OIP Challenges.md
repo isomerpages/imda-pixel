@@ -23,11 +23,11 @@ Here's a sneak peek of some of the challenges:
     <tbody>
 			<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/mandaiwg_logo.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/sbs%20transit.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>SBS Transit (SBST)</b>
-	        <br> SBST Bus Deployment Personnel (BDP) manages the allocation of parking lots for 200-600 buses for the day. The main challenge faced by BDPs is that the actual sequence of buses returning to the depot does not align with the planned dispatched for the next day, and a lot of manual adjustments and exception handling are needed on the ground.
+	        <br>Bus Deployment Personnel (BDP) manages the allocation of parking lots for 200-600 buses for the day. The main challenge faced by BDPs is that the actual sequence of buses returning to the depot does not align with the planned dispatched for the next day, and a lot of manual adjustments and exception handling are needed on the ground.
 					<br><br>In this challenge, they are looking for a solution to automate the planning of parking lot allocation and notify Bus Captains of their designated parking lots/zones before or upon arrival at the bus depot. It should also minimise the need for manual allocation of parking lots on the ground and support the timely dispatch of buses.
         </td>
     </tr>
@@ -43,7 +43,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 				<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/1508924_diageo_logo_black-rgb.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/huttons.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Huttons Group</b>
@@ -53,7 +53,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
 					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/singapore%20land%20authority.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Singapore Land Authority</b>
@@ -63,7 +63,7 @@ Here's a sneak peek of some of the challenges:
     </tr>
  					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/ncss%20x%20bmdp.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>National Council of Social Services x Bone Marrow Donor Programme (BMDP)</b>
@@ -73,7 +73,7 @@ Here's a sneak peek of some of the challenges:
     </tr>   
   					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/sg%20enable.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>SG Enable (SGE)</b>
@@ -83,7 +83,7 @@ Here's a sneak peek of some of the challenges:
     </tr>   
      					<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey; text-align: center; vertical-align: middle;">	
-            <br><img src="/images/Programmes/OIP%20Challenges/Call%2018/yue%20hwa%20logo_horizontal_400x100.png">
+            <br><img src="/images/Programmes/OIP%20Challenges/Call%2021/raduga.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Raduga</b>
