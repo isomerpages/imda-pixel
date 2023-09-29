@@ -13,7 +13,7 @@ Are you a challenge solver with digital technology expertise and innovation capa
 
 Submit your proposals by 10 November 2023, 4pm +8GMT
 
-![Open Innovation Platform Challenge - Submit by 9 June 2023](/images/Programmes/OIP%20Challenges/Call%2018/1200x630%20without%20cta.png)
+![](/images/Programmes/OIP%20Challenges/call21_1200x600.jpg)
 
 We are excited to partner with the likes of SBS Transit Ltd, Stellar Lifestyle, Huttons Group, Singapore Land Authority, NCSS, Bone Marrow Donor Programme, Safe Place, SG Enable, and Raduga.
 
