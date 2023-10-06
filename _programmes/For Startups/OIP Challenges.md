@@ -13,9 +13,8 @@ Are you a challenge solver with digital technology expertise and innovation capa
 
 Submit your proposals by 10 November 2023, 4pm +8GMT
 
-![](/images/Programmes/OIP%20Challenges/Call%2021/call21_1200x600.jpg)
-
-We are excited to partner with the likes of SBS Transit Ltd, Stellar Lifestyle, Huttons Group, Singapore Land Authority, NCSS, Bone Marrow Donor Programme, Safe Place, SG Enable, and Raduga.
+![](/images/Programmes/call21_1200x600.jpg)
+We are excited to partner with the likes of SBS Transit Ltd, Stellar Lifestyle, Huttons Group, Singapore Land Authority, National University Health System, NCSS, Bone Marrow Donor Programme, Safe Place, SG Enable, and Raduga.
 
 Here's a sneak peek of some of the challenges: 
 <br>
