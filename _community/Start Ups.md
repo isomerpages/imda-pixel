@@ -412,7 +412,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>H3 DYNAMICS</b>
-            <br>Hybrid remote-sensing robotics &amp; AI company that automates professional inspection drone services -  from data collection, data transfer and processing, to AI-enabled results on client interfaces.
+            <br>H3 Dynamics enables Advanced Air Mobility with a three pronged approach that starts with digitization, leading to solutions around autonomous operations, enhances flight autonomy with hydrogen propulsion.
 	    <br><br><a href="https://www.h3dynamics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -422,7 +422,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Techfox</b>
-            <br>Development of am AI enabled robotics delivery system.
+            <br>Provider of a connected robotics delivery system with AIoT, real-time location tracking, object tracking, fleet management and secure materials transportation capabilities
 	    <br><br><a href="http://techfox.com.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -432,7 +432,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Aruvii</b>
-            <br>Aruvii’s FAST3DIS™ is a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces. Our proprietary real-time 3D Perception AI technology converts raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications. FAST3DIS Software is sensor-agnostic and supports a wide range of 3D Vision Sensors such as 3D LiDARs, Depth Cameras and Time-of-Flight (ToF) sensors.
+            <br>Provider of FAST3DIS™, a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces, converting raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications.
 	    <br><br><a href="https://aruvii.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -446,7 +446,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ACKCIO</b>
-            <br>Wireless solutions for industrial monitoring in construction, mining, and oil-and-gas
+            <br>Provider of wireless solutions for industrial monitoring in construction, mining, and oil-and-gas to enhance safety, manage risks, and increase productivity by automating their industrial sensor monitoring processes.
 	    <br><br><a href="https://www.ackcio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -456,7 +456,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>EMBODIED SENSING</b>
-            <br>Develop and integrate devices and platforms for industries such as Smart Buildings, logistics and delivery customer service and retail.
+            <br>Provider and integrator of devices and platforms to transform business through the power of IOT for industries such as Smart Buildings, logistics and delivery customer service and retail.
 	    <br><br><a href="https://embodiedsensing.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -466,7 +466,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>NERVOTEC</b>
-            <br>Nervotec is a provider of healthcare analytics as a service that provides software only solutions for the measurement and analysis of medical grade physiological vital signs.
+            <br>Provider of healthcare analytics as a service that provides software only solutions for the measurement and analysis of medical grade physiological vital signs.
 	    <br><br><a href="https://nervotec.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -476,7 +476,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Gaitmetrics</b>
-            <br>Uses radio frequency signals to generate imaging data to provide insights that can be interpreted about movements of people within a given environment space. An AI-powered and non-intrusive human monitoring system is developed based on human gait biometrics extracted from such radio frequency signals with plans to ride on the standardisation in IEEE802.11bf to leverage sensors data that could be available from any Wifi compliant Access Points.
+            <br>Provider of AI-powered and non-intrusive human monitoring system developed based on human gait biometrics extracted from radio frequency signals, by using radio frequency signals to generate imaging data to provide insights that can be interpreted about movements of people within a given environment space while totally preserving privacy.
 	    <br><br><a href="https://gaitmetrics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -486,15 +486,34 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>HEROES (Our.Fans)</b>
-            <br>A fanclub platform for athletes to engage &amp; earn with their fans.
+            <br>Provider of a sports community platform to enable sports heros to be discovered &amp; to earn from brands.
 	    <br><br><a href="http://heros.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+	  <tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/xyconnect.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>XYCONNECT</b>
+            <br>Provider of smart lighting solutions that allows smooth data transmission via existing lighting circuit in homes, delivering a reliable signal to everyone.
+	    <br><br><a href="http://xy-connect.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 </tbody></table>
 
-### Connectivity
+### Ecommerce Marketplaces
 <table>	
 <tbody><tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/Outside.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>OUTSIDE</b>
+            <br>An All-in-one Workforce Management solution for businesses,  with an app for individuals to work and earn flexibly.
+	    <br><br><a href="https://www.outsideapp.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 			
+	<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/xyconnect.png">
         </td>
