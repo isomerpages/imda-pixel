@@ -513,16 +513,66 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.outsideapp.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/xyconnect.png">
+            <br><img src="/images/Community/Incubatees/sendjoy.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>XYCONNECT</b>
-            <br>XYConnect's_&nbsp;patented smart lighting solution allows smooth data transmission via existing lighting circuit in homes, delivering a reliable signal to everyone.
-	    <br><br><a href="http://xy-connect.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><b>SENDJOY</b>
+            <br>Marketplace for consumers to book personalised celebrity video messages for loved ones.
+	    <br><br><a href="https://www.sendjoynow.com/?v=0f177369a3b7" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/reach52.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>REACH52</b>
+            <br>Facebook startup –  health tech platform offering range of health services.
+	    <br><br><a href="https://reach52.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/trustineonew.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>TRUSTINEO</b>
+            <br>A multinational technology offering a UNIQUE, innovative solution to help overcome the challenges and complexities of the agribusiness sector and enabling sustainability through digital means.
+	    <br><br><a href="https://www.trustineo.net/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/gluu.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>GLUU LIFE</b>
+            <br>A community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning.
+	    <br><br><a href="https://www.gluu.life/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SKILIO</b>
+            <br>Skilio is Southeast Asia’s 1st skills-based hiring talent community
+	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/vuulr.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>VUULR</b>
+            <br>TV, film and sports content marketplace connecting distributors and buyers of content worldwide
+	    <br><br><a href="https://www.vuulr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
 	</tbody></table>
 
 ### Others
@@ -539,26 +589,6 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/reach52.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>REACH52</b>
-            <br>Facebook startup –  health tech platform offering range of health services.
-	    <br><br><a href="https://reach52.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/dlabs.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>DLABS</b>
-            <br>AI software consultancy which uses complex AI processes to simplify business
-	    <br><br><a href="https://www.dlabs.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/hydroleap.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -569,30 +599,10 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 			
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/umitron.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>UMITRON</b>
-            <br>Deeptech company using IoT, satellite remote sensing and AI to improve farm efficiency, manage environmental risks and grow revenue
-	    <br><br><a href="https://umitron.com/en/mission.html" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 		
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/vouch.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>VOUCH</b>
-            <br>Facebook startup – AI-powered tech (hospitality/tourism)
-	    <br><br><a href="https://www.vouchconcierge.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/advantir.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>ADVANTIR INNOVATIONS</b>
+            <br><b>SWIRL.GO</b>
             <br>Create the Nespresso for soft serve &amp; desserts.
 	    <br><br><a href="https://www.swirlgo.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -609,36 +619,6 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 		
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/trustineonew.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>TRUSTINEO</b>
-            <br>A multinational technology offering a UNIQUE, innovative solution to help overcome the challenges and complexities of the agribusiness sector and enabling sustainability through digital means.
-	    <br><br><a href="https://www.trustineo.net/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/Outside.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>OUTSIDE</b>
-            <br>An All-in-one Workforce Management solution for businesses,  with an app for individuals to work and earn flexibly.
-	    <br><br><a href="https://www.outsideapp.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 			
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/gluu.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>GLUU</b>
-            <br>A community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning.
-	    <br><br><a href="https://www.gluu.life/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/mightyjaxx.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -647,7 +627,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://mightyjaxx.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/findingpics.png">
         </td>
@@ -657,17 +637,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.finding.pictures/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/sendjoy.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>SENDJOY</b>
-            <br>Marketplace for consumers to book personalised celebrity video messages for loved ones.
-	    <br><br><a href="https://www.sendjoynow.com/?v=0f177369a3b7" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/creativesatwork.png">
         </td>
@@ -677,7 +647,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.creativesatwork.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/bandwagon.png">
         </td>
@@ -687,7 +657,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.bandwagon.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/viddsee.png">
         </td>
@@ -697,17 +667,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.viddsee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/vuulr.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>VUULR</b>
-            <br>TV, film and sports content marketplace connecting distributors and buyers of content worldwide
-	    <br><br><a href="https://www.vuulr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/1playsports.png">
         </td>
@@ -717,7 +677,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.1playsports.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 		
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/e3sports.png">
         </td>
@@ -727,7 +687,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.e3sports.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/prepventures.png">
         </td>
@@ -737,7 +697,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.prepjr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/metaus.png">
         </td>
@@ -747,7 +707,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://teammeta.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
 		</td>
     </tr>		
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/joysteak.png">
         </td>
@@ -757,7 +717,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://joysteak.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>			
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/tendaysstudios.png">
         </td>
@@ -767,7 +727,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.10days-studio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/battlebrew.png">
         </td>
@@ -777,7 +737,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://battleskybrigade.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/mightybear.png">
         </td>
@@ -787,7 +747,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://mightybeargames.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/pangaea.png">
         </td>
@@ -797,7 +757,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://tribe-world.com/pangaea/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/ratloop.png">
         </td>
@@ -807,7 +767,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="http://www.ratloop.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/gentlebros.png">
         </td>
@@ -817,24 +777,4 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://thegentlebros.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/sidefx.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>SIDE FX STUDIOS</b>
-            <br>XR experience developer.
-	    <br><br><a href="https://www.sidefx.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>	
-	<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>SKILIO</b>
-            <br>Skilio is Southeast Asia’s 1st skills-based hiring talent community
-	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>
 	</tbody></table>
