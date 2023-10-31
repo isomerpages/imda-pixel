@@ -13,8 +13,8 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/Medivrlogo.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>MEDIVR</b>
-            <br> A leader in creating conversational AI Virtual Humans with InteractAI engine that revolutionises interpersonal training, to improve confidence and accelerate learning.
+            <br><b>INTERACT AI</b>
+            <br> Provider of a no-code generative AI platform that revolutionises professional training and learning in various industries, including medical, education, and service through AI-powered virtual humans for rapid scenario generation.
 	    <br><br><a href="https://www.medivr.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -24,7 +24,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ALO VR</b>
-            <br>Develops AR &amp; VR products for senior well-being, with a focus on fitness, rehab and cognitive maintenance
+            <br>Provider of AR/VR solutions that harness spatial computing to enhance the well-being of seniors by improving outcomes in fitness, rehab, mental health, dementia care, pain management and social inclusion.
             <br><br><a href="https://alo.health/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -34,7 +34,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AUGMENTEED</b>
-            <br>A platform designed for industrial companies to digitize and deploy automated and optimized workflows for field service technicians
+            <br>Provider of a platform designed for industrial companies to digitize paper-based industrial procedures within weeks and without coding, instantly upskilling field service technicians.
             <br><br><a href="https://www.augmenteed.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>			
@@ -44,7 +44,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VOOX</b>
-            <br>3D smart inspections to ensure projects are compliant, on budget and on time, by capturing, analysing 3D data, and acting on them. 
+            <br>Provider of a one-stop platform for industrial companies to store and visualize captured 3D data, analyzing and tracking issue to ensure project compliance and efficiency.
 	    <br><br><a href="https://www.voox.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -54,7 +54,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>NPLASTY</b>
-            <br>Surgical simulation platform with VR and Haptics to complement and advance surgical training.
+            <br>Provider of a robust and scalable surgical simulation platform to address the training and validation needs in the surgical environment that complements and advances surgical training with Virtual Reality and Haptics Technology.
 	    <br><br><a href="https://nplasty.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -64,7 +64,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SERL.IO</b>
-            <br>Collaborative, no-code Mixed Reality platform for work and training (e.g. product or process visualisation, presentations, learning).
+            <br>Provider of a no-code Mixed Reality platform for enterprise and education designed to ease the process of deploying interactive and collaborative Mixed Reality content.
 	    <br><br><a href="https://serl.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -74,7 +74,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VOSTOK VR</b>
-            <br>Specializes in 360 Video and Virtual Reality content creation; Provides VOSKHOD, an XR platform for enterprises to do remote immersive trainings for their staff.
+            <br>Provider of a 360 Video and Virtual Reality content creation solution, inlcuding VOSKHOD, an XR platform for enterprises to create remote immersive trainings for their employees.
 	    <br><br><a href="https://www.vostokvr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>   
@@ -84,7 +84,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>EVOLVE INNOVATION SOLUTIONS</b>
-            <br>One platform to create, publish, manage and track all AR Immersive Experiences. Also creating AR/VR experiences for clients
+            <br>Provider of spatial content creation solutions that specializes in helping businesses utilize virtual, augmented, and mixed reality.
 	    <br><br><a href="https://www.eis.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>   	
@@ -94,7 +94,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VISRE</b>
-            <br>Use VR to create engaging, educational content to raise awareness of eye diseases.
+            <br>Provider of engaging, educational content solutions using VR to raise awareness of eye diseases and thereby improve compliance to eye screening.
 	    <br><br><a href="https://www.visre.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>   		
@@ -104,7 +104,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>HIVERLAB</b>
-            <br>Specialises in content and system development with immersive technology and media (VR/AR/MR).
+            <br>Provider of products to democratize the implementation and interoperability of emerging technologies - one of the highlights being SpatialWork, a product enabling the creation of Spatial Digital Twins for real-world assets and systems.
 	    <br><br><a href="https://www.hiverlab.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>   				
@@ -114,7 +114,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>MAGICMAO</b>
-            <br>Implimenting Virtual/Augmented or Mixed reality (XR) solutions in businesses.
+            <br>Provider of telepresence solutions to help businesses conduct demonstration, collaboration and training effortlessly in a immersive remote real world.
 	    <br><br><a href="https://www.magicmao.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  	
@@ -124,7 +124,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VRCOLLAB</b>
-            <br>Boosts building information modelling’s viability  in the Architecture, Engineering and Construction (AEC) Industry.
+            <br>Provider of a range of plug and play products helping businesses in the Architecture, Engineering and Construction (AEC) industry utilise the latest technology and mediums to increase communication, understanding and usability of BIM data regardless of technical skill.
 	    <br><br><a href="https://vrcollab.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  			
@@ -134,7 +134,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AXOMEN</b>
-            <br>Building a next-generation data analytics and visualization platform with user interfaces based on 3D, AR and VR.
+            <br>Provider of re-imagined digital twin, analytics and visualization platform for businesses by creating datascapes that integrate, understand and act on time-sensitive data streams.
 	    <br><br><a href="https://axomem.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  
@@ -144,7 +144,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>IGNITE VR</b>
-            <br>VR company in areas of entertainment, education and events.
+            <br>Provider of Virtual Reality solutions, specialising in conceptualising, designing, setting up and operating temporary and permanent physical spaces to showcase Virtual Reality experiences in areas of entertainment, education and events.
 	    <br><br><a href="http://ignitevr.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  	
@@ -154,7 +154,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>MESHMINDS</b>
-            <br>Creative technology studio specialising in virtual, augmented and mixed reality, to maximise engagement, empathy and action.
+            <br>Provider of VR, AR and MR solutions, helping businesses to maximise engagement, empathy and action.
 	    <br><br><a href="https://www.meshminds.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  			
@@ -164,7 +164,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VIRSPATIAL TECH</b>
-            <br>Virspatial Technologies is a technology company specialising in the creation of spatial digital twins that enable enterprise metaverse applications.
+            <br>Provider of spatial computing technologies and digital twins to link the physical and digital worlds, enabling enterprise metaverse applications.
 	    <br><br><a href="https://www.virspatial.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -174,7 +174,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>BUZZ AR</b>
-            <br>We build an immersive marketing experience for businesses, making the metaverse accessible to the public through Pop Up Metaverse.
+            <br>Provider of metaverse solutions that aims to augment places and faces, connecting the next billion users to co create an inclusive metaverse, where Memes meet the Metaverse.
 	    <br><br><a href="https://buzzar.app/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -184,7 +184,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TWOMC</b>
-            <br>TWOMC are pioneers in the convergence of Digital Twins, Extended Reality and Digital Marketing.
+            <br>Provider of integrated Digital Twins, Extended Reality and Digital Marketing solutions, for businesse to drive cost savings, improve efficiency and productivity, and enhance customer experiences.
 	    <br><br><a href="http://www.twomc.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -194,7 +194,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Synfesys</b>
-            <br>An easy-to-use developer tool which can be used to create AAA classified games without the need to code, regardless of the platform.
+            <br>Provider of SynBuilder, an easy-to-use Provider tool which can be used to create AAA classified games without the need to code, regardless of the platform.
 	    <br><br><a href="http://synfesys.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -204,7 +204,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Ottodot</b>
-            <br>Developer of OttoWorld, a science learning platform built on Roblox to allow young children from 7 to 12 years of age to explore and solve puzzles and learn together, tackling the problem of boredom and loss of interest from in classroom and zoom lessons.
+            <br>Provider of OttoWorld, a science learning platform built on Roblox to allow young children from 7 to 12 years of age to explore and solve puzzles and learn together, tackling the problem of boredom and loss of interest from in classroom and zoom lessons.
 	    <br><br><a href="https://ottodot.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -214,7 +214,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>StepVR</b>
-            <br>Development of both hardware and software products for a free-roam VR experience to replicate and control users’ five senses in the Metaverse.
+            <br>Provider of both hardware and software products for a free-roam VR experience to replicate and control users’ five senses in the Metaverse for businesses enabling clients from various industries to transition smoothly into the metaverse age.
 	    <br><br><a href="https://www.stepvr.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -224,7 +224,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Silverwings XR</b>
-            <br>Silverwings XR is a 3D visualisation company that develops customised immersive and interactive experiences such as ARVR, holographics, mixed/simulated/special and extended realities for any businesses keen in the technology.
+            <br>Provider of immersive and interactive 3D visualisation solutions such as metaverse (SPACES is our 3D avatar-based collaboration platform) as well as holographics, AR/VR/MR and simulated/special and extended realities for businesses in various sectors.
 	    <br><br><a href="http://www.silverwingsxr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -234,7 +234,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Serial.co</b>
-            <br>SERIAL COMMUNICATION activities involve the use of advanced technologies such as virtual and augmented reality, mixed reality, and 3D graphics, providing clients, both individuals, and organisations across varying industries, engaging and interactive experiences. Recent clients include Meta, Meshminds, National Design Centre. Aside from client-focused projects, the creative team pushes the boundaries of what is possible with new platforms and technology in the digital space to create novel experiences and artistic projects.
+            <br>Provider of creative technology solutions on the edge of what is possible, to deliver immersive experiences that captivate, educate and inspire.
 	    <br><br><a href="https://serial.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -244,7 +244,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Xctuality</b>
-            <br>Xctuality is an immersive technology company that is connecting people... anyone, everywhere. Our innovative B2B2C solutions lay the foundations for smart city ecosystems, and harness technology for the betterment of humanity. By developing the next evolution of social networking, we are cultivating collaborative environments beyond borders, and redefining the way humans connect.
+            <br>Provider of B2B2C solutions that connects people... anyone, everywhere by laying the foundations for smart city ecosystems, and harness technology for the betterment of humanity.
 	    <br><br><a href="https://xctuality.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -254,7 +254,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Smobler Studio</b>
-            <br>Smobler is a metaverse architecture agency that specializes in IP creation, brand marketing and metaverse development. Smobler is focused on co-creating a Metaverse for Good based on its IDEALS (inclusion, diversity, equity, access, leadership and sustainability) as well as building a diverse ecosystem with a strong academy emphasis. Smobler offers Free to Use (or a Freemium business model) to onboard brands and services to pay it forward through its signature Metaverse for Good platform. 
+            <br>Provider of metaverse architecture including IP creation, web 3 brand marketing , blockchain gaming technology, event production and metaverse development. 
 	    <br><br><a href="https://www.smoblerstudios.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>  		
@@ -274,7 +274,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>LDR</b>
-            <br>Provies e-learning, mobile learning, AR, VR, MR and metaverse solutions through its proprietary platform to enable businesses to leverage immersive and interactive content to build experiential solutions. 
+            <br>Provider of extended reality solutions including industry leading Enterprise Web-First Metaverses, Mixed Reality Solutions and Applied Immersive Games to create immersive experiences, AR/VR app solutions for businesses across industries.
 	    <br><br><a href="https://www.ldr.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
@@ -288,7 +288,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>LEXATEXER</b>
-            <br>Makes products to simplify and automate the analysis of real world data.
+            <br>Provider of software platforms for onboarding, integrating, managing, securing, analyzing and deploying data driven solutions for businesses across industries, focusing on manufacturing and intelligence to automate the process of predictive analytics, and reduce the time to deliver results.
 	    <br><br><a href="https://www.lexatexer.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
@@ -298,7 +298,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>BETTERDATA</b>
-            <br>Transforms production data into privacy-preserving and highly realistic synthetic data, to share, access and build safely across teams.
+            <br>Provider of technology that transforms production data into privacy-preserving and highly realistic synthetic data, to share, access and build safely across teams.
 	    <br><br><a href="https://www.betterdata.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -308,7 +308,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ELITEFIT</b>
-            <br>EliteFit.AI is a leading-edge FitTechnology, revolutionising the fitness industry with the power of Artificial Intelligence
+            <br> Provider of cutting-edge technologies that evolutionize physical health and fitness training, catering to a multitude of markets and industries with varying solutions, by leveraging on advanced AI capabilities.
 	    <br><br><a href="https://elitefitforyou.com/home" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -318,7 +318,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ESSE PI</b>
-            <br>Provides a content analysis platform with customizable ML models and inference engines to contextualise media content.
+            <br>Provider of AI solutions to Enterprises, Individuals and The Underprivileged by building scalabe on-premise, cloud or hybrid platforms to empower users to leverage the power of AI/ML to boost productivity and augment human capabilities.
 	    <br><br><a href="https://essepi.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -328,7 +328,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AFFABLE</b>
-            <br>Influencer marketing platform to find relevant influencers, manager campaigns and measure effectiveness.
+            <br>Provider of an end-to-end Influencer Marketing Platform for global brands and agencies to find relevant influencers, manager campaigns and measure effectiveness.
 	    <br><br><a href="https://www.affable.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -338,7 +338,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>D-RISK</b>
-            <br>D-Risk is an AI-driven rating platform which provides quick, easy and affordable corporate credit ratings for lending, investment and trade credit management.
+            <br>Provider of an AI-driven rating platform which provides quick, easy and affordable corporate credit ratings for lending, investment and trade credit management.
 	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -348,7 +348,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Greenie Web</b>
-            <br>AI model that allows businesses to identify, calculate, analyse and rectify carbon emissions and reduce carbon footprint.
+            <br>Provider of ESG tool that empowers businesses to identify, calculate and reduce digital carbon footprint.
 	    <br><br><a href="https://www.greenieweb.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -358,7 +358,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Infodeck</b>
-            <br>Infodeck uses key technology such as AI, machine learning, edge computing and hybrid cloud architecture to manage all smart applications and data of facility managers in one deck-board.
+            <br>Provider of an all in one deck-board platform using key technology such as AI, machine learning, edge computing and hybrid cloud architecture for businesses to manage all smart applications and data.
 	    <br><br><a href="https://www.infodeck.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -368,7 +368,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Seedlegals</b>
-            <br>One stop platform for all legal advice required by startups and small businesses.
+            <br>Provider of a one stop platform for all legal advice required by startups and small businesses.
 	    <br><br><a href="https://seedlegals.com/sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -378,7 +378,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>Garden Genesis</b>
-            <br>DNA-MILE (DNA-based Multiple InteLligences Evaluation) is a proprietary tool for early discovery of children's learning inclination to enhance learning effectiveness.
+            <br>Provider of an AI-powered early child development platform designed to maximize children's holistic growth through personalized learning guides, enabled by genetics and robust AI analytics.
 	    <br><br><a href="https://www.gardengenesis.app/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -388,7 +388,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>ZAPKAD</b>
-            <br>Next generation smart business card with CRM analytics to power business growth.
+            <br>Provider of Next Gen Smart Business Cards for professionals and companies to network more effectively, Zapkad offers enterprise solutions for companies to manage their entire organisation’s business cards from a central platform with CRM and analytics.
 	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -402,7 +402,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>DCONSTRUCT ROBOTICS</b>
-            <br>Autonomous navigation solutions for mobile robotics applications.
+            <br>Provider of autonomous solutions to make robots easier to use for our customers. By deconstructing and reconstructing the current ways we view robotics, we present autonomy as a service; robots are partners for human work tasks. Smarter robots for a better world.
 	    <br><br><a href="https://www.dconstruct.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
