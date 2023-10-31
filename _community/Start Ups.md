@@ -1069,5 +1069,3 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
     </tr>		
 	</tbody></table>
-    		
-	
