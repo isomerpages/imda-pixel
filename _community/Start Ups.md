@@ -608,7 +608,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VOUCH</b>
-            <br>Facebook startup – AI-powered tech (hospitality/tourism)
+            <br>Provider of digital solutions leveraging AI and chatbot technology to enhance guest experience, productivity and operational efficiency in areas such as crowd traffic, guest concierge, digital ticketing and booking management for the hospitality and travel industry. 
 	    <br><br><a href="https://www.vouchconcierge.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
@@ -641,17 +641,47 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/techfox.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Techfox</b>
+            <br><b>TECHFOX</b>
             <br>Provider of a connected robotics delivery system with AIoT, real-time location tracking, object tracking, fleet management and secure materials transportation capabilities
 	    <br><br><a href="http://techfox.com.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>FABRICA.AI</b>
+            <br>Provider of a platform that revolutionizes robot development by transforming your environment and task descriptions into custom hardware designs. As a starting point, we are a provider of a tile grouting robot to boost construction productivity to train and validate our platform.
+	    <br><br><a href="https://www.fabrica.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/HEROSNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>UNBOX ROBOTICS</b>
+            <br>Provider of robotics-based fulfilment and distribution tech solutions for e-commerce, retail and logistics enterprises to accelerate parcel sortation and order fulfilment to facilitate efficient express logistics operations.
+	    <br><br><a href="https://unboxrobotics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/umitron.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>XSQAURE</b>
+            <br>Provider of warehouse automation solutions comprising Autonomous Forklifts and Intelligent Warehouse Orchestrator software designed to optimise warehouse operations and maximise productivity without the need for reconfiguration.
+	    <br><br><a href="https://www.xsquare.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 		
+<tr>
      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/aruviimay2023.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Aruvii</b>
+            <br><b>ARUVII</b>
             <br>Provider of FAST3DIS™, a fast and robust 3D Perception AI Software Engine for intelligent sensing in indoor and outdoor spaces, converting raw 3D point-cloud data to usable 3D insights for smart manufacturing, smart infrastructure, smart warehouse and robotics applications.
 	    <br><br><a href="https://aruvii.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -695,7 +725,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Gaitmetrics</b>
+            <br><b>GAITMETRICS</b>
             <br>Provider of AI-powered and non-intrusive human monitoring system developed based on human gait biometrics extracted from radio frequency signals, by using radio frequency signals to generate imaging data to provide insights that can be interpreted about movements of people within a given environment space while totally preserving privacy.
 	    <br><br><a href="https://gaitmetrics.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
