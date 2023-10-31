@@ -509,7 +509,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>OUTSIDE</b>
-            <br>An All-in-one Workforce Management solution for businesses,  with an app for individuals to work and earn flexibly.
+            <br>Provider of an all-in-one Workforce Management solution for businesses, with an app for individuals to work and earn flexibly.
 	    <br><br><a href="https://www.outsideapp.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
@@ -519,7 +519,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SENDJOY</b>
-            <br>Marketplace for consumers to book personalised celebrity video messages for loved ones.
+            <br>Provider of a marketplace for consumers to book personalised celebrity video messages for loved ones.
 	    <br><br><a href="https://www.sendjoynow.com/?v=0f177369a3b7" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -529,7 +529,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>REACH52</b>
-            <br>Facebook startup –  health tech platform offering range of health services.
+            <br>Provider of an insight-driven platform and supported by an established network of agents, partners with businesses, governments and social organisations to deliver targeted, scalable and data-driven health campaigns across low-and-middle income countries.
 	    <br><br><a href="https://reach52.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -539,7 +539,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TRUSTINEO</b>
-            <br>A multinational technology offering a UNIQUE, innovative solution to help overcome the challenges and complexities of the agribusiness sector and enabling sustainability through digital means.
+            <br>Provider of an innovative one-stop smart digital contract platform and a comprehensive supply chain management system that seamlessly connects producers, buyers, and various supply chain stakeholders, driving digital transformation and advancing sustainability in the agribusiness sector.
 	    <br><br><a href="https://www.trustineo.net/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
@@ -549,7 +549,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>GLUU LIFE</b>
-            <br>A community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning.
+            <br>Provider of an community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning.
 	    <br><br><a href="https://www.gluu.life/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
@@ -559,7 +559,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SKILIO</b>
-            <br>Skilio is Southeast Asia’s 1st skills-based hiring talent community
+            <br>Provider of Southeast Asia’s 1st Gen Z skills-based hiring talent community platform.
 	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
@@ -569,7 +569,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VUULR</b>
-            <br>TV, film and sports content marketplace connecting distributors and buyers of content worldwide
+            <br>Provider of a TV, film and sports content marketplace connecting distributors and buyers of content worldwide.
 	    <br><br><a href="https://www.vuulr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
