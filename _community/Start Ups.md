@@ -10,7 +10,7 @@ description: Join our network of innovative start-ups and gain access to a
 <table>
     <tbody><tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/Medivrlogo.jpg">
+            <br><img src="/images/Community/Incubatees/interactailogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>INTERACT AI</b>
