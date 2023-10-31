@@ -290,7 +290,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr>  		
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/ldr%20logo.png">
+            <br><img src="/images/Community/technocorplogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TECHNOCORP</b>
@@ -434,7 +434,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/elitefit.png">
+            <br><img src="/images/Community/Incubatees/deltacapturelogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>DELTA CAPTURE</b>
@@ -444,7 +444,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/essepi.png">
+            <br><img src="/images/Community/Incubatees/intangleslogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>INTANGLES</b>
@@ -454,7 +454,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/affable.png">
+            <br><img src="/images/Community/Incubatees/scoutbeelogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SCOUTBEE</b>
@@ -464,7 +464,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/DRISKNEW.png">
+            <br><img src="/images/Community/Incubatees/skymapgloballogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SKYMAP GLOBAL</b>
@@ -474,7 +474,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/greenie%20web%20logo.png">
+            <br><img src="/images/Community/Incubatees/unllogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>UNL GLOBAL</b>
@@ -484,7 +484,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/infodeck%20logo.png">
+            <br><img src="/images/Community/Incubatees/ailyticslogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AILYTICS</b>
@@ -494,7 +494,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/seedlegals%20logo.png">
+            <br><img src="/images/Community/Incubatees/fingerdancelogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>FINGERDANCE</b>
@@ -504,7 +504,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+            <br><img src="/images/Community/Incubatees/ayunailogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AYUN AI</b>
@@ -514,7 +514,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
+            <br><img src="/images/Community/Incubatees/aidxtechlogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AIDX TECH</b>
@@ -524,7 +524,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/dlabs.png">
+            <br><img src="/images/Community/Incubatees/uturelogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>UTURE AI</b>
@@ -534,7 +534,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/DRISKNEW.png">
+            <br><img src="/images/Community/Incubatees/qzenselabslogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>QZSENSE LABS</b>
@@ -544,7 +544,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/greenie%20web%20logo.png">
+            <br><img src="/images/Community/Incubatees/tagboxlogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TAGBOX</b>
@@ -554,7 +554,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/infodeck%20logo.png">
+            <br><img src="/images/Community/Incubatees/tictaglogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TIGTAG</b>
@@ -564,17 +564,17 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/seedlegals%20logo.png">
+            <br><img src="/images/Community/Incubatees/seerlogo252.jpg">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>sEER</b>
+            <br><b>SEER</b>
             <br>Provider of Interactive AI to authenticate human interaction and claims through accurate video analytics in both physical and virtual environments.
 	    <br><br><a href="https://aiseer.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+            <br><img src="/images/Community/Incubatees/linhlogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>LINH</b>
@@ -584,7 +584,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
+            <br><img src="/images/Community/Incubatees/lexlyhealthlogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>LEXLY HEALTH</b>
@@ -594,7 +594,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/dlabs.png">
+            <br><img src="/images/Community/Incubatees/corgiailogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>CORGI.AI</b>
@@ -648,7 +648,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/gait%20metrics%20logo.png">
+            <br><img src="/images/Community/Incubatees/fabricaailogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>FABRICA.AI</b>
@@ -658,7 +658,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/HEROSNEW.png">
+            <br><img src="/images/Community/Incubatees/unboxroboticslogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>UNBOX ROBOTICS</b>
@@ -668,7 +668,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/umitron.png">
+            <br><img src="/images/Community/Incubatees/xsquarelogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>XSQAURE</b>
@@ -826,7 +826,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr>
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
+            <br><img src="/images/Community/Incubatees/trallylogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TRALLY</b>
@@ -890,7 +890,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 		
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/mightyjaxx.png">
+            <br><img src="/images/Community/Incubatees/mightyjaxxlogo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>MIGHTY JAXX</b>
@@ -973,7 +973,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/metaus.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br> <b> Team META</b>
+            <br> <b> TEAM META</b>
             <br>Provider of branded and third party community esports leagues for sponsors and media companies.
 	    <br><br><a href="https://teammeta.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
 		</td>
@@ -1040,6 +1040,26 @@ description: Join our network of innovative start-ups and gain access to a
     </tr>	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/acclaimsociallogo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>ACCLAIM SOCIAL</b>
+            <br>A Social Media Marketing &amp; Public Relations Agency.
+	    <br><br><a href="https://www.acclaim.social/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/imba.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>IMBA INTERACTIVE</b>
+            <br>A game audio recording studio to build game soundtracks including sound design, music and voice.
+	    <br><br><a href="https://www.imbainteractive.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/gentlebros.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -1049,3 +1069,5 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
     </tr>		
 	</tbody></table>
+    		
+	
