@@ -278,6 +278,16 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.ldr.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/sidefx.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SIDE FX STUDIOS</b>
+            <br>Provider of XR experiences, providing artists with procedural 3D animation and visual effects tools designed to create the highest-quality cinematic results. 
+	    <br><br><a href="https://www.sidefx.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
 		</tbody></table>
 		
 ### AI
@@ -392,6 +402,26 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
+	<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/dlabs.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>DLABS</b>
+            <br>Provider of AI software consultancy services which uses complex AI processes to simplify the gap between the built environment and the digital industry to improve productivity for the clients.
+	    <br><br><a href="https://www.dlabs.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/vouch.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>VOUCH</b>
+            <br>Facebook startup – AI-powered tech (hospitality/tourism)
+	    <br><br><a href="https://www.vouchconcierge.com/en/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
 </tbody></table>
 
 ### Robotics
@@ -490,7 +520,18 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="http://heros.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	  <tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/umitron.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>UMITRON</b>
+            <br>Provider of deeptech data platforms for aquaculture, using IoT, satellite remote sensing, and AI, helping farmers improve farm efficiency, manage environmental risks, and increase business revenues aiming to solve worldwide food and environmental problems.
+	    <br><br><a href="https://umitron.com/en/mission.html" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 		
+<tr>
+	  </tr><tr><td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/xyconnect.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -583,7 +624,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>OROVAULT.CO</b>
-            <br>An intelligent document processing (IDP) data aggregation platform that democratises financial data.
+            <br>Provider of platform for intelligent document processing, management, collaboration, and reducing their carbon footprint.
 	    <br><br><a href="https://www.orovault.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -593,7 +634,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>HYDROLEAP</b>
-            <br>Water treatment using IoT-enabled electrical treatment technology
+            <br>Provider of innovative, chemical-free, high-performance, and modularized electrochemical technologies to replace conventional chemical and energy-intensive processes.
 	    <br><br><a href="https://hydroleap.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
@@ -623,7 +664,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>MIGHTY JAXX</b>
-            <br>Designer toys and art collectibles studio that has worked with brands like Cartoon Network, Nickelodeon, Warner Brothers, DC Comics etc.
+            <br>The Mighty Jaxx Group is a collection of brands and companies that bridges future culture via an integrated platform that curates and produces unique in-person experiences, and develops digital and phygital collectibles for every fandom and audience.
 	    <br><br><a href="https://mightyjaxx.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -643,7 +684,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>CREATIVES AT WORK</b>
-            <br>Media agency by creative professionals who cover every consumer touchpoint including digital asd social media.
+            <br>A media agency supercharged by a curated network of freelance creative professionals who cover every consumer touchpoint including digital, social, mobile, broadcast, print, events and out-of-home.
 	    <br><br><a href="https://www.creativesatwork.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -653,7 +694,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>BANDWAGON</b>
-            <br>Independent music media company, covering news, entertainment and events.
+            <br>A leading independent music media company in Southeast Asia, delivering news, entertainment, and events happening in our region to millions of readers around the world.
 	    <br><br><a href="https://www.bandwagon.asia/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -663,7 +704,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>VIDDSEE</b>
-            <br>Storyteller platform powered by AI for audiences, storytellers and brands.
+            <br>Provider of a storyteller platform powered by AI for audiences, storytellers and brands.
 	    <br><br><a href="https://www.viddsee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
@@ -673,7 +714,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>1PLAYSPORTS</b>
-            <br>Sports media narrowcasting start-up producing&nbsp;live streams&nbsp;of both  national and international levels.
+            <br>Sports media narrowcasting start-up producing live streams of both national and international levels.
 	    <br><br><a href="https://www.1playsports.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 		
@@ -703,7 +744,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br> <b> Team META</b>
-            <br>Meta.us produces branded and third party community esports leagues for sponsors and media companies.
+            <br>Provider of branded and third party community esports leagues for sponsors and media companies.
 	    <br><br><a href="https://teammeta.gg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
 		</td>
     </tr>		
@@ -713,7 +754,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>JOYSTEAK STUDIOS</b>
-            <br>Pixel art adventure games on Nintendo Switch.
+            <br>A indie game studio developing pixel art adventure games on Nintendo Switch.
 	    <br><br><a href="https://joysteak.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>			
@@ -723,7 +764,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>TENDAYS STUDIO</b>
-            <br>Video game studio
+            <br>A remote Game and Animation studio specialising on Animation &amp; Art and are integral to our expertise in developing new IPs, creating new universes, and memorable characters through storytelling.
 	    <br><br><a href="https://www.10days-studio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
@@ -733,7 +774,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>BATTLEBREW PRODUCTIONS</b>
-            <br>Developer of mobile strategy games
+            <br>Provider of mobile strategy games such as Battlesky Brigade Tribes, Battlesky Brigade Tap Tap and Battlesky Brigade Harpooner.
 	    <br><br><a href="https://battleskybrigade.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
@@ -743,7 +784,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>MIGHTY BEAR</b>
-            <br>Online multiplayer game developer
+            <br>A Singapore-based studio bringing the future of online multiplayer to a universal audience.
 	    <br><br><a href="https://mightybeargames.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
@@ -753,7 +794,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>PANGAEA INTERACTIVE</b>
-            <br>Design and create&nbsp;interactive worlds, Location-Based Games and Social Platforms/
+            <br>Provider and developer of design and create interactive worlds, Location-Based Games and Social Platforms.
 	    <br><br><a href="https://tribe-world.com/pangaea/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
@@ -763,7 +804,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>RATLOOP ASIA</b>
-            <br>Console Games Developer.
+            <br>Provider of video games and 3D training tools.
 	    <br><br><a href="http://www.ratloop.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>	
@@ -773,7 +814,7 @@ description: Join our network of innovative start-ups and gain access to a
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>THE GENTLEBROS</b>
-            <br>Pc, console, mobile game developer (Cat Quest).
+            <br>An award winning game povider studio for PCs, consoles and mobile game developer.
 	    <br><br><a href="https://thegentlebros.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
