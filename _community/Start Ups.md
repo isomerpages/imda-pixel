@@ -439,7 +439,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>DELTA CAPTURE</b>
             <br> Provider of an end-to-end data platform designed to improve the sustainability of businesses' agriculture supply chain at scale with minimum coordination and verified results.
-	    <br><br><a href="https://elitefitforyou.com/home" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.deltacapture.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -449,7 +449,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>INTANGLES</b>
             <br>Provider of solutions that transform fleet monitoring standards by leveraging their proprietary digital twin technology.
-	    <br><br><a href="https://essepi.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.intangles.ai//" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -459,7 +459,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SCOUTBEE</b>
             <br>Provider of the Scoutbee Intelligence Platform that uses graph technology and predictive and prescriptive analytics to deliver holistic supplier visibility that helps procurement make confident supplier decisions, drive cross-functional efficiency, and optimize their existing technology investments. 
-	    <br><br><a href="https://www.affable.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://scoutbee.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -469,7 +469,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>SKYMAP GLOBAL</b>
             <br>Provider of location-based data analytics solutions to deliver sustainability related geospatial AI applications at scale.
-	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://skymapglobal.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -479,7 +479,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>UNL GLOBAL</b>
             <br>Provider of location technology, mapping and data tools that enables creators, developers and businesses of all size to build highly scalable, hyperlocal services, applications and business models, from ecommerce and delivery to smart city and autonomous solutions.
-	    <br><br><a href="https://www.greenieweb.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://unl.global/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -489,7 +489,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AILYTICS</b>
             <br>Provider of an AI Video Analytics solution provider that helps industrial companies improve safety and maximize productivity by analyzing real-time data from existing camera feeds, providing actionable insights on operations, productivity, and risks.
-	    <br><br><a href="https://www.infodeck.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://ailytics.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -499,7 +499,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>FINGERDANCE</b>
             <br>Provider of an advanced AI-enabled two-way sign language translation system that empowers millions of Deaf individuals worldwide by seamlessly integrating them into society.
-	    <br><br><a href="https://seedlegals.com/sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.linkedin.com/company/fingerdance-pte-ltd/?originalSubdomain=sg" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -519,7 +519,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>AIDX TECH</b>
             <br>Provider of a cutting-edge platform designed for AI model testin including model evaluation, AI model repair, AI copyright issues, AIGC detection, and data vulnerability scanning.
-	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.aidxtech.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -529,7 +529,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>UTURE AI</b>
             <br>Provider of AI-driven services for communication, information processing, and transactions, offering efficiency and intelligence at your fingertips.
-	    <br><br><a href="https://www.dlabs.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://uture.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
 <tr>
@@ -539,7 +539,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>QZSENSE LABS</b>
             <br>Provider of IoT-based automation and analytics solutions that helps companies optimize food supply chain operations.
-	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.qzense.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
 <tr>
@@ -822,6 +822,16 @@ description: Join our network of innovative start-ups and gain access to a
             <br><b>SKILIO</b>
             <br>Provider of Southeast Asia’s 1st Gen Z skills-based hiring talent community platform.
 	    <br><br><a href="http://www.skilio.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>TRALLY</b>
+            <br>Provider of a virtual travel platform that empowers travellers with virtual tours through a live-streaming, peer-to-peer marketplace.
+	    <br><br><a href="https://www.trally.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
 <tr>
