@@ -15,7 +15,7 @@ description: Join our network of innovative start-ups and gain access to a
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>INTERACT AI</b>
             <br> Provider of a no-code generative AI platform that revolutionises professional training and learning in various industries, including medical, education, and service through AI-powered virtual humans for rapid scenario generation.
-	    <br><br><a href="https://www.medivr.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+	    <br><br><a href="https://www.interactai.live/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
@@ -280,7 +280,7 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 			
 <tr>
           <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/spacedao%20logo.png">
+            <br><img src="/images/Community/Incubatees/immersively.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>IMMERSIVELY</b>
