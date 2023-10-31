@@ -193,7 +193,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/synfesys%20(meta%20real)%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Synfesys</b>
+            <br><b>SYNFESYS</b>
             <br>Provider of SynBuilder, an easy-to-use Provider tool which can be used to create AAA classified games without the need to code, regardless of the platform.
 	    <br><br><a href="http://synfesys.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -203,7 +203,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/ottodot%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Ottodot</b>
+            <br><b>OTTODOT</b>
             <br>Provider of OttoWorld, a science learning platform built on Roblox to allow young children from 7 to 12 years of age to explore and solve puzzles and learn together, tackling the problem of boredom and loss of interest from in classroom and zoom lessons.
 	    <br><br><a href="https://ottodot.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -213,7 +213,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/step%20vr%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>StepVR</b>
+            <br><b>STEPVR</b>
             <br>Provider of both hardware and software products for a free-roam VR experience to replicate and control users’ five senses in the Metaverse for businesses enabling clients from various industries to transition smoothly into the metaverse age.
 	    <br><br><a href="https://www.stepvr.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -223,7 +223,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/silver%20wings%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Silverwings XR</b>
+            <br><b>SILVERWINGS XR</b>
             <br>Provider of immersive and interactive 3D visualisation solutions such as metaverse (SPACES is our 3D avatar-based collaboration platform) as well as holographics, AR/VR/MR and simulated/special and extended realities for businesses in various sectors.
 	    <br><br><a href="http://www.silverwingsxr.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -233,7 +233,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/serial23.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Serial.co</b>
+            <br><b>SERIAL_CO</b>
             <br>Provider of creative technology solutions on the edge of what is possible, to deliver immersive experiences that captivate, educate and inspire.
 	    <br><br><a href="https://serial.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -243,7 +243,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/xctuality%20may23.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Xctuality</b>
+            <br><b>XCTUALITY</b>
             <br>Provider of B2B2C solutions that connects people... anyone, everywhere by laying the foundations for smart city ecosystems, and harness technology for the betterment of humanity.
 	    <br><br><a href="https://xctuality.com" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -253,7 +253,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/smoblerstudiomay2023.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Smobler Studio</b>
+            <br><b>SMOBLER STUDIO</b>
             <br>Provider of metaverse architecture including IP creation, web 3 brand marketing , blockchain gaming technology, event production and metaverse development. 
 	    <br><br><a href="https://www.smoblerstudios.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -263,7 +263,7 @@ description: Join our network of innovative start-ups and gain access to a
             <br><img src="/images/Community/Incubatees/spacedao%20logo.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>Spacedao</b>
+            <br><b>SPACEDAO</b>
             <br>Provider of a “Metaverse as a Service” platform to create brand experiences for businesses, publish and trade NFTs. 
 	    <br><br><a href="https://spacesdao.xyz/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
@@ -276,6 +276,26 @@ description: Join our network of innovative start-ups and gain access to a
             <br><b>LDR</b>
             <br>Provider of extended reality solutions including industry leading Enterprise Web-First Metaverses, Mixed Reality Solutions and Applied Immersive Games to create immersive experiences, AR/VR app solutions for businesses across industries.
 	    <br><br><a href="https://www.ldr.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 			
+<tr>
+          <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/spacedao%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>IMMERSIVELY</b>
+            <br>Provider of bespoke XR solutions and applications including Metaworlds in Metaverses for various industries. 
+	    <br><br><a href="https://www.immersively.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr>  		
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/ldr%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>TECHNOCORP</b>
+            <br>Provider of a generative design and digital twin platform that employs data analytics and immersive media to help businesses in the architecture, manufacturing and construction industries visualise designs, interpret and evaluate the performance and feasibility of generated designs.
+	    <br><br><a href="https://www.technocorp.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 			
 <tr>
@@ -402,7 +422,7 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 
-	<tr>
+<tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/dlabs.png">
         </td>
@@ -410,6 +430,176 @@ description: Join our network of innovative start-ups and gain access to a
             <br><b>DLABS</b>
             <br>Provider of AI software consultancy services which uses complex AI processes to simplify the gap between the built environment and the digital industry to improve productivity for the clients.
 	    <br><br><a href="https://www.dlabs.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/elitefit.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>DELTA CAPTURE</b>
+            <br> Provider of an end-to-end data platform designed to improve the sustainability of businesses' agriculture supply chain at scale with minimum coordination and verified results.
+	    <br><br><a href="https://elitefitforyou.com/home" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/essepi.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>INTANGLES</b>
+            <br>Provider of solutions that transform fleet monitoring standards by leveraging their proprietary digital twin technology.
+	    <br><br><a href="https://essepi.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/affable.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SCOUTBEE</b>
+            <br>Provider of the Scoutbee Intelligence Platform that uses graph technology and predictive and prescriptive analytics to deliver holistic supplier visibility that helps procurement make confident supplier decisions, drive cross-functional efficiency, and optimize their existing technology investments. 
+	    <br><br><a href="https://www.affable.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/DRISKNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>SKYMAP GLOBAL</b>
+            <br>Provider of location-based data analytics solutions to deliver sustainability related geospatial AI applications at scale.
+	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/greenie%20web%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>UNL GLOBAL</b>
+            <br>Provider of location technology, mapping and data tools that enables creators, developers and businesses of all size to build highly scalable, hyperlocal services, applications and business models, from ecommerce and delivery to smart city and autonomous solutions.
+	    <br><br><a href="https://www.greenieweb.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/infodeck%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>AILYTICS</b>
+            <br>Provider of an AI Video Analytics solution provider that helps industrial companies improve safety and maximize productivity by analyzing real-time data from existing camera feeds, providing actionable insights on operations, productivity, and risks.
+	    <br><br><a href="https://www.infodeck.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/seedlegals%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>FINGERDANCE</b>
+            <br>Provider of an advanced AI-enabled two-way sign language translation system that empowers millions of Deaf individuals worldwide by seamlessly integrating them into society.
+	    <br><br><a href="https://seedlegals.com/sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>AYUN AI</b>
+            <br>Provider of sustainable AI solutions for energy-efficient AI development and usage.
+	    <br><br><a href="https://ayunai.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>AIDX TECH</b>
+            <br>Provider of a cutting-edge platform designed for AI model testin including model evaluation, AI model repair, AI copyright issues, AIGC detection, and data vulnerability scanning.
+	    <br><br><a href="http://www.zapkad.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/dlabs.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>UTURE AI</b>
+            <br>Provider of AI-driven services for communication, information processing, and transactions, offering efficiency and intelligence at your fingertips.
+	    <br><br><a href="https://www.dlabs.sg/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 	
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/DRISKNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>QZSENSE LABS</b>
+            <br>Provider of IoT-based automation and analytics solutions that helps companies optimize food supply chain operations.
+	    <br><br><a href="https://d-risk.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/greenie%20web%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>TAGBOX</b>
+            <br>Provider of BoxLens platform that uses IoT, predicitve insights and AI for supply chain management driving operation efficiency, product quality assurance and traceabliity for the F&amp;B, industrial, pharmaceutical and healthcare industries.
+	    <br><br><a href="https://www.tagbox.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/infodeck%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>TIGTAG</b>
+            <br>Provider of an AI platform that helps companies deploy end-to-end AI models, starting with data collection and annotation through to fine tuning and deployment.
+	    <br><br><a href="https://www.tictag.io/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/seedlegals%20logo.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>sEER</b>
+            <br>Provider of Interactive AI to authenticate human interaction and claims through accurate video analytics in both physical and virtual environments.
+	    <br><br><a href="https://aiseer.co/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/garden%20genesis%20may%202023.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>LINH</b>
+            <br>Provider of generative AI-powered image production platform that uses machine learning to produce photorealistic, unique, and relevant visuals  to boost companies' creative output.
+	    <br><br><a href="https://www.linh.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/ZAPKADNEW.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>LEXLY HEALTH</b>
+            <br>Provider of AI motion tracking technology to provide instant feedback to correct exercise postures and treat musculoskeletal pain. 
+	    <br><br><a href="https://lexly.tech/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+        </td>
+    </tr> 
+<tr>
+      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
+            <br><img src="/images/Community/Incubatees/dlabs.png">
+        </td>
+        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
+            <br><b>CORGI.AI</b>
+            <br>Provider of a user-centric platform built with a fraud prevention AI to help organisations understand and prevent fraud.
+	    <br><br><a href="https://www.corgilabs.ai/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr> 	
 <tr>
