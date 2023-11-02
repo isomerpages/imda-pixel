@@ -42,15 +42,6 @@ sections:
       image: /images/Homepage/Incubation2.png
       subtitle: CORPORATES & START-UPS
   - infopic:
-      title: Complimentary Innovation Consulting
-      subtitle: CORPORATES & START-UPS
-      description: Transform your digital products, services, content or brand through
-        a series of coaching sessions with our expert consultants.
-      button: Discover
-      url: /programmess/corporates/consultancies/
-      image: /images/Homepage/project based consultancy.png
-      alt: Project Based Coaching Program
-  - infopic:
       title: Facilities
       description: Let your creativity flow in our 28,000 sqft innovation space with
         production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
@@ -68,9 +59,6 @@ sections:
       image: /images/Homepage/Community2.png
       alt: Image alt text
       subtitle: everyone
-  - resources:
-      title: Upcoming Events
-      button: view more
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
