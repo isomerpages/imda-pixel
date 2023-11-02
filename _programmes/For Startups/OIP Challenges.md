@@ -46,7 +46,7 @@ Here's a sneak peek of some of the challenges:
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 					<br><b>Huttons Group</b>
-	        <br> Agents from perform an assessment of potential buyers’ financials to determine their budget and narrow the list of available property options. However, it is not mandatory for them to perform any form of risk profiling for potential buyers.
+							<br> Property agents perform an assessment of potential buyers’ financials to determine their budget and narrow the list of available property options. However, it is not mandatory for them to perform any form of risk profiling for potential buyers.
 					<br><br> Huttons is looking for a solution to help property agents accurately assess their clients’ risk profile and appetite accurately and provide suitable property recommendations to clients.
         </td>
     </tr>
