@@ -2,7 +2,6 @@
 title: Innovation Consultancies
 permalink: /programmess/corporates/consultancies/
 description: ""
-third_nav_title: For Corporates
 ---
 # Talk to our Experts
 We believe that sometimes a new perspective is all it takes to find growth opportunity or rethink your business model. That's why we have a team of innovation consultants, who are ready to help you reach your goals through these resources: 
