@@ -59,9 +59,6 @@ sections:
       image: /images/Homepage/Community2.png
       alt: Image alt text
       subtitle: everyone
-  - resources:
-      title: Upcoming Events
-      button: view more
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
