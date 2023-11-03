@@ -50,15 +50,6 @@ sections:
       image: /images/Homepage/ARVR homepage2.png
       alt: Facilities image
       subtitle: everyone
-  - infopic:
-      title: Community
-      description: Plug into PIXEL’s vibrant community of diverse tech experts,
-        start-ups, corporate innovators and get inspired.
-      button: Connect
-      url: /community/networking-events/
-      image: /images/Homepage/Community2.png
-      alt: Image alt text
-      subtitle: everyone
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
