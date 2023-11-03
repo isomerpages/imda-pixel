@@ -23,10 +23,8 @@ links:
   - title: Facilities
     collection: facilities
   - title: Community
-    url: /community/networking-events/
+    url: /community/startups
     sublinks:
-      - title: Networking Events
-        url: /community/networking-events/
       - title: Start-ups
         url: /community/startups
       - title: Partners
