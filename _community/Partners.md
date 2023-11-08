@@ -36,7 +36,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
 		    <br><b>NVIDIA</b> 
             <br>We are in collaboration with Nvidia to bring expert resources on the Omniverse Platform to our start-ups and tech community. Start-ups can gain access to the Omniverse software platform at PIXEL, software trials and tutorials, and speak to Nvidia mentors on ARVR and AI to accelerate their solution development. The community can also look forward to programming and events on the latest technology topics such as ARVR and AI. 
-					<br>PIXEL plays a pivotal role in connecting start-ups with Nvidia mentors, ensuring a tailored match based on the mentors' expertise and the specific needs of the mentees. If you would like to be matched with Nvidia's mentors, please email us [here](mailto:pixel@imda.gov.sg).
+					<br>PIXEL plays a pivotal role in connecting start-ups with Nvidia mentors, ensuring a tailored match based on the mentors' expertise and the specific needs of the mentees. If you would like to be matched with Nvidia's mentors, please email us [here](pixel@imda.gov.sg).
             <br><br><a href="https://www.nvidia.com/en-us/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
