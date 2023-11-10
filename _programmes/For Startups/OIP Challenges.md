@@ -10,4 +10,4 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? 
 
-Head over to the Open Innovation Platform[undefined](https://www.openinnovation.sg/) to find find out more! 
+Head over to the [Open Innovation Platform](https://www.openinnovation.sg/) to find find out more! 
