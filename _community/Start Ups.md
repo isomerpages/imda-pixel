@@ -4,6 +4,7 @@ permalink: /community/startups/
 description: Join our network of innovative start-ups and gain access to a
   wealth of resources and support including innovation consulting, expert
   guidance, and a community of like-minded.
+variant: markdown
 ---
 # Start-ups
 ### ARVR/ Metaverse
@@ -806,16 +807,6 @@ description: Join our network of innovative start-ups and gain access to a
     </tr> 	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/gluu.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>GLUU LIFE</b>
-            <br>Provider of an community platform enabling crowdsourcing for connectivity, internet access sharing and micro-earning.
-	    <br><br><a href="https://www.gluu.life/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr> 	
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/Skilio%20logo%20new.png">
         </td>
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
@@ -998,16 +989,6 @@ description: Join our network of innovative start-ups and gain access to a
 	    <br><br><a href="https://www.10days-studio.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>		
-<tr>
-      <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
-            <br><img src="/images/Community/Incubatees/battlebrew.png">
-        </td>
-        <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
-            <br><b>BATTLEBREW PRODUCTIONS</b>
-            <br>Provider of mobile strategy games such as Battlesky Brigade Tribes, Battlesky Brigade Tap Tap and Battlesky Brigade Harpooner.
-	    <br><br><a href="https://battleskybrigade.com/" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
-        </td>
-    </tr>	
 <tr>
       <td style="width:25%; border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">	
             <br><img src="/images/Community/Incubatees/mightybear.png">
