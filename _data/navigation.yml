@@ -7,19 +7,6 @@ links:
         url: /programmes/corporates/find-solution-providers/
       - title: For Start-ups
         url: /programmes/startups/pixel-community/
-  - title: Events
-    url: /events
-    sublinks:
-      - title: ARVR
-        url: /events/arvr/
-      - title: Design Thinking
-        url: /events/design-thinking/
-      - title: Digital Storytelling
-        url: /events/digital-storytelling/
-      - title: Innovation
-        url: /events/innovation/
-      - title: UIUX
-        url: /events/uiux/
   - title: Facilities
     collection: facilities
   - title: Community
