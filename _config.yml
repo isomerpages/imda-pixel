@@ -1,0 +1,62 @@
+title: IMDA PIXEL Innovation Hub
+url: https://pixel.imda.gov.sg
+favicon: /images/IMDA-logo.png
+colors:
+  primary-color: "#ba1d6a"
+  secondary-color: "#2c36ae"
+  media-colors:
+    - title: media-color-one
+      color: "#fc9bb3"
+    - title: media-color-two
+      color: "#40c1ac"
+    - title: media-color-three
+      color: "#ff8450"
+    - title: media-color-four
+      color: "#63c8dc"
+    - title: media-color-five
+      color: "#8d2a85"
+description: IMDA’s innovation hub for Corporates and Startups with co-working
+  facilities, programmes and networks
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d3nusvu8peabav.amplifyapp.com
+prod: https://master.d3nusvu8peabav.amplifyapp.com
+shareicon: /images/pixel only logo.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: G-Y5HE8VNXS1
+linkedin-insights: ""
+resources_name: events
+future: true
+google_analytics_ga4: G-Y5HE8VNXS1

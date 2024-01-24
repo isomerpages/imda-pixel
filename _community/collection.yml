@@ -1,0 +1,6 @@
+collections:
+  community:
+    output: true
+    order:
+      - Start Ups.md
+      - Partners.md

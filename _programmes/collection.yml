@@ -1,0 +1,10 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - For Corporates/.keep
+      - For Corporates/Find Solution Providers.md
+      - For Startups/.keep
+      - For Startups/PIXEL Community.md
+      - For Startups/Win Key Reference Customers.md
+      - For Startups/OIP Challenges.md
