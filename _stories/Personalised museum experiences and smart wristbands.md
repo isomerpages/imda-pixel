@@ -125,6 +125,6 @@ and frequency of OIP challenge calls can increase, thereby providing more
 opportunities to support a myriad of projects.”</p>
 <p><strong><a href="https://www.openinnovation.sg/?utm_medium=advertorial&amp;utm_source=straitstimes&amp;utm_campaign=trakomatic" rel="noopener" target="_blank">Learn more about how you can be connected with a tech solution provider and scale your business.</a></strong>
 </p>
-<p>Source:<a href="https://www.straitstimes.com/singapore/personalised-museum-experiences-smart-wristbands-singapore-startup-trakomatic-develops-customer-centric-technologies-crowd-sourcing-programme-imda-open-innovation-platform" rel="noopener noreferrer nofollow" target="_blank">Personalised museum experiences and smart wristbands: S’pore start-up develops customer-centric technologies through crowd-sourcing programme | The Straits Times</a>
+<p>Source:<a href="https://www.straitstimes.com/singapore/personalised-museum-experiences-smart-wristbands-singapore-startup-trakomatic-develops-customer-centric-technologies-crowd-sourcing-programme-imda-open-innovation-platform" rel="noopener noreferrer nofollow" target="_blank"> The Straits Times</a>
 </p>
 <p></p>
