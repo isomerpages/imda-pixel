@@ -123,7 +123,7 @@ participate in suitable ones. MWG’s Mr Neo adds: “We encourage organisations
 embarking on innovation journeys to use the OIP. We hope that the number
 and frequency of OIP challenge calls can increase, thereby providing more
 opportunities to support a myriad of projects.”</p>
-<p><strong><a href="https://www.openinnovation.sg/?utm_medium=advertorial&amp;utm_source=straitstimes&amp;utm_campaign=trakomatic" rel="noopener" target="_blank">Learn more about how you can be connected with a tech solution provider and scale your business.</a></strong>
+<p><a href="https://www.openinnovation.sg/?utm_medium=advertorial&amp;utm_source=straitstimes&amp;utm_campaign=trakomatic" rel="noopener" target="_blank"><u>Learn more about how you can be connected with a tech solution provider and scale your business.</u></a>
 </p>
 <p>Source:<a href="https://www.straitstimes.com/singapore/personalised-museum-experiences-smart-wristbands-singapore-startup-trakomatic-develops-customer-centric-technologies-crowd-sourcing-programme-imda-open-innovation-platform" rel="noopener noreferrer nofollow" target="_blank"> The Straits Times</a>
 </p>
