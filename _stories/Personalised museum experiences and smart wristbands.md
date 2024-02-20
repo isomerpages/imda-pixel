@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1>Personalised museum experiences and smart wristbands: S’pore start-up develops customer-centric technologies through crowd-sourcing programme</h1>
-<h4>With successful collaborations inked through the IMDA’s Open Innovation Platform, Trakomatic now has more doors open, including in other sectors</h4>
+<p></p>
+<p>With successful collaborations inked through the IMDA’s Open Innovation
+Platform, Trakomatic now has more doors open, including in other sectors</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; vertical-align: middle; border-style: none; width: 860px !important;" height="auto" width="100%" alt="" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/01/29/IMDA_Trakomatic_Mandai-Wildlife-Reserve_Wristbands.jpg?itok=_XQU2b0p">
 </div>
