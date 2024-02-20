@@ -40,7 +40,7 @@ underwent successful initial testing. The prototype delivered valuable
 insights into visitors’ preferences, and demonstrated its potential in
 recommending engaging content for visitors. The partners completed the
 first pilot in December last year, and are currently evaluating the results.&nbsp;</p>
-<h2>Opening more doors&nbsp;</h2>
+<h4>Opening more doors&nbsp;</h4>
 <p>Since Trakomatic earned the chance to work with NHB, it has won three
 other OIP challenges, put up by the Sentosa Development Corporation (SDC),
 Singapore Association of Convention and Exhibition Organisers and Suppliers
@@ -83,7 +83,7 @@ that employ radio frequency for tracking.</p>
 our clients, better address OIP problem statements which are not easily
 solvable with off-the-shelf systems, and customise solutions that the market
 demands.”</p>
-<h2>An innovative platform that lifts all boats</h2>
+<h4>An innovative platform that lifts all boats</h4>
 <p>The OIP has advantages for both companies seeking and supplying solutions.</p>
 <p>“Companies confronting issues can get access to a network of solvers who
 are not only knowledgeable but also ready and willing to share the risks
