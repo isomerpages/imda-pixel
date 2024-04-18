@@ -2,26 +2,35 @@
 title: Success Stories
 permalink: /success-stories/
 description: success stories testimonial
+variant: markdown
 ---
 # Featured Stories
 
-### Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s Innovation Hub
+### How Three Local Tech Startups Address Real-world Business Problems and Win MNC Customers
 
-##### For a place called Pixel, it definitely doesn’t have a tiny vibe to it.
+![](/images/Success%20stories/artc%20advert.jpg)
 
-![](/images/Success%20stories/tiapmc1.jpg)
-*Black’s great for giving that “too cool for you” energy. / Photo credit: Tech in Asia*
+Not every problem that an industry faces has a simple, packaged solution.
 
-Located in the heart of the One-north district in Singapore, Pixel is an innovation hub developed by the Infocomm Media Development Authority (IMDA) to encourage corporate innovation and help startups scale. It’s got everything that corporates dabbling in digital innovation and tech startups could want: a community event space, co-working facilities, AR and VR labs, UI and UX labs, recreational areas, and more. 
+Sometimes, the answer lies in crowdsourcing a solution from technology providers and innovative startups in Singapore.
 
-Of course, facilities are but one part of the equation. If office areas were all startups wanted, any co-working space would do. Based on what I’ve heard, however, Pixel seems to be attractive to businesses for reasons beyond the physical. 
+This was how three tech start-ups rose to the challenge of solving a number of common problems faced by MNCs such as Shell and Procter &amp; Gamble (P&amp;G) in the advanced manufacturing industry. Their solutions make use of digital and other new technologies to address complex pain points in the manufacturing process, like asset tracking, optimising equipment lifespan and interoperability of sensors.
 
-<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/pixel-innovation-hub/">Continue reading</a>
+<a style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px" target="_blank" href="/stories/oip-artc/">Continue reading</a>
 
 ## More Stories
 
 <table>
-		<tbody>
+		<tbody>			
+			<tr>
+		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
+			<img src="/images/Success%20stories/tiapmc1.jpg">
+		</td>
+		<td style="vertical-align:middle;"> Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s Innovation Hub
+			<br><b><a target="_blank" href="/stories/pixel-innovation-hub/">For a place called Pixel, it definitely doesn’t have a tiny vibe to it.</a>
+		</b>
+		</td>
+    </tr>
 			<tr>
 		<td style="width:30%; vertical-align:middle; border-bottom: 0.75px solid lightgrey">
 			<img src="/images/Success%20stories/oipamgen1.jpg">
