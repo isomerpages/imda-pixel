@@ -4,6 +4,6 @@ collections:
     order:
       - For Corporates/.keep
       - For Corporates/Find Solution Providers.md
-      - For Startups/.keep
-      - For Startups/Win Key Reference Customers.md
-      - For Startups/OIP Challenges.md
+      - For Tech Solvers/.keep
+      - For Tech Solvers/Win Key Reference Customers.md
+      - For Tech Solvers/OIP Challenges.md
