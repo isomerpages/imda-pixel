@@ -33,23 +33,13 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: We match corporates with tech start-ups to solve business
-        challenges. Join our quarterly innovation call or try out the discovery
-        engine for a faster match.
+      description: Matching corporates with tech solvers to crowdsource for solutions
+        for your  unique business challenges. Take charge - join our quarterly
+        innovation call today!
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/Incubation2.png
-      subtitle: CORPORATES & START-UPS
-  - infopic:
-      title: Facilities
-      description: Let your creativity flow in our 28,000 sqft innovation space with
-        production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
-      button: Explore
-      url: /facilities
-      image: /images/Homepage/ARVR homepage2.png
-      alt: Facilities image
-      subtitle: everyone
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
