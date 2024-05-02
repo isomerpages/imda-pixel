@@ -40,6 +40,15 @@ sections:
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/Pixel_website__800_x_800_px_.png
+  - infopic:
+      title: Discovery Engine
+      id: infopic
+      description: Discover innovative solutions effortlessly! Streamline your search,
+        connect with verified tech solvers, and find tailored solutions.
+      button: search now
+      url: https://www.openinnovation.sg/find-solutions
+      image: /images/Homepage/DE_home_homge__800px_x_600px_.png
+      alt: "Search bar "
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
