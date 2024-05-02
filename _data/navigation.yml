@@ -2,11 +2,7 @@ logo: /images/pixel-logo.png
 links:
   - title: Programmes
     url: /programmes/corporates/find-solution-providers/
-    sublinks:
-      - title: For Corporates
-        url: /programmes/corporates/find-solution-providers/
-      - title: For Start-ups
-        url: /programmes/startups/pixel-community/
+    sublinks: []
   - title: Facilities
     collection: facilities
   - title: Community
