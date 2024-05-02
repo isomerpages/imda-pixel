@@ -14,7 +14,7 @@ sections:
         - title: For Corporates
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
-        - title: For Start-ups
+        - title: For Tech Solvers
           description: Connect with the community
           url: /programmes/startups/pixel-community/
         - title: FOR ALL
