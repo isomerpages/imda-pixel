@@ -39,7 +39,7 @@ sections:
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
-      image: /images/Homepage/Pixel_website__800_x_800_px_.png
+      image: /images/Homepage/OIP_home_page__500_x_350_.png
   - infopic:
       title: Discovery Engine
       id: infopic
@@ -47,7 +47,7 @@ sections:
         connect with verified tech solvers, and find tailored solutions.
       button: search now
       url: https://www.openinnovation.sg/find-solutions
-      image: /images/Homepage/DE_home_homge__800px_x_600px_.png
+      image: /images/Homepage/DE_home_page__500_x_350_.png
       alt: Search bar
   - infobar:
       title: Testimonials
