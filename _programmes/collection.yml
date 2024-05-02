@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Corporates/.keep
-      - For Corporates/Find Solution Providers.md
+      - For Corporates/Find Customised Solutions.md
       - For Corporates/Find Ready Solutions.md
       - For Tech Solvers/.keep
       - For Tech Solvers/Win Key Reference Customers.md
