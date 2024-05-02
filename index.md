@@ -39,7 +39,7 @@ sections:
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
-      image: /images/Homepage/Incubation2.png
+      image: /images/Homepage/Pixel_website__800_x_800_px_.png
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
