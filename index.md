@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: IMDA PIXEL Innovation Hub
-description: IMDA’s innovation hub for Corporates and Startups with co-working
-  facilities, programmes and networks
+description: IMDA’s innovation hub for Corporates and tech solvers with
+  co-working facilities, programmes and networks
 image: /images/pixel only logo.svg
 permalink: /
 notification: Top 10 Launchpads in Southeast Asia for scaling corporate
