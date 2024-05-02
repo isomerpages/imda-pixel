@@ -2,7 +2,8 @@
 title: Win Key Reference Customers
 permalink: /programmes/startups/win-key-reference-customers/
 description: Win key reference customers through IMDA Innovation programme
-third_nav_title: For Startups
+third_nav_title: For Tech Solvers
+variant: markdown
 ---
 # Open Innovation Programme
 ![](/images/Programmes/open%20innovation%20platform.jpg)
@@ -21,8 +22,3 @@ The Joint Innovation Center (JIC) is AWS’s first JIC in Southeast Asia and wil
 The JIC will support customers to develop solutions using Augmented Reality/Virtual Reality (AR/VR), Data and Artificial Intelligence, the Internet-of-Things (IoT), Robotics, and cloud technologies.&nbsp; Enterprises and startups can access the breadth and depth of more than 200 fully featured AWS services, including AWS’s industry-leading security capabilities and global infrastructure, to drive innovation.
 
 Beyond activities within the JIC, enterprises and startups from AWS’s and IMDA’s networks will be able to better access a larger innovation community through co-innovation labs and events. AWS and IMDA will organise innovation events each year at PIXEL, with the first event being a week-long regional festival of innovation in the first half of 2023.
-
-# PIXEL Demo Days
-![](/images/Programmes/Hologram_Table.jpg)
-
-We hold frequent events and curated tours for organisations, corporates and business associations, so startups will have a chance to demo and showcase their tech products, solutions or services to potential clients.

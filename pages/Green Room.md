@@ -2,7 +2,6 @@
 title: Green Room
 permalink: /facilities/Facilities-Specs/Green-Room/
 description: ""
-third_nav_title: Featured Areas
 ---
 # Green Room
 ![Green room ](/images/Facilities/Green%20room%20person.jpg)

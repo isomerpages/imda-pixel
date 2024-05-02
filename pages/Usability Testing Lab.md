@@ -2,7 +2,6 @@
 title: Usability Testing Lab
 permalink: /facilities/usability-testing-lab/
 description: ""
-third_nav_title: Featured Areas
 ---
 # Usability Testing Lab
 ![](/images/Facilities/Usability%20Testing%20Lab/Room.jpg)
@@ -11,7 +10,7 @@ Test out your prototypes with our usability testing lab to help gather quantitat
 
 ## Equipment
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/Usability%20Testing%20Lab/Tobii%20Nano%20Eye%20Tracker.jpg"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Tobii Nano Eye Tracker</b><br>
 			<br>• Fully embedded processing of eye tracking data
@@ -70,7 +69,7 @@ Test out your prototypes with our usability testing lab to help gather quantitat
 		<td style="width:50%; vertical-align:middle;"><b>Screen Capture Software</b><br>
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 ## Room Capacity
 * Size: 28 m²

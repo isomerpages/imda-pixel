@@ -2,7 +2,7 @@
 title: OIP Innovation Challenges
 permalink: /programmes/startups/oip-calls/
 description: Ongoing Open Innovation Platform Innovation Calls
-third_nav_title: For Startups
+third_nav_title: For Tech Solvers
 variant: markdown
 ---
 # Open Innovation Platform Challenges
@@ -10,4 +10,4 @@ The IMDA Open Innovation Platform (OIP) is Singapore's national digital innovati
 
 Are you a challenge solver with digital technology expertise and innovation capabilities, with interest to co-innovate with potential customers? 
 
-Head over to the [Open Innovation Platform](https://www.openinnovation.sg/) to find find out more! 
+Head over to the [Open Innovation Platform](https://www.openinnovation.sg/) to find out more!

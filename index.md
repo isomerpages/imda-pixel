@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: IMDA PIXEL Innovation Hub
-description: IMDA’s innovation hub for Corporates and Startups with co-working
-  facilities, programmes and networks
+description: IMDA’s innovation hub for Corporates and tech solvers with
+  co-working facilities, programmes and networks
 image: /images/pixel only logo.svg
 permalink: /
 notification: Top 10 Launchpads in Southeast Asia for scaling corporate
@@ -14,7 +14,7 @@ sections:
         - title: For Corporates
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
-        - title: For Start-ups
+        - title: For Tech Solvers
           description: Connect with the community
           url: /programmes/startups/pixel-community/
         - title: FOR ALL
@@ -33,23 +33,22 @@ sections:
         business.
   - infopic:
       title: Open Innovation Platform
-      description: We match corporates with tech start-ups to solve business
-        challenges. Join our quarterly innovation call or try out the discovery
-        engine for a faster match.
+      description: Matching corporates with tech solvers to crowdsource for solutions
+        for your  unique business challenges. Take charge - join our quarterly
+        innovation call today!
       button: Discover
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
-      image: /images/Homepage/Incubation2.png
-      subtitle: CORPORATES & START-UPS
+      image: /images/Homepage/OIP_home_page__500_x_350_.png
   - infopic:
-      title: Facilities
-      description: Let your creativity flow in our 28,000 sqft innovation space with
-        production studios, 5G test bed, AR/VR, UI/UX, prototyping lab and more.
-      button: Explore
-      url: /facilities
-      image: /images/Homepage/ARVR homepage2.png
-      alt: Facilities image
-      subtitle: everyone
+      title: Discovery Engine
+      id: infopic
+      description: Discover innovative solutions effortlessly! Streamline your search,
+        connect with verified tech solvers, and find tailored solutions.
+      button: search now
+      url: https://www.openinnovation.sg/find-solutions
+      image: /images/Homepage/DE_home_page__500_x_350_.png
+      alt: Search bar
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and

@@ -2,7 +2,6 @@
 title: 5G Living Lab
 permalink: /facilities/5G-lab/
 description: ""
-third_nav_title: Featured Areas
 ---
 # 5G Living Lab
 ![5G](/images/Facilities/5G/5G.jpg)
@@ -11,7 +10,7 @@ Use the 5G living lab to experiment with and develop 5G applications and proof-o
 
 ## Equipment
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/5G/OPPO%20Find%20X3%20Pro.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>OPPO Find</b><br>
 			<br>• 1 Billion Colour Dual Primary Cameras
@@ -30,7 +29,7 @@ Use the 5G living lab to experiment with and develop 5G applications and proof-o
 			<br>• Nokia Wireless installation app
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 ## Room Capacity
 * Size: 6.5 m²

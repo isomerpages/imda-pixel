@@ -5,8 +5,8 @@ links:
     sublinks:
       - title: For Corporates
         url: /programmes/corporates/find-solution-providers/
-      - title: For Start-ups
-        url: /programmes/startups/pixel-community/
+      - title: For Tech Solvers
+        url: /programmes/startups/win-key-reference-customers/
   - title: Facilities
     collection: facilities
   - title: Community
@@ -24,7 +24,7 @@ links:
       - title: Testimonials
         url: /success-stories/testimonials/
       - title: Press Release
-        url: https://pixel.imda.gov.sg/success-stories/press-release/permalink/smobler-pixel/
+        url: /success-stories/press-release/permalink/smobler-pixel/
   - title: Connect with us
     url: /contact-us/
     sublinks:

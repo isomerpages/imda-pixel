@@ -2,7 +2,6 @@
 title: PIXEL Community
 permalink: /programmes/startups/pixel-community/
 description: Join PIXEL's Innovation Community and Apply for Tech Showcase
-third_nav_title: For Startups
 ---
 # PIXEL Community 
 Join our innovation community at PIXEL, and let us support you in building your business. Connect with like-minded individuals and be part of a vibrant ecosystem, so you can be ready when opportunity knocks. 

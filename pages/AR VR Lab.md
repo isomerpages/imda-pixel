@@ -2,7 +2,6 @@
 title: AR VR Lab
 permalink: /facilities/ARVR-lab/
 description: ""
-third_nav_title: Featured Areas
 ---
 # AR VR Lab
 ![AR/VR Wall](/images/Facilities/AR%20VR%20Lab/ARVR%20wall.png)
@@ -14,7 +13,7 @@ Start developing immersive experiences by using a range of cutting edge technolo
 
 ### AR Headsets
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/AR%20Headset%20Magic%20Leap%201.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>Magic Leap 1</b><br>
 			<br>• Eye tracking 
@@ -50,25 +49,25 @@ Start developing immersive experiences by using a range of cutting edge technolo
 			<br>• 6 Degrees of Freedom Handheld Controllers
 		</td>
 	</tr>
-</table>
+</tbody></table>
 <br>
 
 ### MR Headsets
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle;"><img src="/images/Facilities/AR%20VR%20Lab/MR%20Headet%20Microsoft%20HoloLens%202.png"></td>
 		<td style="width:50%; vertical-align:middle;"><b>Microsoft HoloLens 2</b><br>
 			<br>• Hands free operation
-			<br>• Hand & Eye Tracking, Voice Enabled
+			<br>• Hand &amp; Eye Tracking, Voice Enabled
 			<br>• Spatial Mapping
 		</td>
 	</tr>
-</table>
+</tbody></table>
 <br>
 
 ### VR Headsets
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/VR%20Headset%20HTC%20VIVE%20Pro.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>HTC VIVE Pro</b><br>
 			<br>• 1440 x 1600 per eye resolution (615 PPL)
@@ -103,12 +102,12 @@ Start developing immersive experiences by using a range of cutting edge technolo
 			<br>• 106° Horizontal Field of View
 		</td>
 	</tr>
-</table>
+</tbody></table>
 <br>
 
 ### Immersive Accessories
 <table>
-	<tr>
+	<tbody><tr>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><img src="/images/Facilities/AR%20VR%20Lab/Immersion%20Accessory%20bHaptics%20Tactot%20DK3%20Haptic%20Vest.png"></td>
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>bHaptics Tactot DK3 Haptic Vest</b><br>
 			<br>• Converts sound into haptic feedback in real time
@@ -131,7 +130,7 @@ Start developing immersive experiences by using a range of cutting edge technolo
 			<br>• Converts sound into haptic feedback in real time
 			<br>• Water-resistant fabric
             <br>• 6 Haptics Feedback Points each
-			<br>• Detachable & washable mesh lining
+			<br>• Detachable &amp; washable mesh lining
 		</td>
 	</tr>
     <tr>
@@ -139,7 +138,7 @@ Start developing immersive experiences by using a range of cutting edge technolo
 		<td style="width:50%; vertical-align:middle; border-bottom: 0.75px solid lightgrey"><b>bHaptics Tactosy Haptic Sleeve for Hands</b><br>
 			<br>• Water-resistant fabric
 			<br>• 3 Haptics Feedback Points each
-			<br>• Detachable & washable mesh lining
+			<br>• Detachable &amp; washable mesh lining
 		</td>
 	</tr>
     <tr>
@@ -147,7 +146,7 @@ Start developing immersive experiences by using a range of cutting edge technolo
 		<td style="width:50%; vertical-align:middle;"><b>bHaptics Tactosy Haptic Sleeve for Feet</b><br>
 			<br>• Water-resistant fabric
 			<br>• 3 Haptics Feedback Points each
-			<br>• Detachable & washable mesh lining
+			<br>• Detachable &amp; washable mesh lining
 		</td>
 	</tr>	    
 	<tr>
@@ -159,7 +158,7 @@ Start developing immersive experiences by using a range of cutting edge technolo
 			<br>• Proprietary Radio Frequency/ Bluetooth Module
 		</td>	
 	</tr>	
-</table>
+</tbody></table>
 <br>
 
 ## Room Specs
