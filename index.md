@@ -48,7 +48,7 @@ sections:
       button: search now
       url: https://www.openinnovation.sg/find-solutions
       image: /images/Homepage/DE_home_homge__800px_x_600px_.png
-      alt: "Search bar "
+      alt: Search bar
   - infobar:
       title: Testimonials
       description: Starting a business is always a balance of excitement and
