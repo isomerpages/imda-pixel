@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Overview.md
-      - Featured Areas/.keep
       - AWS IMDA Joint Innovation Centre.md
