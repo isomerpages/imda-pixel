@@ -2,7 +2,11 @@ logo: /images/pixel-logo.png
 links:
   - title: Programmes
     url: /programmes/corporates/find-solution-providers/
-    sublinks: []
+    sublinks:
+      - title: For Corporates
+        url: /programmes/corporates/find-solution-providers/
+      - title: For Tech Solvers
+        url: /programmes/startups/win-key-reference-customers/
   - title: Facilities
     collection: facilities
   - title: Community
