@@ -15,8 +15,8 @@ sections:
           description: Start your innovation journey
           url: programmes/corporates/find-solution-providers/
         - title: For Tech Solvers
-          description: Connect with the community
-          url: /programmes/startups/pixel-community/
+          description: Win Key Reference Customers
+          url: /programmes/startups/win-key-reference-customers/
         - title: FOR ALL
           description: We have something for everyone
           url: /events
@@ -36,7 +36,7 @@ sections:
       description: Matching corporates with tech solvers to crowdsource for solutions
         for your  unique business challenges. Take charge - join our quarterly
         innovation call today!
-      button: Discover
+      button: Learn more
       alt: Image alt text
       url: /programmes/corporates/find-solution-providers/
       image: /images/Homepage/OIP_home_page__500_x_350_.png
@@ -45,8 +45,8 @@ sections:
       id: infopic
       description: Discover innovative solutions effortlessly! Streamline your search,
         connect with verified tech solvers, and find tailored solutions.
-      button: search now
-      url: https://www.openinnovation.sg/find-solutions
+      button: learn more
+      url: /find-ready-solutions/
       image: /images/Homepage/DE_home_page__500_x_350_.png
       alt: Search bar
   - infobar:
