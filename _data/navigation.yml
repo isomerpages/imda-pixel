@@ -9,7 +9,9 @@ links:
         url: /programmes/startups/win-key-reference-customers/
   - title: Facilities
     url: facilities/aws-jic/
-    sublinks: []
+    sublinks:
+      - title: AWS Joint Innovation Centre
+        url: facilities/aws-jic/
   - title: Community
     url: /community/startups
     sublinks:
