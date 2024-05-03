@@ -8,7 +8,8 @@ links:
       - title: For Tech Solvers
         url: /programmes/startups/win-key-reference-customers/
   - title: Facilities
-    collection: facilities
+    url: facilities/aws-jic/
+    sublinks: []
   - title: Community
     url: /community/startups
     sublinks:
