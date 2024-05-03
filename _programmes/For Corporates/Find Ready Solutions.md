@@ -15,7 +15,7 @@ third_nav_title: For Corporates
 been connecting hundreds of businesses and technology providers to co-create
 innovative solutions across various sectors.</p>
 <p>We have captured our know-how within the <a href="https://www.openinnovation.sg/find-solutions?utm\_medium=website&amp;utm\_source=pixel&amp;utm\_campaign=website" rel="noopener noreferrer nofollow" target="_blank"><u>Discovery Engine,</u></a> a
-self-help ortal that allows users to streamline their search for qualified
+self-help portal that allows users to streamline their search for qualified
 and validated tech solvers. By eliminating the need to screen numerous
 potential providers, users can quickly identify ideal solutions aligned
 with their specific needs. Intuitive filters like Sectors, Technology Area
