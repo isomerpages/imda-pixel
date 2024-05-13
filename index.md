@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: For Corporates
           description: Start your innovation journey
-          url: programmes/corporates/find-solution-providers/
+          url: /programmes/corporates/find-customised-solution/
         - title: For Tech Solvers
           description: Win Key Reference Customers
           url: /programmes/startups/win-key-reference-customers/
