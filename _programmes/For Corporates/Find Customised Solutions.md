@@ -8,7 +8,7 @@ variant: tiptap
 <h1>Need A Customised Solution?</h1>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sXbZAAKCjZk?si=ni5vH-iPxBGeXHNj"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sXbZAAKCjZk?si=ni5vH-iPxBGeXHNj&amp;autoplay=1"></iframe>
 </div>
 <p></p>
 <p>Navigating innovation can be challenging. With countless variables to
