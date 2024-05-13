@@ -7,8 +7,9 @@ third_nav_title: For Corporates
 ---
 <h1>Looking For Ready Solutions?</h1>
 <p></p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1PXjiCEnsXA?si=T8TsYEo_7AioCtEU&amp;autoplay=1"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1PXjiCEnsXA?si=XHm-Af00Qv7pENH3"></iframe>
 </div>
 <p></p>
 <p>The IMDA <a href="https://www.openinnovation.sg/?utm\_medium=website&amp;utm\_source=pixel&amp;utm\_campaign=website" rel="noopener noreferrer nofollow" target="_blank"><u>Open Innovation Platform</u></a> has
