@@ -11,7 +11,7 @@ links:
     url: /facilities/aws-jic/
     sublinks:
       - title: AWS Joint Innovation Centre
-        url: facilities/aws-jic/
+        url: /facilities/aws-jic/
   - title: Community
     url: /community/startups
     sublinks:
