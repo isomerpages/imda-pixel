@@ -35,7 +35,7 @@ sections:
         innovation call today!
       button: Learn more
       alt: Image alt text
-      url: /programmes/corporates/find-solution-providers/
+      url: /programmes/corporates/find-customised-solution/
       image: /images/Homepage/OIP_home_page__500_x_350_.png
   - infopic:
       title: Discovery Engine
