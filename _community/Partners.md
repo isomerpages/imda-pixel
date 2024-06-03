@@ -67,7 +67,7 @@ We partner established tech firms and accelerators to host a range of innovation
         <td style="border-top:0.75px solid lightgrey; border-bottom:0.75px solid lightgrey;">
             <br><b>IBM Singapore</b>
             <br>We worked with IBM to set up a 5G showcase at PIXEL to inspire start-ups and companies on the possibilities of 5G to supercharge AI and Augmented Reality/Virtual Reality (AR/VR) applications. Tapping on PIXEL’s 5G testbed and AR/VR lab, IBM’s 5G Industry 4.0 team is working with PIXEL’s ARVR incubatees to experiment and develop solutions.
-            <br><br><a href="https://www.imda.gov.sg/Content-and-News/Media-Releases-and-Speeches/Media-Releases/2020/IBM-IMDA-M1-and-Samsung-to-Collaborate-on-Singapores-First-5G-Industry-4_0-Trial" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
+            <br><br><a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2020/ibm-imda-m1-and-samsung-to-collaborate-on-singapores-first-5g-industry-4-0-trial" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a><br><br>
         </td>
     </tr>
     <tr>
