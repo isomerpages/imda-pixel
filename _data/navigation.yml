@@ -7,15 +7,6 @@ links:
         url: /programmes/corporates/find-customised-solution/
       - title: For Tech Solvers
         url: /programmes/startups/win-key-reference-customers/
-  - title: Showcase
-    url: /permalink
-    sublinks:
-      - title: Overview
-        url: /permalink
-      - title: Showcased Companies
-        url: /permalink
-      - title: AWS IMDA JIC
-        url: /permalink
   - title: Facilities
     url: /facilities/aws-jic/
     sublinks:
