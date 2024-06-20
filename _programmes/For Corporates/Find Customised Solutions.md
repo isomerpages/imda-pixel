@@ -15,7 +15,7 @@ variant: tiptap
 weigh, from identifying your business problem to selecting the right digital
 solution, it's easy to feel overwhelmed. But fear not – we've got your
 back.</p>
-<p>Experience the power of<strong> </strong><a href="https://www.openinnovation.sg/" rel="noopener noreferrer nofollow" target="_blank">IMDA's Open Innovation Platform (OIP)</a>.
+<p>Experience the power of<strong> </strong><a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=organic" rel="noopener noreferrer nofollow" target="_blank">IMDA's Open Innovation Platform (OIP)</a>.
 Let us be your compass through the innovation journey. We'll demystify
 the process and connect you with the perfect tech solution providers. Get
 in touch today and embark on your innovation adventure!</p>
