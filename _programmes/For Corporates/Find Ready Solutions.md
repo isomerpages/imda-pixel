@@ -12,7 +12,7 @@ third_nav_title: For Corporates
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1PXjiCEnsXA?si=XHm-Af00Qv7pENH3&amp;autoplay=1"></iframe>
 </div>
 <p></p>
-<p>The IMDA <a href="https://www.openinnovation.sg/?utm\_medium=website&amp;utm\_source=pixel&amp;utm\_campaign=website" rel="noopener noreferrer nofollow" target="_blank"><u>Open Innovation Platform</u></a> has
+<p>The IMDA <a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website" rel="noopener noreferrer nofollow" target="_blank"><u>Open Innovation Platform</u></a> has
 been connecting hundreds of businesses and technology providers to co-create
 innovative solutions across various sectors.</p>
 <p>We have captured our know-how within the <a href="https://www.openinnovation.sg/find-solutions?utm\_medium=website&amp;utm\_source=pixel&amp;utm\_campaign=website" rel="noopener noreferrer nofollow" target="_blank"><u>Discovery Engine,</u></a> a
