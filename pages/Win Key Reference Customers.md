@@ -12,4 +12,3 @@ Look out for our quarterly innovation call where we work with corporates to put 
 The winner of the challenge can benefit from winning key reference customers, prize monies and a chance to co-innovate with corporate to develop, validate, test and bring your solution to commercialisation. 
 
 <a href="https://www.openinnovation.sg" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Find out more</a>
-
