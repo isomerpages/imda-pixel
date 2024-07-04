@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - For Corporates/Overview.md
       - For Corporates/.keep
       - For Tech Solvers/.keep
       - For Tech Solvers/Win Key Reference Customers.md
