@@ -7,7 +7,7 @@ description: ""
 <p>In today's dynamic landscape, staying ahead is crucial. At IMDA, we recognise
 the complexities of navigating innovation. That's why we offer a suite
 of initiatives designed to streamline your innovation journey:</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>For Corporates</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -28,9 +28,9 @@ of initiatives designed to streamline your innovation journey:</p>
 <p></p>
 </div>
 </details>
-</div>
-<p>For Tech Solvers</p>
-<p></p>
+<details class="isomer-details">
+<summary>For Tech Solvers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Showcase Opportunity</div><div class="isomer-card-description">xxxx</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://pixel.imda.gov.sg/programmes/startups/win-key-reference-customers/" class="isomer-card">
 <div class="isomer-card-image">
@@ -45,4 +45,9 @@ of initiatives designed to streamline your innovation journey:</p>
 </div>
 </a>
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
