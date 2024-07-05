@@ -1,5 +1,4 @@
 collections:
   facilities:
     output: true
-    order:
-      - AWS IMDA Joint Innovation Centre.md
+    order: []
