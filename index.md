@@ -29,31 +29,6 @@ sections:
         corporates with the brightest tech solvers, fostering collaborative
         partnerships.
   - infopic:
-      title: Open Innovation Platform
-      description: Matching corporates with tech solvers to crowdsource for solutions
-        for your  unique business challenges. Take charge - join our quarterly
-        innovation call today!
-      button: Learn more
-      alt: Image alt text
-      url: /programmes/corporates/find-customised-solution/
-      image: /images/Homepage/OIP_home_page__500_x_350_.png
-  - infopic:
-      title: Discovery Engine
-      id: infopic
-      description: Discover innovative solutions effortlessly! Streamline your search,
-        connect with verified tech solvers, and find tailored solutions.
-      button: learn more
-      url: /find-ready-solutions/
-      image: /images/Homepage/DE_home_page__500_x_350_.png
-      alt: Search bar
-  - infobar:
-      title: Testimonials
-      description: Starting a business is always a balance of excitement and
-        apprehension. The PIXEL team really "get" this. I've been consistently
-        impressed...
-      button: read more
-      url: /success-stories/testimonials/
-  - infopic:
       title: Showcase
       subtitle: Spark inspiration
       id: infopic
@@ -62,4 +37,23 @@ sections:
       button: Learn More
       url: x
       alt: Image alt text
+  - infopic:
+      title: Discovery Engine
+      id: infopic
+      description: Discover innovative solutions effortlessly! Streamline your search,
+        connect with verified tech solvers, and find tailored solutions.
+      button: learn more
+      url: /programmes/corporates/find-ready-solutions/
+      image: /images/Homepage/DE_home_page__500_x_350_.png
+      alt: Search bar
+      subtitle: Tech experts on-demand
+  - infopic:
+      title: Open Innovation Platform
+      description: Matching corporates with tech solvers to crowdsource for solutions
+        for your  unique business challenges. Take charge - join our quarterly
+        innovation call today!
+      button: Learn more
+      alt: Image alt text
+      url: programmes/corporates/find-customised-solution/
+      image: /images/Homepage/OIP_home_page__500_x_350_.png
 ---
