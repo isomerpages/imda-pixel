@@ -1,8 +1,17 @@
 logo: /images/pixel-logo.png
 links:
+  - title: Programmes
+    url: /programmes/corporates/overview/
+    sublinks:
+      - title: For Corporates
+        url: /programmes/corporates/overview/
+      - title: For Solvers
+        url: /permalink/programmes/solver/overview/
   - title: Showcase
     url: /showcase/
     sublinks:
+      - title: Overview
+        url: /showcase/
       - title: Showcase Companies
         url: /permalink
       - title: AWS Joint Innovation Centre
@@ -26,10 +35,3 @@ links:
     sublinks:
       - title: FAQ
         url: /connect/faq
-  - title: Programmes
-    url: /programmes/corporates/overview/
-    sublinks:
-      - title: For Corporates
-        url: /programmes/corporates/overview/
-      - title: For Solvers
-        url: /permalink/programmes/solver/overview/
