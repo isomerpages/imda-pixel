@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - For Tech Solvers.md
       - For Corporates/Overview.md
       - For Corporates/.keep
