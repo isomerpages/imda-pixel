@@ -21,3 +21,10 @@ links:
     sublinks:
       - title: FAQ
         url: /connect/faq
+  - title: Showcase
+    url: /showcase
+    sublinks:
+      - title: Showcase Companies
+        url: /permalink
+      - title: AWS Joint Innovation Centre
+        url: /facilities/aws-jic/
