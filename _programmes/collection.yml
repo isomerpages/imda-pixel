@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - For Tech Solvers/Win Key Reference Customers.md
       - For Tech Solvers/For Tech Solvers.md
       - For Tech Solvers/.keep
       - For Corporates/Overview.md
