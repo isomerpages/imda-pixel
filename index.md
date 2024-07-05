@@ -25,9 +25,9 @@ sections:
       title: PIXEL Innovation Hub
   - infobar:
       title: Innovate with Us
-      description: We help corporates and start-ups scale by inspiring, coaching and
-        connecting. Find out what we can offer below to accelerate your
-        business.
+      description: PIXEL accelerates innovation by connecting forward-thinking
+        corporates with the brightest tech solvers, fostering collaborative
+        partnerships.
   - infopic:
       title: Open Innovation Platform
       description: Matching corporates with tech solvers to crowdsource for solutions
