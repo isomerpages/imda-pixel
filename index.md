@@ -53,4 +53,13 @@ sections:
         impressed...
       button: read more
       url: /success-stories/testimonials/
+  - infopic:
+      title: Showcase
+      subtitle: Spark inspiration
+      id: infopic
+      description: Explore a curated selection of leading-edge tech solutions. Get
+        hands-on and discover innovations to power your business.
+      button: Learn More
+      url: x
+      alt: Image alt text
 ---
