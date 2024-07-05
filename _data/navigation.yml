@@ -3,7 +3,7 @@ links:
   - title: Programmes
     url: /programmes/overview/
   - title: Showcase
-    url: /showcase
+    url: /showcase/
     sublinks:
       - title: Showcase Companies
         url: /permalink
