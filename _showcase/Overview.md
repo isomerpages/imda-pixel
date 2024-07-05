@@ -32,8 +32,10 @@ your digital transformation</p>
 </li>
 </ul>
 <p></p>
-<p><strong>We would love to have you at our space. If you are interested in finding out more about how we can support your journey towards digital innovation, please drop us an email at <a href="mailto:pixel@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pixel@imda.gov.sg</a> to schedule a visit!</strong>
-</p>
+<p>We would love to have you at our space. If you are interested in finding
+out more about how we can support your journey towards digital innovation,
+please drop us an email at <strong><a href="mailto:pixel@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pixel@imda.gov.sg</a></strong> to
+schedule a visit!</p>
 <p></p>
 <hr>
 <h4>Solvers:</h4>
@@ -56,10 +58,11 @@ connections that fuel your success.</p>
 </li>
 </ul>
 <p>Do you have a minimum viable product (MVP) addressing one of our technology
-focus areas below? <a href="https://go.gov.sg/showcaseform" rel="noopener noreferrer nofollow" target="_blank">Apply</a> to showcase your solution
-at PIXEL and gain valuable exposure to industry leaders.</p>
+focus areas below? <strong><a href="https://go.gov.sg/showcaseform" rel="noopener noreferrer nofollow" target="_blank">Apply</a></strong> to
+showcase your solution at PIXEL and gain valuable exposure to industry
+leaders.</p>
 <p></p>
-<p><strong>Technology focus areas: </strong>
+<p><strong>Technology focus areas:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
