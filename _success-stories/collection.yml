@@ -2,7 +2,6 @@ collections:
   success-stories:
     output: true
     order:
-      - Testimonials.md
       - Press Release/Metaverse Architect Smobler joins IMDA’s PIXEL Innovation
         Hub.md
       - Press Release/SAP Sustainable Programme.md
