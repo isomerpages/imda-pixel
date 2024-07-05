@@ -16,18 +16,9 @@ links:
         url: /permalink
       - title: AWS Joint Innovation Centre
         url: /showcase/aws-jic/
-  - title: Facilities
-    url: /facilities/aws-jic/
+  - title: News Room
+    url: /success-stories/press-release/permalink/smobler-pixel/
     sublinks:
-      - title: AWS Joint Innovation Centre
-        url: /facilities/aws-jic/
-  - title: Success Stories
-    url: /success-stories/
-    sublinks:
-      - title: Success Stories
-        url: /success-stories/
-      - title: Testimonials
-        url: /success-stories/testimonials/
       - title: Press Release
         url: /success-stories/press-release/permalink/smobler-pixel/
   - title: Contact Us
