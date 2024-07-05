@@ -16,7 +16,7 @@ description: ""
 <div class="isomer-card-description">We have partnered with the likes of Microsoft, Capitaland, Mandai xxxx</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="a" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">5G Living Lab</div><div class="isomer-card-description">IMDA's 5G Living Lab at PIXEL fosters collaboration and experimentation to accelerate 5G adoption. Tech providers and companies can leverage real-world 5G infrastructure, expertise, and resources to explore new possibilities.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <p>In today's dynamic landscape, staying ahead is crucial. At IMDA, we recognise
 the complexities of navigating innovation. That's why we offer a suite
