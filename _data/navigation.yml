@@ -2,6 +2,13 @@ logo: /images/pixel-logo.png
 links:
   - title: Programmes
     url: /programmes/overview/
+  - title: Showcase
+    url: /showcase
+    sublinks:
+      - title: Showcase Companies
+        url: /permalink
+      - title: AWS Joint Innovation Centre
+        url: /showcase/aws-jic/
   - title: Facilities
     url: /facilities/aws-jic/
     sublinks:
@@ -21,10 +28,3 @@ links:
     sublinks:
       - title: FAQ
         url: /connect/faq
-  - title: Showcase
-    url: /showcase
-    sublinks:
-      - title: Showcase Companies
-        url: /permalink
-      - title: AWS Joint Innovation Centre
-        url: /facilities/aws-jic/
