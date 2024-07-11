@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - For Tech Solvers.md
       - For Corporates.md
+      - For Tech Solvers.md
