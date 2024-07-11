@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - For Corporates.md
-      - For Corporates/.keep
       - For Tech Solvers/.keep
       - For Tech Solvers/Overview.md
