@@ -73,7 +73,7 @@ inspection, training, and remote support.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>SERIAL CO_ </u></strong>
+<p><strong><u>SERIAL CO_</u></strong>
 </p>
 <p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
 experiences transform the way people learn, work, and interact with each
