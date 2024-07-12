@@ -36,7 +36,27 @@ you wish to be connected with any of our showcase companies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&lt;logo&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__3_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Alo Vr</u></strong>
+</p>
+<p>ALO XR harnesses immersive technologies to help older adults thrive, developing
+AR/VR solutions to enhance healthspan and unlock human potential.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.alo.health</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled__800_x_800_px_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
@@ -45,8 +65,21 @@ you wish to be connected with any of our showcase companies.</p>
 hours, eliminates the need for time-consuming codes, and deploy mobile
 applications to field technicians for maintenance, repair, operations,
 inspection, training, and remote support.&nbsp;</p>
-<p></p>
 <p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SERIAL CO_ </u></strong>
+</p>
+<p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
+experiences transform the way people learn, work, and interact with each
+other.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,22 +121,17 @@ monitoring in industrial sectors.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&lt;logo&gt;</p>
+<p><u>&lt;logo&gt;</u>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>BeLive Technology</u></strong>
+<p><strong><u>Ailytics</u></strong>
 </p>
 <p></p>
-<p>BeLive transforms text and image heavy websites into beautiful, swipeable
-video experiences. Its interactive live commerce and shoppable video solutions
-allow the region's most loved brands like Grab, Mediacorp, ShopBack &amp;
-Zalora to deliver high-converting live streams and reels directly on their
-platforms. Live streams powered by BeLive have reached over 100M viewers
-worldwide.&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong><a href="https://belive.technology/" rel="noopener noreferrer nofollow" target="_blank"><u>https://belive.technology/</u></a>&nbsp;&nbsp;</strong>
+<p>Ailytics helps industrial companies improve safety and maximise productivity
+by providing video analytics solutions for safety and productivity monitoring.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://ailytics.ai/</a></strong>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
