@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Overview.md
-      - Overview/.keep
       - Showcase Companies.md
       - AWS IMDA Joint Innovation Centre.md
