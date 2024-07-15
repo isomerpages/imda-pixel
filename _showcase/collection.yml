@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - Overview/Overview.md
       - Overview/.keep
       - Showcase Companies.md
       - AWS IMDA Joint Innovation Centre.md
