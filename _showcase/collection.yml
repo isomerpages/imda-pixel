@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview/For Tech Solvers.md
-      - Overview/For corporates.md
+      - Overview/For Corporates.md
       - Overview/.keep
       - Showcase Companies.md
       - AWS IMDA Joint Innovation Centre.md
