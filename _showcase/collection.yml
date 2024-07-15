@@ -2,7 +2,7 @@ collections:
   showcase:
     output: true
     order:
-      - For Tech Solvers.md
       - Overview.md
+      - For Tech Solvers.md
       - Showcase Companies.md
       - AWS IMDA Joint Innovation Centre.md
