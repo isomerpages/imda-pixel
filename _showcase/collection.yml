@@ -2,7 +2,7 @@ collections:
   showcase:
     output: true
     order:
-      - Overview/For Tech solvers.md
+      - Overview/For Tech Solvers.md
       - Overview/For corporates.md
       - Overview/.keep
       - Showcase Companies.md
