@@ -78,19 +78,17 @@ inspection, training, and remote support.&nbsp;</p>
 <p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
 experiences transform the way people learn, work, and interact with each
 other.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a></strong>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.serial.s</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>AI Zone</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
