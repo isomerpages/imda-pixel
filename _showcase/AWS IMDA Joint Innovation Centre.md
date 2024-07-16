@@ -68,13 +68,12 @@ Centre.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__12_.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Voltade<br></strong>Experience talking to a virtual sales assistant
-that guides you into an immersive live chat experience. Voltade chat is
-a chatbot that leverages on the benefits of generative AI to turn website’s
-front page to be a channel that convert leads into paying customers.</p>
+<p><strong><u>Voltade</u><br></strong>Experience talking to a virtual sales
+assistant that guides you into an immersive live chat experience. Voltade
+chat is a chatbot that leverages on the benefits of generative AI to turn
+website’s front page to be a channel that convert leads into paying customers.</p>
 </td>
 </tr>
 <tr>
@@ -84,11 +83,11 @@ front page to be a channel that convert leads into paying customers.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Amazon Bedrock<br></strong>Interact with a GenAI chatbot that
-can be built within a day and customized with your own private data! Unlike
-other generative AI platforms, Amazon Bedrock allows users to easily choose,
-compare and switch among multiple Large Language Models to optimize the
-functions of generative AI for your business’ diverse use cases.</p>
+<p><strong><u>Amazon Bedrock</u><br></strong>Interact with a GenAI chatbot
+that can be built within a day and customized with your own private data!
+Unlike other generative AI platforms, Amazon Bedrock allows users to easily
+choose, compare and switch among multiple Large Language Models to optimize
+the functions of generative AI for your business’ diverse use cases.</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +98,7 @@ functions of generative AI for your business’ diverse use cases.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Infodeck.io<br>Infodeck.io </strong>provides smart facilities
+<p><strong><u>Infodeck.io</u><br>Infodeck.io </strong>provides smart facilities
 management solutions using IoT, powered by their own IoT LoRaWAN network
 server which can be used worldwide.</p>
 </td>
@@ -112,7 +111,7 @@ server which can be used worldwide.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Moodie.AI by Datality Labs</strong>
+<p><strong><u>Moodie.AI by Datality Labs</u></strong>
 </p>
 <p>Try out communication and presentation training from Moodie.AI, which
 mimics human coaching by harnessing verbal and non-verbal observations.</p>
@@ -126,7 +125,7 @@ mimics human coaching by harnessing verbal and non-verbal observations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Elitefit.AI</strong>
+<p><strong><u>Elitefit.AI</u></strong>
 </p>
 <p>Easily access fitness help with Elitefit.AI, a virtual personal trainer
 powered by AI, providing real-time feedback on workouts, physiotherapy
@@ -143,10 +142,10 @@ exercises and posture for users.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>AWS Deepracer Arcade<br></strong>Race against machine and compete
-in a global racing league in the AWS DeepRacer Arcade! The AWS DeepRacer
-Arcade is a car racing game that teaches you the fundamentals of machine
-learning, more specifically, reinforcement learning.</p>
+<p><strong><u>AWS Deepracer Arcade</u><br></strong>Race against machine and
+compete in a global racing league in the AWS DeepRacer Arcade! The AWS
+DeepRacer Arcade is a car racing game that teaches you the fundamentals
+of machine learning, more specifically, reinforcement learning.</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +156,7 @@ learning, more specifically, reinforcement learning.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>SPACES by Silver Wings XR</strong>
+<p><strong><u>SPACES by Silver Wings XR</u></strong>
 </p>
 <p>Visit a 3D virtual space where real-time avatars can communicate and collaborate
 with the help of collaboration tools. SPACES offers organisations the opportunity
@@ -173,12 +172,13 @@ in a truly engaging way.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>FaunaFit.AI by Zaheen Systems</strong>
+<p><strong><u>FaunaFit.AI by Zaheen Systems</u></strong>
 </p>
 <p>Learn more about the winning solution for Mandai Wildlife Group’s open
 innovation challenge. FaunaFit.AI assesses and tracks animal health through
 smart phone images.
-<br>(Also insert latest images of the booths)</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
