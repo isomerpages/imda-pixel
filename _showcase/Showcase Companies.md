@@ -38,7 +38,7 @@ you wish to be connected with any of our showcase companies.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alo_xr.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ inspection, training, and remote support.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serial_co.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serial.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
