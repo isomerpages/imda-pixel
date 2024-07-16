@@ -271,7 +271,7 @@ tracking technology.</p>
 <details class="isomer-details">
 <summary>Robotics Zone</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
