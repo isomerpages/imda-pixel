@@ -78,7 +78,7 @@ inspection, training, and remote support.&nbsp;</p>
 <p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
 experiences transform the way people learn, work, and interact with each
 other.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.serial.s</a></strong>
+<p><strong><a href="https://serial.sg/" rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a></strong>
 </p>
 </td>
 </tr>
