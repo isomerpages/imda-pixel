@@ -71,8 +71,7 @@ Centre.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Voltade</u></strong>
-</p>
-<p><strong><br></strong>Experience talking to a virtual sales assistant that
+<br><strong><br></strong>Experience talking to a virtual sales assistant that
 guides you into an immersive live chat experience. Voltade chat is a chatbot
 that leverages on the benefits of generative AI to turn website’s front
 page to be a channel that convert leads into paying customers.</p>
@@ -85,11 +84,12 @@ page to be a channel that convert leads into paying customers.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Amazon Bedrock</u><br></strong>Interact with a GenAI chatbot
-that can be built within a day and customized with your own private data!
-Unlike other generative AI platforms, Amazon Bedrock allows users to easily
-choose, compare and switch among multiple Large Language Models to optimize
-the functions of generative AI for your business’ diverse use cases.</p>
+<p><strong><u>Amazon Bedrock</u></strong>
+<br><strong><br></strong>Interact with a GenAI chatbot that can be built within
+a day and customized with your own private data! Unlike other generative
+AI platforms, Amazon Bedrock allows users to easily choose, compare and
+switch among multiple Large Language Models to optimize the functions of
+generative AI for your business’ diverse use cases.</p>
 <p></p>
 </td>
 </tr>
@@ -101,9 +101,10 @@ the functions of generative AI for your business’ diverse use cases.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Infodeck.io</u><br>Infodeck.io </strong>provides smart facilities
-management solutions using IoT, powered by their own IoT LoRaWAN network
-server which can be used worldwide.</p>
+<p><strong><a href="http://Infodeck.io" rel="noopener noreferrer nofollow" target="_blank"><u>Infodeck.io</u></a></strong>
+<br><strong><br>Infodeck.io </strong>provides smart facilities management
+solutions using IoT, powered by their own IoT LoRaWAN network server which
+can be used worldwide.</p>
 </td>
 </tr>
 <tr>
@@ -145,10 +146,11 @@ exercises and posture for users.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>AWS Deepracer Arcade</u><br></strong>Race against machine and
-compete in a global racing league in the AWS DeepRacer Arcade! The AWS
-DeepRacer Arcade is a car racing game that teaches you the fundamentals
-of machine learning, more specifically, reinforcement learning.</p>
+<p><strong><u>AWS Deepracer Arcade</u></strong>
+<br><strong><br></strong>Race against machine and compete in a global racing
+league in the AWS DeepRacer Arcade! The AWS DeepRacer Arcade is a car racing
+game that teaches you the fundamentals of machine learning, more specifically,
+reinforcement learning.</p>
 </td>
 </tr>
 <tr>
