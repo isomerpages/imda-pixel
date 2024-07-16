@@ -43,7 +43,7 @@ the future of technology firsthand.</p>
 </p>
 <p>ALO XR harnesses immersive technologies to help older adults thrive, developing
 AR/VR solutions to enhance healthspan and unlock human potential.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.alo.health</a></strong>
+<p><strong><a href="https://aloxr.com/" rel="noopener noreferrer nofollow" target="_blank">https://aloxr.com/</a></strong>
 </p>
 </td>
 </tr>
@@ -116,7 +116,7 @@ tasks, and providing personalised experiences.</p>
 <p></p>
 <p>Ailytics helps industrial companies improve safety and maximise productivity
 by providing video analytics solutions for safety and productivity monitoring.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://ailytics.ai/</a></strong>
+<p><strong><a href="https://ailytics.ai/" rel="noopener noreferrer nofollow" target="_blank">https://ailytics.ai/</a></strong>
 </p>
 </td>
 </tr>
