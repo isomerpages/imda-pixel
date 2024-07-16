@@ -4,7 +4,7 @@ permalink: /for-tech-solvers/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Solvers:</strong></h3>
+<h3><strong>Tech Solvers:</strong></h3>
 <p>PIXEL offers a unique opportunity to present your innovative tech solution
 to a targeted audience of corporate decision-makers.</p>
 <p>PIXEL empowers you with:</p>
