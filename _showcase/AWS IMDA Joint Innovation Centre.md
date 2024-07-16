@@ -88,6 +88,7 @@ that can be built within a day and customized with your own private data!
 Unlike other generative AI platforms, Amazon Bedrock allows users to easily
 choose, compare and switch among multiple Large Language Models to optimize
 the functions of generative AI for your business’ diverse use cases.</p>
+<p></p>
 </td>
 </tr>
 <tr>
