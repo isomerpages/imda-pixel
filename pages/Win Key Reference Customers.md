@@ -13,5 +13,8 @@ variant: tiptap
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
 into a diverse pool of ideas and expertise. That's where our Open Innovation
-Platform comes in.</p>
-<p></p>
+Platform comes in.
+<br>
+<br><strong>Stay tuned for the next challenge announcement!</strong>
+<br><a href="https://www.openinnovation.sg" rel="noopener noreferrer nofollow" target="_blank">Find out more</a>
+</p>
