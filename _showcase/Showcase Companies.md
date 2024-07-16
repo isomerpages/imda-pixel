@@ -23,15 +23,12 @@ you wish to be connected with any of our showcase companies.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>&lt;logo&gt;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><u>Alo VR</u>
-</p>
-<p>xxx</p>
-<p></p>
-<p><a href="http://www.alo.health/" rel="noopener noreferrer nofollow" target="_blank"><u>www.alo.health</u></a>&nbsp;&nbsp;</p>
+<th rowspan="1" colspan="2">
+<p>At PIXEL, delve into cutting-edge AR (Augmented Reality) and VR (Virtual
+Reality) technologies. AR enhances real-world experiences by overlaying
+digital elements, while VR immerses you in entirely virtual environments.
+Explore how these innovations are transforming industries and experience
+the future of technology firsthand.</p>
 </th>
 </tr>
 <tr>
@@ -101,18 +98,11 @@ other.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>&lt;logo&gt;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><u>Ailytics</u></strong>
-</p>
-<p></p>
-<p>Ailytics is a spin-off from 2 years of research development with HDB and
-AISG that provides video analytics solutions for safety and productivity
-monitoring in industrial sectors.</p>
-<p>&nbsp;</p>
-<p><a href="https://ailytics.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ailytics.ai/</u></a>&nbsp;</p>
+<th rowspan="1" colspan="2">
+<p>Our AI (Artificial Intelligence) zone showcases the latest advancements
+in machine learning, natural language processing, and data analytics. Discover
+how AI is revolutionising industries by enhancing decision-making, automating
+tasks, and providing personalised experiences.</p>
 </th>
 </tr>
 <tr>
@@ -291,19 +281,10 @@ tracking technology.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>&lt;logo&gt;</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><u>Objective Experience</u>
-</p>
-<p></p>
-<p>Objective Experience, the leading eye tracking experts in Southeast Asia,
-empowers businesses to gain a competitive edge by understanding customers'
-unconscious behaviours and preferences.&nbsp;</p>
-<p></p>
-<p><a href="http://www.objectiveexperience.com/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.objectiveexperience.com/</u></a>
-</p>
+<th rowspan="1" colspan="2">
+<p>The Robotics zone showcases cutting-edge innovations in automation and
+precision technology. Discover how advanced robotics are transforming industries
+by automating processes and improving efficiency.</p>
 </th>
 </tr>
 <tr>
