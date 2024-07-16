@@ -133,7 +133,8 @@ by providing video analytics solutions for safety and productivity monitoring.</
 <p></p>
 <p>BeLive empower its customers with easy-to-install video players that allow
 to deliver live, interactive and shoppable media directly on their websites
-or apps. <strong><a rel="noopener noreferrer nofollow" target="_blank">https://belive.technology/</a></strong>
+or apps.</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://belive.technology/</a></strong>
 </p>
 </td>
 </tr>
