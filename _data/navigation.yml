@@ -8,10 +8,10 @@ links:
       - title: For Solvers
         url: /programmes/solver/overview/
   - title: Showcase
-    url: /overview/
+    url: /showcase/overview/
     sublinks:
       - title: Overview
-        url: /overview/
+        url: /showcase/overview/
       - title: Showcase Companies
         url: /showcase-companies/
       - title: AWS Joint Innovation Centre
