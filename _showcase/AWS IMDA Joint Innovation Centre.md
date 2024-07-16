@@ -70,10 +70,12 @@ Centre.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Voltade</u><br></strong>Experience talking to a virtual sales
-assistant that guides you into an immersive live chat experience. Voltade
-chat is a chatbot that leverages on the benefits of generative AI to turn
-website’s front page to be a channel that convert leads into paying customers.</p>
+<p><strong><u>Voltade</u></strong>
+</p>
+<p><strong><br></strong>Experience talking to a virtual sales assistant that
+guides you into an immersive live chat experience. Voltade chat is a chatbot
+that leverages on the benefits of generative AI to turn website’s front
+page to be a channel that convert leads into paying customers.</p>
 </td>
 </tr>
 <tr>
