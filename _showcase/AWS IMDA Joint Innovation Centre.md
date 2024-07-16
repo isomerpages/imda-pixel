@@ -64,9 +64,11 @@ Centre.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>image
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__12_.png">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Voltade<br></strong>Experience talking to a virtual sales assistant
@@ -77,9 +79,9 @@ front page to be a channel that convert leads into paying customers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>image
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__15_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Amazon Bedrock<br></strong>Interact with a GenAI chatbot that
@@ -91,49 +93,54 @@ functions of generative AI for your business’ diverse use cases.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Infodeck.io<br><a href="http://Infodeck.io" rel="noopener noreferrer nofollow" target="_blank">Infodeck.io</a> </strong>provides
-smart facilities management solutions using IoT, powered by their own IoT
-LoRaWAN network server which can be used worldwide.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="http://Moodie.AI" rel="noopener noreferrer nofollow" target="_blank">Moodie.AI</a> by Datality Labs</strong>
-</p>
-<p>Try out communication and presentation training from <a href="http://Moodie.AI" rel="noopener noreferrer nofollow" target="_blank">Moodie.AI</a>,
-which mimics human coaching by harnessing verbal and non-verbal observations</p>
+<p><strong>Infodeck.io<br>Infodeck.io </strong>provides smart facilities
+management solutions using IoT, powered by their own IoT LoRaWAN network
+server which can be used worldwide.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elitefit.AI</p>
+<p><strong>Moodie.AI by Datality Labs</strong>
+</p>
+<p>Try out communication and presentation training from Moodie.AI, which
+mimics human coaching by harnessing verbal and non-verbal observations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elite.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Elitefit.AI</strong>
+</p>
 <p>Easily access fitness help with Elitefit.AI, a virtual personal trainer
 powered by AI, providing real-time feedback on workouts, physiotherapy
-exercises and posture for users
+exercises and posture for users.
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/deep.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>AWS Deepracer Arcade<br></strong>Race against machine and compete
@@ -144,9 +151,10 @@ learning, more specifically, reinforcement learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SPACES by Silver Wings XR</strong>
@@ -160,6 +168,9 @@ in a truly engaging way.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/zaheen_ai.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>FaunaFit.AI by Zaheen Systems</strong>
