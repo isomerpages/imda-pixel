@@ -35,7 +35,7 @@ sections:
       description: Explore a curated selection of leading-edge tech solutions. Get
         hands-on and discover innovations to power your business.
       button: Learn More
-      url: /showcase
+      url: /showcase/overview/
       alt: Image alt text
   - infopic:
       title: Discovery Engine
