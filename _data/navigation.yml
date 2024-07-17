@@ -24,5 +24,7 @@ links:
   - title: Connect with us
     url: /contact-us/
     sublinks:
+      - title: Contact Us
+        url: /contact-us/
       - title: FAQ
         url: /connect/faq
