@@ -79,8 +79,9 @@ page to be a channel that convert leads into paying customers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__15_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Amazon_BR__2_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +102,7 @@ generative AI for your business’ diverse use cases.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://Infodeck.io" rel="noopener noreferrer nofollow" target="_blank"><u>Infodeck.io</u></a></strong>
+<p><strong><u>Infodeck.io</u></strong>
 <br><strong><br>Infodeck.io </strong>provides smart facilities management
 solutions using IoT, powered by their own IoT LoRaWAN network server which
 can be used worldwide.</p>
