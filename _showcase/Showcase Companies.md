@@ -134,7 +134,7 @@ by providing video analytics solutions for safety and productivity monitoring.</
 <p>BeLive empower its customers with easy-to-install video players that allow
 to deliver live, interactive and shoppable media directly on their websites
 or apps.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://belive.technology/</a></strong>
+<p><strong><a href="https://belive.technology/" rel="noopener noreferrer nofollow" target="_blank">https://belive.technology/</a></strong>
 </p>
 </td>
 </tr>
@@ -152,7 +152,7 @@ or apps.</p>
 <p>Evolve Innovative Solutions empowers organizations seeking to harness
 the power of next-generation technology, pioneering AI and immersion-powered
 AR/VR solutions for the modern age.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a></strong>
+<p><strong><a href="https://www.eis.sg/" rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a></strong>
 </p>
 </td>
 </tr>
@@ -170,7 +170,7 @@ AR/VR solutions for the modern age.</p>
 <p>FingerDance is committed to building AI infrastructure for a smart and
 inclusive world, offering 24/7 sign language translation services and accessible
 sign language information.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/fingerdance-pte-ltd/</a></strong>
+<p><strong><a href="https://sg.linkedin.com/company/fingerdance-pte-ltd" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/fingerdance-pte-ltd/</a></strong>
 </p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ solution.</p>
 <p>Pand.ai is a leader in conversational AI solutions in Singapore, powered
 by proprietary natural language processing that understands a variety of
 languages.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.pand.ai/</a></strong>
+<p><strong><a href="https://www.pand.ai/" rel="noopener noreferrer nofollow" target="_blank">https://www.pand.ai/</a></strong>
 </p>
 <p></p>
 </td>
@@ -225,7 +225,7 @@ languages.</p>
 <p>Technocorp harnesses the power of Virtual Reality (VR) technology and
 Generative Design with their digital twin solution that help users visualize
 and analyse designs.</p>
-<p><strong><a href="https://www.linkedin.com/company/technocorpsg/" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/technocorpsg/</a></strong>
+<p><strong><a href="https://www.linkedin.com/company/technocorpsg/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/technocorpsg/</a></strong>
 </p>
 </td>
 </tr>
@@ -243,7 +243,7 @@ and analyse designs.</p>
 <p>XRATOR's mission is to make effective cybersecurity accessible to all,
 providing a SaaS that helps organizations close the knowledge gap between
 cybersecurity officers and engineers.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://x-rator.com</a></strong>
+<p><strong><a href="https://www.x-rator.com/" rel="noopener noreferrer nofollow" target="_blank">https://x-rator.com</a></strong>
 </p>
 </td>
 </tr>
@@ -261,7 +261,7 @@ cybersecurity officers and engineers.</p>
 <p>Objective Experience empowers businesses to gain a competitive edge by
 understanding customers' unconscious behaviours and preferences using eye
 tracking technology.</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.objectiveexperience.com/</a></strong>
+<p><strong><a href="https://www.objectiveexperience.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.objectiveexperience.com/</a></strong>
 </p>
 </td>
 </tr>
@@ -299,7 +299,7 @@ by automating processes and improving efficiency.</p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
 system with real-time location tracking and fleet management features</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a></strong>
+<p><strong><a href="http://techfox.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a></strong>
 </p>
 </td>
 </tr>
