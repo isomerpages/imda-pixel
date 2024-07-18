@@ -302,14 +302,6 @@ system with real-time location tracking and fleet management features</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -317,6 +309,7 @@ system with real-time location tracking and fleet management features</p>
 <details class="isomer-details">
 <summary>Metaverse Zone</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -324,10 +317,10 @@ system with real-time location tracking and fleet management features</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="2">
 <p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Learn how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -337,7 +330,7 @@ system with real-time location tracking and fleet management features</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Smober Studios</u></strong>
+<p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
 in IP creation, brand marketing and metaverse development for businesses</p>
