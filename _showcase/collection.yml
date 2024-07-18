@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 5G Living Lab.md
       - Overview.md
       - For Corporates.md
       - For Tech Solvers.md
