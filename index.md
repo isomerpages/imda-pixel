@@ -37,7 +37,7 @@ sections:
       button: Learn More
       url: /showcase/overview/
       alt: Image alt text
-      image: /images/shutterstock_2206069939_edited.png
+      image: /images/SHOWCASE.png
   - infopic:
       title: Discovery Engine
       id: infopic
@@ -56,5 +56,5 @@ sections:
       button: Learn more
       alt: Image alt text
       url: programmes/corporates/find-customised-solution/
-      image: /images/oip.png
+      image: /images/OIP.png
 ---
