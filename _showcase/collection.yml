@@ -2,9 +2,9 @@ collections:
   showcase:
     output: true
     order:
-      - 5G Living Lab.md
       - Overview.md
       - For Corporates.md
       - For Tech Solvers.md
       - Showcase Companies.md
       - AWS IMDA Joint Innovation Centre.md
+      - 5G Living Lab.md
