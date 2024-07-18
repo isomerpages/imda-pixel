@@ -281,9 +281,8 @@ tracking technology.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>The Robotics zone showcases cutting-edge innovations in automation and
-precision technology. Discover how advanced robotics are transforming industries
-by automating processes and improving efficiency.</p>
+<p><strong>The Robotics zone showcases cutting-edge innovations in automation and precision technology. Discover how advanced robotics are transforming industries by automating processes and improving efficiency.</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -309,6 +308,58 @@ system with real-time location tracking and fleet management features</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Metaverse Zone</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Learn how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Smober Studios</u></strong>
+</p>
+<p>Smobler Studios is a provider of metaverse architecture solutions specializing
+in IP creation, brand marketing and metaverse development for businesses</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Xctuality</u></strong>
+</p>
+<p>Xctuality is an immersive technology company building towards spatial
+computing that is helping to reverse climate change by pioneering the future
+of urban lifestyle.&nbsp;&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://xctuality.com</a>
+</p>
 </td>
 </tr>
 </tbody>
