@@ -9,9 +9,7 @@ description: ""
 products by tech companies. We aim to match innovative tech solutions with
 the needs of larger corporations, accelerating the adoption of new technologies
 in industries.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230721_IMDA_RISE_133_50.jpg">
-</div>
+<p></p>
 <p>Located in one-north, Singapore’s Innovation District, we are aptly placed
 to present the latest developments in the local tech space. Our newly-refurbished
 interior is designed to elevate the showcase experience, encouraging exploration
