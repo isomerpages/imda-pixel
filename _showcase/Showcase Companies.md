@@ -297,7 +297,7 @@ tracking technology.</p>
 </p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
-system with real-time location tracking and fleet management features</p>
+system with real-time location tracking and fleet management features.</p>
 <p><strong><a href="http://techfox.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a></strong>
 </p>
 </td>
@@ -333,7 +333,7 @@ system with real-time location tracking and fleet management features</p>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
 in IP creation, brand marketing and metaverse development for businesses</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
 </p>
 </td>
 </tr>
@@ -350,7 +350,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <p>Xctuality is an immersive technology company building towards spatial
 computing that is helping to reverse climate change by pioneering the future
 of urban lifestyle.&nbsp;&nbsp;</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://xctuality.com</a>
+<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank">https://xctuality.com</a>
 </p>
 </td>
 </tr>
