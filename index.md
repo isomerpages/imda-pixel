@@ -37,6 +37,7 @@ sections:
       button: Learn More
       url: /showcase/overview/
       alt: Image alt text
+      image: /images/shutterstock_2206069939_edited.png
   - infopic:
       title: Discovery Engine
       id: infopic
@@ -44,7 +45,7 @@ sections:
         connect with verified tech solvers, and find tailored solutions.
       button: learn more
       url: /programmes/corporates/find-ready-solutions/
-      image: /images/Homepage/DE_home_page__500_x_350_.png
+      image: /images/DE.png
       alt: Search bar
       subtitle: Tech experts on-demand
   - infopic:
@@ -55,5 +56,5 @@ sections:
       button: Learn more
       alt: Image alt text
       url: programmes/corporates/find-customised-solution/
-      image: /images/Homepage/OIP_home_page__500_x_350_.png
+      image: /images/oip.png
 ---
