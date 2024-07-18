@@ -9,7 +9,7 @@ first JIC in Southeast Asia, serving as an innovation hub for enterprises,
 startups and governments in Singapore and Southeast Asia.</p>
 <p>The centre will feature digital innovation that are built on AWS suite
 of services that inspire a smarter way of working, playing and living.
-The center is an extension of <a href="https://aws.amazon.com/government-education/cloud-innovation-centers/" rel="noopener noreferrer nofollow" target="_blank">AWS Singapore's Cloud Innovation Centre</a> (CIC),
+The centre is an extension of <a href="https://aws.amazon.com/government-education/cloud-innovation-centers/" rel="noopener noreferrer nofollow" target="_blank">AWS Singapore's Cloud Innovation Centre</a> (CIC),
 as well as IMDA’s <a href="https://pixel.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PIXEL</a> and <a href="https://www.openinnovation.sg/imda" rel="noopener noreferrer nofollow" target="_blank">Open Innovation Platform</a> (OIP)
 initiatives.</p>
 <table style="minWidth: 50px">
@@ -28,14 +28,6 @@ initiatives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>IMDA and AWS launch Southeast Asia's first-of-its-kind Joint Innovation
 Centre.</p>
 </td>
@@ -46,7 +38,7 @@ Centre.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IMDA and AWS to Establish Joint Innovation Center in Singapore</p>
+<p>IMDA and AWS to Establish Joint Innovation Centre in Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://w.media/imda-aws-to-establish-joint-innovation-center-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Read on</a>
