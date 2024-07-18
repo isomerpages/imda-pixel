@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: For Corporates
           description: Start your innovation journey
-          url: /programmes/corporates/find-customised-solution/
+          url: /programmes/corporates/overview/
         - title: For Tech Solvers
           description: Win Key Reference Customers
-          url: /programmes/startups/win-key-reference-customers/
+          url: /programmes/solver/overview/
       button: Join our mailing list
       url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: Discover new opportunities - Whether you are a corporate looking to
