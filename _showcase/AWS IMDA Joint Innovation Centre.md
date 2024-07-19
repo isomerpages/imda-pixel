@@ -13,6 +13,9 @@ The centre is an extension of <a href="https://aws.amazon.com/government-educati
 as well as IMDA’s <a href="https://pixel.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PIXEL</a> and <a href="https://www.openinnovation.sg/imda" rel="noopener noreferrer nofollow" target="_blank">Open Innovation Platform</a> (OIP)
 initiatives.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws jic.jpg">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
