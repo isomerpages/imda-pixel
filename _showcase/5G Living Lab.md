@@ -9,6 +9,9 @@ description: ""
 to accelerate 5G adoption. Tech provides and companies can leverage real-world
 5G infrastructure, expertise and resources to explore new possibilities.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shutterstock_2122706444.jpg">
+</div>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/5g-open-testbed" rel="noopener noreferrer nofollow" target="_blank">Learn More</a>
 </p>
 <p></p>
