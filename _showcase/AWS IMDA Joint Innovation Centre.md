@@ -10,7 +10,7 @@ startups and governments in Singapore and Southeast Asia.</p>
 <p>The centre will feature digital innovation that are built on AWS suite
 of services that inspire a smarter way of working, playing and living.
 The centre is an extension of <a href="https://aws.amazon.com/government-education/cloud-innovation-centers/" rel="noopener noreferrer nofollow" target="_blank">AWS Singapore's Cloud Innovation Centre</a> (CIC),
-as well as IMDA’s <a href="https://pixel.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PIXEL</a> and <a href="https://www.openinnovation.sg/imda" rel="noopener noreferrer nofollow" target="_blank">Open Innovation Platform</a> (OIP)
+as well as IMDA’s <a href="https://pixel.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">PIXEL</a> and <a href="https://www.openinnovation.sg/" rel="noopener noreferrer nofollow" target="_blank">Open Innovation Platform</a> (OIP)
 initiatives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
