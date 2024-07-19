@@ -33,8 +33,9 @@ the future of technology firsthand.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6193.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,10 +50,10 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__7_.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
@@ -68,7 +69,7 @@ inspection, training, and remote support.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serial.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serial_co.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,8 +105,9 @@ tasks, and providing personalised experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6194.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ailytics.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +142,7 @@ or apps.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EVOLVE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +160,7 @@ AR/VR solutions for the modern age.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINGERDANCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +178,7 @@ sign language information.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VONCIERGE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VONCIERGE__1_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,7 +196,7 @@ solution.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pand_ai__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pand_ai.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,8 +287,9 @@ tracking technology.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6196.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,11 +326,10 @@ system with real-time location tracking and fleet management features.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6195.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
@@ -340,7 +342,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6192.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
