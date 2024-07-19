@@ -34,9 +34,6 @@ the future of technology firsthand.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PIXEL_website__showcase_companies.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Alo XR</u></strong>
@@ -51,9 +48,6 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
@@ -68,9 +62,6 @@ inspection, training, and remote support.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serial_co.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>SERIAL CO_</u></strong>
@@ -289,7 +280,7 @@ tracking technology.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox_logo__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -343,7 +334,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
