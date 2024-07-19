@@ -289,7 +289,7 @@ tracking technology.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +342,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
