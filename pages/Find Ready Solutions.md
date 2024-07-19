@@ -1,9 +1,8 @@
 ---
 title: Find Ready Solutions
-permalink: /find-ready-solutions/
+permalink: /programmes/corporates/find-ready-solutions/
 variant: tiptap
 description: ""
-third_nav_title: For Corporates
 ---
 <h1>Looking For Ready Solutions?</h1>
 <p></p>

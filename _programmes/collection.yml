@@ -2,9 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - For Corporates/.keep
-      - For Corporates/Find Customised Solutions.md
-      - For Corporates/Find Ready Solutions.md
-      - For Tech Solvers/.keep
-      - For Tech Solvers/Win Key Reference Customers.md
-      - For Tech Solvers/OIP Challenges.md
+      - For Corporates.md
+      - For Tech Solvers.md

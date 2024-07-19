@@ -2,7 +2,6 @@
 title: OIP Innovation Challenges
 permalink: /programmes/startups/oip-calls/
 description: Ongoing Open Innovation Platform Innovation Calls
-third_nav_title: For Tech Solvers
 variant: markdown
 ---
 # Open Innovation Platform Challenges

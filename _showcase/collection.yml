@@ -1,0 +1,9 @@
+collections:
+  showcase:
+    output: true
+    order:
+      - Overview.md
+      - For Corporates.md
+      - For Tech Solvers.md
+      - Showcase Companies.md
+      - AWS IMDA Joint Innovation Centre.md

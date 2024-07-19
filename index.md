@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: For Corporates
           description: Start your innovation journey
-          url: /programmes/corporates/find-customised-solution/
+          url: /programmes/corporates/overview/
         - title: For Tech Solvers
           description: Win Key Reference Customers
-          url: /programmes/startups/win-key-reference-customers/
+          url: /programmes/solver/overview/
       button: Join our mailing list
       url: https://form.gov.sg/62ac4193b8365500125bd367
       subtitle: Discover new opportunities - Whether you are a corporate looking to
@@ -25,9 +25,19 @@ sections:
       title: PIXEL Innovation Hub
   - infobar:
       title: Innovate with Us
-      description: We help corporates and start-ups scale by inspiring, coaching and
-        connecting. Find out what we can offer below to accelerate your
-        business.
+      description: PIXEL accelerates innovation by connecting forward-thinking
+        corporates with the brightest tech solvers, fostering collaborative
+        partnerships.
+  - infopic:
+      title: Showcase
+      subtitle: Spark inspiration
+      id: infopic
+      description: Explore a curated selection of leading-edge tech solutions. Get
+        hands-on and discover innovations to power your business.
+      button: Learn More
+      url: /showcase/overview/
+      alt: Image alt text
+      image: /images/SHOWCASE.png
   - infopic:
       title: Open Innovation Platform
       description: Matching corporates with tech solvers to crowdsource for solutions
@@ -35,22 +45,17 @@ sections:
         innovation call today!
       button: Learn more
       alt: Image alt text
-      url: /programmes/corporates/find-customised-solution/
-      image: /images/Homepage/OIP_home_page__500_x_350_.png
+      url: programmes/corporates/find-customised-solution/
+      image: /images/OIP.png
+      subtitle: Find customised solutions
   - infopic:
       title: Discovery Engine
       id: infopic
       description: Discover innovative solutions effortlessly! Streamline your search,
         connect with verified tech solvers, and find tailored solutions.
       button: learn more
-      url: /find-ready-solutions/
-      image: /images/Homepage/DE_home_page__500_x_350_.png
+      url: /programmes/corporates/find-ready-solutions/
+      image: /images/DE.png
       alt: Search bar
-  - infobar:
-      title: Testimonials
-      description: Starting a business is always a balance of excitement and
-        apprehension. The PIXEL team really "get" this. I've been consistently
-        impressed...
-      button: read more
-      url: /success-stories/testimonials/
+      subtitle: Tech experts on-demand
 ---

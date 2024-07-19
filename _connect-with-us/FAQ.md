@@ -2,29 +2,35 @@
 title: FAQ
 permalink: /connect/faq/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# FAQ
-
-##### 1. What are PIXEL’s operating hours?
-
-Our operating hours are on weekdays, Monday to Friday, from 9am to 6pm. <br> We are closed on weekends and public holidays. 
-
-##### 2. Is the space available for rent or lease?
-
-As PIXEL is not a commercial service provider, our facilities are not for hire. We are open to supporting innovation-related events at our space. If you are interested, you may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg) to request for usage, sharing with us more details about your event.
-
-##### 3. Are PIXEL’s events and workshops free?
-
-Yes! The majority of our events and workshops are complimentary to drive innovation. You can sign up to our enewsletter for the latest events [here](https://form.gov.sg/#!/5f6327d424978a001130835c).
-
-##### 4. I represent a corporate/ enterprise, and I want to find innovative solutions in a particular domain. How can I get to know PIXEL’s start-ups and view their demos?&nbsp;
-
-You may email us at [pixel@imda.gov.sg](mailto:pixel@imda.gov.sg), sharing with us more details about your business pain point and innovation needs.
-
-##### 5. I am an experienced start-up operator/ represent a VC. How can I partner PIXEL and contribute? 
-We are always open to collaborating with other ecosystem players on corporate innovation to bring more business opportunities to the start-ups in their network. If you have any questions or would like to share more details with us, please email us at pixel@imda.gov.sg. 
-
-##### 6. Is Wi-Fi provided in PIXEL?
-
-Yes! We provide free Wi-Fi within PIXEL compound. Kindly check with our PIXEL staff for the login credentials. Alternatively, you can also tap on Wireless@SG for free Wi-Fi access.
+<h5>FAQ</h5>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>What is PIXEL Innovation Hub?</strong>
+</p>
+</li>
+</ol>
+<p>The PIXEL Innovation Hub is an IMDA initiative to drive innovation and
+digitalisation in Singapore’s industries. Find out more about what we offer
+<a href="/programmes/corporates/overview/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Are there any fees involved in the use of PIXEL’s offerings?</strong>
+</p>
+</li>
+</ol>
+<p>No, all the programmes are free of charge! However, for showcasing, you
+may need to cover your company’s expenses for logistics and marketing collateral.</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>How can I&nbsp;be&nbsp;updated on PIXEL's&nbsp;offerings?</strong>
+</p>
+</li>
+</ol>
+<p>Do subscribe to our mailing list <a href="https://form.gov.sg/62ac4193b8365500125bd367?_gl=1*fu3w82*_ga*MTc4NjMxOTMzMC4xNzEwODM1OTk4*_ga_Y5HE8VNXS1*MTcyMTA5OTQ1MC4yLjEuMTcyMTA5OTQ1OS41MS4wLjA." rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for&nbsp;the
+latest&nbsp;updates on activities at PIXEL!</p>
+<p>&nbsp;</p>

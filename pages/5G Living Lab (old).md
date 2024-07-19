@@ -1,7 +1,8 @@
 ---
-title: 5G Living Lab
-permalink: /facilities/5G-lab/
+title: 5G Living Lab (old)
+permalink: /facilities/5g-lab/
 description: ""
+variant: tiptap
 ---
 # 5G Living Lab
 ![5G](/images/Facilities/5G/5G.jpg)

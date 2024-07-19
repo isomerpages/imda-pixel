@@ -1,35 +1,30 @@
 logo: /images/pixel-logo.png
 links:
   - title: Programmes
-    url: /programmes/corporates/find-customised-solution/
+    url: /programmes/corporates/overview/
     sublinks:
       - title: For Corporates
-        url: /programmes/corporates/find-customised-solution/
-      - title: For Tech Solvers
-        url: /programmes/startups/win-key-reference-customers/
-  - title: Facilities
-    url: /facilities/aws-jic/
+        url: /programmes/corporates/overview/
+      - title: For Solvers
+        url: /programmes/solver/overview/
+  - title: Showcase
+    url: /showcase/overview/
     sublinks:
+      - title: Overview
+        url: /showcase/overview/
+      - title: Showcase Companies
+        url: /showcase-companies/
       - title: AWS Joint Innovation Centre
-        url: /facilities/aws-jic/
-  - title: Community
-    url: /community/startups
+        url: /showcase/aws-jic/
+  - title: News Room
+    url: /success-stories/press-release/permalink/smobler-pixel/
     sublinks:
-      - title: Start-ups
-        url: /community/startups
-      - title: Partners
-        url: /community/partners
-  - title: Success Stories
-    url: /success-stories/
-    sublinks:
-      - title: Success Stories
-        url: /success-stories/
-      - title: Testimonials
-        url: /success-stories/testimonials/
       - title: Press Release
         url: /success-stories/press-release/permalink/smobler-pixel/
-  - title: Contact Us
+  - title: Connect with us
     url: /contact-us/
     sublinks:
+      - title: Contact Us
+        url: /contact-us/
       - title: FAQ
         url: /connect/faq
