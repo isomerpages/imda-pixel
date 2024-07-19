@@ -33,9 +33,8 @@ the future of technology firsthand.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6193.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,9 +104,8 @@ tasks, and providing personalised experiences.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ailytics.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6194.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,7 +286,7 @@ tracking technology.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6196.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +315,7 @@ system with real-time location tracking and fleet management features.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Learn how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
+<p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
 </p>
 </th>
 </tr>
@@ -325,10 +323,11 @@ system with real-time location tracking and fleet management features.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6195.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
@@ -341,7 +340,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6192.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
