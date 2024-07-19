@@ -47,6 +47,7 @@ sections:
       alt: Image alt text
       url: programmes/corporates/find-customised-solution/
       image: /images/OIP.png
+      subtitle: Find custom solutions
   - infopic:
       title: Discovery Engine
       id: infopic
