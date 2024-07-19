@@ -188,7 +188,4 @@ smart phone images.
 </table>
 <h5>Any questions? Reach out <a href="mailto:farmji@amazon.com" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shutterstock_2122706444.jpg">
-</div>
 <p></p>
