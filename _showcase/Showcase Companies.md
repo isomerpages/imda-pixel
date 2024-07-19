@@ -34,6 +34,9 @@ the future of technology firsthand.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Alo XR</u></strong>
@@ -48,6 +51,9 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
@@ -62,6 +68,9 @@ inspection, training, and remote support.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serialco.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>SERIAL CO_</u></strong>
