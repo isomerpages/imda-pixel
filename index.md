@@ -39,6 +39,15 @@ sections:
       alt: Image alt text
       image: /images/SHOWCASE.png
   - infopic:
+      title: Open Innovation Platform
+      description: Matching corporates with tech solvers to crowdsource for solutions
+        for your  unique business challenges. Take charge - join our quarterly
+        innovation call today!
+      button: Learn more
+      alt: Image alt text
+      url: programmes/corporates/find-customised-solution/
+      image: /images/OIP.png
+  - infopic:
       title: Discovery Engine
       id: infopic
       description: Discover innovative solutions effortlessly! Streamline your search,
@@ -48,13 +57,4 @@ sections:
       image: /images/DE.png
       alt: Search bar
       subtitle: Tech experts on-demand
-  - infopic:
-      title: Open Innovation Platform
-      description: Matching corporates with tech solvers to crowdsource for solutions
-        for your  unique business challenges. Take charge - join our quarterly
-        innovation call today!
-      button: Learn more
-      alt: Image alt text
-      url: programmes/corporates/find-customised-solution/
-      image: /images/OIP.png
 ---
