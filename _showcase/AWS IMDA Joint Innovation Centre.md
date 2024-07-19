@@ -14,9 +14,6 @@ as well as IMDA’s <a href="https://pixel.imda.gov.sg/" rel="noopener noreferre
 initiatives.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IMDA-AWS Showcase" src="/images/20230721_IMDA_RISE_133_50.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
