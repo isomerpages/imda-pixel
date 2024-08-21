@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Open Innovation Programme</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_OIP_1200x630.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_OIP_EDMBanner_2000x1000px.png">
 </div>
 <p>Submit your proposals by <strong>13 September 2024, 4pm SGT.</strong>
 </p>
