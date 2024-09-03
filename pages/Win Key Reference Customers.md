@@ -9,7 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_OIP_EDMBanner_2000x1000px.png">
 </div>
-<p>Submit your proposals by 13 September 2024, 4pm SGT.</p>
+<p><strong>Submit your proposals by 1<u>3 September 2024, 4pm SGT.</u></strong>
+</p>
 <h2>Kickstart Your Innovation Journey</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
