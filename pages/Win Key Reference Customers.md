@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Open Innovation Programme</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_Hero_Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_OIP_1200x630.jpg">
 </div>
 <h2>Kickstart Your Innovation Journey</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
