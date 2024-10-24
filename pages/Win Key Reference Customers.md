@@ -5,12 +5,13 @@ description: Win key reference customers through IMDA Innovation programme
 variant: tiptap
 ---
 <h1>Open Innovation Programme</h1><a class="isomer-image-wrapper" href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Oct_OIP_EDM_1200x600.png"></a>
+<p>Our latest OIP Challenge is now live, <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24" rel="noopener nofollow" target="_blank">check out all our challenges!</a>
+</p>
 <p>In this call, we are seeking tech solutions in the realm of Artificial
 Intelligence (AI), Edutech, Data Analytics and more to streamline processes,
 enhancing efficiency in various domains.&nbsp;Our partners include HP,
 SBS Transit, Singapore Tourism Board &amp; more.</p>
-<p>Our latest OIP Challenge is now live, check out <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24" rel="noopener nofollow" target="_blank">check out all our challenges!</a>
-</p>
+<p></p>
 <h2>Kickstart Your Innovation Journey</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
