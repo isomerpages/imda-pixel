@@ -4,7 +4,12 @@ permalink: /solver/win-key-reference-customers/
 description: Win key reference customers through IMDA Innovation programme
 variant: tiptap
 ---
-<h1>Open Innovation Programme</h1><a class="isomer-image-wrapper" href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Oct_OIP_EDM_1200x600.png"></a>
+<h1>Open Innovation Programme</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_24_edited_pixel_website_banner.png">
+</div>
+<p></p>
 <p>Our latest OIP Challenge is now live, <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24" rel="noopener nofollow" target="_blank">check out all our challenges!</a>
 </p>
 <p>In this call, we are seeking tech solutions in the realm of Artificial
