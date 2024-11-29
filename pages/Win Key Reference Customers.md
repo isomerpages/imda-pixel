@@ -6,22 +6,11 @@ variant: tiptap
 ---
 <h1>Open Innovation Programme</h1>
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Call_24_edited_pixel_website_banner.png">
-</div>
-<p>Our latest OIP Challenge is now live, <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_24" rel="noopener nofollow" target="_blank">check out all our challenges!</a>
-</p>
-<p>In this call, we are seeking tech solutions in the realm of Artificial
-Intelligence (AI), Edutech, Data Analytics and more to streamline processes,
-enhancing efficiency in various domains.&nbsp;Our partners include HP,
-SBS Transit, Singapore Tourism Board &amp; more.</p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_MainBanner__1_.png"></a>
 <h2>Kickstart Your Innovation Journey</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
-into a diverse pool of ideas and expertise. That's where our Open Innovation
-Platform (OIP) comes in.</p>
+into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
 <p>Submit your proposals and seize the opportunity to:</p>
 <ul data-tight="true" class="tight">
 <li>
