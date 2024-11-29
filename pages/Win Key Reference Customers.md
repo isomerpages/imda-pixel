@@ -10,8 +10,7 @@ variant: tiptap
 <h2>Kickstart Your Innovation Journey</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
-into a diverse pool of ideas and expertise. That's where our Open Innovation
-Platform (OIP) comes in.</p>
+into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
 <p>Submit your proposals and seize the opportunity to:</p>
 <ul data-tight="true" class="tight">
 <li>
