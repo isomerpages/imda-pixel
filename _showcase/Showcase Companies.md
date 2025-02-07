@@ -54,7 +54,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><strong><u>Xctuality</u></strong>
+<p><strong><u>XXXctuality</u></strong>
 </p>
 <p>Xctuality is an immersive technology company building towards spatial
 computing that is helping to reverse climate change by pioneering the future
