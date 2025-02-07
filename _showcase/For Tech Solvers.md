@@ -23,7 +23,4 @@ impression on the right audience.</p>
 connections that fuel your success.</p>
 </li>
 </ul>
-<p>Do you have a minimum viable product (MVP) addressing one of our technology
-focus areas below? <strong><a href="https://go.gov.sg/showcaseform" rel="noopener noreferrer nofollow" target="_blank">Apply</a></strong> to
-showcase your solution at PIXEL and gain valuable exposure to industry
-leaders.</p>
+<p></p>
