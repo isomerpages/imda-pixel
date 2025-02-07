@@ -36,7 +36,6 @@ you wish to be connected with any of our showcase companies.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
