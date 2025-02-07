@@ -14,7 +14,7 @@ you wish to be connected with any of our showcase companies.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>AR/ VR Zone</summary>
+<summary>Immersive Experience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -270,7 +270,7 @@ tracking technology.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Robotics Zone</summary>
+<summary>Robotics Corner</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 50px">
@@ -281,7 +281,7 @@ tracking technology.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Robotics zone showcases cutting-edge innovations in automation and precision technology. Discover how advanced robotics are transforming industries by automating processes and improving efficiency.</strong>
+<p><strong>The Robotics Corner showcases cutting-edge innovations in automation and precision technology. Discover how advanced robotics are transforming industries by automating processes and improving efficiency.</strong>
 </p>
 </th>
 </tr>
@@ -309,7 +309,7 @@ system with real-time location tracking and fleet management features.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Metaverse Zone</summary>
+<summary>OIP Winners Corner</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -319,7 +319,7 @@ system with real-time location tracking and fleet management features.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
+<p><strong>The </strong>OIP Winners Corner<strong> offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
 </p>
 </th>
 </tr>
