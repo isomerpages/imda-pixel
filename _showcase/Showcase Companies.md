@@ -14,7 +14,7 @@ you wish to be connected with any of our showcase companies.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Immersive Experience</summary>
+<summary>Immersive Experiences</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
