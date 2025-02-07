@@ -11,10 +11,10 @@ real world solutions at PIXEL. These companies are ready to address your
 specific challenges and propel your business forward.</p>
 <p>Fill out the <strong><a href="https://form.gov.sg/666287f0a5035a6fe2d176ee" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> if
 you wish to be connected with any of our showcase companies.</p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>AR/ VR Zone</summary>
+<summary><strong>OIP Winners Corner</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,26 +24,23 @@ you wish to be connected with any of our showcase companies.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>At PIXEL, delve into cutting-edge AR (Augmented Reality) and VR (Virtual
-Reality) technologies. AR enhances real-world experiences by overlaying
-digital elements, while VR immerses you in entirely virtual environments.
-Explore how these innovations are transforming industries and experience
-the future of technology firsthand.</p>
+<p><strong>The OIP Winners Corner offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Alo XR</u></strong>
+<p><strong><u>Smobler Studios</u></strong>
 </p>
-<p>ALO XR harnesses immersive technologies to help older adults thrive, developing
-AR/VR solutions to enhance healthspan and unlock human potential.</p>
-<p><strong><a href="https://aloxr.com/" rel="noopener noreferrer nofollow" target="_blank">https://aloxr.com/</a></strong>
+<p>Smobler Studios is a provider of metaverse architecture solutions specializing
+in IP creation, brand marketing and metaverse development for businesses</p>
+<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
 </p>
 </td>
 </tr>
@@ -52,33 +49,17 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Augmenteed</u></strong>
-</p>
-<p>Augmenteed allows industrial companies to digitise their procedures within
-hours, eliminates the need for time-consuming codes, and deploy mobile
-applications to field technicians for maintenance, repair, operations,
-inspection, training, and remote support.&nbsp;</p>
-<p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serialco.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>SERIAL CO_</u></strong>
+<p><strong><u>XXXctuality</u></strong>
 </p>
-<p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
-experiences transform the way people learn, work, and interact with each
-other.</p>
-<p><strong><a href="https://serial.sg/" rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a></strong>
+<p>Xctuality is an immersive technology company building towards spatial
+computing that is helping to reverse climate change by pioneering the future
+of urban lifestyle.&nbsp;&nbsp;</p>
+<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://xctuality.com</u></a>
 </p>
 </td>
 </tr>
@@ -87,7 +68,8 @@ other.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>AI Zone</summary>
+<summary><strong>AI Zone</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
@@ -270,7 +252,8 @@ tracking technology.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Robotics Zone</summary>
+<summary><strong>Robotics Corner</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 50px">
@@ -281,7 +264,7 @@ tracking technology.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Robotics zone showcases cutting-edge innovations in automation and precision technology. Discover how advanced robotics are transforming industries by automating processes and improving efficiency.</strong>
+<p><strong>The Robotics Corner showcases cutting-edge innovations in automation and precision technology. Discover how advanced robotics are transforming industries by automating processes and improving efficiency.</strong>
 </p>
 </th>
 </tr>
@@ -309,8 +292,10 @@ system with real-time location tracking and fleet management features.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Metaverse Zone</summary>
+<summary><strong>Immersive Experiences</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -319,23 +304,26 @@ system with real-time location tracking and fleet management features.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Metaverse Zone offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
-</p>
+<p>At PIXEL, delve into cutting-edge AR (Augmented Reality) and VR (Virtual
+Reality) technologies. AR enhances real-world experiences by overlaying
+digital elements, while VR immerses you in entirely virtual environments.
+Explore how these innovations are transforming industries and experience
+the future of technology firsthand</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Smobler Studios</u></strong>
+<p><strong><u>Alo XR</u></strong>
 </p>
-<p>Smobler Studios is a provider of metaverse architecture solutions specializing
-in IP creation, brand marketing and metaverse development for businesses</p>
-<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+<p>ALO XR harnesses immersive technologies to help older adults thrive, developing
+AR/VR solutions to enhance healthspan and unlock human potential.</p>
+<p><strong><a href="https://aloxr.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://aloxr.com/</u></a></strong>
 </p>
 </td>
 </tr>
@@ -343,16 +331,33 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Xctuality</u></strong>
+<p><strong><u>Augmenteed</u></strong>
 </p>
-<p>Xctuality is an immersive technology company building towards spatial
-computing that is helping to reverse climate change by pioneering the future
-of urban lifestyle.&nbsp;&nbsp;</p>
-<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank">https://xctuality.com</a>
+<p>Augmenteed allows industrial companies to digitise their procedures within
+hours, eliminates the need for time-consuming codes, and deploy mobile
+applications to field technicians for maintenance, repair, operations,
+inspection, training, and remote support.&nbsp;</p>
+<p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serialco.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SERIAL CO_</u></strong>
+</p>
+<p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
+experiences transform the way people learn, work, and interact with each
+other.</p>
+<p><strong><a href="https://serial.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.serial.sg</u></a></strong>
 </p>
 </td>
 </tr>
