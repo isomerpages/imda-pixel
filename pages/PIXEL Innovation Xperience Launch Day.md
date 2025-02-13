@@ -23,7 +23,7 @@ solutions across a variety of technologies including AI, robotics, immersive
 and emerging technologies. Experience firsthand how IMDA bridges the gap
 between corporates and tech innovators, driving innovation adoption and
 sparking new opportunities for collaboration.</p>
-<h3><strong>&lt;image&gt;? </strong></h3>
+<h3><strong>&lt;image&gt;?</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
