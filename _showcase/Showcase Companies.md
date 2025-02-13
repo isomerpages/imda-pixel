@@ -53,7 +53,6 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong><u>XXXctuality</u></strong>
 </p>
 <p>Xctuality is an immersive technology company building towards spatial
