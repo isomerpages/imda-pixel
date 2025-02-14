@@ -38,84 +38,44 @@ business-ready tech showcases tailored to real-world needs</p>
 <li>
 <p><strong>Networking Opportunities</strong>
 <br>Connect with industry leaders, tech innovators, and industry stakeholders
-to spark new collaborations and partnerships
-<br>
+to spark new collaborations and <strong>partnerships </strong>
 </p>
 </li>
 </ul>
-<table style="minWidth: 175px">
+<p><strong>What's Happening</strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p>What's Happening</p>
-</th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
 <p>9.00am - 9.30am</p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Registration &amp; Breakfast</strong>
-</p>
-</td>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration &amp; Breakfast</p>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>9.30am - 9.35am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
-(Innovation)​</p>
+<p>Welcome Address by IMDA – Ms Katherine Chong, Director (Innovation)​</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>9.35am - 10.00am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,14 +86,8 @@ Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>10.00am - 11.15am​</p>
-</td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>10.00am - 11.15am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,14 +98,8 @@ Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>11.15 am - 12.30p</p>
-</td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>11.15am - 12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -163,9 +111,8 @@ Stuart Smith, Executive Director (UOB)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <hr>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Page.png">
 </div>
