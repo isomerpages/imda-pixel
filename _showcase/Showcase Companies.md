@@ -11,10 +11,10 @@ real-world solutions designed to drive business growth.</p>
 get started.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>OIP Winners Corner</strong>
+<summary><strong>OIP Winners' Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,7 +23,8 @@ get started.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The OIP Winners Corner offers an immersive experience for users to interact and explore winning solutions. Find out how these solvers succeed in overcoming real-world business challenges.</strong>
+<p>Our <strong>OIP Winners’ Corner</strong> celebrates groundbreaking innovations
+from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges to shape the future of innovation.</strong>
 </p>
 </th>
 </tr>
@@ -35,9 +36,7 @@ get started.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Nexus FrontierTech</u></strong>
-<br>
-</p>
-<p>Nexus FrontierTech empowers financial institutions with AI-driven automation,
+<br>Nexus FrontierTech empowers financial institutions with AI-driven automation,
 transforming unstructured data into real-time, traceable insights. Their
 OneNexus platform enhances decision-making, compliance, and operational
 efficiency across banking, asset management, and insurance sectors.</p>
