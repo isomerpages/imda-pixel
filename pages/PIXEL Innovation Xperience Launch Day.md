@@ -22,8 +22,7 @@ unlock new opportunities for growth.</p>
 <p>📅 Date: 12 March 2025, Wednesday
 <br>🕘 Time: 9.00am – 12.30pm (Breakfast and Lunch Provided
 <br>📍 Venue: IMDA PIXEL, 10 Central Exchange Green, Singapore 138649</p>
-<p><strong>What to Expect at Our Launch:</strong>
-</p>
+<h4><strong>What to Expect at Our Launch:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Innovation Success Story</strong>
@@ -42,8 +41,7 @@ to spark new collaborations and <strong>partnerships</strong>
 </p>
 </li>
 </ul>
-<p><strong>What's Happening</strong>
-</p>
+<h4><strong>What's Happening</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -107,8 +105,8 @@ Stuart Smith, Executive Director (UOB)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Page.png">
 </div>
-<p><strong>What are you waiting for?</strong>
-<br>Don’t miss your chance to be part of a transformative experience that
+<h4><strong>What are you waiting for?</strong></h4>
+<p>Don’t miss your chance to be part of a transformative experience that
 redefines innovation, adoption, and growth in the digital age.
 <br><strong><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong> and
 secure your spot to explore cutting-edge solutions, spark collaboration,
