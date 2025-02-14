@@ -13,23 +13,34 @@ to help corporates discover, evaluate, and adopt business-ready digital
 solutions through a hands-on, guided experience.</p>
 <p>Join us at PIXEL to spark collaboration, drive innovation adoption, and
 unlock new opportunities for growth.</p>
-<p>📅 Date: 12 March 2025, Wednesday
-<br>⏳ Time: 9.00am – 12.30pm (Breakfast and Lunch Provided
-<br>📍 Venue: IMDA PIXEL, 10 Central Exchange Green, Singapore 138649</p>
-<p>What to expect at our launch:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Innovation Success Story</strong> sharing by Stuart Smith, Executive
-Director, UOB</p>
+<p>Date: 12 March 2025, Wednesday</p>
 </li>
 <li>
-<p><strong>Curated Guided Tours</strong>: Follow our guides on a curated
-tour of PIXEL’s refreshed zones and engage with business-contextualized
-tech showcases</p>
+<p>Time: 9.00am – 12.30pm (Breakfast and Lunch Provided</p>
 </li>
 <li>
-<p><strong>Networking Opportunities</strong>: Connect with corporate leaders,
-tech innovators, and industry stakeholders to spark new partnerships.
+<p>Venue: IMDA PIXEL, 10 Central Exchange Green, Singapore 138649</p>
+</li>
+</ul>
+<p><strong>What to Expect at Our Launch:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Innovation Success Story</strong>
+<br>Gain insights from Stuart Smith, Executive Director of UOB, as he shares
+his journey and strategies for driving innovation</p>
+</li>
+<li>
+<p><strong>Curated Guided Tours</strong>
+<br>Explore PIXEL’s refreshed zones with our expert guides and engage with
+business-ready tech showcases tailored to real-world needs</p>
+</li>
+<li>
+<p><strong>Networking Opportunities</strong>
+<br>Connect with industry leaders, tech innovators, and industry stakeholders
+to spark new collaborations and partnerships
 <br>
 </p>
 </li>
@@ -42,7 +53,7 @@ tech innovators, and industry stakeholders to spark new partnerships.
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>What's happening</p>
+<p>What's Happening</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -71,8 +82,8 @@ tech innovators, and industry stakeholders to spark new partnerships.
 <p>9.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Innovation in Action – Sharing of An Innovation Journey</strong>​</p>
-<p>Speaker: Stuart Smith, Executive Director (UOB)</p>
+<p><strong>Innovation in Action – Sharing of An Innovation Journey </strong>–
+Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
@@ -95,13 +106,10 @@ tech innovators, and industry stakeholders to spark new partnerships.
 </tbody>
 </table>
 <hr>
-<p></p>
-<p></p>
-<p></p>
-<p>Don’t miss this opportunity to be part of a transformative experience
-that redefines how businesses innovate, adopt, and thrive in the digital
-age.</p>
-<p></p>
-<p><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">Register Now</a>
-</p>
+<p><strong>What are you waiting for?</strong>
+<br>Don’t miss your chance to be part of a transformative experience that
+redefines innovation, adoption, and growth in the digital age.
+<br><strong><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong> and
+secure your spot to explore cutting-edge solutions, spark collaboration,
+and future-proof your business.</p>
 <p></p>
