@@ -4,13 +4,11 @@ permalink: /showcase-companies/
 variant: tiptap
 description: ""
 ---
-<h4>Connect with Our Showcase Partners at PIXEL</h4>
-<p></p>
+<h4>Discover and Connect Business Ready Tech Solutions</h4>
 <p>Explore our curated selection of leading tech solvers showcasing their
-real world solutions at PIXEL. These companies are ready to address your
-specific challenges and propel your business forward.</p>
-<p>Fill out the <strong><a href="https://form.gov.sg/666287f0a5035a6fe2d176ee" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> if
-you wish to be connected with any of our showcase companies.</p>
+real-world solutions designed to drive business growth.</p>
+<p>Interested in connecting with a showcased company? Fill out the <strong><a href="https://form.gov.sg/666287f0a5035a6fe2d176ee" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> to
+get started.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>OIP Winners Corner</strong>
@@ -53,8 +51,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><strong><u>XXXctuality</u></strong>
+<p><strong><u>Xctuality</u></strong>
 </p>
 <p>Xctuality is an immersive technology company building towards spatial
 computing that is helping to reverse climate change by pioneering the future
@@ -363,6 +360,13 @@ other.</p>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Emerging Tech</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
