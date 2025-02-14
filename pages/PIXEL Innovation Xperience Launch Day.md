@@ -10,7 +10,7 @@ image: /images/IMDA__XperienceLaunch_LIBanner_1200x627px.jpg
 <h3><strong>Step into the Future of Corporate Innovation at PIXEL</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA__XperienceLaunch_WebBanner_1600x630px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Level Up Your Business Opportunities At PIXEL Innovation Xperience Launch Day" src="/images/IMDA__XperienceLaunch_WebBanner_1600x630px.jpg">
 </div>
 <p>Staying ahead in today’s fast-changing business landscape requires more
 than just keeping up with trends—it’s about finding <strong>the right technologies</strong> that
@@ -20,7 +20,7 @@ solutions through a hands-on, guided experience.</p>
 <p>Join us at PIXEL to spark collaboration, drive innovation adoption, and
 unlock new opportunities for growth.</p>
 <p>📅 Date: 12 March 2025, Wednesday
-<br>🕘 Time: 9.00am – 12.30pm (Breakfast and Lunch Provided
+<br>🕘 Time: 9.00am – 12.30pm (Breakfast and Lunch Provided)
 <br>📍 Venue: IMDA PIXEL, 10 Central Exchange Green, Singapore 138649</p>
 <h4><strong>What to Expect at Our Launch:</strong></h4>
 <ul data-tight="true" class="tight">
@@ -59,7 +59,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.00am - 9.30am</p>
+<p>09.00am - 09.30am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Registration &amp; Breakfast</p>
@@ -67,7 +67,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.30am - 9.35am</p>
+<p>09.30am - 09.35am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Welcome Address by IMDA – Ms Katherine Chong, Director (Innovation)​</p>
@@ -75,7 +75,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.35am - 10.00am</p>
+<p>09.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Innovation in Action – Sharing of An Innovation Journey – Stuart Smith,

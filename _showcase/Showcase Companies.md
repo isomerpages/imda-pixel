@@ -116,7 +116,8 @@ and facial recognition analysis solutions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kookree</p>
+<p><strong><u>Kookree</u></strong>
+</p>
 <p>Kookree is dedicated to advancing artificial intelligence (AI) to serve
 the broader good of humanity.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
@@ -131,7 +132,6 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -265,7 +265,7 @@ insights.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>MindMaster </u></strong>
+<p><strong><u>MindMaster</u></strong>
 </p>
 <p>MindMaster’s AI-driven marketplace revolutionises customer engagement
 and sales strategies.</p>
@@ -376,7 +376,6 @@ challenges.</p>
 <summary><strong>Robotics Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -447,7 +446,6 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -489,7 +487,6 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
 </p>
-<p></p>
 <p>Augmenteed aims to revolutionise the way industries operate by harnessing
 the power of technology, using AR/VR to digitise paper-based industrial
 procedures.</p>
@@ -537,7 +534,7 @@ modern age.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>FingerDance </u></strong>
+<p><strong><u>FingerDance</u></strong>
 </p>
 <p>FingerDance is committed to building AI infrastructure for a smart and
 inclusive world, offering 24/7 sign language translation services and accessible
@@ -580,6 +577,120 @@ assessments.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>NPN</u></strong>
+</p>
+<p>NPN offer a range of cutting-edge retail solutions, including digital
+store, ecommerce management, gift card solutions, and SUNMI POS solutions,
+designed to support businesses in their digital transformation and new
+retail endeavors</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.retailtechnpn.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___objectivee.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Objective Experience</u></strong>
+</p>
+<p>Objective Experience is your partner for user experience strategy, UX
+research, UX design and usability testing.</p>
+<p>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___serial_co.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>SERIAL CO_</u></strong>
+</p>
+<p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
+experiences transform the way people learn, work, and interact with each
+other.</p>
+<p><a href="http://www.serial.sg" rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_skillup_vr.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Skillup</u></strong>
+</p>
+<p>Skillup is a tech-innovator specialising in the use of VR gamified technology
+for healthcare training and treatment.&nbsp;</p>
+<p><a href="https://skillupvr.com/" rel="noopener noreferrer nofollow" target="_blank">https://skillupvr.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_serl_io.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Serl.io</u></strong>
+</p>
+<p>Serl.io is the no-code Mixed Reality platform to create and deploy your
+own collaborative Mixed Reality content.</p>
+<p><a href="https://serl.io/" rel="noopener noreferrer nofollow" target="_blank">https://serl.io/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___xctuality_logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Xctuality</u></strong>
+</p>
+<p>Xctuality is an immersive technology company building towards spatial
+computing that is helping to reverse climate change by pioneering the future
+of urban lifestyle.&nbsp;&nbsp;</p>
+<p><a href="https://xctuality.com" rel="noopener noreferrer nofollow" target="_blank">https://xctuality.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___smobler.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Smobler Studios</u></strong>
+</p>
+<p>Smobler Studios is a provider of metaverse architecture solutions specializing
+in IP creation, brand marketing and metaverse development for businesses</p>
+<p><a href="https://smobler.io" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -588,7 +699,189 @@ assessments.</p>
 <summary><strong>Emerging Tech</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>The Emerging Tech Zone at PIXEL showcases cutting-edge innovations that are shaping the future of industries. This zone features breakthrough technologies such as 5G, AI, IoT, cybersecurity, digital twins, and automation, providing visitors with a glimpse into next-generation solutions</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Ailytics</u></strong>
+</p>
+<p>Ailytics uses AI-driven video analytics to enhance workplace safety and
+productivity.</p>
+<p><a href="https://www.ailytics.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ailytics.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___armfort_intergrated.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Armfort Integrated</u></strong>
+</p>
+<p>Armfort Integrated delivers advanced security and surveillance solutions
+for enterprises.
+<br><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech__datamesh.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Datamesh</u></strong>
+</p>
+<p>Datamesh’s digital twin technology drives intelligent industrial operations
+and asset monitoring.</p>
+<p><a href="https://www.datamesh.com" rel="noopener noreferrer nofollow" target="_blank">https://www.datamesh.com</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___d_construct.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>d’Construct Robotics </u></strong>d’Construct Robotics offers
+AI-powered robotic solutions for automation and efficiency.</p>
+<p><a href="https://www.dconstruct.co/" rel="noopener noreferrer nofollow" target="_blank">https://www.dconstruct.co/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___gabkotech_innovations.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gabkotech</u></strong>
+</p>
+<p>Gabkotech’s IoT solutions enable smart facility management and digital
+transformation.</p>
+<p>&nbsp;<a href="https://www.gabkotech.com" rel="noopener noreferrer nofollow" target="_blank">https://www.gabkotech.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___mind_pointeye.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Mind PointEye</u></strong>
+</p>
+<p>Mind PointEye’s AI analytics platform provides real-time business intelligence
+and insights.</p>
+<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/#/Home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___openspace.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>OpenSpace</u></strong>
+</p>
+<p>OpenSpace’s AI-powered site monitoring enhances real-time construction
+progress tracking.</p>
+<p><a href="https://www.openspace.ai" rel="noopener noreferrer nofollow" target="_blank">https://www.openspace.ai</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___solstium.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Solstium</u></strong>
+</p>
+<p>Solstium develops innovative energy solutions for a more sustainable future</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___streamwide_SA.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Streamwide SA</u></strong>
+</p>
+<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.
+<br><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___tp_link.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>TP-Link Corporation</u></strong>
+</p>
+<p>TP-Link Corporation delivers next-gen networking and smart connectivity
+solutions.</p>
+<p><a href="https://www.tp-link.com" rel="noopener noreferrer nofollow" target="_blank">https://www.tp-link.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___damstra.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Damstra</u></strong>
+</p>
+<p>Damstra’s digital workforce management solutions ensure compliance and
+safety in operations.
+<br><a href="https://www.damstratechnology.com" rel="noopener noreferrer nofollow" target="_blank">https://www.damstratechnology.com</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
