@@ -585,7 +585,7 @@ assessments.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>NPN</u></strong> 
+<p><strong><u>NPN</u></strong>
 </p>
 <p>NPN offer a range of cutting-edge retail solutions, including digital
 store, ecommerce management, gift card solutions, and SUNMI POS solutions,
@@ -603,7 +603,7 @@ retail endeavors</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Objective Experience </u></strong>
+<p><strong><u>Objective Experience</u></strong>
 </p>
 <p>Objective Experience is your partner for user experience strategy, UX
 research, UX design and usability testing.</p>
@@ -697,6 +697,7 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <summary><strong>Emerging Tech</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -712,107 +713,169 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ailytics - <em>Ailytics uses AI-driven video analytics to enhance workplace safety and productivity.</em>
+<p><strong><u>Ailytics</u></strong>
 </p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Armfort Integrated - <em>Armfort Integrated delivers advanced security and surveillance solutions for enterprises.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Datamesh - <em>Datamesh’s digital twin technology drives intelligent industrial operations and asset monitoring.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>d’Construct Robotics - <em>d’Construct Robotics offers AI-powered robotic solutions for automation and efficiency.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gabkotech - <em>Gabkotech’s IoT solutions enable smart facility management and digital transformation.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mind PointEye - <em>Mind PointEye’s AI analytics platform provides real-time business intelligence and insights.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OpenSpace - <em>OpenSpace’s AI-powered site monitoring enhances real-time construction progress tracking.</em>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Solstium - <em>Solstium develops innovative energy solutions for a more sustainable future</em>
+<p>Ailytics uses AI-driven video analytics to enhance workplace safety and
+productivity.</p>
+<p><a href="https://www.ailytics.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ailytics.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___armfort_intergrated.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Streamwide SA - <em>Streamwide SA’s AI-powered tools enhance business communication and collaboration.</em>
+<p><strong><u>Armfort Integrated</u></strong>
+</p>
+<p>Armfort Integrated delivers advanced security and surveillance solutions
+for enterprises.
+<br><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech__datamesh.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Datamesh</u></strong>
+</p>
+<p>Datamesh’s digital twin technology drives intelligent industrial operations
+and asset monitoring.</p>
+<p><a href="https://www.datamesh.com" rel="noopener noreferrer nofollow" target="_blank">https://www.datamesh.com</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___d_construct.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>d’Construct Robotics </u></strong>d’Construct Robotics offers
+AI-powered robotic solutions for automation and efficiency.</p>
+<p><a href="https://www.dconstruct.co/" rel="noopener noreferrer nofollow" target="_blank">https://www.dconstruct.co/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___gabkotech_innovations.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>TP-Link Corporation - <em>TP-Link Corporation delivers next-gen networking and smart connectivity solutions.</em>
+<p><strong><u>Gabkotech</u></strong>
 </p>
-<p>&nbsp;</p>
+<p>Gabkotech’s IoT solutions enable smart facility management and digital
+transformation.</p>
+<p>&nbsp;<a href="https://www.gabkotech.com" rel="noopener noreferrer nofollow" target="_blank">https://www.gabkotech.com</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___mind_pointeye.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Damstra - <em>Damstra’s digital workforce management solutions ensure compliance and safety in operations</em>
+<p><strong><u>Mind PointEye</u></strong>
+</p>
+<p>Mind PointEye’s AI analytics platform provides real-time business intelligence
+and insights.</p>
+<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/#/Home</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___openspace.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>OpenSpace</u></strong>
+</p>
+<p>OpenSpace’s AI-powered site monitoring enhances real-time construction
+progress tracking.</p>
+<p><a href="https://www.openspace.ai" rel="noopener noreferrer nofollow" target="_blank">https://www.openspace.ai</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___solstium.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Solstium</u></strong>
+</p>
+<p>Solstium develops innovative energy solutions for a more sustainable future</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___streamwide_SA.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Streamwide SA</u></strong>
+</p>
+<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.
+<br><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___tp_link.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>TP-Link Corporation</u></strong>
+</p>
+<p>TP-Link Corporation delivers next-gen networking and smart connectivity
+solutions.</p>
+<p><a href="https://www.tp-link.com" rel="noopener noreferrer nofollow" target="_blank">https://www.tp-link.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___damstra.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Damstra</u></strong>
+</p>
+<p>Damstra’s digital workforce management solutions ensure compliance and
+safety in operations.
+<br><a href="https://www.damstratechnology.com" rel="noopener noreferrer nofollow" target="_blank">https://www.damstratechnology.com</a>
 </p>
 </td>
 </tr>
