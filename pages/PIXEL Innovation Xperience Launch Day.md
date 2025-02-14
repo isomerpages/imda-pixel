@@ -43,22 +43,20 @@ to spark new collaborations and partnerships
 </p>
 </li>
 </ul>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="3">
 <p>What's Happening</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.00am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +65,7 @@ to spark new collaborations and partnerships
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.30am - 9.35am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +74,7 @@ to spark new collaborations and partnerships
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +83,7 @@ Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>10.00am - 11.15am</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +91,7 @@ Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>11.15 am - 12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
