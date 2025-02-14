@@ -44,68 +44,58 @@ to spark new collaborations and <strong>partnerships</strong>
 </ul>
 <p><strong>What's Happening</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>9.00am - 9.30am</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Registration &amp; Breakfast</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9.30am - 9.35am</p>
+<td rowspan="1" colspan="2">
+<p><strong>9.30am - 9.35am</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
 (Innovation)​</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>9.35am - 10.00am</p>
+<td rowspan="1" colspan="2">
+<p><strong>9.35am - 10.00am</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Innovation in Action – Sharing of An Innovation Journey </strong>–
 Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>10.00am - 11.15am</p>
+<td rowspan="1" colspan="2">
+<p><strong>10.00am - 11.15am</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Curated Tour of the PIXEL Innovation Xperience</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>11.15am - 12.30pm</p>
+<td rowspan="1" colspan="2">
+<p><strong>11.15am - 12.30pm</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Networking Session with Lunch</strong>
 </p>
 </td>
