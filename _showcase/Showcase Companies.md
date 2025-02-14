@@ -29,9 +29,8 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner___nexus.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,11 +42,10 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner___groundup_ai.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Groundup.ai</u></strong>
@@ -58,7 +56,9 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winners___movel_ai.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Movel.ai</u></strong>
@@ -69,7 +69,9 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner__circular_unite.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Circular Unite</u></strong>
@@ -80,7 +82,9 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner___trakomatic.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Trakomatic</u></strong>
@@ -90,7 +94,9 @@ get started.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner__kookree.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Krookree</u></strong>
