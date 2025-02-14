@@ -8,7 +8,7 @@ description: ""
 <p>Explore our curated selection of leading tech solvers showcasing their
 real-world solutions designed to drive business growth.</p>
 <p>Interested in connecting with a showcased company? Fill out the <strong><a href="https://form.gov.sg/666287f0a5035a6fe2d176ee" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> to
-get start</p>
+get started.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>OIP Winners Corner</strong>
