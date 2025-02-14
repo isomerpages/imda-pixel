@@ -23,7 +23,7 @@ get started.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The OIP Winners Corner offers an immersive experience for users to interact and explore an expansive virtual space that mirrors the real world. Find out how the virtual metaverse is reshaping social interactions, learning, and engagement.</strong>
+<p><strong>The OIP Winners Corner offers an immersive experience for users to interact and explore winning solutions. Find out how these solvers succeed in overcoming real-world business challenges.</strong>
 </p>
 </th>
 </tr>
