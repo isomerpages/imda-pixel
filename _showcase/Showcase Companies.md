@@ -36,6 +36,10 @@ get started.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Nexus FrontierTech</u></strong>
 </p>
+<p>Nexus FrontierTech empowers financial institutions with AI-driven automation,
+transforming unstructured data into real-time, traceable insights. Their
+OneNexus platform enhances decision-making, compliance, and operational
+efficiency across banking, asset management, and insurance sectors.</p>
 <p><a href="https://www.nexusfrontier.tech" rel="noopener noreferrer nofollow" target="_blank">https://www.nexusfrontier.tech</a>
 </p>
 </td>
@@ -50,6 +54,10 @@ get started.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Groundup.ai</u></strong>
 </p>
+<p>Groundup.ai leverages AI-powered predictive maintenance and industrial
+IoT solutions to prevent costly downtime and optimize operational efficiency.
+By using advanced sensors and machine learning, it helps businesses detect
+anomalies early, reducing equipment failures and improving productivity.</p>
 <p><a href="https://www.groundup.ai" rel="noopener noreferrer nofollow" target="_blank">https://www.groundup.ai</a>
 </p>
 </td>
@@ -61,9 +69,14 @@ get started.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Movel.ai</u></strong>
+<p><strong><u>Movel AI</u></strong>
 </p>
-<p><a href="https://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank">https://www.movel.ai</a>
+<p>Movel AI specializes in intelligent robotics solutions, providing AI-powered
+navigation, fleet management, and automation systems for autonomous mobile
+robots (AMRs). Their technology enhances operational efficiency in industries
+such as logistics, manufacturing, and healthcare by enabling seamless robot
+coordination, obstacle avoidance, and workflow automation.</p>
+<p><strong><a href="https://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.movel.ai</u></a></strong>
 </p>
 </td>
 </tr>
@@ -76,6 +89,11 @@ get started.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Circular Unite</u></strong>
 </p>
+<p>Circular Unite is showcasing N.A.T.A.L.I.E., an AI-powered SaaS platform
+revolutionizing waste management and recycling. The platform includes a
+Circular Co-Pilot for actionable sustainability insights, an Interactive
+Dashboard for real-time analytics, and a Waste-to-Resource Marketplace
+connecting waste producers with recyclers and buyers.</p>
 <p><a href="https://www.circularunite.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.circularunite.com/</a>
 </p>
 </td>
@@ -88,6 +106,11 @@ get started.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Trakomatic</u></strong>
+</p>
+<p>Trakomatic provides AI-driven video analytics and sensor-based solutions
+to enhance customer engagement and operational efficiency. By leveraging
+facial recognition, footfall tracking, and heat mapping, it delivers real-time
+insights for retail, smart buildings, and security applications.
 <br><a href="https://www.trakomatic.com" rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com</a>
 </p>
 </td>
@@ -100,6 +123,11 @@ get started.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Krookree</u></strong>
+<br>Kookree.ai is a Singapore-based deep-tech startup developing cutting-edge
+AI solutions in the video space, specializing in Computer Vision (video
+analytics) and Generative AI (video generation via text prompts). The company’s
+mission is to harness AI to make life simpler, smarter, and safer.</p>
+<p>
 <br><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
 <br>
 </p>
