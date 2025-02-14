@@ -43,8 +43,11 @@ to spark new collaborations and partnerships
 </p>
 </li>
 </ul>
-<table style="minWidth: 75px">
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -54,10 +57,25 @@ to spark new collaborations and partnerships
 <th rowspan="1" colspan="3">
 <p>What's Happening</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>9.00am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Registration &amp; Breakfast</strong>
@@ -65,8 +83,14 @@ to spark new collaborations and partnerships
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>9.30am - 9.35am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
@@ -74,8 +98,14 @@ to spark new collaborations and partnerships
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p>9.35am - 10.00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Innovation in Action – Sharing of An Innovation Journey </strong>–
@@ -83,16 +113,29 @@ Stuart Smith, Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>10.00am - 11.15am</p>
+<td rowspan="1" colspan="3">
+<p>10.00am - 11.15am​</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Curated Tour of the PIXEL Innovation Xperience</strong>​</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Curated Tour of the PIXEL Innovation Xperience</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>11.15 am - 12.30pm</p>
+<td rowspan="1" colspan="3">
+<p>11.15 am - 12.30p</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Networking Session with Lunch</strong>
