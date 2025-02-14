@@ -11,7 +11,7 @@ real-world solutions designed to drive business growth.</p>
 get started.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>OIP Winners' Corner</strong>
+<summary><strong>OIP Winners Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -23,24 +23,23 @@ get started.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Our <strong>OIP Winners’ Corner</strong> celebrates groundbreaking innovations
-from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges to shape the future of innovation.</strong>
+<p>Our <strong>OIP Winners Corner</strong> celebrates groundbreaking innovations
+from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges across diverse sectors.</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner___nexus.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner__circular_unite.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Nexus FrontierTech</u></strong>
-<br>Nexus FrontierTech empowers financial institutions with AI-driven automation,
-transforming unstructured data into real-time, traceable insights. Their
-OneNexus platform enhances decision-making, compliance, and operational
-efficiency across banking, asset management, and insurance sectors.</p>
-<p><a href="https://www.nexusfrontier.tech" rel="noopener noreferrer nofollow" target="_blank">https://www.nexusfrontier.tech</a>
+<p><strong><u>Circular Unite</u></strong>
+</p>
+<p>Circular Unite is your trusted partner in the journey towards corporate
+decarbonization, committed to the ambitious Net Zero 2050 target.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.circularunite.com/</a>
 </p>
 </td>
 </tr>
@@ -54,11 +53,9 @@ efficiency across banking, asset management, and insurance sectors.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Groundup.ai</u></strong>
 </p>
-<p>Groundup.ai leverages AI-powered predictive maintenance and industrial
-IoT solutions to prevent costly downtime and optimize operational efficiency.
-By using advanced sensors and machine learning, it helps businesses detect
-anomalies early, reducing equipment failures and improving productivity.</p>
-<p><a href="https://www.groundup.ai" rel="noopener noreferrer nofollow" target="_blank">https://www.groundup.ai</a>
+<p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
+problem a year.
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
 </p>
 </td>
 </tr>
@@ -69,32 +66,30 @@ anomalies early, reducing equipment failures and improving productivity.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Movel AI</u></strong>
+<p><strong><u>Movel.ai</u></strong>
 </p>
-<p>Movel AI specializes in intelligent robotics solutions, providing AI-powered
-navigation, fleet management, and automation systems for autonomous mobile
-robots (AMRs). Their technology enhances operational efficiency in industries
-such as logistics, manufacturing, and healthcare by enabling seamless robot
-coordination, obstacle avoidance, and workflow automation.</p>
-<p><strong><a href="https://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.movel.ai</u></a></strong>
+<p>Movel.ai cuts down on deployment time and cost, enabling you to get your
+robots up and running quickly, efficiently, and with minimal training.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.movel.ai/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner__circular_unite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/winner___nexus.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Circular Unite</u></strong>
+<p><strong><u>Nexus FrontierTech </u></strong>
 </p>
-<p>Circular Unite is showcasing N.A.T.A.L.I.E., an AI-powered SaaS platform
-revolutionizing waste management and recycling. The platform includes a
-Circular Co-Pilot for actionable sustainability insights, an Interactive
-Dashboard for real-time analytics, and a Waste-to-Resource Marketplace
-connecting waste producers with recyclers and buyers.</p>
-<p><a href="https://www.circularunite.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.circularunite.com/</a>
+<p>Nexus FrontierTech empowers institutions with financial data processing
+products through its proprietary generative AI platform that automates
+data-driven processes, extracting valuable insights from unstructured data
+to provide traceable data in real time for various financial processes
+in banking, asset management and insurance industry.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.nexusfrontier.tech/</a>
 </p>
 </td>
 </tr>
@@ -107,11 +102,10 @@ connecting waste producers with recyclers and buyers.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Trakomatic</u></strong>
 </p>
-<p>Trakomatic provides AI-driven video analytics and sensor-based solutions
-to enhance customer engagement and operational efficiency. By leveraging
-facial recognition, footfall tracking, and heat mapping, it delivers real-time
-insights for retail, smart buildings, and security applications.
-<br><a href="https://www.trakomatic.com" rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com</a>
+<p>Trakomatic specialise in cutting-edge video analytics technologies that
+equip&nbsp;global businesses big or small with people counting, tracking
+and facial recognition analysis solutions.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com/</a>
 </p>
 </td>
 </tr>
@@ -122,13 +116,10 @@ insights for retail, smart buildings, and security applications.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Krookree</u></strong>
-<br>Kookree.ai is a Singapore-based deep-tech startup developing cutting-edge
-AI solutions in the video space, specializing in Computer Vision (video
-analytics) and Generative AI (video generation via text prompts). The company’s
-mission is to harness AI to make life simpler, smarter, and safer.
-<br><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
-<br>
+<p>Kookree</p>
+<p>Kookree is dedicated to advancing artificial intelligence (AI) to serve
+the broader good of humanity.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
 </p>
 </td>
 </tr>
@@ -157,6 +148,9 @@ tasks, and providing personalised experiences.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ailytics.png">
 </div>
