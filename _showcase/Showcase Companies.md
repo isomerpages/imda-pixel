@@ -14,6 +14,7 @@ get started.</p>
 <summary><strong>OIP Winners Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -34,11 +35,9 @@ get started.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Smobler Studios</u></strong>
+<p><strong><u>Nexus FrontierTech</u></strong>
 </p>
-<p>Smobler Studios is a provider of metaverse architecture solutions specializing
-in IP creation, brand marketing and metaverse development for businesses</p>
-<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+<p><a href="https://www.nexusfrontier.tech" rel="noopener noreferrer nofollow" target="_blank">https://www.nexusfrontier.tech</a>
 </p>
 </td>
 </tr>
@@ -51,12 +50,52 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Xctuality</u></strong>
+<p><strong><u>Groundup.ai</u></strong>
 </p>
-<p>Xctuality is an immersive technology company building towards spatial
-computing that is helping to reverse climate change by pioneering the future
-of urban lifestyle.&nbsp;&nbsp;</p>
-<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://xctuality.com</u></a>
+<p><a href="https://www.groundup.ai" rel="noopener noreferrer nofollow" target="_blank">https://www.groundup.ai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Movel.ai</u></strong>
+</p>
+<p><a href="https://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank">https://www.movel.ai</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Circular Unite</u></strong>
+</p>
+<p><a href="https://www.circularunite.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.circularunite.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Trakomatic</u></strong>
+<br><a href="https://www.trakomatic.com" rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Krookree</u></strong>
+<br><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
+<br>
 </p>
 </td>
 </tr>
@@ -355,6 +394,40 @@ inspection, training, and remote support.&nbsp;</p>
 experiences transform the way people learn, work, and interact with each
 other.</p>
 <p><strong><a href="https://serial.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.serial.sg</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Smobler Studios</u></strong>
+</p>
+<p>Smobler Studios is a provider of metaverse architecture solutions specializing
+in IP creation, brand marketing and metaverse development for businesses</p>
+<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Xctuality</u></strong>
+</p>
+<p>Xctuality is an immersive technology company building towards spatial
+computing that is helping to reverse climate change by pioneering the future
+of urban lifestyle.&nbsp;&nbsp;</p>
+<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://xctuality.com</u></a>
 </p>
 </td>
 </tr>
