@@ -132,7 +132,6 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -377,7 +376,6 @@ challenges.</p>
 <summary><strong>Robotics Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -448,7 +446,6 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -669,7 +666,7 @@ own collaborative Mixed Reality content.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Xctuality </u></strong>
+<p><strong><u>Xctuality</u></strong>
 </p>
 <p>Xctuality is an immersive technology company building towards spatial
 computing that is helping to reverse climate change by pioneering the future
@@ -702,7 +699,6 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <summary><strong>Emerging Tech</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
