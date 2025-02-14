@@ -43,8 +43,9 @@ to spark new collaborations and partnerships
 </p>
 </li>
 </ul>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -66,10 +67,16 @@ to spark new collaborations and partnerships
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
 <p>9.00am - 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,6 +100,9 @@ to spark new collaborations and partnerships
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
 (Innovation)​</p>
 </td>
@@ -100,6 +110,9 @@ to spark new collaborations and partnerships
 <tr>
 <td rowspan="1" colspan="3">
 <p>9.35am - 10.00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,6 +136,9 @@ Stuart Smith, Executive Director (UOB)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Curated Tour of the PIXEL Innovation Xperience</strong>
 </p>
 </td>
@@ -130,6 +146,9 @@ Stuart Smith, Executive Director (UOB)</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p>11.15 am - 12.30p</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
