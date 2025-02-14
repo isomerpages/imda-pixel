@@ -116,7 +116,8 @@ and facial recognition analysis solutions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kookree</p>
+<p><strong><u>Kookree</u></strong>
+</p>
 <p>Kookree is dedicated to advancing artificial intelligence (AI) to serve
 the broader good of humanity.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
@@ -489,7 +490,6 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
 </p>
-<p></p>
 <p>Augmenteed aims to revolutionise the way industries operate by harnessing
 the power of technology, using AR/VR to digitise paper-based industrial
 procedures.</p>
@@ -653,7 +653,8 @@ for healthcare training and treatment.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serl.io</p>
+<p><strong><u>Serl.io</u></strong>
+</p>
 <p>Serl.io is the no-code Mixed Reality platform to create and deploy your
 own collaborative Mixed Reality content.</p>
 <p><a href="https://serl.io/" rel="noopener noreferrer nofollow" target="_blank">https://serl.io/</a>
@@ -668,6 +669,8 @@ own collaborative Mixed Reality content.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Xctuality </u></strong>
+</p>
 <p>Xctuality is an immersive technology company building towards spatial
 computing that is helping to reverse climate change by pioneering the future
 of urban lifestyle.&nbsp;&nbsp;</p>
@@ -683,6 +686,8 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Smobler Studios</u></strong>
+</p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
 in IP creation, brand marketing and metaverse development for businesses</p>
 <p><a href="https://smobler.io" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
