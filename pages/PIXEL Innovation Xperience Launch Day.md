@@ -37,8 +37,7 @@ business-ready tech showcases tailored to real-world needs</p>
 <li>
 <p><strong>Networking Opportunities</strong>
 <br>Connect with industry leaders, tech innovators, and industry stakeholders
-to spark new collaborations and <strong>partnerships</strong>
-</p>
+to spark new collaborations and partnerships</p>
 </li>
 </ul>
 <h4><strong>What's Happening</strong></h4>
@@ -52,50 +51,51 @@ to spark new collaborations and <strong>partnerships</strong>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>9.00am - 9.30am</p>
+<p>Time</p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Registration &amp; Breakfast</p>
+<p>Activity</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>9.30am - 9.35am</strong>
-</p>
+<p>9.00am - 9.30am</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
-(Innovation)​</p>
+<p>Registration &amp; Breakfast</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>9.35am - 10.00am</strong>
-</p>
+<p>9.30am - 9.35am</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Innovation in Action – Sharing of An Innovation Journey </strong>–
-Stuart Smith, Executive Director (UOB)</p>
+<p>Welcome Address by IMDA – Ms Katherine Chong, Director (Innovation)​</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>10.00am - 11.15am</strong>
-</p>
+<p>9.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Curated Tour of the PIXEL Innovation Xperience</strong>
-</p>
+<p>Innovation in Action – Sharing of An Innovation Journey – Stuart Smith,
+Executive Director (UOB)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>11.15am - 12.30pm</strong>
-</p>
+<p>10.00am - 11.15am</p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Networking Session with Lunch</strong>
-</p>
+<p>Curated Tour of the PIXEL Innovation Xperience</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>11.15am - 12.30pm</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Networking Session with Lunch</p>
 </td>
 </tr>
 </tbody>
