@@ -23,8 +23,8 @@ get started.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Our <strong>OIP Winners Corner</strong> celebrates groundbreaking innovations
-from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges across diverse sectors.</strong>
+<p>Our <strong>OIP Winners Corner</strong> at PIXEL celebrates groundbreaking
+innovations from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges across diverse sectors.</strong>
 </p>
 </th>
 </tr>
@@ -131,6 +131,7 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,9 +152,6 @@ tasks, and providing personalised experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ailytics.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Ailytics</u></strong>
@@ -167,18 +165,15 @@ by providing video analytics solutions for safety and productivity monitoring.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___Belive.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>BeLive Technology</u></strong>
 </p>
-<p></p>
-<p>BeLive empower its customers with easy-to-install video players that allow
-to deliver live, interactive and shoppable media directly on their websites
-or apps.</p>
+<p>BeLive Technology offers white-label, fully customizable, end-to-end live
+streaming solutions for brands worldwide.</p>
 <p><strong><a href="https://belive.technology/" rel="noopener noreferrer nofollow" target="_blank">https://belive.technology/</a></strong>
 </p>
 </td>
@@ -187,17 +182,14 @@ or apps.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___datature.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Evolve Innovative Solutions</u></strong>
+<p><strong><u>Datature</u></strong>
 </p>
-<p></p>
-<p>Evolve Innovative Solutions empowers organizations seeking to harness
-the power of next-generation technology, pioneering AI and immersion-powered
-AR/VR solutions for the modern age.</p>
-<p><strong><a href="https://www.eis.sg/" rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a></strong>
+<p>Datature simplifies the way people build deep-learning capabilities.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://datature.com/</a>
 </p>
 </td>
 </tr>
@@ -205,17 +197,15 @@ AR/VR solutions for the modern age.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___glee_trees.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>FingerDance</u></strong>
+<p><strong><u>Gleematic</u></strong>
 </p>
-<p></p>
-<p>FingerDance is committed to building AI infrastructure for a smart and
-inclusive world, offering 24/7 sign language translation services and accessible
-sign language information.</p>
-<p><strong><a href="https://sg.linkedin.com/company/fingerdance-pte-ltd" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/fingerdance-pte-ltd/</a></strong>
+<p>Gleematic can read documents in Asian languages and make various I.T.
+applications talk to one another without complicated programming.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.gleematic.com/</a>
 </p>
 </td>
 </tr>
@@ -223,17 +213,15 @@ sign language information.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VONCIERGE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___greenairy.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Voncierge</u></strong>
+<p><strong><u>Greenairy</u></strong>
 </p>
-<p></p>
-<p>Voncierge blends technology with a human touch, reshaping how businesses
-connect with customers by offering an AI-powered omni-channel video-telephony
-solution.</p>
-<p><strong><a href="https://voncierge.tech/" rel="noopener noreferrer nofollow" target="_blank">https://voncierge.tech/</a></strong>
+<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
+air purification at work or educational microgreen gardening at school.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.greenairy.sg/</a>
 </p>
 </td>
 </tr>
@@ -241,36 +229,92 @@ solution.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pand_ai.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___hendricks.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Hendricks Corp</u></strong>
+</p>
+<p>Hendricks Corp is revolutionizing the future of retail, drive-thru, and
+hospitality with cutting-edge video analytics and AI solutions</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://hendrickscorp.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___inside_tech.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Inside Technologies</u></strong>
+</p>
+<p>Inside Technologies’ AI platform enhances employee engagement and workplace
+insights.
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://inside.software/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___mind_master.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>MindMaster </u></strong>
+</p>
+<p>MindMaster’s AI-driven marketplace revolutionises customer engagement
+and sales strategies.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://mindmaster.com.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__nudgyt.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Nudgyt</u></strong>
+</p>
+<p>Nudgyt’s behavioral AI enhances workplace productivity and smarter decision-making.</p>
+<p><a href="https://www.nudgyt.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.nudgyt.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___pand_ai_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Pand.ai</u></strong>
 </p>
-<p></p>
-<p>Pand.ai is a leader in conversational AI solutions in Singapore, powered
-by proprietary natural language processing that understands a variety of
-languages.</p>
-<p><strong><a href="https://www.pand.ai/" rel="noopener noreferrer nofollow" target="_blank">https://www.pand.ai/</a></strong>
+<p>Pand.ai'sAI chatbots provide personalized customer interactions with high
+engagement.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.pand.ai/</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technocorp.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___staple_ai.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Technocorp</u></strong>
+<p><strong><u>Staple AI</u></strong>
 </p>
-<p></p>
-<p>Technocorp harnesses the power of Virtual Reality (VR) technology and
-Generative Design with their digital twin solution that help users visualize
-and analyse designs.</p>
-<p><strong><a href="https://www.linkedin.com/company/technocorpsg/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/company/technocorpsg/</a></strong>
+<p>Staple AI automates document processing for businesses and financial institutions.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.staple.ai/</a>
 </p>
 </td>
 </tr>
@@ -278,17 +322,32 @@ and analyse designs.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xrator.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__voncierge.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Voncierge</u></strong>
+</p>
+<p>Voncierge’s AI-powered virtual concierge elevates hospitality and service
+experiences.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://voncierge.tech/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___xrator.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>XRATOR</u></strong>
 </p>
-<p></p>
-<p>XRATOR's mission is to make effective cybersecurity accessible to all,
-providing a SaaS that helps organizations close the knowledge gap between
-cybersecurity officers and engineers.</p>
-<p><strong><a href="https://www.x-rator.com/" rel="noopener noreferrer nofollow" target="_blank">https://x-rator.com</a></strong>
+<p>Countinuous Threat Exposure Assessment platform helps organizations manage
+their cybersecurity posture to ensure it aligns with business goals and
+the threat landscape.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.x-rator.com/</a>
 </p>
 </td>
 </tr>
@@ -296,17 +355,16 @@ cybersecurity officers and engineers.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/objectivee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone___zaheen.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Objective Experience</u></strong>
+<p><strong><u>Zaheen Systems</u></strong>
 </p>
+<p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
+challenges.</p>
 <p></p>
-<p>Objective Experience empowers businesses to gain a competitive edge by
-understanding customers' unconscious behaviours and preferences using eye
-tracking technology.</p>
-<p><strong><a href="https://www.objectiveexperience.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.objectiveexperience.com/</a></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://zaheensystems.com/</a>
 </p>
 </td>
 </tr>
@@ -335,18 +393,49 @@ tracking technology.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/techfox_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___atlasbridge.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Atlasbridge</u></strong>
+</p>
+<p>Atlasbridge Robotics’ comprehensive suite of services spans distribution,
+consultancy, and strategic partnership development, empowering businesses
+to embrace the future of automation with confidence</p>
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.co/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___techfox.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong><u>Techfox</u></strong>
-<br>
 </p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
-system with real-time location tracking and fleet management features.</p>
-<p><strong><a href="http://techfox.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a></strong>
+system with real-time location tracking and fleet management features</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___operva_ai.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Operva.ai</u></strong>
+</p>
+<p>One stop solution for smart construction and facility management, using
+cutting edge artificial intelligence and robotics technology.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://operva.ai/</a>
 </p>
 </td>
 </tr>
@@ -367,18 +456,18 @@ system with real-time location tracking and fleet management features.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>At PIXEL, delve into cutting-edge AR (Augmented Reality) and VR (Virtual
-Reality) technologies. AR enhances real-world experiences by overlaying
-digital elements, while VR immerses you in entirely virtual environments.
-Explore how these innovations are transforming industries and experience
-the future of technology firsthand</p>
+<p>Step into the world of Immersive Experiences, where technology blurs the
+lines between reality and the digital realm. Engage with interactive environments
+that transport you beyond the ordinary, revolutionising how we learn, work,
+and connect. Discover the future of engagement through cutting-edge innovations
+that redefine experience itself.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___alo_xr.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,16 +483,16 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___augmenteed.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Augmenteed</u></strong>
 </p>
-<p>Augmenteed allows industrial companies to digitise their procedures within
-hours, eliminates the need for time-consuming codes, and deploy mobile
-applications to field technicians for maintenance, repair, operations,
-inspection, training, and remote support.&nbsp;</p>
+<p></p>
+<p>Augmenteed aims to revolutionise the way industries operate by harnessing
+the power of technology, using AR/VR to digitise paper-based industrial
+procedures.</p>
 <p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
 </td>
 </tr>
@@ -411,16 +500,15 @@ inspection, training, and remote support.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/serialco.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_exp_axomem.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>SERIAL CO_</u></strong>
+<p><strong><u>Axomem</u></strong>
 </p>
-<p>SERIAL CO_ is a creative technology studio envisioning a world where immersive
-experiences transform the way people learn, work, and interact with each
-other.</p>
-<p><strong><a href="https://serial.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.serial.sg</u></a></strong>
+<p>Axomem builds a next-generation data analytics, AI and digital twin platform
+with innovative user interfaces in 3D, VR and AR.</p>
+<p><a href="http://axomem.io/" rel="noopener noreferrer nofollow" target="_blank">http://axomem.io/</a>
 </p>
 </td>
 </tr>
@@ -428,15 +516,15 @@ other.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/smobler.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___evolve.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Smobler Studios</u></strong>
-</p>
-<p>Smobler Studios is a provider of metaverse architecture solutions specializing
-in IP creation, brand marketing and metaverse development for businesses</p>
-<p><a href="https://www.smobler.io/" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+<p><strong><u>Evolve Innovative Solutions </u></strong>Evolve Innovative
+Solutions empowers organizations seeking to harness the power of next-generation
+technology, pioneering AI and immersion-powered AR/VR solutions for the
+modern age.</p>
+<p><a href="http://www.eis.sg" rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a>
 </p>
 </td>
 </tr>
@@ -445,16 +533,50 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/xctuality_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_fingerdance.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Xctuality</u></strong>
+<p><strong><u>FingerDance </u></strong>
 </p>
-<p>Xctuality is an immersive technology company building towards spatial
-computing that is helping to reverse climate change by pioneering the future
-of urban lifestyle.&nbsp;&nbsp;</p>
-<p><a href="https://xctuality.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://xctuality.com</u></a>
+<p>FingerDance is committed to building AI infrastructure for a smart and
+inclusive world, offering 24/7 sign language translation services and accessible
+sign language information.</p>
+<p><a href="https://fingerdance.ai/home/" rel="noopener noreferrer nofollow" target="_blank">https://fingerdance.ai/home/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive__hiverlab.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Hiverlab</u></strong>
+</p>
+<p>Hiverlab stands at the forefront of the Spatial Technology revolution,
+pioneering unprecedented levels of interoperability to forge a future where
+sustainability and technology converge seamlessly&nbsp;</p>
+<p><a href="https://www.hiverlab.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.hiverlab.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_illuma_labs.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Illumia Labs</u></strong>
+</p>
+<p>Illumia Labs is a dual-use AI-first technology company that provides workforce
+intelligence, such as skillset matrix analytics via scenario-based competency
+assessments.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://illumialabs.ai/</a>
 </p>
 </td>
 </tr>
@@ -470,4 +592,5 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
