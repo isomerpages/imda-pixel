@@ -59,7 +59,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.00am - 9.30am</p>
+<p>09.00am - 09.30am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Registration &amp; Breakfast</p>
@@ -67,7 +67,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.30am - 9.35am</p>
+<p>09.30am - 09.35am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Welcome Address by IMDA – Ms Katherine Chong, Director (Innovation)​</p>
@@ -75,7 +75,7 @@ to spark new collaborations and partnerships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>9.35am - 10.00am</p>
+<p>09.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Innovation in Action – Sharing of An Innovation Journey – Stuart Smith,
