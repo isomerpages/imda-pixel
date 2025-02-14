@@ -82,7 +82,7 @@ robots up and running quickly, efficiently, and with minimal training.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Nexus FrontierTech </u></strong>
+<p><strong><u>Nexus FrontierTech</u></strong>
 </p>
 <p>Nexus FrontierTech empowers institutions with financial data processing
 products through its proprietary generative AI platform that automates
