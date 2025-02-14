@@ -38,7 +38,7 @@ business-ready tech showcases tailored to real-world needs</p>
 <li>
 <p><strong>Networking Opportunities</strong>
 <br>Connect with industry leaders, tech innovators, and industry stakeholders
-to spark new collaborations and <strong>partnerships </strong>
+to spark new collaborations and <strong>partnerships</strong>
 </p>
 </li>
 </ul>
@@ -70,7 +70,8 @@ to spark new collaborations and <strong>partnerships </strong>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Welcome Address by IMDA – Ms Katherine Chong, Director (Innovation)​</p>
+<p><strong>Welcome Address by IMDA</strong> – Ms Katherine Chong, Director
+(Innovation)​</p>
 </td>
 </tr>
 <tr>
