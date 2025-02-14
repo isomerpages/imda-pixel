@@ -7,7 +7,10 @@ description: Join Xperience Launch Day at IMDA PIXEL on 12 March 2025 to explore
   and industry insights. Register now.
 ---
 <h3><strong>Step into the Future of Corporate Innovation at PIXEL</strong></h3>
-<h3><strong>&lt;image&gt;</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA__XperienceLaunch_WebBanner_1600x630px.jpg">
+</div>
 <p>Staying ahead in today’s fast-changing business landscape requires more
 than just keeping up with trends—it’s about finding <strong>the right technologies</strong> that
 drive real impact. <strong>PIXEL Innovation Xperience</strong> is designed
