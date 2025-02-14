@@ -35,6 +35,7 @@ get started.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Nexus FrontierTech</u></strong>
+<br>
 </p>
 <p>Nexus FrontierTech empowers financial institutions with AI-driven automation,
 transforming unstructured data into real-time, traceable insights. Their
@@ -126,8 +127,7 @@ insights for retail, smart buildings, and security applications.
 <br>Kookree.ai is a Singapore-based deep-tech startup developing cutting-edge
 AI solutions in the video space, specializing in Computer Vision (video
 analytics) and Generative AI (video generation via text prompts). The company’s
-mission is to harness AI to make life simpler, smarter, and safer.</p>
-<p>
+mission is to harness AI to make life simpler, smarter, and safer.
 <br><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
 <br>
 </p>
