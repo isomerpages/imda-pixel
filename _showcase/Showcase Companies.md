@@ -209,6 +209,7 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -343,16 +344,16 @@ assessments.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner_real_axe.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>NPN</u></strong>
+<p><strong><u>Real Axe</u></strong>
 </p>
-<p>NPN offer a range of cutting-edge retail solutions, including digital
-store, ecommerce management, gift card solutions, and SUNMI POS solutions,
-designed to support businesses in their digital transformation and new
-retail endeavors</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.retailtechnpn.com/</a>
-</p>
+<p>The visionary pioneers of Experiential Technology harnessing AR, MR, XR,
+AI, Volumetric Video and Holographic marvels.&nbsp;</p>
+<p><a href="https://www.real-axe.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.real-axe.com</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -367,7 +368,6 @@ retail endeavors</p>
 </p>
 <p>Objective Experience is your partner for user experience strategy, UX
 research, UX design and usability testing.</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
 </p>
 </td>
