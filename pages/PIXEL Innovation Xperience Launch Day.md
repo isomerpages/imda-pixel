@@ -100,6 +100,8 @@ Executive Director (UOB)</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PIXEL Innovation Xperience; Digital Transformation; Innovative Showcases; Tech Solution Providers" src="/images/Landing_Page_v2.png">
 </div>
