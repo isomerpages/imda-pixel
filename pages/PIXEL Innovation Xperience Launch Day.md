@@ -100,10 +100,8 @@ Executive Director (UOB)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Page.png">
+<img style="width: 100%" height="auto" width="100%" alt="PIXEL Innovation Xperience; Digital Transformation; Innovative Showcases; Tech Solution Providers" src="/images/Landing_Page_v2.png">
 </div>
 <h4><strong>What are you waiting for?</strong></h4>
 <p>Don’t miss your chance to be part of a transformative experience that
@@ -111,12 +109,3 @@ redefines innovation, adoption, and growth in the digital age.
 <br><strong><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong> and
 secure your spot to explore cutting-edge solutions, spark collaboration,
 and future-proof your business.</p>
-<p></p>
-<p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/67aacf7cdcc3e09f3a9f5b1f" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/67aacf7cdcc3e09f3a9f5b1f"></iframe>
-</div>
-<p></p>
-<p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a> 
-</p>
