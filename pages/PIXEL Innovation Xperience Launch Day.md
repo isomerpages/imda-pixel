@@ -100,10 +100,9 @@ Executive Director (UOB)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Landing_Page.png">
+<img style="width: 100%" height="auto" width="100%" alt="PIXEL Innovation Xperience; Digital Transformation; Innovative Showcases; Tech Solution Providers" src="/images/Landing_Page_v2.png">
 </div>
 <h4><strong>What are you waiting for?</strong></h4>
 <p>Don’t miss your chance to be part of a transformative experience that
@@ -111,4 +110,3 @@ redefines innovation, adoption, and growth in the digital age.
 <br><strong><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong> and
 secure your spot to explore cutting-edge solutions, spark collaboration,
 and future-proof your business.</p>
-<p></p>
