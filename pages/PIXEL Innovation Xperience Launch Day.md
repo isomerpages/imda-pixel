@@ -112,3 +112,11 @@ redefines innovation, adoption, and growth in the digital age.
 secure your spot to explore cutting-edge solutions, spark collaboration,
 and future-proof your business.</p>
 <p></p>
+<p>If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/67aacf7cdcc3e09f3a9f5b1f" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="width: 100%; height: 500px" allowfullscreen="true" frameborder="0" src="https://form.gov.sg/67aacf7cdcc3e09f3a9f5b1f"></iframe>
+</div>
+<p></p>
+<p>Powered by <a href="https://form.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Form</a> 
+</p>
