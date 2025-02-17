@@ -368,7 +368,6 @@ AI, Volumetric Video and Holographic marvels.&nbsp;</p>
 </p>
 <p>Objective Experience is your partner for user experience strategy, UX
 research, UX design and usability testing.</p>
-<p>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
 </p>
 </td>
