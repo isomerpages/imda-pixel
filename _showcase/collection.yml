@@ -2,8 +2,8 @@ collections:
   showcase:
     output: true
     order:
-      - PIXEL Innovation Xperience Launch Day.md
       - Overview.md
+      - PIXEL Innovation Xperience Launch Day.md
       - For Corporates.md
       - For Tech Solvers.md
       - Showcase Companies.md
