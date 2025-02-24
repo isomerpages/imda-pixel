@@ -132,7 +132,316 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Our AI (Artificial Intelligence) zone showcases the latest advancements
+in machine learning, natural language processing, and data analytics. Discover
+how AI is revolutionising industries by enhancing decision-making, automating
+tasks, and providing personalised experiences.&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Ailytics helps industrial companies improve safety and maximise productivity
+by providing video analytics solutions for safety and productivity monitoring.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://ailytics.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://ailytics.ai/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BeLive Technology offers white-label, fully customizable, end-to-end live
+streaming solutions for brands worldwide.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://belive.technology/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://belive.technology/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Datature simplifies the way people build deep-learning capabilities.&nbsp;</p>
+<p><a href="https://datature.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://datature.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gleematic can read documents in Asian languages and make various I.T.
+applications talk to one another without complicated programming.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.gleematic.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.gleematic.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
+air purification at work or educational microgreen gardening at school.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.greenairy.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.greenairy.sg/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hendricks Corp is revolutionizing the future of retail, drive-thru, and
+hospitality with cutting-edge video analytics and AI solutions&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://hendrickscorp.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>http://hendrickscorp.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inside Technologies - <em>Inside Technologies’ AI platform enhances employee engagement and workplace insights.</em>&nbsp;</p>
+<p><a href="https://inside.software/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://inside.software/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MindMaster - <em>MindMaster’s AI-driven marketplace revolutionizes customer engagement and sales strategies.</em>&nbsp;</p>
+<p><a href="https://mindmaster.com.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://mindmaster.com.sg/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nudgyt - <em>Nudgyt’s behavioral AI enhances workplace productivity and smarter decision-making.</em>&nbsp;</p>
+<p><a href="https://www.nudgyt.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.nudgyt.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pand.ai - <em>Pand.ai’s AI chatbots provide personalized customer interactions with high engagement.</em>&nbsp;</p>
+<p><a href="https://www.pand.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.pand.ai/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staple AI - <em>Staple AI automates document processing for businesses and financial institutions.</em>&nbsp;</p>
+<p><a href="https://www.staple.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.staple.ai/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voncierge - <em>Voncierge’s AI-powered virtual concierge elevates hospitality and service experiences.</em>&nbsp;</p>
+<p><a href="https://voncierge.tech/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://voncierge.tech/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XRATOR Countinuous Threat Exposure Assessment platform helps organizations
+manage their cybersecurity posture to ensure it aligns with business goals
+and the threat landscape.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.x-rator.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.x-rator.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
+challenges.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://zaheensystems.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://zaheensystems.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Datature simplifies the way people build deep-learning capabilities.&nbsp;</p>
+<p><a href="https://datature.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://datature.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gleematic can read documents in Asian languages and make various I.T.
+applications talk to one another without complicated programming.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.gleematic.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.gleematic.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
+air purification at work or educational microgreen gardening at school.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.greenairy.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.greenairy.sg/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hendricks Corp is revolutionizing the future of retail, drive-thru, and
+hospitality with cutting-edge video analytics and AI solutions&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="http://hendrickscorp.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>http://hendrickscorp.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inside Technologies - <em>Inside Technologies’ AI platform enhances employee engagement and workplace insights.</em>&nbsp;</p>
+<p><a href="https://inside.software/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://inside.software/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MindMaster - <em>MindMaster’s AI-driven marketplace revolutionizes customer engagement and sales strategies.</em>&nbsp;</p>
+<p><a href="https://mindmaster.com.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://mindmaster.com.sg/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nudgyt - <em>Nudgyt’s behavioral AI enhances workplace productivity and smarter decision-making.</em>&nbsp;</p>
+<p><a href="https://www.nudgyt.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.nudgyt.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pand.ai - <em>Pand.ai’s AI chatbots provide personalized customer interactions with high engagement.</em>&nbsp;</p>
+<p><a href="https://www.pand.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.pand.ai/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staple AI - <em>Staple AI automates document processing for businesses and financial institutions.</em>&nbsp;</p>
+<p><a href="https://www.staple.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.staple.ai/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Voncierge - <em>Voncierge’s AI-powered virtual concierge elevates hospitality and service experiences.</em>&nbsp;</p>
+<p><a href="https://voncierge.tech/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://voncierge.tech/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XRATOR Countinuous Threat Exposure Assessment platform helps organizations
+manage their cybersecurity posture to ensure it aligns with business goals
+and the threat landscape.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://www.x-rator.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.x-rator.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
+challenges.&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://zaheensystems.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://zaheensystems.com/</u></a>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -206,7 +515,7 @@ cutting edge artificial intelligence and robotics technology.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> Immersive Experiences</strong>
+<summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
