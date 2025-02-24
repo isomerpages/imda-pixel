@@ -329,9 +329,8 @@ and the threat landscape.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="zaheen_augmented_intelligence" src="/images/ai_zone_zaheen_1600x630.png">
+<img style="width: 100%" height="auto" width="100%" alt="zaheen" src="/images/ai_zone___zaheen.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
