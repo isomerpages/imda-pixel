@@ -195,7 +195,7 @@ streaming solutions for brands worldwide.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Gleematic</u></strong> 
+<p><strong><u>Gleematic</u></strong>
 </p>
 <p>Gleematic can read documents in Asian languages and make various I.T.
 applications talk to one another without complicated programming.&nbsp;</p>
@@ -209,7 +209,7 @@ applications talk to one another without complicated programming.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Greenairy</u></strong> 
+<p><strong><u>Greenairy</u></strong>
 </p>
 <p>Discover Greenairy’s beautiful smart plant towers, designed for superior
 air purification at work or educational microgreen gardening at school.&nbsp;</p>
@@ -265,7 +265,7 @@ and sales strategies.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Nudgyt</u></strong> 
+<p><strong><u>Nudgyt</u></strong>
 </p>
 <p>Nudgyt’s behavioral AI enhances workplace productivity and smarter decision-making.&nbsp;</p>
 <p><a href="https://www.nudgyt.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.nudgyt.com/</u></a>&nbsp;&nbsp;</p>
@@ -292,7 +292,7 @@ high engagement.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Staple AI</u></strong> 
+<p><strong><u>Staple AI</u></strong>
 </p>
 <p>Staple AI automates document processing for businesses and financial institutions.&nbsp;</p>
 <p><a href="https://www.staple.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.staple.ai/</u></a>&nbsp;&nbsp;</p>
@@ -319,7 +319,7 @@ experiences.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>XRATOR</u></strong> 
+<p><strong><u>XRATOR</u></strong>
 </p>
 <p>XRATOR Continuous Threat Exposure Assessment platform helps organizations
 manage their cybersecurity posture to ensure it aligns with business goals
@@ -374,7 +374,7 @@ challenges.&nbsp;</p>
 </p>
 <p>Atlasbridge Robotics’ comprehensive suite of services spans distribution,
 consultancy, and strategic partnership development, empowering businesses
-to embrace the future of automation with confidence</p>
+to embrace the future of automation with confidence.</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.co/</a>
 </p>
 </td>
@@ -391,7 +391,7 @@ to embrace the future of automation with confidence</p>
 </p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
-system with real-time location tracking and fleet management features</p>
+system with real-time location tracking and fleet management features.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a>
 </p>
 </td>
