@@ -153,10 +153,10 @@ tasks, and providing personalised experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>AilyticsAilytic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ailytics</p>
 <p>Ailytics helps industrial companies improve safety and maximise productivity
 by providing video analytics solutions for safety and productivity monitoring.&nbsp;</p>
 <p>&nbsp;</p>
