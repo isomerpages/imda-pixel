@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - PIXEL Innovation Xperience Launch Day.md
       - For Corporates.md
       - For Tech Solvers.md
       - Showcase Companies.md
