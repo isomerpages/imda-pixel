@@ -149,7 +149,9 @@ tasks, and providing personalised experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AilyticsAilytic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ailytics" src="/images/ai_zone__ailytics.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Ailytics</u></strong>
@@ -161,7 +163,9 @@ by providing video analytics solutions for safety and productivity monitoring.&n
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="belive technology" src="/images/ai_zone___Belive.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>BeLive Technology</u></strong>
@@ -172,7 +176,9 @@ streaming solutions for brands worldwide.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="datature" src="/images/ai_zone___datature.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Datature</u></strong>
@@ -182,7 +188,9 @@ streaming solutions for brands worldwide.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gleematic, artificial intelligence" src="/images/ai_zone___glee_trees.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Gleematic</u></strong> 
@@ -193,7 +201,9 @@ applications talk to one another without complicated programming.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="greenairy" src="/images/ai_zone___greenairy.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Greenairy</u></strong> 
@@ -204,7 +214,9 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="hendricks_corporation" src="/images/ai_zone___hendricks.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Hendricks Corp</u></strong>
@@ -215,7 +227,9 @@ hospitality with cutting-edge video analytics and AI solutions&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="inside_technologies" src="/images/ai_zone___inside_tech.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Inside Technologies</u></strong> 
@@ -226,7 +240,9 @@ and workplace insights.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="mind_master; mapping_it_for_you" src="/images/ai_zone___mind_master.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>MindMaster</u></strong>
@@ -237,7 +253,9 @@ and sales strategies.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="nudgyt" src="/images/ai_zone__nudgyt.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Nudgyt</u></strong> 
@@ -247,7 +265,9 @@ and sales strategies.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pand.ai" src="/images/ai_zone___pand_ai_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Pand.ai</u></strong> 
@@ -258,7 +278,9 @@ high engagement.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="staple_ai" src="/images/ai_zone___staple_ai.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Staple AI</u></strong> 
@@ -268,7 +290,9 @@ high engagement.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="voncierge" src="/images/ai_zone__voncierge.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Voncierge</u></strong>
@@ -279,7 +303,9 @@ experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="xrator" src="/images/ai_zone___xrator.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>XRATOR</u></strong> 
@@ -292,6 +318,9 @@ and the threat landscape.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zaheen_augmented_intelligence" src="/images/ai_zone_zaheen_1600x630.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Zaheen Systems</u></strong>
