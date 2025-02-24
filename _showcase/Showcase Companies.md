@@ -437,7 +437,6 @@ that redefine experience itself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___alo_xr.png">
 </div>
@@ -453,7 +452,6 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___augmenteed.png">
 </div>
@@ -469,7 +467,6 @@ procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_exp_axomem.png">
 </div>
@@ -485,7 +482,6 @@ with innovative user interfaces in 3D, VR and AR.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___evolve.png">
 </div>
@@ -503,7 +499,6 @@ AR/VR solutions for the modern age.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_fingerdance.png">
 </div>
@@ -520,7 +515,6 @@ sign language information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive__hiverlab.png">
 </div>
@@ -537,7 +531,6 @@ sustainability and technology converge seamlessly&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_illuma_labs.png">
 </div>
@@ -554,7 +547,6 @@ assessments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner_real_axe.png">
 </div>
@@ -569,7 +561,6 @@ AI, Volumetric Video and Holographic marvels.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___objectivee.png">
 </div>
@@ -585,7 +576,6 @@ research, UX design and usability testing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___serial_co.png">
 </div>
@@ -602,7 +592,6 @@ other.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_skillup_vr.png">
 </div>
@@ -618,7 +607,6 @@ for healthcare training and treatment.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_serl_io.png">
 </div>
@@ -634,7 +622,6 @@ own collaborative Mixed Reality content.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___xctuality_logo.png">
 </div>
@@ -651,7 +638,6 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___smobler.png">
 </div>
