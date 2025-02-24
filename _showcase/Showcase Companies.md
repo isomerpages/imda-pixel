@@ -149,20 +149,6 @@ tasks, and providing personalised experiences.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ailytics" src="/images/ai_zone__ailytics.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Ailytics</u></strong>
-</p>
-<p>Ailytics helps industrial companies improve safety and maximise productivity
-by providing video analytics solutions for safety and productivity monitoring.&nbsp;</p>
-<p>&nbsp;<a href="https://ailytics.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://ailytics.ai/</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="belive technology" src="/images/ai_zone___Belive.png">
 </div>
 </td>
