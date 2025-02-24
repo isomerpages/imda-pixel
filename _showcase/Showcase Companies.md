@@ -54,8 +54,8 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 <p><strong><u>Groundup.ai</u></strong>
 </p>
 <p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
-problem a year.
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
+problem a year.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
 </p>
 </td>
 </tr>
