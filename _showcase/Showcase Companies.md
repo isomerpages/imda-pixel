@@ -54,8 +54,8 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 <p><strong><u>Groundup.ai</u></strong>
 </p>
 <p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
-problem a year.
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
+problem a year.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
 </p>
 </td>
 </tr>
@@ -132,7 +132,216 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Our AI (Artificial Intelligence) zone showcases the latest advancements
+in machine learning, natural language processing, and data analytics. Discover
+how AI is revolutionising industries by enhancing decision-making, automating
+tasks, and providing personalised experiences.&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ailytics" src="/images/ai_zone__ailytics.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Ailytics</u></strong>
+</p>
+<p>Ailytics helps industrial companies improve safety and maximise productivity
+by providing video analytics solutions for safety and productivity monitoring.&nbsp;</p>
+<p>&nbsp;<a href="https://ailytics.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://ailytics.ai/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="belive technology" src="/images/ai_zone___Belive.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>BeLive Technology</u></strong>
+</p>
+<p>BeLive Technology offers white-label, fully customizable, end-to-end live
+streaming solutions for brands worldwide.&nbsp;</p>
+<p>&nbsp;<a href="https://belive.technology/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://belive.technology/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="datature" src="/images/ai_zone___datature.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Datature</u></strong>
+</p>
+<p>Datature simplifies the way people build deep-learning capabilities.&nbsp;</p>
+<p><a href="https://datature.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://datature.com/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="gleematic, artificial intelligence" src="/images/ai_zone___glee_trees.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gleematic</u></strong>
+</p>
+<p>Gleematic can read documents in Asian languages and make various I.T.
+applications talk to one another without complicated programming.&nbsp;</p>
+<p>&nbsp;<a href="https://www.gleematic.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.gleematic.com/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="greenairy" src="/images/ai_zone___greenairy.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Greenairy</u></strong>
+</p>
+<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
+air purification at work or educational microgreen gardening at school.&nbsp;</p>
+<p><a href="https://www.greenairy.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.greenairy.sg/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="hendricks_corporation" src="/images/ai_zone___hendricks.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Hendricks Corp</u></strong>
+</p>
+<p>Hendricks Corp is revolutionizing the future of retail, drive-thru, and
+hospitality with cutting-edge video analytics and AI solutions.&nbsp;</p>
+<p>&nbsp;<a href="http://hendrickscorp.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>http://hendrickscorp.com/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="inside_technologies" src="/images/ai_zone___inside_tech.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Inside Technologies</u></strong>
+</p>
+<p>Inside Technologies’<strong> </strong>AI platform enhances employee engagement
+and workplace insights.&nbsp;</p>
+<p><a href="https://inside.software/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://inside.software/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="mind_master; mapping_it_for_you" src="/images/ai_zone___mind_master.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>MindMaster</u></strong>
+</p>
+<p>MindMaster’s AI-driven marketplace revolutionizes customer engagement
+and sales strategies.&nbsp;</p>
+<p><a href="https://mindmaster.com.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://mindmaster.com.sg/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="nudgyt" src="/images/ai_zone__nudgyt.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Nudgyt</u></strong>
+</p>
+<p>Nudgyt’s behavioral AI enhances workplace productivity and smarter decision-making.&nbsp;</p>
+<p><a href="https://www.nudgyt.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.nudgyt.com/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="pand.ai" src="/images/ai_zone___pand_ai_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Pand.ai</u></strong>
+</p>
+<p>Pand.ai’s AI chatbots provide personalized customer interactions with
+high engagement.&nbsp;</p>
+<p><a href="https://www.pand.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.pand.ai/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="staple_ai" src="/images/ai_zone___staple_ai.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Staple AI</u></strong>
+</p>
+<p>Staple AI automates document processing for businesses and financial institutions.&nbsp;</p>
+<p><a href="https://www.staple.ai/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.staple.ai/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="voncierge" src="/images/ai_zone__voncierge.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Voncierge</u></strong>
+</p>
+<p>Voncierge’s AI-powered virtual concierge elevates hospitality and service
+experiences.&nbsp;</p>
+<p><a href="https://voncierge.tech/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://voncierge.tech/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="xrator" src="/images/ai_zone___xrator.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>XRATOR</u></strong>
+</p>
+<p>XRATOR Continuous Threat Exposure Assessment platform helps organizations
+manage their cybersecurity posture to ensure it aligns with business goals
+and the threat landscape.&nbsp;&nbsp;</p>
+<p>&nbsp;<a href="https://www.x-rator.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.x-rator.com/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zaheen" src="/images/ai_zone___zaheen.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Zaheen Systems</u></strong>
+</p>
+<p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
+challenges.&nbsp;</p>
+<p>&nbsp;<a href="https://zaheensystems.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://zaheensystems.com/</u></a>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
@@ -153,7 +362,6 @@ the broader good of humanity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___atlasbridge.png">
 </div>
@@ -163,14 +371,13 @@ the broader good of humanity.</p>
 </p>
 <p>Atlasbridge Robotics’ comprehensive suite of services spans distribution,
 consultancy, and strategic partnership development, empowering businesses
-to embrace the future of automation with confidence</p>
+to embrace the future of automation with confidence.</p>
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.co/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___techfox.png">
 </div>
@@ -180,14 +387,13 @@ to embrace the future of automation with confidence</p>
 </p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
-system with real-time location tracking and fleet management features</p>
+system with real-time location tracking and fleet management features.</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___operva_ai.png">
 </div>
@@ -209,7 +415,6 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -227,7 +432,6 @@ that redefine experience itself.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___alo_xr.png">
 </div>
@@ -243,7 +447,6 @@ AR/VR solutions to enhance healthspan and unlock human potential.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___augmenteed.png">
 </div>
@@ -259,7 +462,6 @@ procedures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_exp_axomem.png">
 </div>
@@ -275,23 +477,22 @@ with innovative user interfaces in 3D, VR and AR.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___evolve.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Evolve Innovative Solutions </u></strong>Evolve Innovative
-Solutions empowers organizations seeking to harness the power of next-generation
-technology, pioneering AI and immersion-powered AR/VR solutions for the
-modern age.</p>
+<p><strong><u>Evolve Innovative Solutions</u></strong>
+</p>
+<p>Evolve Innovative Solutions empowers organizations seeking to harness
+the power of next-generation technology, pioneering AI and immersion-powered
+AR/VR solutions for the modern age.</p>
 <p><a href="http://www.eis.sg" rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_fingerdance.png">
@@ -309,7 +510,6 @@ sign language information.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive__hiverlab.png">
 </div>
@@ -326,7 +526,6 @@ sustainability and technology converge seamlessly&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_illuma_labs.png">
 </div>
@@ -343,7 +542,6 @@ assessments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner_real_axe.png">
 </div>
@@ -358,7 +556,6 @@ AI, Volumetric Video and Holographic marvels.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___objectivee.png">
 </div>
@@ -374,7 +571,6 @@ research, UX design and usability testing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___serial_co.png">
 </div>
@@ -391,7 +587,6 @@ other.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_skillup_vr.png">
 </div>
@@ -407,7 +602,6 @@ for healthcare training and treatment.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_serl_io.png">
 </div>
@@ -423,7 +617,6 @@ own collaborative Mixed Reality content.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___xctuality_logo.png">
 </div>
@@ -440,7 +633,6 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___smobler.png">
 </div>
@@ -449,7 +641,7 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 <p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
-in IP creation, brand marketing and metaverse development for businesses</p>
+in IP creation, brand marketing and metaverse development for businesses.</p>
 <p><a href="https://smobler.io" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
 </p>
 </td>
@@ -476,7 +668,6 @@ in IP creation, brand marketing and metaverse development for businesses</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
 </div>
@@ -492,7 +683,6 @@ productivity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___armfort_intergrated.png">
 </div>
@@ -501,15 +691,14 @@ productivity.</p>
 <p><strong><u>Armfort Integrated</u></strong>
 </p>
 <p>Armfort Integrated delivers advanced security and surveillance solutions
-for enterprises.
-<br><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
+for enterprises.</p>
+<p><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
 </p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech__datamesh.png">
 </div>
@@ -524,21 +713,21 @@ and asset monitoring.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___d_construct.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>d’Construct Robotics </u></strong>d’Construct Robotics offers
-AI-powered robotic solutions for automation and efficiency.</p>
+<p><strong><u>d’Construct Robotics</u></strong>
+</p>
+<p>d’Construct Robotics offers AI-powered robotic solutions for automation
+and efficiency.</p>
 <p><a href="https://www.dconstruct.co/" rel="noopener noreferrer nofollow" target="_blank">https://www.dconstruct.co/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___gabkotech_innovations.png">
 </div>
@@ -554,7 +743,6 @@ transformation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___mind_pointeye.png">
 </div>
@@ -564,13 +752,12 @@ transformation.</p>
 </p>
 <p>Mind PointEye’s AI analytics platform provides real-time business intelligence
 and insights.</p>
-<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/#/Home</a>
+<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___openspace.png">
 </div>
@@ -585,7 +772,6 @@ progress tracking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___solstium.png">
 </div>
@@ -593,12 +779,13 @@ progress tracking.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Solstium</u></strong>
 </p>
-<p>Solstium develops innovative energy solutions for a more sustainable future</p>
+<p>Solstium develops innovative energy solutions for a more sustainable future.</p>
+<p><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___streamwide_SA.png">
 </div>
@@ -606,14 +793,13 @@ progress tracking.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Streamwide SA</u></strong>
 </p>
-<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.
-<br><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.</p>
+<p><a href="https://www.streamwide.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.streamwide.com/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___tp_link.png">
 </div>
@@ -629,7 +815,6 @@ solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___damstra.png">
 </div>
