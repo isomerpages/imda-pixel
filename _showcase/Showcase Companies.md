@@ -364,7 +364,6 @@ challenges.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___atlasbridge.png">
 </div>
@@ -381,7 +380,6 @@ to embrace the future of automation with confidence.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___techfox.png">
 </div>
@@ -398,7 +396,6 @@ system with real-time location tracking and fleet management features.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics_corner___operva_ai.png">
 </div>
