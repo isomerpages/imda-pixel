@@ -491,10 +491,11 @@ with innovative user interfaces in 3D, VR and AR.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Evolve Innovative Solutions </u></strong>Evolve Innovative
-Solutions empowers organizations seeking to harness the power of next-generation
-technology, pioneering AI and immersion-powered AR/VR solutions for the
-modern age.</p>
+<p><strong><u>Evolve Innovative Solutions</u></strong>
+</p>
+<p>Evolve Innovative Solutions empowers organizations seeking to harness
+the power of next-generation technology, pioneering AI and immersion-powered
+AR/VR solutions for the modern age.</p>
 <p><a href="http://www.eis.sg" rel="noopener noreferrer nofollow" target="_blank">www.eis.sg</a>
 </p>
 </td>
@@ -659,7 +660,7 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 <p><strong><u>Smobler Studios</u></strong>
 </p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
-in IP creation, brand marketing and metaverse development for businesses</p>
+in IP creation, brand marketing and metaverse development for businesses.</p>
 <p><a href="https://smobler.io" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
 </p>
 </td>
