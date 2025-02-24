@@ -687,7 +687,6 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ai_zone__ailytics.png">
 </div>
@@ -703,7 +702,6 @@ productivity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___armfort_intergrated.png">
 </div>
@@ -712,15 +710,14 @@ productivity.</p>
 <p><strong><u>Armfort Integrated</u></strong>
 </p>
 <p>Armfort Integrated delivers advanced security and surveillance solutions
-for enterprises.
-<br><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
+for enterprises.</p>
+<p><a href="https://armfort.com/" rel="noopener noreferrer nofollow" target="_blank">https://armfort.com/</a>
 </p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech__datamesh.png">
 </div>
@@ -735,21 +732,21 @@ and asset monitoring.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___d_construct.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>d’Construct Robotics </u></strong>d’Construct Robotics offers
-AI-powered robotic solutions for automation and efficiency.</p>
+<p><strong><u>d’Construct Robotics</u></strong>
+</p>
+<p>d’Construct Robotics offers AI-powered robotic solutions for automation
+and efficiency.</p>
 <p><a href="https://www.dconstruct.co/" rel="noopener noreferrer nofollow" target="_blank">https://www.dconstruct.co/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___gabkotech_innovations.png">
 </div>
@@ -765,7 +762,6 @@ transformation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___mind_pointeye.png">
 </div>
@@ -775,13 +771,12 @@ transformation.</p>
 </p>
 <p>Mind PointEye’s AI analytics platform provides real-time business intelligence
 and insights.</p>
-<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/#/Home</a>
+<p>&nbsp;<a href="https://mindpointeye.com/#/Home" rel="noopener noreferrer nofollow" target="_blank">https://mindpointeye.com/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___openspace.png">
 </div>
@@ -796,7 +791,6 @@ progress tracking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___solstium.png">
 </div>
@@ -804,12 +798,13 @@ progress tracking.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Solstium</u></strong>
 </p>
-<p>Solstium develops innovative energy solutions for a more sustainable future</p>
+<p>Solstium develops innovative energy solutions for a more sustainable future.</p>
+<p><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___streamwide_SA.png">
 </div>
@@ -817,14 +812,13 @@ progress tracking.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Streamwide SA</u></strong>
 </p>
-<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.
-<br><a href="https://solstium.net/" rel="noopener noreferrer nofollow" target="_blank">https://solstium.net/</a>
+<p>Streamwide SA’s AI-powered tools enhance business communication and collaboration.</p>
+<p><a href="https://www.streamwide.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.streamwide.com/</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___tp_link.png">
 </div>
@@ -840,7 +834,6 @@ solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/emerging_tech___damstra.png">
 </div>
