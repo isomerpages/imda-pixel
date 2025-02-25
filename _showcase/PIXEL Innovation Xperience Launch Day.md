@@ -80,8 +80,8 @@ to spark new collaborations and partnerships</p>
 <p>09.35am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Innovation in Action – Sharing of An Innovation Journey – Stuart Smith,
-Executive Director (UOB)</p>
+<p>Innovation as a Business Imperative: How UOB Stays Ahead &amp; Drives
+Growth in a Changing Market – Stuart Smith, Executive Director, UOB</p>
 </td>
 </tr>
 <tr>
