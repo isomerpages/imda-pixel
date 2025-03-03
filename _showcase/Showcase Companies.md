@@ -648,7 +648,7 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Emerging Tech Zone at PIXEL showcases cutting-edge innovations that are shaping the future of industries. This zone features breakthrough technologies such as 5G, AI, IoT, and automation, providing visitors with a glimpse into next-generation solutions</strong>
+<p><strong>The Emerging Tech Zone at PIXEL showcases cutting-edge innovations that are shaping the future of industries. This zone features breakthrough technologies such as 5G, AI, IoT,  automation and more, providing visitors with a glimpse into next-generation solutions</strong>
 </p>
 </th>
 </tr>
