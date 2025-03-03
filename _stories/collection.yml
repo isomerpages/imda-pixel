@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Personalised museum experiences and smart wristbands.md
-      - "Pixel Perfect: A Photo Essay of What Working Is Like at IMDA’s
-        Innovation Hub.md"
       - Driving Growth With Smart Autonomy.md
       - Real Estate Developer Uses AI For Better Site Inspections.md
       - Helping enterprises attain a green future.md
@@ -13,7 +11,6 @@ collections:
         digitally.md"
       - Virtual Personal Trainer.md
       - How Singapore is gearing up for an ARVR future.md
-      - PIXEL's Incubatee Feature.md
       - IMDA and Huawei Cloud Announces Launch of Startup Incubator.md
       - IMDA AWS Joint Innovation Center.md
       - How three local tech startups address real world business problems and
