@@ -106,10 +106,9 @@ Growth in a Changing Market – Stuart Smith, Executive Director, UOB</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PIXEL Innovation Xperience; Digital Transformation; Innovative Showcases; Tech Solution Providers" src="/images/Landing_Page_v2.png">
 </div>
-<h4><strong>Event Registration Closed </strong></h4>
+<h4><strong>Event Registration Closed</strong></h4>
 <p><strong>Keen to experience PIXEL Innovation Xperience tour? Register your interest here: </strong>
 <a href="https://go.gov.sg/showcaserequest" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/showcaserequest</a>
 </p>
-<p>&nbsp;</p>
-<h4>Don’t miss your chance to be part of a transformative experience that redefines innovation, adoption, and growth in the digital age. <br></h4>
+<p></p>
 <p></p>
