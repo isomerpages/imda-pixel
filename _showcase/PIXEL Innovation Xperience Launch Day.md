@@ -109,6 +109,5 @@ Growth in a Changing Market – Stuart Smith, Executive Director, UOB</p>
 <h4><strong>What are you waiting for?</strong></h4>
 <p>Don’t miss your chance to be part of a transformative experience that
 redefines innovation, adoption, and growth in the digital age.
-<br><strong><a href="https://go.gov.sg/xperiencelaunchreg" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong> and
-secure your spot to explore cutting-edge solutions, spark collaboration,
-and future-proof your business.</p>
+<br>
+</p>
