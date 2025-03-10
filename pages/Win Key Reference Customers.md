@@ -5,13 +5,16 @@ description: Win key reference customers through IMDA Innovation programme
 variant: tiptap
 ---
 <h1>Open Innovation Programme</h1>
-<p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_MainBanner__1_.png"></a>
-<h2>Kickstart Your Innovation Journey</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Jan_OpenCall_1200x600.jpg">
+</div>
+<h2>Our latest OIP Call 25 is now live!</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
-into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixel&amp;utm_campaign=website" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
-<p>Submit your proposals and seize the opportunity to:</p>
+into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/po-challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_25" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
+<p>Check out challenges on <strong>AI, automation, data management and more</strong>!
+<a href="https://www.openinnovation.sg/po-challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_25" rel="noopener nofollow" target="_blank">Submit your proposals</a>by <strong>21 April 2025, 4pm SGT</strong>.</p>
+<p>Seize the opportunity to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Connect with global tech leaders to recognised companies.</p>
