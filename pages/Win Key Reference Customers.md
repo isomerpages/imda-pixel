@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1>Open Innovation Programme</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Jan_OpenCall_1200x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Jan_OpenCall_1200x600__1_.jpg">
 </div>
 <h2>Our latest OIP Call 25 is now live!</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
