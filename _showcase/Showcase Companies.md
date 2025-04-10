@@ -7,7 +7,7 @@ description: ""
 <h4>Discover and Connect Business Ready Tech Solutions</h4>
 <p>Explore our curated selection of leading tech solvers showcasing their
 real-world solutions designed to drive business growth.</p>
-<p>Interested in connecting with a showcased company? Fill out the <strong><a href="https://form.gov.sg/666287f0a5035a6fe2d176ee" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> to
+<p>Interested in connecting with a showcased company? Fill out the <a href="https://go.gov.sg/showcaserequest" rel="noopener nofollow" target="_blank">form<u> </u></a>to
 get started.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -648,7 +648,7 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>The Emerging Tech Zone at PIXEL showcases cutting-edge innovations that are shaping the future of industries. This zone features breakthrough technologies such as 5G, AI, IoT,  automation and more, providing visitors with a glimpse into next-generation solutions</strong>
+<p><strong>The Emerging Tech Zone at PIXEL showcases cutting-edge innovations that are shaping the future of industries. This zone features breakthrough technologies such as 5G, AI, IoT, automation and more, providing visitors with a glimpse into next-generation solutions</strong>
 </p>
 </th>
 </tr>
