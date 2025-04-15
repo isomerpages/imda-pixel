@@ -183,6 +183,6 @@ smart phone images.
 </tr>
 </tbody>
 </table>
-<h5>Any questions? Reach out <a href="jonong@amazon.com" rel="noopener nofollow" target="_blank">here</a></h5>
+<h5>Any questions? Reach out <a href="chelsea_chong_from.tp@imda.gov.sg" rel="noopener nofollow" target="_blank">here</a></h5>
 <p></p>
 <p></p>
