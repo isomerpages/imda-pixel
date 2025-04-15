@@ -62,9 +62,6 @@ Centre.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__12_.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Voltade</u></strong>
@@ -186,6 +183,6 @@ smart phone images.
 </tr>
 </tbody>
 </table>
-<h5>Any questions? Reach out <a href="mailto:farmji@amazon.com" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
+<h5>Any questions? Reach out <a href="jonong@amazon.com" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
 <p></p>
 <p></p>
