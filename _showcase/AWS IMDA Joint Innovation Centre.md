@@ -63,7 +63,7 @@ Centre.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__12_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws___voltade.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ generative AI for your business’ diverse use cases.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws___infodeck.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,7 +109,7 @@ can be used worldwide.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws___moodie.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +123,7 @@ mimics human coaching by harnessing verbal and non-verbal observations.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elite.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws___elitefit_ai.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -153,12 +153,12 @@ reinforcement learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sw.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws___SILVER_WINGS.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong><u>SPACES by Silver Wings XR</u></strong>
 </p>
 <p>Visit a 3D virtual space where real-time avatars can communicate and collaborate
@@ -171,7 +171,7 @@ in a truly engaging way.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/zaheen_ai.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aws____faunafit.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,6 +186,6 @@ smart phone images.
 </tr>
 </tbody>
 </table>
-<h5>Any questions? Reach out <a href="mailto:farmji@amazon.com" rel="noopener noreferrer nofollow" target="_blank">here</a></h5>
+<h5>Any questions? Reach out <a href="mailto:jonong@amazon.com" rel="noopener nofollow" target="_blank">here</a></h5>
 <p></p>
 <p></p>
