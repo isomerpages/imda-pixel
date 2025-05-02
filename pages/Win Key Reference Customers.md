@@ -6,13 +6,11 @@ variant: tiptap
 ---
 <h1>Open Innovation Programme</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_Jan_OpenCall_MOExMDDI_1200x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_MainBanner__1_.png">
 </div>
-<h2>Our latest OIP Call 25 is now live!</h2>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
-into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/po-challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_25" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
-<p>Check out MOE's challenges and <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_25" rel="noopener nofollow" target="_blank">submit your proposals </a>by <strong>2 May 2025, 4pm SGT</strong>.</p>
+into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=win_key_ref_cust" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
 <p>Seize the opportunity to:</p>
 <ul data-tight="true" class="tight">
 <li>
