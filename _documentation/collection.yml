@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Incubatees.md
-      - Read Me.md
       - Image Sizes.md
       - Code Crash Course.md
       - Code Template.md
