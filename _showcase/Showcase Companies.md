@@ -663,7 +663,7 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 </p>
 <p>Ailytics uses AI-driven video analytics to enhance workplace safety and
 productivity.</p>
-<p><a href="https://www.ailytics.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.ailytics.sg</a>
+<p><a href="https://ailytics.ai/" rel="noopener nofollow" target="_blank">https://ailytics.ai/</a>
 </p>
 </td>
 </tr>
@@ -819,5 +819,4 @@ safety in operations.
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
