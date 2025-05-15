@@ -56,7 +56,7 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 </p>
 <p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
 problem a year.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
+<p><a href="https://groundup.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://groundup.ai/</u></a>
 </p>
 </td>
 </tr>
@@ -71,7 +71,7 @@ problem a year.</p>
 </p>
 <p>Movel.ai cuts down on deployment time and cost, enabling you to get your
 robots up and running quickly, efficiently, and with minimal training.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.movel.ai/</a>
+<p><a href="http://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.movel.ai</u></a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ products through its proprietary generative AI platform that automates
 data-driven processes, extracting valuable insights from unstructured data
 to provide traceable data in real time for various financial processes
 in banking, asset management and insurance industry.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.nexusfrontier.tech/</a>
+<p><a href="http://www.nexusfrontier.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.nexusfrontier.tech/</u></a>
 </p>
 </td>
 </tr>
@@ -106,7 +106,7 @@ in banking, asset management and insurance industry.</p>
 <p>Trakomatic specialise in cutting-edge video analytics technologies that
 equip&nbsp;global businesses big or small with people counting, tracking
 and facial recognition analysis solutions.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com/</a>
+<p><a href="https://www.trakomatic.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.trakomatic.com</u></a>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ and facial recognition analysis solutions.</p>
 </p>
 <p>Kookree is dedicated to advancing artificial intelligence (AI) to serve
 the broader good of humanity.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
+<p><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kookree.ai/</u></a>
 </p>
 </td>
 </tr>
