@@ -52,7 +52,7 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://Groundup.ai" rel="noopener noreferrer nofollow" target="_blank"><u>Groundup.ai</u></a></strong>
+<p><strong><u>Groundup.ai</u></strong>
 </p>
 <p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
 problem a year.</p>
@@ -67,7 +67,7 @@ problem a year.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://Movel.ai" rel="noopener noreferrer nofollow" target="_blank"><u>Movel.ai</u></a></strong>
+<p><strong><u>Movel.ai</u></strong>
 </p>
 <p>Movel.ai cuts down on deployment time and cost, enabling you to get your
 robots up and running quickly, efficiently, and with minimal training.</p>
