@@ -335,6 +335,7 @@ challenges.&nbsp;</p>
 <summary><strong>Robotics Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -359,7 +360,7 @@ challenges.&nbsp;</p>
 <p>Atlasbridge Robotics’ comprehensive suite of services spans distribution,
 consultancy, and strategic partnership development, empowering businesses
 to embrace the future of automation with confidence.</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.co/</a>
+<p>&nbsp;<a href="https://atlasbridge.webflow.io/" rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.webflow.io/</a>
 </p>
 </td>
 </tr>
@@ -375,7 +376,7 @@ to embrace the future of automation with confidence.</p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
 system with real-time location tracking and fleet management features.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a>
+<p><a href="http://techfox.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://techfox.com.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -390,7 +391,7 @@ system with real-time location tracking and fleet management features.</p>
 </p>
 <p>One stop solution for smart construction and facility management, using
 cutting edge artificial intelligence and robotics technology.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://operva.ai/</a>
+<p><a href="https://operva.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://operva.ai/</u></a>
 </p>
 </td>
 </tr>
@@ -523,7 +524,7 @@ sustainability and technology converge seamlessly&nbsp;</p>
 <p>Illumia Labs is a dual-use AI-first technology company that provides workforce
 intelligence, such as skillset matrix analytics via scenario-based competency
 assessments.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://illumialabs.ai/</a>
+<p><a href="https://illumialabs.ai/" rel="noopener noreferrer nofollow" target="_blank">https://illumialabs.ai/</a>
 </p>
 </td>
 </tr>
@@ -552,7 +553,7 @@ AI, Volumetric Video and Holographic marvels.&nbsp;</p>
 </p>
 <p>Objective Experience is your partner for user experience strategy, UX
 research, UX design and usability testing.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
+<p><a href="https://www.objectiveexperience.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
 </p>
 </td>
 </tr>
