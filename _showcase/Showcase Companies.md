@@ -39,7 +39,8 @@ innovations from<strong> t</strong>he Open Innovation Platform<strong>. Explore 
 </p>
 <p>Circular Unite is your trusted partner in the journey towards corporate
 decarbonization, committed to the ambitious Net Zero 2050 target.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.circularunite.com/</a>
+<p>
+<br><a href="https://www.circularunite.com/" rel="noopener nofollow" target="_blank">https://www.circularunite.com/</a>
 </p>
 </td>
 </tr>
@@ -55,7 +56,7 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 </p>
 <p>Groundup.ai prevents industrial unplanned downtime, a USD1.5 Trillion
 problem a year.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://groundup.ai/</a>
+<p><a href="https://groundup.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://groundup.ai/</u></a>
 </p>
 </td>
 </tr>
@@ -70,7 +71,7 @@ problem a year.</p>
 </p>
 <p>Movel.ai cuts down on deployment time and cost, enabling you to get your
 robots up and running quickly, efficiently, and with minimal training.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.movel.ai/</a>
+<p><a href="http://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.movel.ai</u></a>
 </p>
 </td>
 </tr>
@@ -89,7 +90,7 @@ products through its proprietary generative AI platform that automates
 data-driven processes, extracting valuable insights from unstructured data
 to provide traceable data in real time for various financial processes
 in banking, asset management and insurance industry.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://www.nexusfrontier.tech/</a>
+<p><a href="http://www.nexusfrontier.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.nexusfrontier.tech/</u></a>
 </p>
 </td>
 </tr>
@@ -105,7 +106,7 @@ in banking, asset management and insurance industry.</p>
 <p>Trakomatic specialise in cutting-edge video analytics technologies that
 equip&nbsp;global businesses big or small with people counting, tracking
 and facial recognition analysis solutions.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.trakomatic.com/</a>
+<p><a href="https://www.trakomatic.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.trakomatic.com</u></a>
 </p>
 </td>
 </tr>
@@ -120,7 +121,7 @@ and facial recognition analysis solutions.</p>
 </p>
 <p>Kookree is dedicated to advancing artificial intelligence (AI) to serve
 the broader good of humanity.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://kookree.ai/</a>
+<p><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kookree.ai/</u></a>
 </p>
 </td>
 </tr>
@@ -334,6 +335,7 @@ challenges.&nbsp;</p>
 <summary><strong>Robotics Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -358,7 +360,7 @@ challenges.&nbsp;</p>
 <p>Atlasbridge Robotics’ comprehensive suite of services spans distribution,
 consultancy, and strategic partnership development, empowering businesses
 to embrace the future of automation with confidence.</p>
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.co/</a>
+<p>&nbsp;<a href="https://atlasbridge.webflow.io/" rel="noopener noreferrer nofollow" target="_blank">https://atlasbridge.webflow.io/</a>
 </p>
 </td>
 </tr>
@@ -374,7 +376,7 @@ to embrace the future of automation with confidence.</p>
 <p>Techfox is a start-up in the realms of Artificial Intelligence (AI), Internet
 of Things (IoT), and Robotics that provides a connected robotics delivery
 system with real-time location tracking and fleet management features.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">http://techfox.com.sg/</a>
+<p><a href="http://techfox.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://techfox.com.sg/</u></a>
 </p>
 </td>
 </tr>
@@ -389,7 +391,7 @@ system with real-time location tracking and fleet management features.</p>
 </p>
 <p>One stop solution for smart construction and facility management, using
 cutting edge artificial intelligence and robotics technology.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://operva.ai/</a>
+<p><a href="https://operva.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://operva.ai/</u></a>
 </p>
 </td>
 </tr>
@@ -522,7 +524,7 @@ sustainability and technology converge seamlessly&nbsp;</p>
 <p>Illumia Labs is a dual-use AI-first technology company that provides workforce
 intelligence, such as skillset matrix analytics via scenario-based competency
 assessments.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://illumialabs.ai/</a>
+<p><a href="https://illumialabs.ai/" rel="noopener noreferrer nofollow" target="_blank">https://illumialabs.ai/</a>
 </p>
 </td>
 </tr>
@@ -551,7 +553,7 @@ AI, Volumetric Video and Holographic marvels.&nbsp;</p>
 </p>
 <p>Objective Experience is your partner for user experience strategy, UX
 research, UX design and usability testing.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
+<p><a href="https://www.objectiveexperience.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.objectiveexperience.com/</a>
 </p>
 </td>
 </tr>
