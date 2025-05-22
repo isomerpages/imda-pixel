@@ -2,7 +2,7 @@ collections:
   showcase:
     output: true
     order:
-      - Overview.md
+      - PIXEL Innovation Xperience.md
       - For Corporates.md
       - For Tech Solvers.md
       - Showcase Companies.md
