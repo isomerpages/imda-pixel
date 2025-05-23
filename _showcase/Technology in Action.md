@@ -1,6 +1,6 @@
 ---
-title: Showcase Companies
-permalink: /showcase-companies/
+title: Technology in Action
+permalink: /technology-in-action/
 variant: tiptap
 description: ""
 ---
