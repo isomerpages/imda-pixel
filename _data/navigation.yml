@@ -8,12 +8,12 @@ links:
       - title: For Solvers
         url: /programmes/solver/overview/
   - title: Showcase
-    url: /showcase/overview/
+    url: /showcase/pixel-innovation-xperience/
     sublinks:
       - title: PIXEL Innovation Xperience
-        url: /showcase/PIXELInnovationXperience
-      - title: Showcase Companies
-        url: /showcase-companies/
+        url: /showcase/pixel-innovation-xperience/
+      - title: Technology in Action
+        url: /technology-in-action/
       - title: AWS Joint Innovation Centre
         url: /showcase/aws-jic/
   - title: News Room
