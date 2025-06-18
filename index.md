@@ -5,8 +5,10 @@ description: IMDA’s innovation hub for Corporates and tech solvers with
   co-working facilities, programmes and networks
 image: /images/pixel only logo.svg
 permalink: /
-notification: Top 10 Launchpads in Southeast Asia for scaling corporate
-  innovation and start-ups!
+notification: Be aware of scammers impersonating as IMDA officers and report any
+  suspicious calls to the police. Please note that IMDA officers will never call
+  you nor request for your personal information. For scam-related advice, please
+  call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg.
 sections:
   - hero:
       background: /images/Test/pixel main header.png
