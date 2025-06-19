@@ -11,7 +11,7 @@ notification: Be aware of scammers impersonating as IMDA officers and report any
   call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg.
 sections:
   - hero:
-      background: /images/Test/pixel main header.png
+      background: /images/1920x600__with_logo_.png
       key_highlights:
         - title: For Corporates
           description: Start your innovation journey
