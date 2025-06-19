@@ -8,7 +8,7 @@ permalink: /
 notification: Be aware of scammers impersonating as IMDA officers and report any
   suspicious calls to the police. Please note that IMDA officers will never call
   you nor request for your personal information. For scam-related advice, please
-  call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg.
+  call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg
 sections:
   - hero:
       background: /images/1920x600__with_logo_.png
