@@ -25,6 +25,8 @@ sections:
         innovate or a start-up looking for business opportunities, we've got you
         covered.
       title: PIXEL Innovation Hub
+      variant: side
+      backgroundColor: gray
   - infobar:
       title: Innovate with Us
       description: PIXEL accelerates innovation by connecting forward-thinking
