@@ -39,7 +39,7 @@ sections:
       description: Explore a curated selection of leading-edge tech solutions. Get
         hands-on and discover innovations to power your business.
       button: Learn More
-      url: /showcase/overview/
+      url: /showcase/pixel-innovation-xperience/
       alt: Image alt text
       image: /images/SHOWCASE.png
   - infopic:
