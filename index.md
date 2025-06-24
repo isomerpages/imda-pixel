@@ -8,10 +8,10 @@ permalink: /
 notification: Be aware of scammers impersonating as IMDA officers and report any
   suspicious calls to the police. Please note that IMDA officers will never call
   you nor request for your personal information. For scam-related advice, please
-  call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg.
+  call the ScamShield Helpline at 1799 or go to www.ScamShield.gov.sg
 sections:
   - hero:
-      background: /images/Test/pixel main header.png
+      background: /images/1920x600.png
       key_highlights:
         - title: For Corporates
           description: Start your innovation journey
@@ -25,6 +25,8 @@ sections:
         innovate or a start-up looking for business opportunities, we've got you
         covered.
       title: PIXEL Innovation Hub
+      variant: center
+      backgroundColor: gray
   - infobar:
       title: Innovate with Us
       description: PIXEL accelerates innovation by connecting forward-thinking
@@ -32,12 +34,12 @@ sections:
         partnerships.
   - infopic:
       title: Showcase
-      subtitle: Spark inspiration
+      subtitle: Innovation Xperience
       id: infopic
       description: Explore a curated selection of leading-edge tech solutions. Get
         hands-on and discover innovations to power your business.
       button: Learn More
-      url: /showcase/overview/
+      url: /showcase/pixel-innovation-xperience/
       alt: Image alt text
       image: /images/SHOWCASE.png
   - infopic:
