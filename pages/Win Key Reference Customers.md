@@ -5,11 +5,9 @@ description: Win key reference customers through IMDA Innovation programme
 variant: tiptap
 ---
 <h1>Open Innovation Programme</h1>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OIP_MainBanner__1_.png">
 </div>
-<h4></h4>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
 into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=win_key_ref_cust" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
@@ -27,5 +25,4 @@ into a diverse pool of ideas and expertise. That's where our <a href="https://ww
 </ul>
 <h2></h2>
 <p></p>
-<h2></h2>
 <p></p>
