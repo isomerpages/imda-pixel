@@ -86,7 +86,7 @@ zone features breakthrough technologies such as 5G, AI, IoT, automation
 and more, providing visitors with a glimpse into next-generation solutions.</p>
 </li>
 </ul>
-<p>Want a closer look at the solutions? Check them out <strong><a href="https://pixel.imda.gov.sg/showcase-companies/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<p>Want a closer look at the solutions? Check them out <strong><a href="https://pixel.imda.gov.sg/technology-in-action/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p>Ready to experience Innovation First-Hand? <strong><a href="https://go.gov.sg/showcaserequest" rel="noopener noreferrer nofollow" target="_blank">Request a guided tour</a> </strong>and
 let us curate a personalised PIXEL Innovation Xperience for you and your
 organisation.</p>
