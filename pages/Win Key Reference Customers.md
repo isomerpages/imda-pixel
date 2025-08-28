@@ -10,9 +10,7 @@ variant: tiptap
 </div>
 <p>In today's rapidly evolving business landscape, innovation sets successful
 organisations apart. To stay ahead of the curve, businesses need to tap
-into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=win_key_ref_cust" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.
-<br>
-<br>hdhehfiehfbgfugu</p>
+into a diverse pool of ideas and expertise. That's where our <a href="https://www.openinnovation.sg/?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=win_key_ref_cust" rel="noopener nofollow" target="_blank">Open Innovation Platform (OIP) comes in</a>.</p>
 <p>Seize the opportunity to:</p>
 <ul data-tight="true" class="tight">
 <li>
