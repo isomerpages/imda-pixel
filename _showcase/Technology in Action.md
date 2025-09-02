@@ -191,20 +191,6 @@ applications talk to one another without complicated programming.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="greenairy" src="/images/ai_zone___greenairy.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Greenairy</u></strong>
-</p>
-<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
-air purification at work or educational microgreen gardening at school.&nbsp;</p>
-<p><a href="https://www.greenairy.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.greenairy.sg/</u></a>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="hendricks_corporation" src="/images/ai_zone___hendricks.png">
 </div>
 </td>
@@ -214,20 +200,6 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 <p>Hendricks Corp is revolutionizing the future of retail, drive-thru, and
 hospitality with cutting-edge video analytics and AI solutions.&nbsp;</p>
 <p>&nbsp;<a href="http://hendrickscorp.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>http://hendrickscorp.com/</u></a>&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="inside_technologies" src="/images/ai_zone___inside_tech.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Inside Technologies</u></strong>
-</p>
-<p>Inside Technologies’<strong> </strong>AI platform enhances employee engagement
-and workplace insights.&nbsp;</p>
-<p><a href="https://inside.software/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://inside.software/</u></a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -300,17 +272,10 @@ experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="xrator" src="/images/ai_zone___xrator.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>XRATOR</u></strong>
-</p>
-<p>XRATOR Continuous Threat Exposure Assessment platform helps organizations
-manage their cybersecurity posture to ensure it aligns with business goals
-and the threat landscape.&nbsp;&nbsp;</p>
-<p>&nbsp;<a href="https://www.x-rator.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.x-rator.com/</u></a>&nbsp;&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -417,36 +382,6 @@ that transport you beyond the ordinary, revolutionising how we learn, work,
 and connect. Discover the future of engagement through cutting-edge innovations
 that redefine experience itself.</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___alo_xr.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Alo XR</u></strong>
-</p>
-<p>ALO XR harnesses immersive technologies to help older adults thrive, developing
-AR/VR solutions to enhance healthspan and unlock human potential.</p>
-<p><strong><a href="https://aloxr.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://aloxr.com/</u></a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___augmenteed.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Augmenteed</u></strong>
-</p>
-<p>Augmenteed aims to revolutionise the way industries operate by harnessing
-the power of technology, using AR/VR to digitise paper-based industrial
-procedures.</p>
-<p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -570,21 +505,6 @@ research, UX design and usability testing.</p>
 experiences transform the way people learn, work, and interact with each
 other.</p>
 <p><a href="http://www.serial.sg" rel="noopener noreferrer nofollow" target="_blank">www.serial.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_skillup_vr.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Skillup</u></strong>
-</p>
-<p>Skillup is a tech-innovator specialising in the use of VR gamified technology
-for healthcare training and treatment.&nbsp;</p>
-<p><a href="https://skillupvr.com/" rel="noopener noreferrer nofollow" target="_blank">https://skillupvr.com/</a>
 </p>
 </td>
 </tr>
@@ -814,6 +734,108 @@ solutions.</p>
 safety in operations.
 <br><a href="https://www.damstratechnology.com" rel="noopener noreferrer nofollow" target="_blank">https://www.damstratechnology.com</a>
 </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Past Showcase Companies</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="inside_technologies" src="/images/ai_zone___inside_tech.png">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Inside Technologies</u></strong>
+</p>
+<p>Inside Technologies’<strong> </strong>AI platform enhances employee engagement
+and workplace insights.&nbsp;</p>
+<p><a href="https://inside.software/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://inside.software/</u></a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="xrator" src="/images/ai_zone___xrator.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>XRATOR</u></strong>
+</p>
+<p>XRATOR Continuous Threat Exposure Assessment platform helps organizations
+manage their cybersecurity posture to ensure it aligns with business goals
+and the threat landscape.&nbsp;&nbsp;</p>
+<p>&nbsp;<a href="https://www.x-rator.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.x-rator.com/</u></a>&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___alo_xr.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Alo XR</u></strong>
+</p>
+<p>ALO XR harnesses immersive technologies to help older adults thrive, developing
+AR/VR solutions to enhance healthspan and unlock human potential.</p>
+<p><strong><a href="https://aloxr.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://aloxr.com/</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive___augmenteed.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Augmenteed</u></strong>
+</p>
+<p>Augmenteed aims to revolutionise the way industries operate by harnessing
+the power of technology, using AR/VR to digitise paper-based industrial
+procedures.</p>
+<p><strong><a href="http://www.augmenteed.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>www.augmenteed.tech</u></a>&nbsp;</strong>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/immersive_skillup_vr.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Skillup</u></strong>
+</p>
+<p>Skillup is a tech-innovator specialising in the use of VR gamified technology
+for healthcare training and treatment.&nbsp;</p>
+<p><a href="https://skillupvr.com/" rel="noopener noreferrer nofollow" target="_blank">https://skillupvr.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="greenairy" src="/images/ai_zone___greenairy.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Greenairy</u></strong>
+</p>
+<p>Discover Greenairy’s beautiful smart plant towers, designed for superior
+air purification at work or educational microgreen gardening at school.&nbsp;</p>
+<p><a href="https://www.greenairy.sg/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://www.greenairy.sg/</u></a>&nbsp;</p>
 </td>
 </tr>
 </tbody>
