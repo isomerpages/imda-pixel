@@ -311,7 +311,8 @@ challenges.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Factorem</p>
+<p><strong><u>Factorem</u></strong>
+</p>
 <p>Factorem is an AI-powered manufacturing platform that delivers instant
 quotes, design feedback, and fast, quality-assured custom parts through
 a vetted Southeast Asian supplier network.</p>
