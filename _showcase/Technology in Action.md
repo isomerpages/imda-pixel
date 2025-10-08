@@ -396,6 +396,7 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -590,7 +591,12 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Beijing LLVISION Technology Co., Ltd.</u></strong>
+</p>
+<p>Remote inspection for manufacturing or smart city surveillance (e.g.,
+defect detection, security monitoring), compliance documentation and training.</p>
+<p><a href="http://leion.llvision.com" rel="noopener noreferrer nofollow" target="_blank">leion.llvision.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -601,7 +607,14 @@ in IP creation, brand marketing and metaverse development for businesses.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>TopView</u></strong>
+</p>
+<p>Topview is revolutionising the video creation landscape by leveraging
+proprietary AI and digital human technology to make the process faster,
+more affordable, and scalable for businesses worldwide. Their advanced
+AI-driven tools and lifelike AI avatars.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://topview.ai</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -893,4 +906,8 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 </div>
 </details>
 </div>
-<p></p>
+<p>Beijing LLVISION Technology Co., Ltd.</p>
+<p>Remote inspection for manufacturing or smart city surveillance (e.g.,
+defect detection, security monitoring), compliance documentation and training</p>
+<p><a href="http://leion.llvision.com" rel="noopener noreferrer nofollow" target="_blank">leion.llvision.com</a>
+</p>
