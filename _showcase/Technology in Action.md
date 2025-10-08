@@ -989,13 +989,12 @@ and public services.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Wiz AI&nbsp;</u></strong><u>(WIZ HOLDINGS PTE LTD)</u>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">WIZ.AI</a> offers
-hyper-realistic voice AI assistants tailored for enterprises across industries.
-Their flagship solution, Talkbot, uses natural voice interactions to automate
-customer engagement, surveys, lead qualification, and reminders—in local
-accents and languages. It supports omni-channel deployment and integrates
-seamlessly with CRM and call center systems.</p>
-<p><a href="https://www.wiz.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wiz.ai/</u></a>
+<p>WIZ AI offers hyper-realistic voice AI assistants tailored for enterprises
+across industries. Their flagship solution, Talkbot, uses natural voice
+interactions to automate customer engagement, surveys, lead qualification,
+and reminders—in local accents and languages. It supports omni-channel
+deployment and integrates seamlessly with CRM and call center systems.</p>
+<p><a href="https://www.wiz.ai/" rel="noopener nofollow" target="_blank">https://www.wiz.ai/</a>
 </p>
 </td>
 </tr>
