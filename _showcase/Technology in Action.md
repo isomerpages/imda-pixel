@@ -899,7 +899,15 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>JOSYS INTERNATIONAL PTE. LTD.</u></strong>
+</p>
+<p>Josys is the SaaS &amp; Device Management Platform that simplifies how
+IT works. Their holistic approach equips IT with 360° control over their
+software and hardware portfolio by making it easier to visualize assets,
+analyze utilization trends, and automate provisioning processes that will
+help IT operations run more efficiently.</p>
+<p><a href="www.josys.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.josys.com</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -907,7 +915,13 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Lytehouse Pte Ltd</u></strong>
+</p>
+<p>Gen AI CCTV Copilot (ChatGPT for your CCTV system), ability to perform
+real time detection, notification, and generate description based on user
+defined requirements.</p>
+<p><a href="www.lytehouse.io" rel="noopener noreferrer nofollow" target="_blank"><u>www.lytehouse.io</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -915,7 +929,15 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Nervotec Pte Ltd</u></strong>
+</p>
+<p>Contactless vital signs monitoring for workplace safety and healthcare.
+Nervotec's solution captures physiological biomarkers including heart rate,
+respiration rate, oxygen saturation, heart rate variability, blood pressure,
+and stress levels within 30 to 60 seconds, without the need for wearable
+devices.</p>
+<p><a href="https://www.nervotec.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nervotec.com</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -923,7 +945,12 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Rider Dome</u></strong>
+</p>
+<p>Real-time vehicle safety analytics for fleet management or post-trip analytics
+for insurance telematics.</p>
+<p><a href="https://www.riderdome.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.riderdome.com/</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -931,7 +958,12 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Gimmefy </u></strong><u>(Teemuno Pte Ltd)</u>
+</p>
+<p>GenAI for automated marketing content generation for marketing and digital
+agencies.</p>
+<p><a href="https://gimmefy.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://gimmefy.ai/</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -939,7 +971,15 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>PantheonLab </u></strong><u>(PANTHEON WERKS PTE. LIMITED)</u>
+</p>
+<p>Conversational AI assistant deployed for GenAI assistant kiosks, web widgets,
+and mobile applications. Their solution enhances user engagement through
+human-like AI interfaces while optimising operational efficiency for industries
+facing talent shortages and service mismatches such as retail, healthcare,
+and public services.</p>
+<p><a href="https://www.pantheonlab.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pantheonlab.ai/</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -947,7 +987,16 @@ or insurance risk assessment.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Wiz AI&nbsp;</u></strong><u>(WIZ HOLDINGS PTE LTD)</u>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">WIZ.AI</a> offers
+hyper-realistic voice AI assistants tailored for enterprises across industries.
+Their flagship solution, Talkbot, uses natural voice interactions to automate
+customer engagement, surveys, lead qualification, and reminders—in local
+accents and languages. It supports omni-channel deployment and integrates
+seamlessly with CRM and call center systems.</p>
+<p><a href="https://www.wiz.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.wiz.ai/</u></a>
+</p>
 </td>
 </tr>
 </tbody>
