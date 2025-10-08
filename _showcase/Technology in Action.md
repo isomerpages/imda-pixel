@@ -906,8 +906,6 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 </div>
 </details>
 </div>
-<p>Beijing LLVISION Technology Co., Ltd.</p>
-<p>Remote inspection for manufacturing or smart city surveillance (e.g.,
-defect detection, security monitoring), compliance documentation and training</p>
+<p></p>
 <p><a href="http://leion.llvision.com" rel="noopener noreferrer nofollow" target="_blank">leion.llvision.com</a>
 </p>
