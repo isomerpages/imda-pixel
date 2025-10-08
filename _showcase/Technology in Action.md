@@ -613,7 +613,7 @@ defect detection, security monitoring), compliance documentation and training.</
 proprietary AI and digital human technology to make the process faster,
 more affordable, and scalable for businesses worldwide. Their advanced
 AI-driven tools and lifelike AI avatars.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://topview.ai</a>
+<p><a href="https://topview.ai" rel="noopener noreferrer nofollow" target="_blank">https://topview.ai</a>
 </p>
 </td>
 </tr>
@@ -872,7 +872,13 @@ privacy and compliance with regulations</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Datality Lab Pte. Ltd.</u></strong>
+</p>
+<p>AI-based communication and presentation training platform. Target users
+include young children to higher education as well as enterprises (i.e.
+training schools).</p>
+<p><a href="https://home.moodie.ai" rel="noopener noreferrer nofollow" target="_blank"><u>https://home.moodie.ai</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -880,7 +886,12 @@ privacy and compliance with regulations</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>EliteFit Pte Ltd</u></strong>
+</p>
+<p>AI-driven health and fitness monitoring platform for employee wellness
+or insurance risk assessment.</p>
+<p><a href="www.elitefit.ai" rel="noopener noreferrer nofollow" target="_blank"><u>www.elitefit.ai</u></a>
+</p>
 </td>
 </tr>
 <tr>
