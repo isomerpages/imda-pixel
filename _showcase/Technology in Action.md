@@ -816,6 +816,9 @@ safety in operations.
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ESGpedia logo" src="/images/esgpedia.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>ESGpedia Pte Ltd</u></strong>
@@ -829,6 +832,9 @@ financing. Used by over 500 companies with localized emissions data.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Addly logo" src="/images/addly.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Addlly Pte Ltd</u></strong>
@@ -842,6 +848,9 @@ for SMEs. Built via IMDA sandbox and supported by Microsoft &amp; AWS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI Seer logo" src="/images/ai_seer.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>AI Seer Pte Ltd</u></strong>
@@ -856,6 +865,9 @@ by cross-referencing information with credible sources</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Betterdata logo" src="/images/betterdata.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Betterdata Pte. Ltd.</u></strong>
@@ -870,6 +882,9 @@ privacy and compliance with regulations</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Datality logo" src="/images/datality.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Datality Lab Pte. Ltd.</u></strong>
@@ -884,6 +899,9 @@ training schools).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EliteFit logo" src="/images/elitefit.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>EliteFit Pte Ltd</u></strong>
@@ -897,6 +915,9 @@ or insurance risk assessment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josys logo" src="/images/josys.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>JOSYS INTERNATIONAL PTE. LTD.</u></strong>
@@ -913,6 +934,9 @@ help IT operations run more efficiently.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lytehouse logo" src="/images/lytehouse.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Lytehouse Pte Ltd</u></strong>
@@ -927,6 +951,9 @@ defined requirements.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nervotec logo" src="/images/nervotec.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Nervotec Pte Ltd</u></strong>
@@ -943,6 +970,9 @@ devices.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rider Dome logo" src="/images/rider_dome.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Rider Dome</u></strong>
@@ -956,6 +986,9 @@ for insurance telematics.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gimmefy logo" src="/images/gimmefy.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Gimmefy </u></strong><u>(Teemuno Pte Ltd)</u>
@@ -969,6 +1002,9 @@ agencies.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PantheonLab logo" src="/images/pantheon_lab.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>PantheonLab </u></strong><u>(PANTHEON WERKS PTE. LIMITED)</u>
@@ -985,6 +1021,9 @@ and public services.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wiz AI logo" src="/images/wiz_holdings.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Wiz AI&nbsp;</u></strong><u>(WIZ HOLDINGS PTE LTD)</u>
