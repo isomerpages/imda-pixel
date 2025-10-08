@@ -906,6 +906,5 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 </div>
 </details>
 </div>
-<p></p>
 <p><a href="http://leion.llvision.com" rel="noopener noreferrer nofollow" target="_blank">leion.llvision.com</a>
 </p>
