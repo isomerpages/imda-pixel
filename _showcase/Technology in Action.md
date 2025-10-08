@@ -150,6 +150,7 @@ intelligence.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -289,14 +290,6 @@ experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="zaheen" src="/images/ai_zone___zaheen.png">
 </div>
@@ -307,6 +300,23 @@ experiences.&nbsp;</p>
 <p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
 challenges.&nbsp;</p>
 <p>&nbsp;<a href="https://zaheensystems.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://zaheensystems.com/</u></a>&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Factorem logo" src="/images/factorem.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Factorem</p>
+<p>Factorem is an AI-powered manufacturing platform that delivers instant
+quotes, design feedback, and fast, quality-assured custom parts through
+a vetted Southeast Asian supplier network.</p>
+<p><a href="http://www.factorem.co" rel="noopener noreferrer nofollow" target="_blank">www.factorem.co</a>
+</p>
 </td>
 </tr>
 </tbody>
