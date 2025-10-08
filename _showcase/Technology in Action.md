@@ -1,7 +1,7 @@
 ---
 title: Technology in Action
 permalink: /technology-in-action/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Discover and Connect Business Ready Tech Solutions</h4>
@@ -818,7 +818,12 @@ safety in operations.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>ESGpedia Pte Ltd</u></strong>
+</p>
+<p>Asia’s leading ESG platform for reporting, GHG accounting, and sustainable
+financing. Used by over 500 companies with localized emissions data.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>www.esgpedia.io/</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -826,7 +831,12 @@ safety in operations.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Addlly Pte Ltd</u></strong>
+</p>
+<p>Brand-trained GenAI assistant that generates campaign ideas and content
+for SMEs. Built via IMDA sandbox and supported by Microsoft &amp; AWS.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.addlly.ai</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -834,7 +844,13 @@ safety in operations.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>AI Seer Pte Ltd</u></strong>
+</p>
+<p>Fact-checking tool that utilises advanced NLP and ML algorithms to scrutinize
+text, audio, and video content in real-time, ensuring accuracy and reliability
+by cross-referencing information with credible sources</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>www.aiseer.co</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -842,7 +858,13 @@ safety in operations.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Betterdata Pte. Ltd.</u></strong>
+</p>
+<p>Privacy-preserving data sharing for analytics in healthcare or finance,
+accelerating research and development while maintaining patient/customer's
+privacy and compliance with regulations</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.betterdata.ai</u></a>
+</p>
 </td>
 </tr>
 <tr>
