@@ -825,7 +825,7 @@ safety in operations.
 </p>
 <p>Asia’s leading ESG platform for reporting, GHG accounting, and sustainable
 financing. Used by over 500 companies with localized emissions data.</p>
-<p><a href="www.esgpedia.io/" rel="noopener noreferrer nofollow" target="_blank"><u>www.esgpedia.io/</u></a>
+<p><a href="https://esgpedia.io/" rel="noopener noreferrer nofollow" target="_blank"><u>www.esgpedia.io/</u></a>
 </p>
 </td>
 </tr>
