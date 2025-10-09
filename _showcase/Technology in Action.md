@@ -150,7 +150,6 @@ intelligence.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -328,7 +327,7 @@ a vetted Southeast Asian supplier network.</p>
 <summary><strong>Robotics Corner</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -396,7 +395,6 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -807,7 +805,7 @@ safety in operations.
 <summary><strong>IMDA Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
