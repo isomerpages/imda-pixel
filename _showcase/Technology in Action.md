@@ -807,6 +807,7 @@ safety in operations.
 <summary><strong>IMDA Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -857,8 +858,8 @@ for SMEs. Built via IMDA sandbox and supported by Microsoft &amp; AWS.</p>
 </p>
 <p>Fact-checking tool that utilises advanced NLP and ML algorithms to scrutinize
 text, audio, and video content in real-time, ensuring accuracy and reliability
-by cross-referencing information with credible sources</p>
-<p><a href="www.aiseer.co" rel="noopener noreferrer nofollow" target="_blank"><u>www.aiseer.co</u></a>
+by cross-referencing information with credible sources.</p>
+<p><a href="http://www.aiseer.co/" rel="noopener noreferrer nofollow" target="_blank">http://www.aiseer.co/</a>
 </p>
 </td>
 </tr>
@@ -874,7 +875,7 @@ by cross-referencing information with credible sources</p>
 </p>
 <p>Privacy-preserving data sharing for analytics in healthcare or finance,
 accelerating research and development while maintaining patient/customer's
-privacy and compliance with regulations</p>
+privacy and compliance with regulations.</p>
 <p><a href="https://www.betterdata.ai" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.betterdata.ai</u></a>
 </p>
 </td>
@@ -908,7 +909,7 @@ training schools).</p>
 </p>
 <p>AI-driven health and fitness monitoring platform for employee wellness
 or insurance risk assessment.</p>
-<p><a href="www.elitefit.ai" rel="noopener noreferrer nofollow" target="_blank"><u>www.elitefit.ai</u></a>
+<p><a href="https://www.elitefitforyou.com/home" rel="noopener noreferrer nofollow" target="_blank">EliteFit.AI</a>
 </p>
 </td>
 </tr>
@@ -927,7 +928,7 @@ IT works. Their holistic approach equips IT with 360° control over their
 software and hardware portfolio by making it easier to visualize assets,
 analyze utilization trends, and automate provisioning processes that will
 help IT operations run more efficiently.</p>
-<p><a href="www.josys.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.josys.com</u></a>
+<p><a href="https://www.josys.com/" rel="noopener nofollow" target="_blank">https://www.josys.com/</a>
 </p>
 </td>
 </tr>
@@ -944,7 +945,7 @@ help IT operations run more efficiently.</p>
 <p>Gen AI CCTV Copilot (ChatGPT for your CCTV system), ability to perform
 real time detection, notification, and generate description based on user
 defined requirements.</p>
-<p><a href="www.lytehouse.io" rel="noopener noreferrer nofollow" target="_blank"><u>www.lytehouse.io</u></a>
+<p><a href="https://lytehouse.io/" rel="noopener nofollow" target="_blank">https://lytehouse.io/</a>
 </p>
 </td>
 </tr>
