@@ -838,7 +838,7 @@ financing. Used by over 500 companies with localized emissions data.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Addlly Pte Ltd</u></strong>
+<p><strong><u>Addlly AI Pte Ltd</u></strong>
 </p>
 <p>Brand-trained GenAI assistant that generates campaign ideas and content
 for SMEs. Built via IMDA sandbox and supported by Microsoft &amp; AWS.</p>
