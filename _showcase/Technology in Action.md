@@ -125,6 +125,23 @@ the broader good of humanity.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TicTag logo" src="/images/tictag.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>TicTag</u></strong>
+</p>
+<p>TicTag is an end-to-end AI platform that transforms high-quality, ethically
+sourced data into scalable, real-world AI solutions through human-in-the-loop
+intelligence.</p>
+<p><a href="http://www.tictag.io" rel="noopener noreferrer nofollow" target="_blank">www.tictag.io</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -133,6 +150,7 @@ the broader good of humanity.</p>
 <summary><strong>AI Zone</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -272,14 +290,6 @@ experiences.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="zaheen" src="/images/ai_zone___zaheen.png">
 </div>
@@ -290,6 +300,24 @@ experiences.&nbsp;</p>
 <p>Zaheen Systems leverages cutting-edge AI to solve your most pressing industrial
 challenges.&nbsp;</p>
 <p>&nbsp;<a href="https://zaheensystems.com/" class="Hyperlink SCXW41650776 BCX8" rel="noreferrer noopener" target="_blank"><u>https://zaheensystems.com/</u></a>&nbsp;</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Factorem logo" src="/images/factorem.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Factorem</u></strong>
+</p>
+<p>Factorem is an AI-powered manufacturing platform that delivers instant
+quotes, design feedback, and fast, quality-assured custom parts through
+a vetted Southeast Asian supplier network.</p>
+<p><a href="http://www.factorem.co" rel="noopener noreferrer nofollow" target="_blank">www.factorem.co</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -368,6 +396,7 @@ cutting edge artificial intelligence and robotics technology.</p>
 <summary><strong>Immersive Experiences</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -551,6 +580,40 @@ of urban lifestyle.&nbsp;&nbsp;</p>
 <p>Smobler Studios is a provider of metaverse architecture solutions specializing
 in IP creation, brand marketing and metaverse development for businesses.</p>
 <p><a href="https://smobler.io" rel="noopener noreferrer nofollow" target="_blank">https://smobler.io</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LLVISION logo" src="/images/llvision.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Beijing LLVISION Technology Co., Ltd.</u></strong>
+</p>
+<p>Remote inspection for manufacturing or smart city surveillance (e.g.,
+defect detection, security monitoring), compliance documentation and training.</p>
+<p><a href="http://leion.llvision.com" rel="noopener noreferrer nofollow" target="_blank">leion.llvision.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Topview logo" src="/images/topview.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>TopView</u></strong>
+</p>
+<p>Topview is revolutionising the video creation landscape by leveraging
+proprietary AI and digital human technology to make the process faster,
+more affordable, and scalable for businesses worldwide. Their advanced
+AI-driven tools and lifelike AI avatars.</p>
+<p><a href="https://topview.ai" rel="noopener noreferrer nofollow" target="_blank">https://topview.ai</a>
 </p>
 </td>
 </tr>
@@ -741,6 +804,244 @@ safety in operations.
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>IMDA Zone</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ESGpedia logo" src="/images/esgpedia.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>ESGpedia Pte Ltd</u></strong>
+</p>
+<p>Asia’s leading ESG platform for reporting, GHG accounting, and sustainable
+financing. Used by over 500 companies with localized emissions data.</p>
+<p><a href="https://esgpedia.io/" rel="noopener noreferrer nofollow" target="_blank"><u>www.esgpedia.io/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Addly logo" src="/images/addly.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Addlly Pte Ltd</u></strong>
+</p>
+<p>Brand-trained GenAI assistant that generates campaign ideas and content
+for SMEs. Built via IMDA sandbox and supported by Microsoft &amp; AWS.</p>
+<p><a href="https://www.addlly.ai" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.addlly.ai</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI Seer logo" src="/images/ai_seer.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>AI Seer Pte Ltd</u></strong>
+</p>
+<p>Fact-checking tool that utilises advanced NLP and ML algorithms to scrutinize
+text, audio, and video content in real-time, ensuring accuracy and reliability
+by cross-referencing information with credible sources</p>
+<p><a href="www.aiseer.co" rel="noopener noreferrer nofollow" target="_blank"><u>www.aiseer.co</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Betterdata logo" src="/images/betterdata.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Betterdata Pte. Ltd.</u></strong>
+</p>
+<p>Privacy-preserving data sharing for analytics in healthcare or finance,
+accelerating research and development while maintaining patient/customer's
+privacy and compliance with regulations</p>
+<p><a href="https://www.betterdata.ai" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.betterdata.ai</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Datality logo" src="/images/datality.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Datality Lab Pte. Ltd.</u></strong>
+</p>
+<p>AI-based communication and presentation training platform. Target users
+include young children to higher education as well as enterprises (i.e.
+training schools).</p>
+<p><a href="https://home.moodie.ai" rel="noopener noreferrer nofollow" target="_blank"><u>https://home.moodie.ai</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EliteFit logo" src="/images/elitefit.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>EliteFit Pte Ltd</u></strong>
+</p>
+<p>AI-driven health and fitness monitoring platform for employee wellness
+or insurance risk assessment.</p>
+<p><a href="www.elitefit.ai" rel="noopener noreferrer nofollow" target="_blank"><u>www.elitefit.ai</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Josys logo" src="/images/josys.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>JOSYS INTERNATIONAL PTE. LTD.</u></strong>
+</p>
+<p>Josys is the SaaS &amp; Device Management Platform that simplifies how
+IT works. Their holistic approach equips IT with 360° control over their
+software and hardware portfolio by making it easier to visualize assets,
+analyze utilization trends, and automate provisioning processes that will
+help IT operations run more efficiently.</p>
+<p><a href="www.josys.com" rel="noopener noreferrer nofollow" target="_blank"><u>www.josys.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lytehouse logo" src="/images/lytehouse.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Lytehouse Pte Ltd</u></strong>
+</p>
+<p>Gen AI CCTV Copilot (ChatGPT for your CCTV system), ability to perform
+real time detection, notification, and generate description based on user
+defined requirements.</p>
+<p><a href="www.lytehouse.io" rel="noopener noreferrer nofollow" target="_blank"><u>www.lytehouse.io</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nervotec logo" src="/images/nervotec.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Nervotec Pte Ltd</u></strong>
+</p>
+<p>Contactless vital signs monitoring for workplace safety and healthcare.
+Nervotec's solution captures physiological biomarkers including heart rate,
+respiration rate, oxygen saturation, heart rate variability, blood pressure,
+and stress levels within 30 to 60 seconds, without the need for wearable
+devices.</p>
+<p><a href="https://www.nervotec.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.nervotec.com</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rider Dome logo" src="/images/rider_dome.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Rider Dome</u></strong>
+</p>
+<p>Real-time vehicle safety analytics for fleet management or post-trip analytics
+for insurance telematics.</p>
+<p><a href="https://www.riderdome.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.riderdome.com/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gimmefy logo" src="/images/gimmefy.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Gimmefy </u></strong><u>(Teemuno Pte Ltd)</u>
+</p>
+<p>GenAI for automated marketing content generation for marketing and digital
+agencies.</p>
+<p><a href="https://gimmefy.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://gimmefy.ai/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PantheonLab logo" src="/images/pantheon_lab.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>PantheonLab </u></strong><u>(PANTHEON WERKS PTE. LIMITED)</u>
+</p>
+<p>Conversational AI assistant deployed for GenAI assistant kiosks, web widgets,
+and mobile applications. Their solution enhances user engagement through
+human-like AI interfaces while optimising operational efficiency for industries
+facing talent shortages and service mismatches such as retail, healthcare,
+and public services.</p>
+<p><a href="https://www.pantheonlab.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.pantheonlab.ai/</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Wiz AI logo" src="/images/wiz_holdings.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Wiz AI&nbsp;</u></strong><u>(WIZ HOLDINGS PTE LTD)</u>
+</p>
+<p>WIZ AI offers hyper-realistic voice AI assistants tailored for enterprises
+across industries. Their flagship solution, Talkbot, uses natural voice
+interactions to automate customer engagement, surveys, lead qualification,
+and reminders—in local accents and languages. It supports omni-channel
+deployment and integrates seamlessly with CRM and call center systems.</p>
+<p><a href="https://www.wiz.ai/" rel="noopener nofollow" target="_blank">https://www.wiz.ai/</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Past Showcase Companies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -840,6 +1141,7 @@ air purification at work or educational microgreen gardening at school.&nbsp;</p
 </tr>
 </tbody>
 </table>
+<p></p>
 </div>
 </details>
 </div>
