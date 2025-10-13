@@ -15,8 +15,9 @@ get started.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -26,6 +27,9 @@ get started.</p>
 <p>Our <strong>OIP Winners Corner</strong> at PIXEL celebrates groundbreaking
 innovations from<strong> t</strong>he Open Innovation Platform<strong>. Explore winning solutions that tackle real-world business challenges across diverse sectors.</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -43,6 +47,9 @@ decarbonization, committed to the ambitious Net Zero 2050 target.</p>
 <br><a href="https://www.circularunite.com/" rel="noopener nofollow" target="_blank">https://www.circularunite.com/</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,6 +66,9 @@ problem a year.</p>
 <p><a href="https://groundup.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://groundup.ai/</u></a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,6 +83,9 @@ problem a year.</p>
 robots up and running quickly, efficiently, and with minimal training.</p>
 <p><a href="http://www.movel.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.movel.ai</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -93,6 +106,9 @@ in banking, asset management and insurance industry.</p>
 <p><a href="http://www.nexusfrontier.tech/" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.nexusfrontier.tech/</u></a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -109,6 +125,9 @@ and facial recognition analysis solutions.</p>
 <p><a href="https://www.trakomatic.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.trakomatic.com</u></a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,6 +142,9 @@ and facial recognition analysis solutions.</p>
 the broader good of humanity.</p>
 <p><a href="https://kookree.ai/" rel="noopener noreferrer nofollow" target="_blank"><u>https://kookree.ai/</u></a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -139,6 +161,10 @@ the broader good of humanity.</p>
 sourced data into scalable, real-world AI solutions through human-in-the-loop
 intelligence.</p>
 <p><a href="http://www.tictag.io" rel="noopener noreferrer nofollow" target="_blank">www.tictag.io</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense" rel="noopener noreferrer nofollow" target="_blank">https://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense</a>
 </p>
 </td>
 </tr>
