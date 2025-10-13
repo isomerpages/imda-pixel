@@ -164,7 +164,7 @@ intelligence.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense" rel="noopener noreferrer nofollow" target="_blank">https://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense</a>
+<p><a href="https://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense" rel="noopener noreferrer nofollow" target="_blank">Dhttps://www.openinnovation.sg/login?redirect=/solution-info/search/26970/532/VisionSense</a>
 </p>
 </td>
 </tr>
