@@ -7,7 +7,7 @@ description: ""
 <h2><strong>PIXEL Showcase</strong></h2>
 <h3><strong>Where Innovation Meets Real-World Impact</strong></h3>
 <p>Discover how innovation moves from ideas to impact. At PIXEL Innovation
-Xperience, we bring over 40 real-world technology showcases together under
+Xperience, we bring over 50 real-world technology showcases together under
 one roof - from AI and immersive experiences to robotics and emerging technologies.
 <br>
 <br>Curated by IMDA, PIXEL Innovation Xperience is built for enterprises to
