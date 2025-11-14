@@ -23,10 +23,4 @@ into a diverse pool of ideas and expertise. That's where our <a href="https://ww
 <p>Unlock new opportunities for partnerships and collaborations.</p>
 </li>
 </ul>
-<h3>Open Innovation Call 27</h3><a class="isomer-image-wrapper" href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_27&amp;utm_content=wkrf"><img style="width: 100%" height="auto" width="100%" alt="Open Innovation Call 27" src="/images/IMDA_Oct_OpenCall_eDM_1200x300.jpg"></a>
-<p>Partner up with top organisations like NUH, NTUC, Chip Eng Seng Contractors,
-Gleneagles Hospital and more! Tackle briefs relating to AI, process automation,
-as well as data analytics, and seize the opportunity to deliver real impact
-in industries spanning healthcare, customer service, construction and beyond.</p>
-<p>Check out our latest challenge statements <a href="https://www.openinnovation.sg/challenges?utm_medium=website&amp;utm_source=pixelwebsite&amp;utm_campaign=call_27&amp;utm_content=wkrf" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
