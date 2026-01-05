@@ -3,6 +3,7 @@ title: IMDA AWS Joint Innovation Center
 permalink: /stories/aws-jic/
 description: AWS and IMDA launch first-of-its-kind Joint Innovation Centre in
   Southeast Asia to deepen collaboration and industry innovation
+variant: markdown
 ---
 ### AWS and IMDA launch first-of-its-kind Joint Innovation Centre in Southeast Asia to deepen collaboration and industry innovation
 
@@ -13,7 +14,7 @@ description: AWS and IMDA launch first-of-its-kind Joint Innovation Centre in
 
 The collaboration aims to advance digital innovation in Singapore by building innovation capabilities and market access opportunities for startups and enterprises using digital technology.
 
-Singapore has seen a [remarkable evolution](https://www.worldbank.org/en/country/singapore/overview) in the last half-century into a global hub, driven by rapid growth in [trade, manufacturing and, most recently, the financial sector](https://www.mti.gov.sg/-/media/MTI/Resources/Economic-Survey-of-Singapore/2021/Economic-Survey-of-Singapore-First-Quarter-2021/Ch1_1Q21.pdf). The city-state is now on the cusp of an exciting fourth industrial revolution as its digital economy takes off.
+Singapore has seen a [remarkable evolution](https://www.worldbank.org/en/country/singapore/overview) in the last half-century into a global hub, driven by rapid growth in [trade, manufacturing and, most recently, the financial sector](https://www.mti.gov.sg/resources/economic-survey-of-singapore/economic-survey-of-singapore-and-feature-articles/economic-survey-of-singapore-first-quarter-2021/). The city-state is now on the cusp of an exciting fourth industrial revolution as its digital economy takes off.
 
 To incubate promising new startups, and support enterprises and public sector agencies to accelerate industry innovation by leveraging technologies such as the cloud, the Singapore government’s Infocomm Media Development Authority (IMDA) recently announced its collaboration with Amazon Web Services (AWS) to launch a Joint Innovation Center (JIC) in Singapore. The AWS-IMDA JIC will be at IMDA's PIXEL Innovation Hub and support Singapore-based technology companies with access to the latest AWS technologies and resources, to create and scale innovative solutions.
 
