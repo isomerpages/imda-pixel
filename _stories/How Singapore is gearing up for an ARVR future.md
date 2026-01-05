@@ -3,6 +3,7 @@ title: How Singapore is gearing up for an ARVR future
 permalink: /stories/how-singapore-is-gearing-up-for-an-ar-vr-future/
 description: ""
 image: /images/Success stories/ARVR advertorial.png
+variant: markdown
 ---
 ### Singapore's Step into the ARVR Future
 
@@ -36,7 +37,7 @@ Seeing the demand for AR/VR and the potential for these technologies to transfor
 
 #### Digitalizing industrial workflows
 
-One company that was incubated at the Pixel Innovation Hub is workflow automation firm [Augmenteed](https://www.augmenteed.tech/). Founded in 2019, it helps companies digitalize industrial procedures.
+One company that was incubated at the Pixel Innovation Hub is workflow automation firm Augmenteed. Founded in 2019, it helps companies digitalize industrial procedures.
 
 According to founder and CEO Erwan Bodescot, digitalization in the industrial sector is still in its early days, and many still rely on paper-based processes to complete everyday tasks. Training can also be difficult and expensive, and when issues occur, companies only have a handful of experts to turn to for help, most of whom come from overseas.
 
