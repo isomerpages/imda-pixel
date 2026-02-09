@@ -2,7 +2,9 @@
 title: Contact Us
 permalink: /contact-us/
 variant: tiptap
-description: ""
+description: Connect with IMDA PIXEL, Singapore’s innovation hub. Enquire about
+  partnerships, innovation programmes, technology showcases, and corporate
+  collaborations.
 ---
 <h1>Get in touch with<br>PIXEL</h1>
 <div class="isomer-image-wrapper">

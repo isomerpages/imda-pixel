@@ -2,7 +2,9 @@
 title: PIXEL Innovation Xperience
 permalink: /showcase/pixel-innovation-xperience/
 variant: tiptap
-description: ""
+description: Discover PIXEL Innovation Xperience, where organisations can
+  explore over 50 technology showcases and connect with partners to accelerate
+  digital transformation.
 ---
 <h2><strong>PIXEL Showcase</strong></h2>
 <h3><strong>Where Innovation Meets Real-World Impact</strong></h3>

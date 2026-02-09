@@ -2,7 +2,8 @@
 title: Technology in Action
 permalink: /technology-in-action/
 variant: tiptap
-description: ""
+description: Experience PIXEL Technology in Action, featuring OIP winners and
+  proven solutions tackling real industry challenges across sectors.
 ---
 <h4>Discover and Connect Business Ready Tech Solutions</h4>
 <p>Explore our curated selection of leading tech solvers showcasing their
