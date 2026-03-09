@@ -24,5 +24,7 @@ into a diverse pool of ideas and expertise. That's where our <a href="https://ww
 </li>
 </ul>
 <p></p>
-<p>### Open Innovation Call 28</p>
-<p>Submit your proposals by 17 Apr 2026, 4PM SGT</p>
+<h3><strong>Open Innovation Call 28</strong></h3>
+<p>Our Call 28 challenges are now live!</p>
+<p>View challenges from organisations like MANN+HUMMEL, NUH and more <a href="https://go.gov.sg/oip-call28" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Submit your proposals by 17 Apr 2026, 4PM SGT.</p>
