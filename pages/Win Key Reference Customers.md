@@ -24,3 +24,5 @@ into a diverse pool of ideas and expertise. That's where our <a href="https://ww
 </li>
 </ul>
 <p></p>
+<p>### Open Innovation Call 28</p>
+<p>Submit your proposals by 17 Apr 2026, 4PM SGT</p>
